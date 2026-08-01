@@ -1,4 +1,4 @@
-const CACHE_NAME = 'party-game-v7.0.0';
+const CACHE_NAME = 'party-game-v8.0.0';
 const APP_SHELL = [
   './',
   './index.html',
