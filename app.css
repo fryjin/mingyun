@@ -260,3 +260,43 @@ svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width:
   *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .001ms !important; }
   .ambient { display: none; }
 }
+
+/* v5 player setup: all counts + explicit custom naming */
+.count-grid {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 7px;
+}
+.count-grid button {
+  min-width: 0;
+  padding: 0;
+  font-variant-numeric: tabular-nums;
+}
+.count-helper { margin-top: 11px; }
+.name-toolbar {
+  display: flex;
+  gap: 8px;
+  margin-top: 14px;
+}
+.name-toolbar button {
+  min-height: 36px;
+  padding: 0 13px;
+  border: 1px solid rgba(255,255,255,.08);
+  border-radius: 12px;
+  background: #1b1825;
+  color: #bdb7c8;
+  font-size: 11px;
+  font-weight: 760;
+  transition: transform .16s ease, border-color .16s ease, color .16s ease, background .16s ease;
+}
+.name-toolbar button:hover {
+  border-color: rgba(173,145,255,.34);
+  color: #fff;
+  background: #242031;
+}
+.name-toolbar button:active { transform: scale(.97); }
+.player-input input:not(:placeholder-shown) { font-weight: 720; }
+
+@media (max-width: 390px) {
+  .count-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}

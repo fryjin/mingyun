@@ -12,6 +12,12 @@
 
   const COLORS = ['#ff667f', '#7d62f4', '#2dc7a6', '#f2ae45', '#4d9de0', '#da67cf', '#8bc34a', '#ff8a55', '#6f7bf7', '#f25f9d', '#44b7c8', '#c48bff'];
   const LEVEL_LABELS = { 1: '轻松', 2: '标准', 3: '大胆' };
+  const PLAYER_COUNT_OPTIONS = Array.from({ length: 11 }, (_, index) => index + 2);
+  const RANDOM_PLAYER_NAMES = [
+    '闪电', '月亮', '橘子', '船长', '奶糖', '星星', '狐狸', '柠檬',
+    '可乐', '企鹅', '桃子', '小熊', '云朵', '松鼠', '布丁', '海盐',
+    '火箭', '草莓', '咖啡', '鲸鱼', '团子', '椰子', '猫咪', '晚风'
+  ];
 
   const PUNISHMENTS = {
     truth: [
@@ -158,6 +164,7 @@
     rule: saved.rule === 'min' ? 'min' : 'max',
     intensity: clamp(Number(saved.intensity) || 2, 1, 3),
     players: [],
+    nameDrafts: Array.isArray(saved.playerNames) ? saved.playerNames.slice(0, 12) : [],
     turn: 0,
     round: 1,
     busy: false,
@@ -173,7 +180,7 @@
     soundEnabled: saved.soundEnabled !== false
   };
 
-  syncPlayers(state.count, saved.playerNames || []);
+  syncPlayers(state.count, state.nameDrafts);
   let deferredInstallPrompt = null;
   let audioContext = null;
   let toastTimer = 0;
@@ -194,7 +201,7 @@
         rule: state.rule,
         intensity: state.intensity,
         soundEnabled: state.soundEnabled,
-        playerNames: state.players.map((player) => player.name)
+        playerNames: state.nameDrafts.slice(0, 12)
       }));
     } catch {
       // Storage can be unavailable in privacy modes; the game still works.
@@ -234,16 +241,51 @@
   }
 
   function syncPlayers(count, seedNames = []) {
+    state.players.forEach((player, index) => {
+      state.nameDrafts[index] = player.name;
+    });
+
     const next = [];
     for (let index = 0; index < count; index += 1) {
-      const current = state?.players?.[index];
+      const current = state.players[index];
+      const cachedName = state.nameDrafts[index] ?? seedNames[index];
       next.push({
         id: index + 1,
-        name: current?.name ?? seedNames[index] ?? `玩家 ${index + 1}`,
+        name: current?.name ?? cachedName ?? `玩家 ${index + 1}`,
         score: current?.score
       });
     }
     state.players = next;
+    state.players.forEach((player, index) => {
+      state.nameDrafts[index] = player.name;
+    });
+  }
+
+  function randomizePlayerNames() {
+    const pool = [...RANDOM_PLAYER_NAMES];
+    for (let index = pool.length - 1; index > 0; index -= 1) {
+      const target = randomInt(index + 1);
+      [pool[index], pool[target]] = [pool[target], pool[index]];
+    }
+    state.players.forEach((player, index) => {
+      player.name = pool[index] || `玩家 ${index + 1}`;
+      state.nameDrafts[index] = player.name;
+    });
+    savePrefs();
+    render();
+    showToast('已生成一组随机昵称');
+    playUiSound();
+  }
+
+  function resetPlayerNames() {
+    state.players.forEach((player, index) => {
+      player.name = `玩家 ${index + 1}`;
+      state.nameDrafts[index] = player.name;
+    });
+    savePrefs();
+    render();
+    showToast('已恢复默认玩家名称');
+    playUiSound();
   }
 
   function updateHeader() {
@@ -278,7 +320,7 @@
         <h1>今晚，<br><span>谁遭殃？</span></h1>
         <p class="hero-copy">两种随机玩法，一套真心话大冒险题库。选好人数，剩下交给命运。</p>
         <div class="hero-badges">
-          <span class="mini-badge">2–12 人</span>
+          <span class="mini-badge">2–12 人 · 单双数</span>
           <span class="mini-badge">离线可玩</span>
           <span class="mini-badge">安全自愿</span>
         </div>
@@ -303,7 +345,7 @@
     const playerInputs = state.players.map((player, index) => `
       <label class="player-input">
         <span>P${index + 1}</span>
-        <input type="text" maxlength="8" autocomplete="off" data-player-index="${index}" value="${escapeHtml(player.name)}" placeholder="玩家 ${index + 1}" aria-label="玩家 ${index + 1} 昵称">
+        <input type="text" maxlength="12" autocomplete="off" enterkeyhint="next" spellcheck="false" data-player-index="${index}" value="${escapeHtml(player.name)}" placeholder="玩家 ${index + 1}" aria-label="玩家 ${index + 1} 昵称">
       </label>`).join('');
 
     return `
@@ -314,20 +356,26 @@
       </div>
 
       <section class="panel">
-        <div class="panel-title"><span>参与人数</span><small>2–12 人</small></div>
+        <div class="panel-title"><span>参与人数</span><small>2–12 人，单双数均可</small></div>
         <div class="counter">
           <button type="button" data-action="change-count" data-delta="-1" aria-label="减少一人">−</button>
           <strong>${state.count}</strong>
           <button type="button" data-action="change-count" data-delta="1" aria-label="增加一人">＋</button>
         </div>
-        <div class="quick-row">
-          ${[2,3,4,6,8,10,12].map((count) => `<button type="button" class="${state.count === count ? 'active' : ''}" data-action="set-count" data-count="${count}">${count}人</button>`).join('')}
+        <div class="quick-row count-grid" aria-label="快速选择参与人数">
+          ${PLAYER_COUNT_OPTIONS.map((count) => `<button type="button" class="${state.count === count ? 'active' : ''}" data-action="set-count" data-count="${count}" aria-pressed="${state.count === count}">${count}</button>`).join('')}
         </div>
+        <p class="helper count-helper">可直接选择 3、5、7、9、11 等单数人数；转盘会自动均分扇区。</p>
       </section>
 
-      <section class="panel">
-        <div class="panel-title"><span>玩家昵称</span><small>可直接使用默认名</small></div>
+      <section class="panel player-name-panel">
+        <div class="panel-title"><span>玩家名称</span><small>两种模式都会显示</small></div>
+        <div class="name-toolbar" aria-label="玩家名称快捷操作">
+          <button type="button" data-action="randomize-names">随机昵称</button>
+          <button type="button" data-action="reset-names">恢复默认</button>
+        </div>
         <div class="player-inputs">${playerInputs}</div>
+        <p class="helper">点击名称即可修改，最多 12 个字符；设置会保存在当前设备，下次打开仍会保留。</p>
       </section>
 
       ${dice ? `
@@ -494,6 +542,9 @@
 
   function startGame() {
     state.players = state.players.map((player, index) => ({ id: index + 1, name: player.name.trim() || `玩家 ${index + 1}` }));
+    state.players.forEach((player, index) => {
+      state.nameDrafts[index] = player.name;
+    });
     state.turn = 0;
     state.round = 1;
     state.busy = false;
@@ -829,6 +880,8 @@
     if (action === 'open-setup') openSetup(control.dataset.game);
     else if (action === 'change-count') changeCount(state.count + Number(control.dataset.delta));
     else if (action === 'set-count') changeCount(Number(control.dataset.count));
+    else if (action === 'randomize-names') randomizePlayerNames();
+    else if (action === 'reset-names') resetPlayerNames();
     else if (action === 'set-rule') { state.rule = control.dataset.rule; savePrefs(); render(); playUiSound(); }
     else if (action === 'set-intensity') { state.intensity = Number(control.dataset.level); savePrefs(); render(); playUiSound(); }
     else if (action === 'start-game') startGame();
@@ -845,7 +898,25 @@
     if (!input) return;
     const index = Number(input.dataset.playerIndex);
     state.players[index].name = input.value;
+    state.nameDrafts[index] = input.value;
     savePrefs();
+  });
+
+  view.addEventListener('focusin', (event) => {
+    const input = event.target.closest('[data-player-index]');
+    if (!input) return;
+    const index = Number(input.dataset.playerIndex);
+    if (input.value === `玩家 ${index + 1}`) input.select();
+  });
+
+  view.addEventListener('keydown', (event) => {
+    const input = event.target.closest('[data-player-index]');
+    if (!input || event.key !== 'Enter') return;
+    event.preventDefault();
+    const index = Number(input.dataset.playerIndex);
+    const nextInput = view.querySelector(`[data-player-index="${index + 1}"]`);
+    if (nextInput) nextInput.focus();
+    else input.blur();
   });
 
   backButton.addEventListener('click', goBack);
