@@ -11,7 +11,7 @@
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
 
   const COLORS = ['#ff667f', '#7d62f4', '#2dc7a6', '#f2ae45', '#4d9de0', '#da67cf', '#8bc34a', '#ff8a55', '#6f7bf7', '#f25f9d', '#44b7c8', '#c48bff'];
-  const LEVEL_LABELS = { 1: '轻松', 2: '标准', 3: '大胆' };
+  const LEVEL_LABELS = { 1: '轻松', 2: '标准', 3: '大胆', 4: '成人刺激' };
   const PLAYER_COUNT_OPTIONS = Array.from({ length: 11 }, (_, index) => index + 2);
   const RANDOM_PLAYER_NAMES = [
     '闪电', '月亮', '橘子', '船长', '奶糖', '星星', '狐狸', '柠檬',
@@ -76,7 +76,26 @@
       { id: 't315', level: 3, text: '你最希望现场哪位玩家进一步了解你？' },
       { id: 't316', level: 3, text: '你曾经因为害怕失去而隐瞒过什么感受？' },
       { id: 't317', level: 3, text: '你认为自己最难被爱的一面是什么？' },
-      { id: 't318', level: 3, text: '你现在最想对某个人说、但一直没说的话是什么？' }
+      { id: 't318', level: 3, text: '你现在最想对某个人说、但一直没说的话是什么？' },
+
+      { id: 't401', level: 4, text: '你最容易被一个人的哪种身体或气质特征吸引？' },
+      { id: 't402', level: 4, text: '你对一夜情的真实看法是什么？' },
+      { id: 't403', level: 4, text: '在亲密关系里，你更习惯主动还是等待对方主动？' },
+      { id: 't404', level: 4, text: '哪一种暧昧方式最容易让你心动？' },
+      { id: 't405', level: 4, text: '你经历过最让你脸红的一次调情是什么？' },
+      { id: 't406', level: 4, text: '身体吸引和情感契合，你更难放弃哪一个？' },
+      { id: 't407', level: 4, text: '你最想尝试、但一直没说出口的成人约会场景是什么？' },
+      { id: 't408', level: 4, text: '你有没有把普通友好误认为对方在调情？后来怎样了？' },
+      { id: 't409', level: 4, text: '你印象最深的一次接吻发生在什么情境？' },
+      { id: 't410', level: 4, text: '亲密关系中哪条界限一旦被越过，你会立刻结束关系？' },
+      { id: 't411', level: 4, text: '你能接受伴侣与异性或潜在暧昧对象保持多近的距离？' },
+      { id: 't412', level: 4, text: '你能接受的最大年龄差是多少？为什么？' },
+      { id: 't413', level: 4, text: '你怎么看开放式关系或非传统亲密关系？' },
+      { id: 't414', level: 4, text: '伴侣做什么最容易触发你的占有欲或嫉妒？' },
+      { id: 't415', level: 4, text: '你在感情里说过最难圆回来的一次谎是什么？' },
+      { id: 't416', level: 4, text: '你有没有对朋友的前任、同事或其他不方便的人心动过？' },
+      { id: 't417', level: 4, text: '用三个词描述你理想中的亲密氛围。' },
+      { id: 't418', level: 4, text: '如果今晚可以收到一个完全坦诚的答案，你最想问现场谁什么问题？' }
     ],
     dare: [
       { id: 'd101', level: 1, text: '用三种不同情绪说一遍自己的名字。' },
@@ -134,7 +153,26 @@
       { id: 'd315', level: 3, text: '认真看向镜头或大家，说一句你现在最需要听到的话。' },
       { id: 'd316', level: 3, text: '让大家指定一种情绪，你用这种情绪唱一句歌。' },
       { id: 'd317', level: 3, text: '选择一位玩家，互相为对方取一个只在今晚使用的称号。' },
-      { id: 'd318', level: 3, text: '用发布会口吻宣布自己接下来一个月的小目标。' }
+      { id: 'd318', level: 3, text: '用发布会口吻宣布自己接下来一个月的小目标。' },
+
+      { id: 'd401', level: 4, text: '选择一位明确自愿的玩家，保持十五秒近距离对视，不需要身体接触。' },
+      { id: 'd402', level: 4, text: '对一位明确自愿的玩家，用耳语语气说一句暧昧但尊重的称赞。' },
+      { id: 'd403', level: 4, text: '即兴表演二十秒“第一次见面却明显来电”的场景。' },
+      { id: 'd404', level: 4, text: '选择一位玩家，用一句你认为成功率最高的搭讪开场白与对方打招呼。' },
+      { id: 'd405', level: 4, text: '分别用强势、温柔和神秘三种语气说：“今晚你有点危险。”' },
+      { id: 'd406', level: 4, text: '面对镜头或大家，展示一个你认为最有吸引力的眼神，坚持五秒。' },
+      { id: 'd407', level: 4, text: '与一位明确自愿的玩家轮流说一句“我觉得你有吸引力，是因为……”。' },
+      { id: 'd408', level: 4, text: '不使用“回家”和“喝一杯”两个词，演示你会怎样发出深夜续摊邀请。' },
+      { id: 'd409', level: 4, text: '完成十五秒慢动作走秀，并在结尾对现场一位玩家做一个暧昧表情。' },
+      { id: 'd410', level: 4, text: '用一句话描述你心中完美深夜约会的最后一分钟。' },
+      { id: 'd411', level: 4, text: '在双方明确同意的前提下，与一位玩家牵手二十秒；任何一方都可随时结束。' },
+      { id: 'd412', level: 4, text: '选择一位明确自愿的玩家，坐到双方都舒适的距离，说：“我有个秘密想告诉你。”然后分享一件无伤大雅的小秘密。' },
+      { id: 'd413', level: 4, text: '即兴录制一段二十秒“发给心动对象的深夜语音”，只表演，不需要真的发送。' },
+      { id: 'd414', level: 4, text: '让大家指定一个成人爱情电影场景类型，完成十五秒不接触的即兴表演。' },
+      { id: 'd415', level: 4, text: '说出一种最能让你产生吸引力的特质，并用十秒表演这种特质。' },
+      { id: 'd416', level: 4, text: '选择一位明确自愿的玩家，对对方说一句：“如果我们在都单身的时候认识……”并补完后半句。' },
+      { id: 'd417', level: 4, text: '让大家从“强势、温柔、神秘”中选一种风格，用该风格完成十五秒自我介绍。' },
+      { id: 'd418', level: 4, text: '选择一位明确自愿的玩家，互相说出对方最有魅力的一点；避免评价敏感身体部位。' }
     ]
   };
 
@@ -157,12 +195,14 @@
   };
 
   const saved = readPrefs();
+  const adultConfirmed = readAdultConsent();
+  const savedIntensity = clamp(Number(saved.intensity) || 2, 1, 4);
   const state = {
     route: 'home',
     game: null,
     count: clamp(Number(saved.count) || 4, 2, 12),
     rule: saved.rule === 'min' ? 'min' : 'max',
-    intensity: clamp(Number(saved.intensity) || 2, 1, 3),
+    intensity: savedIntensity === 4 && !adultConfirmed ? 3 : savedIntensity,
     players: [],
     nameDrafts: Array.isArray(saved.playerNames) ? saved.playerNames.slice(0, 12) : [],
     turn: 0,
@@ -176,6 +216,8 @@
     loser: null,
     punishment: null,
     showResult: false,
+    showAdultGate: false,
+    adultConfirmed,
     recentPunishments: [],
     soundEnabled: saved.soundEnabled !== false
   };
@@ -194,12 +236,20 @@
     }
   }
 
+  function readAdultConsent() {
+    try {
+      return sessionStorage.getItem('party-game-adult-confirmed') === 'yes';
+    } catch {
+      return false;
+    }
+  }
+
   function savePrefs() {
     try {
       localStorage.setItem('party-game-prefs', JSON.stringify({
         count: state.count,
         rule: state.rule,
-        intensity: state.intensity,
+        intensity: state.intensity === 4 ? 3 : state.intensity,
         soundEnabled: state.soundEnabled,
         playerNames: state.nameDrafts.slice(0, 12)
       }));
@@ -323,6 +373,7 @@
           <span class="mini-badge">2–12 人 · 单双数</span>
           <span class="mini-badge">离线可玩</span>
           <span class="mini-badge">安全自愿</span>
+          <span class="mini-badge adult-mini-badge">成人模式 18+</span>
         </div>
         <div class="mode-grid">
           <button class="mode-card dice" type="button" data-action="open-setup" data-game="dice">
@@ -336,7 +387,7 @@
             <span class="mode-arrow">›</span>
           </button>
         </div>
-        <p class="safety-note">任何玩家都可以跳过不舒服的题目；不设置饮酒、危险动作或强制隐私惩罚。</p>
+        <p class="safety-note">任何玩家都可以跳过不舒服的题目；成人模式仅限全部参与者均已满 18 岁并自愿开启。</p>
       </div>`;
   }
 
@@ -388,14 +439,35 @@
         </section>` : ''}
 
       <section class="panel">
-        <div class="panel-title"><span>惩罚尺度</span><small>共 108 道题</small></div>
-        <div class="segment" style="--segments:3">
-          ${[1,2,3].map((level) => `<button type="button" class="${state.intensity === level ? 'active' : ''}" data-action="set-intensity" data-level="${level}">${LEVEL_LABELS[level]}</button>`).join('')}
+        <div class="panel-title"><span>惩罚尺度</span><small>共 144 道题</small></div>
+        <div class="segment intensity-segment" style="--segments:4">
+          ${[1,2,3,4].map((level) => `<button type="button" class="${state.intensity === level ? 'active' : ''} ${level === 4 ? 'adult-option' : ''}" data-action="set-intensity" data-level="${level}">${LEVEL_LABELS[level]}${level === 4 ? '<small>18+</small>' : ''}</button>`).join('')}
         </div>
-        <p class="helper">轻松适合破冰；标准增加个人经历；大胆更偏关系与情感，但仍以自愿和不冒犯为前提。</p>
+        <p class="helper">轻松适合破冰；标准增加个人经历；大胆偏关系与情感；成人刺激为独立 18+ 题库，只抽取成人向问题。</p>
       </section>
 
-      <button class="primary-button ${dice ? '' : 'wheel-cta'}" type="button" data-action="start-game">开始游戏　›</button>`;
+      <button class="primary-button ${dice ? '' : 'wheel-cta'}" type="button" data-action="start-game">开始游戏　›</button>
+      ${state.showAdultGate ? renderAdultGate() : ''}`;
+  }
+
+  function renderAdultGate() {
+    return `
+      <div class="adult-gate-overlay" role="presentation" data-action="adult-overlay-close">
+        <section class="adult-gate-sheet" role="dialog" aria-modal="true" aria-labelledby="adultGateTitle" data-adult-sheet>
+          <span class="adult-gate-badge">18+ ONLY</span>
+          <h2 id="adultGateTitle">开启成人刺激题库？</h2>
+          <p>该题库包含更私密的感情、吸引力与成人关系话题，以及带有暧昧互动的大冒险。</p>
+          <ul>
+            <li>所有参与者均已年满 18 岁</li>
+            <li>互动必须获得相关玩家明确同意</li>
+            <li>任何人都可以跳过或换题，无需解释</li>
+          </ul>
+          <div class="adult-gate-actions">
+            <button type="button" data-action="cancel-adult">暂不开启</button>
+            <button type="button" class="confirm" data-action="confirm-adult">确认均已成年并开启</button>
+          </div>
+        </section>
+      </div>`;
   }
 
   function renderPlayerTrack() {
@@ -503,7 +575,7 @@
           <div class="sheet-handle"></div>
           <div class="result-kicker">命运选中了</div>
           <h2 id="resultTitle">${escapeHtml(state.loser.name)}</h2>
-          <span class="punishment-type ${punishment.type === 'dare' ? 'dare' : ''}">${typeLabel}<span class="punishment-level">· ${LEVEL_LABELS[punishment.level]}</span></span>
+          <span class="punishment-type ${punishment.type === 'dare' ? 'dare' : ''} ${punishment.level === 4 ? 'adult' : ''}">${typeLabel}<span class="punishment-level">· ${LEVEL_LABELS[punishment.level]}</span></span>
           <p class="punishment-text">${escapeHtml(punishment.text)}</p>
           <div class="type-switch" aria-label="切换惩罚类型">
             <button type="button" class="${punishment.type === 'truth' ? 'active' : ''}" data-action="change-punishment" data-type="truth">换成真心话</button>
@@ -513,7 +585,7 @@
             <button type="button" data-action="change-punishment">换一题</button>
             <button type="button" class="again ${state.game === 'wheel' ? 'wheel-again' : ''}" data-action="play-again">再来一轮</button>
           </div>
-          <p class="consent-note">不舒服就直接换题，不需要解释。</p>
+          <p class="consent-note">${punishment.level === 4 ? '仅限成年人自愿参与；任何互动都需要明确同意，不舒服可直接换题。' : '不舒服就直接换题，不需要解释。'}</p>
         </section>
       </div>`;
   }
@@ -541,6 +613,11 @@
   }
 
   function startGame() {
+    if (state.intensity === 4 && !state.adultConfirmed) {
+      state.showAdultGate = true;
+      render();
+      return;
+    }
     state.players = state.players.map((player, index) => ({ id: index + 1, name: player.name.trim() || `玩家 ${index + 1}` }));
     state.players.forEach((player, index) => {
       state.nameDrafts[index] = player.name;
@@ -558,6 +635,11 @@
   }
 
   function goBack() {
+    if (state.showAdultGate) {
+      state.showAdultGate = false;
+      render();
+      return;
+    }
     if (state.busy) {
       showToast('动画结束后再返回');
       return;
@@ -765,8 +847,9 @@
 
   function pickPunishment(forcedType = null) {
     const type = forcedType || (randomInt(2) === 0 ? 'truth' : 'dare');
-    const eligible = PUNISHMENTS[type].filter((item) => item.level <= state.intensity && !state.recentPunishments.includes(item.id));
-    const fallback = PUNISHMENTS[type].filter((item) => item.level <= state.intensity);
+    const matchesIntensity = (item) => state.intensity === 4 ? item.level === 4 : item.level <= state.intensity;
+    const eligible = PUNISHMENTS[type].filter((item) => matchesIntensity(item) && !state.recentPunishments.includes(item.id));
+    const fallback = PUNISHMENTS[type].filter(matchesIntensity);
     const pool = eligible.length ? eligible : fallback;
     const chosen = pool[randomInt(pool.length)];
     state.recentPunishments.push(chosen.id);
@@ -883,7 +966,30 @@
     else if (action === 'randomize-names') randomizePlayerNames();
     else if (action === 'reset-names') resetPlayerNames();
     else if (action === 'set-rule') { state.rule = control.dataset.rule; savePrefs(); render(); playUiSound(); }
-    else if (action === 'set-intensity') { state.intensity = Number(control.dataset.level); savePrefs(); render(); playUiSound(); }
+    else if (action === 'set-intensity') {
+      const level = Number(control.dataset.level);
+      if (level === 4 && !state.adultConfirmed) {
+        state.showAdultGate = true;
+        render();
+      } else {
+        state.intensity = level;
+        savePrefs();
+        render();
+        playUiSound();
+      }
+    }
+    else if (action === 'confirm-adult') {
+      state.adultConfirmed = true;
+      state.showAdultGate = false;
+      state.intensity = 4;
+      try { sessionStorage.setItem('party-game-adult-confirmed', 'yes'); } catch {}
+      savePrefs();
+      render();
+      playUiSound();
+      showToast('成人刺激题库已开启');
+    }
+    else if (action === 'cancel-adult') { state.showAdultGate = false; render(); }
+    else if (action === 'adult-overlay-close' && !event.target.closest('[data-adult-sheet]')) { state.showAdultGate = false; render(); }
     else if (action === 'start-game') startGame();
     else if (action === 'roll-dice') rollDice();
     else if (action === 'spin-wheel') spinWheel();

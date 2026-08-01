@@ -300,3 +300,33 @@ svg { width: 22px; height: 22px; fill: none; stroke: currentColor; stroke-width:
 @media (max-width: 390px) {
   .count-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 }
+
+/* v6 adult-only intensity */
+.adult-mini-badge { border-color: rgba(255, 99, 126, .18); color: #ffb0c0; }
+.adult-mini-badge::before { background: #ff657f; box-shadow: 0 0 10px rgba(255, 101, 127, .68); }
+.intensity-segment button { min-width: 0; }
+.intensity-segment .adult-option { display: inline-flex; align-items: center; justify-content: center; gap: 5px; }
+.intensity-segment .adult-option small { padding: 2px 4px; border-radius: 5px; color: #ff9db0; background: rgba(255, 101, 127, .11); font-size: 8px; line-height: 1; }
+.intensity-segment .adult-option.active { background: linear-gradient(135deg, #9d2549, #e64a71); box-shadow: 0 8px 24px rgba(230, 74, 113, .24); }
+.intensity-segment .adult-option.active small { color: #fff; background: rgba(255,255,255,.15); }
+.punishment-type.adult { color: #ffc0cc; background: linear-gradient(135deg, rgba(151,35,70,.28), rgba(232,71,111,.17)); box-shadow: inset 0 0 0 1px rgba(255,120,148,.14); }
+.punishment-type.adult .punishment-level { color: #ff91a8; }
+
+.adult-gate-overlay { position: fixed; inset: 0; z-index: 70; display: flex; align-items: flex-end; justify-content: center; padding: 15px; background: rgba(5,5,9,.78); animation: fadeIn .2s ease both; }
+@supports (backdrop-filter: blur(10px)) { .adult-gate-overlay { backdrop-filter: blur(14px); } }
+.adult-gate-sheet { width: min(100%, 500px); padding: 24px 22px calc(21px + env(safe-area-inset-bottom)); border: 1px solid rgba(255,113,143,.22); border-radius: 29px; background: radial-gradient(circle at 50% 0, rgba(232,71,118,.17), transparent 42%), linear-gradient(180deg, #241923, #151119 70%); box-shadow: 0 28px 90px rgba(0,0,0,.62); animation: sheetUp .4s cubic-bezier(.18,.86,.23,1.05) both; }
+.adult-gate-badge { display: inline-flex; padding: 6px 9px; border: 1px solid rgba(255,120,148,.22); border-radius: 999px; color: #ff9db1; background: rgba(232,71,118,.09); font-size: 9px; font-weight: 900; letter-spacing: .13em; }
+.adult-gate-sheet h2 { margin: 14px 0 8px; font-size: 27px; letter-spacing: -.035em; }
+.adult-gate-sheet > p { margin: 0; color: #b8aeb9; font-size: 13px; line-height: 1.65; }
+.adult-gate-sheet ul { margin: 18px 0; padding: 14px 14px 14px 32px; border: 1px solid rgba(255,255,255,.065); border-radius: 17px; background: rgba(255,255,255,.035); color: #d4cdd5; font-size: 12px; line-height: 1.75; }
+.adult-gate-sheet li::marker { color: #ff6f91; }
+.adult-gate-actions { display: grid; grid-template-columns: .8fr 1.2fr; gap: 9px; }
+.adult-gate-actions button { min-height: 49px; padding: 0 12px; border: 1px solid rgba(255,255,255,.08); border-radius: 15px; color: #c9c1ca; background: #211a23; font-size: 12px; font-weight: 800; }
+.adult-gate-actions .confirm { border: 0; color: #fff; background: linear-gradient(105deg, #aa2c52, #ef557b); box-shadow: 0 12px 28px rgba(198,47,91,.24); }
+.adult-gate-actions button:active { transform: scale(.975); }
+
+@media (max-width: 420px) {
+  .intensity-segment { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .adult-gate-actions { grid-template-columns: 1fr; }
+  .adult-gate-actions .confirm { grid-row: 1; }
+}
