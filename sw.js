@@ -1,11 +1,11 @@
-const VERSION='party-game-v9.1.4';
+const VERSION='party-game-v9.2.0';
 const SHELL=[
-  './','./index.html','./manifest.webmanifest','./styles/app.css','./styles/games.css','./styles/adult-plus.css','./styles/ui-refresh.css',
+  './','./index.html','./manifest.webmanifest','./styles/app.css','./styles/games.css','./styles/adult-plus.css','./styles/ui-refresh.css','./styles/midnight-game-hall.css',
   './src/main.js','./src/core/utils.js','./src/core/store.js','./src/core/motion.js','./src/modules/overlay.js',
   './src/modules/lobby.js','./src/modules/players.js','./src/modules/game-sheet.js','./src/modules/settings.js','./src/modules/questions.js',
   './src/games/registry.js','./src/games/index.js','./src/games/shared.js','./src/games/dice.js','./src/games/wheel.js',
   './src/games/most-likely.js','./src/games/would-rather.js','./src/games/five-second.js','./src/games/hot-potato.js','./src/games/king.js','./src/games/undercover.js',
-  './icons/icon-192.png','./icons/icon-512.png'
+  './icons/icon-192.png','./icons/icon-512.png','./assets/midnight/brand-crest.svg','./assets/midnight/divider.svg','./assets/midnight/corner-flourish.svg','./assets/midnight/stage-arch.svg','./assets/midnight/starfield.svg'
 ];
 self.addEventListener('install',event=>event.waitUntil(caches.open(VERSION).then(cache=>cache.addAll(SHELL))));
 self.addEventListener('activate',event=>event.waitUntil(Promise.all([caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==VERSION).map(key=>caches.delete(key)))),self.registration.navigationPreload?.enable()]).then(()=>self.clients.claim())));

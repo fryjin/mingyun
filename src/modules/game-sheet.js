@@ -3,14 +3,18 @@ import { escapeHtml, icon } from '../core/utils.js';
 import { getGame } from '../games/registry.js';
 import { closeOverlay, showSheet, toast } from './overlay.js';
 const labels={light:['轻松','友好热场'],standard:['标准','适合多数聚会'],bold:['大胆','更直接的问题'],adult:['成人','亲密话题'], 'adult-plus':['成人进阶','接触与酒水可选']};
+const rooms={
+  'would-rather':'命运抉择房','king':'王座密令房','dice':'命运骰桌','wheel':'幸运轮盘房',
+  'most-likely':'秘密投票房','five-second':'极限挑战房','undercover':'秘密身份房','hot-potato':'倒计时核心房'
+};
 export function openGameSheet(gameId){
   const game=getGame(gameId);if(!game)return;
   const state=getState();const settings={...game.defaultSettings,...(state.gameSettings[game.id]||{})};
-  showSheet(`<div class="sheet-body"><header class="sheet-header"><span class="game-icon large" style="--accent:${game.color}">${icon(game.icon)}</span><div><h2>${escapeHtml(game.title)}</h2><p>${game.minPlayers}–${game.maxPlayers} 人 · ${escapeHtml(game.estimatedTime)}${game.supportsAdult?' · 支持成人进阶':''}</p></div></header>
+  showSheet(`<div class="sheet-body"><header class="sheet-header"><span class="game-icon large" style="--accent:${game.color}">${icon(game.icon)}</span><div><span class="eyebrow">${escapeHtml(rooms[game.id]||'午夜游戏房')}</span><h2>${escapeHtml(game.title)}</h2><p>${game.minPlayers}–${game.maxPlayers} 人 · ${escapeHtml(game.estimatedTime)}${game.supportsAdult?' · 支持成人进阶':''}</p></div></header>
     <p class="sheet-copy">${escapeHtml(game.description)}</p>
     <section class="rule-card"><h3>本场概览</h3><div><span>当前玩家</span><strong>${activePlayers().length} 人 · 已配置</strong></div><div><span>手机使用</span><strong>${escapeHtml(game.phoneMode)}</strong></div><div><span>本轮结果</span><strong>${escapeHtml(game.resultMode)}</strong></div></section>
     <h3 class="settings-heading">游戏设置</h3><form id="gameSetup">${game.renderSetup?.(settings)||''}${renderLevel(game,settings.level||state.settings.level)}${renderAdultPlus(settings)}</form></div>
-    <footer class="sheet-action-bar"><button class="button primary full" data-start>开始 ${escapeHtml(game.title)}</button></footer>`,{className:'game-detail-sheet',onMount(sheet){
+    <footer class="sheet-action-bar"><button class="button primary full" data-start>进入 ${escapeHtml(game.title)}</button></footer>`,{className:'game-detail-sheet',onMount(sheet){
       game.bindSetup?.(sheet,settings);
       const activate=button=>{button.parentElement.querySelectorAll('[data-segment]').forEach(node=>{node.classList.remove('active');node.setAttribute('aria-pressed','false')});button.classList.add('active');button.setAttribute('aria-pressed','true')};
       sheet.querySelectorAll('[data-segment]').forEach(button=>button.addEventListener('click',()=>activate(button)));
@@ -47,7 +51,6 @@ function readCommon(sheet){
   const level=sheet.querySelector('[data-level] .active')?.dataset.value||'standard';const contactLevel=Number(sheet.querySelector('[data-ap-contact-level] .active')?.dataset.value||1);
   return {level,adultPlus:{contact:sheet.querySelector('[data-ap-contact]')?.checked!==false,contactLevel,kissing:Boolean(sheet.querySelector('[data-ap-kissing]')?.checked),alcohol:Boolean(sheet.querySelector('[data-ap-alcohol]')?.checked)}};
 }
-
 function confirmInsideSheet(sheet,{title,message,confirmText='确认'}){
   return new Promise(resolve=>{
     sheet.querySelector('[data-sheet-confirm]')?.remove();
