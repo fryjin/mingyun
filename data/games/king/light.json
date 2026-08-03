@@ -1,0 +1,280 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.3-king-2026.08",
+  "gameId": "king",
+  "level": 1,
+  "levelLabel": "轻松",
+  "count": 30,
+  "items": [
+    {
+      "id": "king-light-001",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 1,
+      "text": "{a}用三种不同语气说“今晚我最幸运”。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-002",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 2,
+      "text": "{a}和{b}一起摆出一张夸张的合影姿势，保持五秒。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-003",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 1,
+      "text": "{a}模仿一种大家都能猜到的动物，直到有人猜中。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-004",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 2,
+      "text": "{a}和{b}互相说出对方一个让人觉得可靠的优点。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-005",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 1,
+      "text": "{a}用新闻主播的语气介绍桌上任意一件物品。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-006",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 2,
+      "text": "{a}和{b}同时说出一种水果，说中相同答案就全场鼓掌。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-007",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 1,
+      "text": "{a}哼唱一段大家熟悉的旋律，让其他人猜歌名。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-008",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 2,
+      "text": "{a}和{b}合作完成一个十秒钟的无声小短剧。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-009",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 1,
+      "text": "{a}用一句话为今晚的聚会起一个电影名。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-010",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 2,
+      "text": "{a}和{b}各自给对方取一个友善又好笑的临时昵称。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-011",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 1,
+      "text": "{a}快速说出三件最近让自己开心的小事。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-012",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 2,
+      "text": "{a}和{b}背对背，同时用手比出一到五，看是否默契。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-013",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 1,
+      "text": "{a}做一个最有精神的胜利姿势，并保持三秒。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-014",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 2,
+      "text": "{a}和{b}轮流说一个以“我喜欢”开头的句子，共说四句。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-015",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 1,
+      "text": "{a}选择一位玩家，用一句话真诚夸奖对方。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-016",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 2,
+      "text": "{a}和{b}分别模仿对方平时最常用的一句话。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-017",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 1,
+      "text": "{a}用广告口吻推销自己手边最近的一样东西。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-018",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 2,
+      "text": "{a}和{b}一起完成一次同步拍手挑战，最多尝试三次。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-019",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 1,
+      "text": "{a}说出三个适合周末放松的活动。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-020",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 2,
+      "text": "{a}和{b}用石头剪刀布决定谁先讲一个冷笑话。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-021",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 1,
+      "text": "{a}用五秒钟设计一个新的派对口号。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-022",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 2,
+      "text": "{a}和{b}各用一个动作表现“非常惊讶”。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-023",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 1,
+      "text": "{a}说出自己最想学会的一项新技能。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-024",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 2,
+      "text": "{a}和{b}共同编出一句包含“月亮”和“火锅”的话。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-025",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 1,
+      "text": "{a}模仿手机低电量时的样子，坚持五秒。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-026",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 2,
+      "text": "{a}和{b}各说出对方今天造型中的一个亮点。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-027",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 1,
+      "text": "{a}闭眼转一圈后，指向自己认为门所在的方向。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-028",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 2,
+      "text": "{a}和{b}一起用手势比出一个爱心或其他友好图案。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-029",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 1,
+      "text": "{a}用一句话描述自己理想中的假期。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-light-030",
+      "gameId": "king",
+      "level": 1,
+      "targetCount": 2,
+      "text": "{a}和{b}轮流接词，组成一句至少十个字的完整句子。",
+      "consentRequired": false,
+      "source": "v9.3"
+    }
+  ]
+}

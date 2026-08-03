@@ -3,6 +3,7 @@ import { mountMostLikely } from '../games/most-likely.js';
 import { mountWouldRather } from '../games/would-rather.js';
 import { mountFiveSecond } from '../games/five-second.js';
 import { mountHotPotato } from '../games/hot-potato.js';
+import { mountKing } from '../games/king.js';
 
 const COLORS = ['#ff667f','#7d62f4','#2dc7a6','#f2ae45','#4d9de0','#da67cf','#8bc34a','#ff8a55','#6f7bf7','#f25f9d','#44b7c8','#c48bff'];
 const LEVEL_LABELS = { 1:'轻松', 2:'标准', 3:'大胆', 4:'成人刺激' };
@@ -295,7 +296,16 @@ function renderSpecificSettings(game, config) {
           <button type="button" data-config="commandSource" data-value="random" class="${config.commandSource === 'random' ? 'active' : ''}">随机题库</button>
           <button type="button" data-config="commandSource" data-value="custom" class="${config.commandSource === 'custom' ? 'active' : ''}">国王自定</button>
         </div>
-      </div>`;
+      </div>
+      ${config.commandSource === 'custom' ? `
+        <div class="setting">
+          <div class="setting-head"><span>默认目标人数</span><strong>${config.targetCount === 1 ? '1 人' : '2 人'}</strong></div>
+          <div class="segmented">
+            <button type="button" data-config="targetCount" data-value="1" class="${config.targetCount === 1 ? 'active' : ''}">1 人</button>
+            <button type="button" data-config="targetCount" data-value="2" class="${config.targetCount === 2 ? 'active' : ''}">2 人</button>
+          </div>
+        </div>` : ''}
+    `;
   }
 
   return '';
@@ -501,10 +511,11 @@ registerGame(placeholderPlugin({
   defaultConfig:{ spyCount:1, blankCard:false }
 }));
 registerGame(placeholderPlugin({
-  id:'king',title:'国王游戏',description:'随机抽取国王和号码，发布本轮指令。',
+  id:'king',title:'国王游戏',description:'秘密查看身份，由国王抽取号码并发布指令。',
   playersLabel:'3–12人',minPlayers:3,maxPlayers:12,timeLabel:'2–5 分钟',icon:'crown',color:'#f59e0b',
-  supportsAdult:true,phoneMode:'需要轮流查看号码',rules:'每位玩家获得隐藏号码，其中一人成为国王，由国王指定号码完成任务。',
-  defaultConfig:{ commandSource:'random' }
+  supportsAdult:true,implemented:true,phoneMode:'需要轮流查看身份',resultMode:'按号码完成国王指令',
+  rules:'每位玩家秘密查看身份，一人抽到国王，其余玩家获得号码。国王使用随机题库或自定指令完成本轮。',
+  defaultConfig:{ commandSource:'random', targetCount:2 },mount:mountKing
 }));
 
 function createDiceGame(container, context) {

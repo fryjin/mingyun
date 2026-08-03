@@ -1,14 +1,15 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.2-games-2026.08",
+  "bankVersion": "v9.3-games-2026.08",
   "generatedAt": "2026-08-03",
-  "description": "V9.2 四种派对游戏的首批专用题库。",
+  "description": "V9.2 四种互动玩法与 V9.3 国王游戏的专用内容库。",
   "totals": {
-    "all": 288,
+    "all": 408,
     "most-likely": 72,
     "would-rather": 72,
     "five-second": 72,
-    "hot-potato": 72
+    "hot-potato": 72,
+    "king": 120
   },
   "files": [
     {
@@ -138,6 +139,38 @@
       "count": 18,
       "sha256": "712c08c6de0f472d1ae50afdb227d32ca7ebb427440f1fda7523a4917f64879b",
       "bytes": 2381
+    },
+    {
+      "file": "data/games/king/light.json",
+      "gameId": "king",
+      "level": 1,
+      "count": 30,
+      "sha256": "1bf70a51e20f97bce94ff3858d8d4e6542bf95cd7caf2797829609f6e1a157e5",
+      "bytes": 7424
+    },
+    {
+      "file": "data/games/king/standard.json",
+      "gameId": "king",
+      "level": 2,
+      "count": 30,
+      "sha256": "34cf0e905557813e0c98e4dcd896e300aa9717596f0bd818d11ef2b276400f0f",
+      "bytes": 7586
+    },
+    {
+      "file": "data/games/king/bold.json",
+      "gameId": "king",
+      "level": 3,
+      "count": 30,
+      "sha256": "a5f58efb2ea8e90bd9fa9637fdad907ea95927ec7fa7a67da737868e50545bae",
+      "bytes": 7614
+    },
+    {
+      "file": "data/games/king/adult.json",
+      "gameId": "king",
+      "level": 4,
+      "count": 30,
+      "sha256": "025e375404434b3dcf264ba19a1533de9ce9709ea7f618481ee807a3fecd4ea8",
+      "bytes": 7916
     }
   ],
   "loadingPolicy": {

@@ -1,0 +1,280 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.3-king-2026.08",
+  "gameId": "king",
+  "level": 4,
+  "levelLabel": "成人刺激",
+  "count": 30,
+  "items": [
+    {
+      "id": "king-adult-001",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 1,
+      "text": "{a}分享一种自己在成年人约会中最看重的亲密边界。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-002",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 2,
+      "text": "在双方明确同意的前提下，{a}和{b}保持十秒近距离眼神交流；也可选择隔桌完成。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-003",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 1,
+      "text": "{a}说出一种自己觉得很有吸引力、但很少公开承认的特质。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-004",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 2,
+      "text": "{a}和{b}各用一句话描述理想中的第一次亲密约会氛围。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-005",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 1,
+      "text": "{a}模拟一段带有暧昧感、但尊重边界的深夜语音开场。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-006",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 2,
+      "text": "{a}和{b}演一段成年人爱情电影中的约会对白，不进行真实接触。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-007",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 1,
+      "text": "{a}说出自己更喜欢主动表达吸引，还是等待对方先释放信号。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-008",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 2,
+      "text": "在双方自愿的前提下，{a}和{b}互相说一句带有暧昧感的赞美。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-009",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 1,
+      "text": "{a}分享自己认为接吻之前最重要的一项确认。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-010",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 2,
+      "text": "{a}和{b}分别演示“直接邀请约会”和“含蓄邀请约会”的说法。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-011",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 1,
+      "text": "{a}说出成年人关系中自己绝不会妥协的一条安全原则。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-012",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 2,
+      "text": "{a}和{b}各自回答：理想约会更适合热闹场所还是私密空间。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-013",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 1,
+      "text": "{a}分享一种会让自己明显感觉被重视的亲密沟通方式。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-014",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 2,
+      "text": "在双方同意的前提下，{a}和{b}可以牵手五秒；任一方也可改为隔空击掌。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-015",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 1,
+      "text": "{a}说出自己更容易被声音、眼神、气味还是表达方式吸引。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-016",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 2,
+      "text": "{a}和{b}各说一句自己愿意在暧昧阶段收到的信息。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-017",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 1,
+      "text": "{a}模拟一次礼貌询问“我可以靠近一点吗”的表达。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-018",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 2,
+      "text": "{a}和{b}表演一次约会结束后，双方都想继续见面的告别场景。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-019",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 1,
+      "text": "{a}分享自己认为成年人关系中最容易被忽略的一种沟通。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-020",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 2,
+      "text": "在不进行身体接触的前提下，{a}和{b}完成十五秒暧昧电影海报定格。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-021",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 1,
+      "text": "{a}说出自己对于公开关系与保持低调更偏向哪一种。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-022",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 2,
+      "text": "{a}和{b}各自描述一次理想中的周末双人约会安排。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-023",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 1,
+      "text": "{a}分享一种自己能够接受的调情方式，以及一种不能接受的方式。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-024",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 2,
+      "text": "{a}和{b}轮流说一句成年人约会中清晰表达同意或拒绝的话。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-025",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 1,
+      "text": "{a}说出自己觉得最浪漫的一种非昂贵亲密举动。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-026",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 2,
+      "text": "在双方自愿的前提下，{a}和{b}完成十秒慢舞；也可改为各自在原地摆动。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-027",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 1,
+      "text": "{a}分享自己认为建立身体亲密前必须讨论的一件事。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-028",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 2,
+      "text": "{a}和{b}各用三个词描述自己理想中的成人亲密氛围。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-029",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 1,
+      "text": "{a}模拟一次既有吸引力、又不会让人感到冒犯的搭讪。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-adult-030",
+      "gameId": "king",
+      "level": 4,
+      "targetCount": 2,
+      "text": "{a}和{b}共同完成一次“互相确认边界后再继续约会”的短对话。",
+      "consentRequired": true,
+      "source": "v9.3"
+    }
+  ]
+}

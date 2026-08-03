@@ -1,0 +1,280 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.3-king-2026.08",
+  "gameId": "king",
+  "level": 3,
+  "levelLabel": "大胆",
+  "count": 30,
+  "items": [
+    {
+      "id": "king-bold-001",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 1,
+      "text": "{a}说出自己在关系中最难开口表达的一种需求。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-002",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 2,
+      "text": "{a}和{b}保持十秒眼神交流；任何一方不舒服都可立即停止。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-003",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 1,
+      "text": "{a}分享一个自己很在意、却很少主动告诉别人的优点。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-004",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 2,
+      "text": "{a}和{b}各自说出对方最有吸引力的一项非外貌特质。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-005",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 1,
+      "text": "{a}模拟一次主动邀请心动对象约会的开场白。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-006",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 2,
+      "text": "{a}和{b}即兴演出“刚认识却聊得非常投机”的场景。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-007",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 1,
+      "text": "{a}说出自己最容易因为哪种行为产生好感。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-008",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 2,
+      "text": "{a}和{b}分别用一句不敷衍的话表达对彼此的欣赏。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-009",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 1,
+      "text": "{a}分享一个自己在感情或友情中曾经后悔没有说出口的话。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-010",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 2,
+      "text": "{a}和{b}背对背回答“谁更容易先道歉”，然后同时转身指人。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-011",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 1,
+      "text": "{a}用电影台词般的语气完成一次十秒告白表演。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-012",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 2,
+      "text": "{a}和{b}模拟一次第一次约会结束时的礼貌道别。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-013",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 1,
+      "text": "{a}说出自己最看重伴侣或亲密朋友的一条边界。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-014",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 2,
+      "text": "{a}和{b}各自提出一个能快速了解对方价值观的问题。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-015",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 1,
+      "text": "{a}选择一位玩家，说出对方最容易让人产生安全感的地方。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-016",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 2,
+      "text": "{a}和{b}用主持人口吻互相颁发一个今晚限定奖项。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-017",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 1,
+      "text": "{a}分享一种自己表面不在意、其实很需要的认可。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-018",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 2,
+      "text": "{a}和{b}进行十五秒“不能移开视线”的对话，不舒服可停止。",
+      "consentRequired": true,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-019",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 1,
+      "text": "{a}说出自己最不能接受的暧昧沟通方式。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-020",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 2,
+      "text": "{a}和{b}分别演出主动型和害羞型的搭讪方式。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-021",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 1,
+      "text": "{a}用三个词描述自己理想中的亲密关系。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-022",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 2,
+      "text": "{a}和{b}各说一句适合深夜收到、但不会造成压力的话。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-023",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 1,
+      "text": "{a}分享一个会让自己立刻失去好感的细节。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-024",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 2,
+      "text": "{a}和{b}在不接触的前提下完成一段十秒慢舞表演。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-025",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 1,
+      "text": "{a}说出自己更喜欢被直接表达还是被细节照顾，并解释原因。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-026",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 2,
+      "text": "{a}和{b}互相猜对方在约会中更主动还是更被动。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-027",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 1,
+      "text": "{a}现场演绎一次“想继续聊天但不知道怎么开口”的状态。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-028",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 2,
+      "text": "{a}和{b}各自为对方设计一句个人专属的鼓励语。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-029",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 1,
+      "text": "{a}说出自己最近一次真正心动是因为什么类型的瞬间。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-bold-030",
+      "gameId": "king",
+      "level": 3,
+      "targetCount": 2,
+      "text": "{a}和{b}共同演一段从争执到和好的三十秒短剧。",
+      "consentRequired": false,
+      "source": "v9.3"
+    }
+  ]
+}

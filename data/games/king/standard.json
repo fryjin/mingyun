@@ -1,0 +1,280 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.3-king-2026.08",
+  "gameId": "king",
+  "level": 2,
+  "levelLabel": "标准",
+  "count": 30,
+  "items": [
+    {
+      "id": "king-standard-001",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 1,
+      "text": "{a}分享一次近期让自己有点尴尬但现在觉得好笑的经历。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-002",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 2,
+      "text": "{a}和{b}互相猜对方最近最常使用的手机应用。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-003",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 1,
+      "text": "{a}模仿自己迟到时会使用的解释方式。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-004",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 2,
+      "text": "{a}和{b}进行十五秒即兴采访，一人记者一人嘉宾。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-005",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 1,
+      "text": "{a}说出一个自己曾经坚持很久、后来放弃的习惯。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-006",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 2,
+      "text": "{a}和{b}各说出第一次见到对方时最深的印象。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-007",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 1,
+      "text": "{a}用三句话介绍一个只有自己懂的兴趣爱好。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-008",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 2,
+      "text": "{a}和{b}演一段“多年没见的老朋友突然重逢”。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-009",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 1,
+      "text": "{a}说出自己最容易拖延的一件事。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-010",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 2,
+      "text": "{a}和{b}互换说话风格完成三轮简短对话。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-011",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 1,
+      "text": "{a}选择一首歌，用朗诵而不是唱歌的方式读一句歌词。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-012",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 2,
+      "text": "{a}和{b}各自预测对方明年最可能完成的一件事。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-013",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 1,
+      "text": "{a}分享一个自己曾经完全相信、后来发现是误会的事情。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-014",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 2,
+      "text": "{a}和{b}用表情演出“收到意外好消息”的不同反应。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-015",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 1,
+      "text": "{a}说出一个别人经常误解自己的地方。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-016",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 2,
+      "text": "{a}和{b}各用十秒钟为对方设计一个虚构超能力。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-017",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 1,
+      "text": "{a}现场演示自己最不擅长的一种拍照姿势。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-018",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 2,
+      "text": "{a}和{b}完成一次不能说“你、我、他”的十秒对话。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-019",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 1,
+      "text": "{a}说出一个曾经想尝试但一直没有行动的计划。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-020",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 2,
+      "text": "{a}和{b}分别用一句话描述今晚最有趣的瞬间。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-021",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 1,
+      "text": "{a}模仿一次自己接到陌生电话时的反应。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-022",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 2,
+      "text": "{a}和{b}共同为全场设计一个三步庆祝动作。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-023",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 1,
+      "text": "{a}说出自己最想立刻删除的一种生活麻烦。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-024",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 2,
+      "text": "{a}和{b}各自推荐一部适合对方看的电影或剧集。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-025",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 1,
+      "text": "{a}用一分钟以内讲清楚自己最离谱的一次迷路经历。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-026",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 2,
+      "text": "{a}和{b}一起完成“一个负责动作、一个负责配音”的表演。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-027",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 1,
+      "text": "{a}选择一位玩家，猜测对方最不能接受的食物。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-028",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 2,
+      "text": "{a}和{b}互相提出一个只能回答“是或不是”的问题。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-029",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 1,
+      "text": "{a}说出自己最近一次改变主意的原因。",
+      "consentRequired": false,
+      "source": "v9.3"
+    },
+    {
+      "id": "king-standard-030",
+      "gameId": "king",
+      "level": 2,
+      "targetCount": 2,
+      "text": "{a}和{b}各讲一个真实小故事，让全场猜哪一个更离谱。",
+      "consentRequired": false,
+      "source": "v9.3"
+    }
+  ]
+}

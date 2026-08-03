@@ -223,3 +223,48 @@
   .choice-option{min-height:154px;padding:12px 9px}.choice-option p{font-size:12px}
   .bomb-stage{min-height:292px}
 }
+
+/* 国王游戏 V9.3 */
+.king-game{--king-gold:#f5b942;--king-deep:#4b2d08}
+.king-private-stage,.king-command-stage,.king-reveal-stage{
+  min-height:520px;border:1px solid rgba(245,185,66,.18);border-radius:26px;
+  background:radial-gradient(circle at 50% 12%,rgba(245,185,66,.14),transparent 32%),linear-gradient(160deg,#17151a,#0e1016 70%);
+  padding:24px 16px 18px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;overflow:hidden;position:relative
+}
+.king-step{font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:#d4b87c}
+.king-private-stage h2,.king-call-stage h2{font-size:23px;line-height:1.25;margin:12px 0 4px}
+.king-private-stage>p,.king-call-stage>p{max-width:280px;color:var(--muted);font-size:10.5px;line-height:1.6;margin:8px 0 20px}
+.king-player-name{display:block;font-size:31px;line-height:1.15;margin:4px 0;color:#fff}
+.king-shield{width:142px;height:164px;border-radius:24px;margin:0 auto 22px;display:grid;place-items:center;position:relative;
+  background:linear-gradient(145deg,#423011,#16130e);border:1px solid rgba(245,185,66,.38);box-shadow:0 22px 50px rgba(0,0,0,.42),inset 0 0 30px rgba(245,185,66,.08)}
+.king-shield::before,.king-shield::after{content:"";position:absolute;inset:12px;border:1px solid rgba(245,185,66,.2);border-radius:18px}.king-shield::after{inset:22px;border-style:dashed}
+.king-shield-crown{font-size:58px;color:#f5c75d;filter:drop-shadow(0 8px 16px rgba(245,185,66,.28));z-index:1}
+.king-gold-button{background:linear-gradient(135deg,#f5b942,#d88b17);color:#241405;box-shadow:0 14px 34px rgba(216,139,23,.22)}
+.king-privacy-note{font-size:9px!important;color:#777d8d!important;margin:12px 0 0!important}
+.king-role-card{width:min(290px,100%);min-height:330px;margin:16px auto 18px;border-radius:28px;padding:28px 18px;display:flex;flex-direction:column;align-items:center;justify-content:center;position:relative;overflow:hidden;
+  border:1px solid rgba(245,185,66,.34);background:linear-gradient(160deg,#2d2110,#111319 70%);box-shadow:0 24px 60px rgba(0,0,0,.45)}
+.king-role-card.is-number{border-color:rgba(196,139,255,.34);background:linear-gradient(160deg,#241b35,#111319 70%)}
+.king-role-glow{position:absolute;width:220px;height:220px;border-radius:50%;top:-95px;right:-70px;background:rgba(245,185,66,.16);filter:blur(25px)}
+.king-role-card.is-number .king-role-glow{background:rgba(196,139,255,.15)}
+.king-role-card small{font-size:10px;letter-spacing:.12em;color:#d4b87c;text-transform:uppercase;z-index:1}
+.king-role-card h2{font-size:42px;margin:9px 0 4px;color:#ffe2a0;z-index:1}
+.king-role-card p{font-size:10.5px;line-height:1.55;color:#aeb3c2;margin:8px 0 0;z-index:1}
+.king-role-crown{font-size:88px;line-height:1;color:#f5c75d;filter:drop-shadow(0 12px 22px rgba(245,185,66,.28));z-index:1;margin-bottom:10px}
+.king-role-number{font-size:118px;line-height:1;color:#d7c4ff;text-shadow:0 12px 30px rgba(139,92,246,.28);z-index:1;margin:18px 0 8px}
+.king-call-crown{font-size:116px;line-height:1;color:#f5c75d;filter:drop-shadow(0 15px 28px rgba(245,185,66,.28));margin-bottom:18px}
+.king-command-stage{justify-content:flex-start;padding-top:20px}
+.king-stage-crown{font-size:48px;line-height:1;color:#f5c75d;position:absolute;right:16px;top:15px;opacity:.72}
+.king-stage-title{width:100%;text-align:left;padding:0 4px 15px}.king-stage-title small{font-size:9px;letter-spacing:.12em;color:#b6a16f}.king-stage-title h2{font-size:23px;margin:5px 0 3px}.king-stage-title p{font-size:10px;color:var(--muted);margin:0}
+.king-command-panel{width:100%;border:1px solid var(--line);background:#151821;border-radius:22px;padding:16px;text-align:left}
+.king-command-head{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:16px}.king-command-head>span{font-size:13px;font-weight:800}.king-command-head small{font-size:9px;color:#b8a676;text-align:right}
+.king-command-loading{min-height:210px;display:grid;place-items:center;align-content:center;gap:12px}.king-command-loading span{width:34px;height:34px;border-radius:50%;border:3px solid rgba(245,185,66,.18);border-top-color:#f5b942;animation:king-spin .8s linear infinite}.king-command-loading p{font-size:10px;color:var(--muted)}
+@keyframes king-spin{to{transform:rotate(360deg)}}
+.king-target-badges{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin:4px 0 14px}.king-target-badges.large{margin:14px 0 16px}.king-number-badge{min-width:56px;border-radius:999px;padding:8px 12px;border:1px solid rgba(245,185,66,.34);background:rgba(245,185,66,.1);color:#ffe09a;font-size:12px;font-weight:850;text-align:center}
+.king-target-badges.large .king-number-badge{font-size:17px;padding:10px 16px;min-width:76px}
+.king-command-text{min-height:116px;border:1px solid rgba(245,185,66,.18);border-radius:18px;background:rgba(245,185,66,.055);padding:18px 14px;display:grid;place-items:center;text-align:center;font-size:17px;line-height:1.65;color:#f4efe5;margin:0 0 12px}.king-command-text.reveal{width:100%;min-height:104px;margin-bottom:14px}
+.king-consent-note{font-size:9px;line-height:1.55;color:#9fa4b2;margin:10px 0 14px;text-align:center}
+.king-target-count{margin-bottom:15px}.king-target-count>span{display:block;font-size:10px;color:#c7cad4;margin-bottom:8px}.king-target-count .segmented{max-width:220px}
+.king-custom-label{display:block;margin-bottom:14px}.king-custom-label>span{display:flex;justify-content:space-between;font-size:10px;color:#c7cad4;margin-bottom:8px}.king-custom-label small{font-size:8.5px;color:#777d8d}.king-custom-label textarea{width:100%;min-height:100px;resize:vertical;border:1px solid var(--line);border-radius:15px;background:#0f1117;color:#fff;padding:12px;font:inherit;font-size:12px;line-height:1.55;outline:0}.king-custom-label textarea:focus{border-color:rgba(245,185,66,.5)}
+.king-empty-target{text-align:center;border:1px dashed var(--line);border-radius:14px;padding:14px;color:#8d92a2;font-size:10px;margin:0 0 12px}
+.king-reveal-stage{justify-content:flex-start;padding-top:30px}.king-reveal-stage>.king-step{margin-bottom:2px}.king-reveal-grid{width:100%;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin-bottom:10px}.king-reveal-player{min-height:92px;border:1px solid rgba(245,185,66,.2);border-radius:17px;background:rgba(245,185,66,.07);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:10px}.king-reveal-player span{font-size:9px;color:#c8ad70}.king-reveal-player strong{font-size:18px;margin-top:5px;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+@media(max-width:359px){.king-private-stage,.king-command-stage,.king-reveal-stage{min-height:490px;padding-left:13px;padding-right:13px}.king-role-card{min-height:305px}.king-role-number{font-size:102px}.king-command-text{font-size:15px}.king-reveal-grid{gap:7px}}
