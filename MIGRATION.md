@@ -1,38 +1,12 @@
-# MIGRATION
+# 部署说明
 
-## 覆盖路径
+将本包内全部文件按路径覆盖到当前仓库。
 
-请将以下文件覆盖到线上项目对应路径：
+重点：
 
-- `index.html`
-- `sw.js`
-- `styles/midnight-game-hall.css`
-- `src/modules/lobby.js`
-- `src/modules/players.js`
-- `src/modules/settings.js`
-- `src/modules/game-sheet.js`
-- `src/games/shared.js`
-- `src/games/wheel.js`
-- `assets/midnight/*.svg`
+1. `src/` 中的文件是 V9.1.4 逻辑基线恢复文件，不要只上传 CSS。
+2. `index.html` 会在首次进入 V9.2.2 时清理旧 `party-game-*` 缓存。
+3. `sw.js` 使用新的 `party-game-v9.2.2-logic-lock` 缓存键。
+4. 部署完成后关闭当前网页标签，再重新打开一次。
 
-## 部署后检查项
-
-### 首页
-- 品牌头部是否显示新的徽章与副标题
-- 游戏卡片是否为两列，且各卡片显示“游戏房间”标签
-- 房间摘要卡是否显示新的拱形背景与夜空纹理
-
-### 玩家页
-- 2–12 人按钮是否正常
-- 玩家名称输入、暂离、恢复、随机昵称与保存功能是否正常
-
-### 游戏详情抽屉
-- 新的主题样式是否生效
-- 成人进阶边界面板是否显示正常
-
-### 游戏舞台
-- 标题区是否为 Midnight Game Hall 风格
-- 命运转盘是否正常可转动，结果揭晓与惩罚流程不受影响
-
-### 缓存
-- 若样式未更新，确认 Service Worker 版本是否已切换到 `party-game-v9.2.0`
+本包不会删除题库、图标、Manifest 或未包含的其他项目文件。

@@ -18,7 +18,7 @@ export async function showPunishment(losers,settingsOrLevel='standard',onDone){
   const settings=typeof settingsOrLevel==='string'?{level:settingsOrLevel}:settingsOrLevel||{level:'standard'};
   const level=settings.level||'standard'; const prefs=settings.adultPlus||{};
   const names=Array.isArray(losers)?losers.map(p=>p.name).join('、'):losers.name;
-  showModal(`<span class="eyebrow">Midnight Penalty</span><h2>${escapeHtml(names)} 遭殃</h2><p class="modal-copy">选择本轮惩罚类型。任何题目都可以直接跳过、更换或使用替代方案。</p><div class="choice-actions"><button class="choice-card" data-type="truth"><strong>真心话</strong><span>诚实回答一个问题</span></button><button class="choice-card" data-type="dare"><strong>大冒险</strong><span>完成一个自愿挑战</span></button></div><button class="button ghost full" data-finish>跳过惩罚</button>`,{dismissible:false,onMount(card){
+  showModal(`<span class="eyebrow">本轮结果</span><h2>${escapeHtml(names)} 遭殃</h2><p class="modal-copy">选择本轮惩罚类型。任何题目都可以直接跳过或更换。</p><div class="choice-actions"><button class="choice-card" data-type="truth"><strong>真心话</strong><span>诚实回答一个问题</span></button><button class="choice-card" data-type="dare"><strong>大冒险</strong><span>完成一个自愿挑战</span></button></div><button class="button ghost full" data-finish>跳过惩罚</button>`,{dismissible:false,onMount(card){
     card.querySelector('[data-finish]').onclick=()=>{closeOverlay();onDone?.()};
     card.querySelectorAll('[data-type]').forEach(button=>button.onclick=()=>load(button.dataset.type));
     async function load(type){
@@ -39,6 +39,6 @@ export async function showPunishment(losers,settingsOrLevel='standard',onDone){
     }
   }});
 }
-export function stageHeader(title,subtitle=''){return `<header class="stage-header"><div><span class="eyebrow">Midnight Game Hall</span><h1>${escapeHtml(title)}</h1>${subtitle?`<p>${escapeHtml(subtitle)}</p>`:''}</div><button class="icon-button" data-exit aria-label="结束游戏">×</button></header>`}
+export function stageHeader(title,subtitle=''){return `<header class="stage-header"><div><span class="eyebrow">NOW PLAYING</span><h1>${escapeHtml(title)}</h1>${subtitle?`<p>${escapeHtml(subtitle)}</p>`:''}</div><button class="icon-button" data-exit aria-label="结束游戏">×</button></header>`}
 export function bindExit(root,ctx){root.querySelector('[data-exit]')?.addEventListener('click',ctx.goLobby)}
-export function passScreen(player,actionText='查看我的内容'){return `<section class="private-stage"><span class="privacy-icon">◉</span><span class="eyebrow">秘密交接</span><h2>${escapeHtml(player.name)}</h2><p>确认周围的人看不到屏幕后继续。</p><button class="button primary full" data-private-open>${escapeHtml(actionText)}</button></section>`}
+export function passScreen(player,actionText='查看我的内容'){return `<section class="private-stage"><span class="privacy-icon">◉</span><span class="eyebrow">请把手机交给</span><h2>${escapeHtml(player.name)}</h2><p>确认周围的人看不到屏幕后继续。</p><button class="button primary full" data-private-open>${escapeHtml(actionText)}</button></section>`}

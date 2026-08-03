@@ -16,8 +16,8 @@ function profileProgress(t, acceleration=.16, cruise=.18, deceleration=.66){
 
 const plugin={
   id:'wheel',title:'命运转盘',sortOrder:4,icon:'wheel',color:'#d4af61',minPlayers:2,maxPlayers:12,supportsAdult:true,
-  estimatedTime:'30 秒',shortDescription:'转动幸运轮盘，随机点亮一位玩家。',
-  description:'转动幸运轮盘，小球最终落在哪位玩家的色格，那位玩家就接受本轮惩罚。',
+  estimatedTime:'30 秒',shortDescription:'转动赌场轮盘，随机选出一位玩家。',
+  description:'转动轮盘，小球最终落在哪位玩家的色格，那位玩家就接受本轮惩罚。',
   phoneMode:'一人点击即可',resultMode:'轮盘随机选人',defaultSettings:{turns:5,level:'standard'},
   renderSetup(settings){
     return `<div class="setting-block"><div class="setting-label"><span>转动节奏</span><small>动画时长</small></div><div class="segmented" data-turns><button type="button" data-segment data-value="4" class="${settings.turns===4?'active':''}">轻快</button><button type="button" data-segment data-value="5" class="${settings.turns===5?'active':''}">标准</button><button type="button" data-segment data-value="7" class="${settings.turns===7?'active':''}">更久</button></div></div>`;
@@ -28,7 +28,7 @@ const plugin={
     const count=ctx.players.length,step=360/count;
     const pockets=ctx.players.map((_,index)=>`${index%2===0?RED:BLACK} ${index*step}deg ${(index+1)*step}deg`).join(',');
     const labels=ctx.players.map((player,index)=>`<span class="casino-pocket-label" style="--i:${index};--n:${count}"><b>${escapeHtml(player.name)}</b></span>`).join('');
-    root.innerHTML=`${stageHeader(plugin.title,`${count} 位玩家`)}<section class="game-stage centered casino-wheel-game"><div class="casino-felt"><div class="casino-wheel-assembly" data-assembly><span class="casino-top-marker" aria-hidden="true"></span><div class="casino-wood-rim"><div class="casino-gold-rim"><div class="casino-ball-track"><div class="casino-ball-orbit" data-ball-orbit><span class="casino-ball" data-ball></span></div><div class="casino-wheel-disc" data-wheel style="--step:${step}deg;--pockets:${pockets}">${labels}<span class="casino-inner-bowl"></span></div><div class="casino-spindle" aria-hidden="true"></div></div></div></div></div><p class="casino-hint">幸运轮盘会点亮一位玩家，决定本轮命运。</p><button class="button primary large casino-spin-button" data-spin>转动轮盘</button></section>`;
+    root.innerHTML=`${stageHeader(plugin.title,`${count} 位玩家`)}<section class="game-stage centered casino-wheel-game"><div class="casino-felt"><div class="casino-wheel-assembly" data-assembly><span class="casino-top-marker" aria-hidden="true"></span><div class="casino-wood-rim"><div class="casino-gold-rim"><div class="casino-ball-track"><div class="casino-ball-orbit" data-ball-orbit><span class="casino-ball" data-ball></span></div><div class="casino-wheel-disc" data-wheel style="--step:${step}deg;--pockets:${pockets}">${labels}<span class="casino-inner-bowl"></span></div><div class="casino-spindle" aria-hidden="true"></div></div></div></div></div><p class="casino-hint">小球落入的色格决定本轮玩家</p><button class="button primary large casino-spin-button" data-spin>转动轮盘</button></section>`;
     bindExit(root,ctx);
     const wheel=root.querySelector('[data-wheel]');
     const orbit=root.querySelector('[data-ball-orbit]');

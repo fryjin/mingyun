@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#090a10">
   <meta name="color-scheme" content="dark">
   <meta name="description" content="今晚谁遭殃：一部手机，多人共玩的离线派对游戏合集。">
-  <title>今晚谁遭殃 · Midnight Game Hall · V9.2.1</title>
+  <title>今晚谁遭殃 · Midnight Game Hall · V9.2.2</title>
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="icon" href="./icons/icon-192.png" sizes="192x192">
   <link rel="apple-touch-icon" href="./icons/icon-180.png">
@@ -15,8 +15,23 @@
   <link rel="stylesheet" href="./styles/games.css">
   <link rel="stylesheet" href="./styles/adult-plus.css">
   <link rel="stylesheet" href="./styles/ui-refresh.css">
-  <link rel="stylesheet" href="./styles/midnight-game-hall.css?v=9.2.1">
-  <script type="module" src="./src/main.js"></script>
+  <link rel="stylesheet" href="./styles/midnight-game-hall.css?v=9.2.2">
+  <script type="module">
+    (async () => {
+      const BUILD = 'v9.2.2-logic-lock';
+      try {
+        const previous = localStorage.getItem('mingyun-build');
+        if (previous !== BUILD && 'caches' in window) {
+          const keys = await caches.keys();
+          await Promise.all(keys.filter(key => key.startsWith('party-game-')).map(key => caches.delete(key)));
+          localStorage.setItem('mingyun-build', BUILD);
+        }
+      } catch (error) {
+        console.warn('Build cache reset skipped', error);
+      }
+      await import(`./src/main.js?build=${BUILD}`);
+    })();
+  </script>
 </head>
 <body data-theme="midnight-game-hall">
   <div class="app-shell">
