@@ -32,7 +32,7 @@ for entry in special_manifest['files']:
         if 'text' in item: key=norm(item['text'])
         elif 'prompt' in item: key=norm(item['prompt'])
         elif 'instruction' in item: key=norm(item['instruction'])
-        elif 'optionA' in item: key=norm(item['optionA']+'|'+item['optionB'])
+        elif 'optionA' in item: key=norm(item.get('question','')+'|'+item['optionA']+'|'+item['optionB'])
         else: key=norm(item['civilian']+'|'+item['undercover'])
         composite=f'{data["game"]}:{key}'
         if composite in content: fail(f'专用内容正文重复：{item["id"]}')
@@ -40,9 +40,16 @@ for entry in special_manifest['files']:
 if len(special)!=2500: fail(f'专用内容总量应为2500，实际{len(special)}')
 for game in ['most-likely','would-rather','five-second','king','undercover']:
     if game_counts.get(game)!=500: fail(f'{game} 应为500，实际{game_counts.get(game)}')
-# V9.1.1 interaction and content regression checks
+# V9.1.2 interaction and content regression checks
 wr=(ROOT/'src/games/would-rather.js').read_text(encoding='utf-8')
 if 'data-value="random"' in wr or 'data-value="discuss"' in wr: fail('二选一仍包含多余结算规则')
+for entry in special_manifest['files']:
+    if entry['game']!='would-rather': continue
+    data=json.loads((ROOT/entry['file']).read_text(encoding='utf-8'))
+    for item in data['items']:
+        if not item.get('question'): fail(f'二选一缺少情境问题：{item["id"]}')
+        if norm(item.get('optionA'))==norm(item.get('optionB')): fail(f'二选一选项相同：{item["id"]}')
+
 hp=(ROOT/'src/games/hot-potato.js').read_text(encoding='utf-8')
 if 'data-value="random"' in hp: fail('炸弹传递仍包含随机方向')
 if '当前持有者</span><h2>' in hp: fail('炸弹传递仍显示具体持有者')
@@ -50,11 +57,20 @@ uc=(ROOT/'src/games/undercover.js').read_text(encoding='utf-8')
 if '你的身份' in uc or 'role-name' in uc: fail('谁是卧底私密页仍显示身份')
 for item in special:
     if item.get('id','').startswith('uc-'):
-        joined=item.get('civilian','')+'|'+item.get('undercover','')
-        if any(bad in joined for bad in ['日常温柔','旅行温柔','深夜的深夜']): fail(f'谁是卧底包含机械组合：{item["id"]}')
+        for field in ('civilian','undercover'):
+            word=str(item.get(field,''))
+            if not (1<=len(word)<=4): fail(f'谁是卧底不是1-4字短词：{item["id"]} {field}={word}')
+            if re.search(r'[\s，。！？、：“”‘’；（）()《》【】…—-]',word): fail(f'谁是卧底包含句式符号：{item["id"]}')
+
+store=(ROOT/'src/core/store.js').read_text(encoding='utf-8')
+sheet=(ROOT/'src/modules/game-sheet.js').read_text(encoding='utf-8')
+if 'export function startGame' not in store or "closeOverlay();startGame(game.id,next)" not in sheet: fail('开始游戏仍可能先渲染大厅再进入游戏')
+wheel=(ROOT/'src/games/wheel.js').read_text(encoding='utf-8')
+for token in ('casino-wood-rim','casino-gold-rim','casino-ball-orbit','casino-wheel-disc'):
+    if token not in wheel: fail(f'赌场转盘结构缺失：{token}')
 sw=(ROOT/'sw.js').read_text(encoding='utf-8')
-if 'party-game-v9.1.1' not in sw: fail('Service Worker 缓存版本不正确')
-report={'version':'v9.1.1','sharedQuestions':len(shared),'specializedContent':len(special),'enabledContentTotal':len(shared)+len(special),'gameCounts':game_counts,'errors':errors,'status':'PASS' if not errors else 'FAIL'}
+if 'party-game-v9.1.2' not in sw: fail('Service Worker 缓存版本不正确')
+report={'version':'v9.1.2','sharedQuestions':len(shared),'specializedContent':len(special),'enabledContentTotal':len(shared)+len(special),'gameCounts':game_counts,'errors':errors,'status':'PASS' if not errors else 'FAIL'}
 (ROOT/'validation-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
 print(json.dumps(report,ensure_ascii=False,indent=2))
 sys.exit(1 if errors else 0)

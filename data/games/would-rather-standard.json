@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.1-2026.08",
+  "bankVersion": "v9.1.2-2026.08",
   "game": "would-rather",
   "level": "standard",
   "levelLabel": "标准",
@@ -10,128 +10,146 @@
     {
       "id": "wr-standard-0001",
       "level": "standard",
-      "optionA": "知道别人真实评价",
-      "optionB": "永远不知道别人评价",
-      "theme": "生活选择"
+      "question": "朋友迟到半小时却没提前说，你会怎么处理？",
+      "optionA": "当场表达不满",
+      "optionB": "先听对方解释",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0002",
       "level": "standard",
-      "optionA": "做喜欢但收入普通的工作",
-      "optionB": "做不喜欢但收入很高的工作",
-      "theme": "生活选择"
+      "question": "同事把你的想法说成自己的，你会怎么做？",
+      "optionA": "直接指出",
+      "optionB": "私下沟通",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0003",
       "level": "standard",
-      "optionA": "和朋友坦白一切",
-      "optionB": "保留一部分秘密",
-      "theme": "生活选择"
+      "question": "群聊里出现尴尬冷场，你会怎么处理？",
+      "optionA": "主动找新话题",
+      "optionB": "安静等别人说",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0004",
       "level": "standard",
-      "optionA": "先道歉但不认同",
-      "optionB": "坚持等对方先开口",
-      "theme": "生活选择"
+      "question": "朋友向你借一笔不小的钱，你会怎么选？",
+      "optionA": "直接借给他",
+      "optionB": "婉拒不借",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0005",
       "level": "standard",
-      "optionA": "拥有稳定生活",
-      "optionB": "拥有充满变化的生活",
-      "theme": "生活选择"
+      "question": "别人误会了你的意思，你会怎么做？",
+      "optionA": "马上解释清楚",
+      "optionB": "等情绪过去再说",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0006",
       "level": "standard",
-      "optionA": "被误解但不解释",
-      "optionB": "解释到对方理解",
-      "theme": "生活选择"
+      "question": "聚会中有人一直打断你说话，你会怎么处理？",
+      "optionA": "当场提醒",
+      "optionB": "之后单独提醒",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0007",
       "level": "standard",
-      "optionA": "说真话伤人",
-      "optionB": "说善意谎言",
-      "theme": "生活选择"
+      "question": "你发现朋友被人背后议论，会怎么做？",
+      "optionA": "立刻告诉朋友",
+      "optionB": "暂时不提",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0008",
       "level": "standard",
-      "optionA": "成为团队领导",
-      "optionB": "成为自由执行者",
-      "theme": "生活选择"
+      "question": "一个机会很有挑战但回报不错，你会怎么选？",
+      "optionA": "冒险尝试",
+      "optionB": "选择稳妥方案",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0009",
       "level": "standard",
-      "optionA": "提前知道结果",
-      "optionB": "保留所有惊喜",
-      "theme": "生活选择"
+      "question": "团队意见分成两派时，你会怎么做？",
+      "optionA": "坚持自己的方案",
+      "optionB": "主动寻求折中",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0010",
       "level": "standard",
-      "optionA": "删除所有旧照片",
-      "optionB": "保留所有聊天记录",
-      "theme": "生活选择"
+      "question": "朋友问你对他新发型的真实看法，你会怎么说？",
+      "optionA": "直说真实感受",
+      "optionB": "先夸优点",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0011",
       "level": "standard",
-      "optionA": "失去社交媒体",
-      "optionB": "失去短视频",
-      "theme": "生活选择"
+      "question": "计划好的旅行突然遇到坏天气，你会怎么做？",
+      "optionA": "继续按计划走",
+      "optionB": "临时改变行程",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0012",
       "level": "standard",
-      "optionA": "永远准时但匆忙",
-      "optionB": "偶尔迟到但从容",
-      "theme": "生活选择"
+      "question": "收到一条让你不舒服的玩笑，你会怎么回应？",
+      "optionA": "马上表明边界",
+      "optionB": "先假装没事",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0013",
       "level": "standard",
-      "optionA": "公开表达情绪",
-      "optionB": "独自消化情绪",
-      "theme": "生活选择"
+      "question": "社交场合遇到不熟的人，你会怎么做？",
+      "optionA": "主动搭话",
+      "optionB": "等对方开口",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0014",
       "level": "standard",
-      "optionA": "被很多人喜欢",
-      "optionB": "被少数人真正理解",
-      "theme": "生活选择"
+      "question": "工作出错但暂时没人发现，你会怎么处理？",
+      "optionA": "主动承认",
+      "optionB": "先自己补救",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0015",
       "level": "standard",
-      "optionA": "先做再调整",
-      "optionB": "想清楚再开始",
-      "theme": "生活选择"
+      "question": "朋友和你意见完全相反，你会怎么交流？",
+      "optionA": "继续说服对方",
+      "optionB": "尊重差异结束话题",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0016",
       "level": "standard",
-      "optionA": "为了关系妥协",
-      "optionB": "坚持个人边界",
-      "theme": "生活选择"
+      "question": "有人在公开场合夸你，你会怎么回应？",
+      "optionA": "大方接受",
+      "optionB": "谦虚带过",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0017",
       "level": "standard",
-      "optionA": "重来一次过去",
-      "optionB": "提前看见未来",
-      "theme": "生活选择"
+      "question": "一件事必须今天完成，你会怎么安排？",
+      "optionA": "先做最难的",
+      "optionB": "先做最简单的",
+      "theme": "情境选择"
     },
     {
       "id": "wr-standard-0018",
       "level": "standard",
-      "optionA": "获得一次完美机会",
-      "optionB": "拥有持续的小幸运",
-      "theme": "生活选择"
+      "question": "你发现自己答应了不想去的活动，会怎么做？",
+      "optionA": "如约参加",
+      "optionB": "提前取消",
+      "theme": "情境选择"
     }
   ]
 }

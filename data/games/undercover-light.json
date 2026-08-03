@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.1.1-2026.08",
+  "bankVersion": "v9.1.2-2026.08",
   "game": "undercover",
   "level": "light",
   "levelLabel": "轻松",
@@ -10,642 +10,642 @@
     {
       "id": "uc-light-0001",
       "level": "light",
-      "civilian": "咖啡",
-      "undercover": "奶茶",
+      "civilian": "苹果",
+      "undercover": "梨",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0002",
       "level": "light",
-      "civilian": "猫",
-      "undercover": "狗",
+      "civilian": "梨",
+      "undercover": "桃子",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0003",
       "level": "light",
-      "civilian": "苹果",
-      "undercover": "梨",
+      "civilian": "桃子",
+      "undercover": "橘子",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0004",
       "level": "light",
-      "civilian": "地铁",
-      "undercover": "公交",
+      "civilian": "橘子",
+      "undercover": "葡萄",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0005",
       "level": "light",
-      "civilian": "雨伞",
-      "undercover": "雨衣",
+      "civilian": "葡萄",
+      "undercover": "草莓",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0006",
       "level": "light",
-      "civilian": "蛋糕",
-      "undercover": "面包",
+      "civilian": "草莓",
+      "undercover": "西瓜",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0007",
       "level": "light",
-      "civilian": "钢琴",
-      "undercover": "吉他",
+      "civilian": "西瓜",
+      "undercover": "芒果",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0008",
       "level": "light",
-      "civilian": "海边",
-      "undercover": "湖边",
+      "civilian": "芒果",
+      "undercover": "香蕉",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0009",
       "level": "light",
-      "civilian": "电影",
-      "undercover": "电视剧",
+      "civilian": "香蕉",
+      "undercover": "樱桃",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0010",
       "level": "light",
-      "civilian": "火锅",
-      "undercover": "烧烤",
+      "civilian": "苹果",
+      "undercover": "桃子",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0011",
       "level": "light",
-      "civilian": "微信",
-      "undercover": "短信",
+      "civilian": "梨",
+      "undercover": "橘子",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0012",
       "level": "light",
-      "civilian": "拖鞋",
-      "undercover": "凉鞋",
+      "civilian": "桃子",
+      "undercover": "葡萄",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0013",
       "level": "light",
-      "civilian": "冰箱",
-      "undercover": "空调",
+      "civilian": "橘子",
+      "undercover": "草莓",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0014",
       "level": "light",
-      "civilian": "医生",
-      "undercover": "护士",
+      "civilian": "葡萄",
+      "undercover": "西瓜",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0015",
       "level": "light",
-      "civilian": "篮球",
-      "undercover": "足球",
+      "civilian": "草莓",
+      "undercover": "芒果",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0016",
       "level": "light",
-      "civilian": "橙子",
-      "undercover": "橘子",
+      "civilian": "西瓜",
+      "undercover": "香蕉",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0017",
       "level": "light",
-      "civilian": "森林",
-      "undercover": "草原",
+      "civilian": "芒果",
+      "undercover": "樱桃",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0018",
       "level": "light",
-      "civilian": "月亮",
-      "undercover": "星星",
+      "civilian": "苹果",
+      "undercover": "橘子",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0019",
       "level": "light",
-      "civilian": "相机",
-      "undercover": "手机",
+      "civilian": "梨",
+      "undercover": "葡萄",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0020",
       "level": "light",
-      "civilian": "铅笔",
-      "undercover": "钢笔",
+      "civilian": "桃子",
+      "undercover": "草莓",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0021",
       "level": "light",
-      "civilian": "可乐",
-      "undercover": "雪碧",
+      "civilian": "橘子",
+      "undercover": "西瓜",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0022",
       "level": "light",
-      "civilian": "米饭",
-      "undercover": "面条",
+      "civilian": "葡萄",
+      "undercover": "芒果",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0023",
       "level": "light",
-      "civilian": "西瓜",
-      "undercover": "哈密瓜",
+      "civilian": "草莓",
+      "undercover": "香蕉",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0024",
       "level": "light",
-      "civilian": "草莓",
+      "civilian": "西瓜",
       "undercover": "樱桃",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0025",
       "level": "light",
-      "civilian": "汉堡",
-      "undercover": "三明治",
+      "civilian": "咖啡",
+      "undercover": "奶茶",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0026",
       "level": "light",
-      "civilian": "饺子",
-      "undercover": "馄饨",
+      "civilian": "奶茶",
+      "undercover": "果汁",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0027",
       "level": "light",
-      "civilian": "豆浆",
-      "undercover": "牛奶",
+      "civilian": "果汁",
+      "undercover": "可乐",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0028",
       "level": "light",
-      "civilian": "冰淇淋",
-      "undercover": "雪糕",
+      "civilian": "可乐",
+      "undercover": "汽水",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0029",
       "level": "light",
-      "civilian": "电梯",
-      "undercover": "楼梯",
+      "civilian": "汽水",
+      "undercover": "豆浆",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0030",
       "level": "light",
-      "civilian": "火车",
-      "undercover": "高铁",
+      "civilian": "豆浆",
+      "undercover": "牛奶",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0031",
       "level": "light",
-      "civilian": "自行车",
-      "undercover": "电动车",
+      "civilian": "牛奶",
+      "undercover": "红茶",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0032",
       "level": "light",
-      "civilian": "出租车",
-      "undercover": "网约车",
+      "civilian": "红茶",
+      "undercover": "绿茶",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0033",
       "level": "light",
-      "civilian": "飞机",
-      "undercover": "轮船",
+      "civilian": "绿茶",
+      "undercover": "椰汁",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0034",
       "level": "light",
-      "civilian": "公园",
-      "undercover": "广场",
+      "civilian": "咖啡",
+      "undercover": "果汁",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0035",
       "level": "light",
-      "civilian": "动物园",
-      "undercover": "植物园",
+      "civilian": "奶茶",
+      "undercover": "可乐",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0036",
       "level": "light",
-      "civilian": "超市",
-      "undercover": "便利店",
+      "civilian": "果汁",
+      "undercover": "汽水",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0037",
       "level": "light",
-      "civilian": "图书馆",
-      "undercover": "书店",
+      "civilian": "可乐",
+      "undercover": "豆浆",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0038",
       "level": "light",
-      "civilian": "游乐园",
-      "undercover": "水上乐园",
+      "civilian": "汽水",
+      "undercover": "牛奶",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0039",
       "level": "light",
-      "civilian": "酒店",
-      "undercover": "民宿",
+      "civilian": "豆浆",
+      "undercover": "红茶",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0040",
       "level": "light",
-      "civilian": "厨房",
-      "undercover": "餐厅",
+      "civilian": "牛奶",
+      "undercover": "绿茶",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0041",
       "level": "light",
-      "civilian": "沙发",
-      "undercover": "床",
+      "civilian": "红茶",
+      "undercover": "椰汁",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0042",
       "level": "light",
-      "civilian": "被子",
-      "undercover": "毛毯",
+      "civilian": "咖啡",
+      "undercover": "可乐",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0043",
       "level": "light",
-      "civilian": "牙刷",
-      "undercover": "梳子",
+      "civilian": "奶茶",
+      "undercover": "汽水",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0044",
       "level": "light",
-      "civilian": "洗衣机",
-      "undercover": "烘干机",
+      "civilian": "果汁",
+      "undercover": "豆浆",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0045",
       "level": "light",
-      "civilian": "电视",
-      "undercover": "投影仪",
+      "civilian": "可乐",
+      "undercover": "牛奶",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0046",
       "level": "light",
-      "civilian": "鼠标",
-      "undercover": "键盘",
+      "civilian": "汽水",
+      "undercover": "红茶",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0047",
       "level": "light",
-      "civilian": "耳机",
-      "undercover": "音响",
+      "civilian": "豆浆",
+      "undercover": "绿茶",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0048",
       "level": "light",
-      "civilian": "手表",
-      "undercover": "闹钟",
+      "civilian": "牛奶",
+      "undercover": "椰汁",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0049",
       "level": "light",
-      "civilian": "背包",
-      "undercover": "行李箱",
+      "civilian": "米饭",
+      "undercover": "面条",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0050",
       "level": "light",
-      "civilian": "帽子",
-      "undercover": "围巾",
+      "civilian": "面条",
+      "undercover": "馒头",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0051",
       "level": "light",
-      "civilian": "衬衫",
-      "undercover": "外套",
+      "civilian": "馒头",
+      "undercover": "包子",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0052",
       "level": "light",
-      "civilian": "裙子",
-      "undercover": "裤子",
+      "civilian": "包子",
+      "undercover": "饺子",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0053",
       "level": "light",
-      "civilian": "运动鞋",
-      "undercover": "皮鞋",
+      "civilian": "饺子",
+      "undercover": "馄饨",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0054",
       "level": "light",
-      "civilian": "口红",
-      "undercover": "粉底",
+      "civilian": "馄饨",
+      "undercover": "粥",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0055",
       "level": "light",
-      "civilian": "肥皂",
-      "undercover": "洗面奶",
+      "civilian": "粥",
+      "undercover": "炒饭",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0056",
       "level": "light",
-      "civilian": "铅笔盒",
-      "undercover": "书包",
+      "civilian": "炒饭",
+      "undercover": "披萨",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0057",
       "level": "light",
-      "civilian": "黑板",
-      "undercover": "白板",
+      "civilian": "披萨",
+      "undercover": "汉堡",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0058",
       "level": "light",
-      "civilian": "课本",
-      "undercover": "练习册",
+      "civilian": "米饭",
+      "undercover": "馒头",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0059",
       "level": "light",
-      "civilian": "老师",
-      "undercover": "教练",
+      "civilian": "面条",
+      "undercover": "包子",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0060",
       "level": "light",
-      "civilian": "同学",
-      "undercover": "同事",
+      "civilian": "馒头",
+      "undercover": "饺子",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0061",
       "level": "light",
-      "civilian": "唱歌",
-      "undercover": "跳舞",
+      "civilian": "包子",
+      "undercover": "馄饨",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0062",
       "level": "light",
-      "civilian": "跑步",
-      "undercover": "游泳",
+      "civilian": "饺子",
+      "undercover": "粥",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0063",
       "level": "light",
-      "civilian": "羽毛球",
-      "undercover": "乒乓球",
+      "civilian": "馄饨",
+      "undercover": "炒饭",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0064",
       "level": "light",
-      "civilian": "爬山",
-      "undercover": "露营",
+      "civilian": "粥",
+      "undercover": "披萨",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0065",
       "level": "light",
-      "civilian": "拍照",
-      "undercover": "录像",
+      "civilian": "炒饭",
+      "undercover": "汉堡",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0066",
       "level": "light",
-      "civilian": "画画",
-      "undercover": "写字",
+      "civilian": "米饭",
+      "undercover": "包子",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0067",
       "level": "light",
-      "civilian": "看书",
-      "undercover": "听歌",
+      "civilian": "面条",
+      "undercover": "饺子",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0068",
       "level": "light",
-      "civilian": "做饭",
-      "undercover": "点外卖",
+      "civilian": "馒头",
+      "undercover": "馄饨",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0069",
       "level": "light",
-      "civilian": "早饭",
-      "undercover": "夜宵",
+      "civilian": "包子",
+      "undercover": "粥",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0070",
       "level": "light",
-      "civilian": "春天",
-      "undercover": "秋天",
+      "civilian": "饺子",
+      "undercover": "炒饭",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0071",
       "level": "light",
-      "civilian": "夏天",
-      "undercover": "冬天",
+      "civilian": "馄饨",
+      "undercover": "披萨",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0072",
       "level": "light",
-      "civilian": "晴天",
-      "undercover": "阴天",
+      "civilian": "粥",
+      "undercover": "汉堡",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0073",
       "level": "light",
-      "civilian": "日出",
-      "undercover": "日落",
+      "civilian": "猫",
+      "undercover": "狗",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0074",
       "level": "light",
-      "civilian": "城市",
-      "undercover": "乡村",
+      "civilian": "狗",
+      "undercover": "兔子",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0075",
       "level": "light",
-      "civilian": "南方",
-      "undercover": "北方",
+      "civilian": "兔子",
+      "undercover": "仓鼠",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0076",
       "level": "light",
-      "civilian": "白天",
-      "undercover": "夜晚",
+      "civilian": "仓鼠",
+      "undercover": "鹦鹉",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0077",
       "level": "light",
-      "civilian": "周末",
-      "undercover": "假期",
+      "civilian": "鹦鹉",
+      "undercover": "乌龟",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0078",
       "level": "light",
-      "civilian": "生日",
-      "undercover": "节日",
+      "civilian": "乌龟",
+      "undercover": "金鱼",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0079",
       "level": "light",
-      "civilian": "红色",
-      "undercover": "粉色",
+      "civilian": "金鱼",
+      "undercover": "刺猬",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-light-0080",
       "level": "light",
-      "civilian": "蓝色",
-      "undercover": "绿色",
+      "civilian": "刺猬",
+      "undercover": "松鼠",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     }
   ]
 }

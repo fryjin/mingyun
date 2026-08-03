@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.1-2026.08",
+  "bankVersion": "v9.1.2-2026.08",
   "game": "would-rather",
   "level": "light",
   "levelLabel": "轻松",
@@ -10,128 +10,146 @@
     {
       "id": "wr-light-0001",
       "level": "light",
-      "optionA": "永远喝热饮",
-      "optionB": "永远喝冰饮",
-      "theme": "生活选择"
+      "question": "周末突然空出半天，你会怎么安排？",
+      "optionA": "出门走走",
+      "optionB": "在家休息",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0002",
       "level": "light",
-      "optionA": "旅行只拍照片",
-      "optionB": "旅行只写日记",
-      "theme": "生活选择"
+      "question": "外卖送错了但也能吃，你会怎么做？",
+      "optionA": "联系商家重送",
+      "optionB": "将就吃掉",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0003",
       "level": "light",
-      "optionA": "住在海边",
-      "optionB": "住在山里",
-      "theme": "生活选择"
+      "question": "朋友临时约你出门，你会怎么选？",
+      "optionA": "马上答应",
+      "optionB": "婉拒留在家",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0004",
       "level": "light",
-      "optionA": "每天早起",
-      "optionB": "每天晚睡",
-      "theme": "生活选择"
+      "question": "旅行时遇到好看的风景，你会怎么做？",
+      "optionA": "先拍照记录",
+      "optionB": "先认真欣赏",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0005",
       "level": "light",
-      "optionA": "只能吃甜食",
-      "optionB": "只能吃咸食",
-      "theme": "生活选择"
+      "question": "早上闹钟响了，你通常会怎么做？",
+      "optionA": "立刻起床",
+      "optionB": "再睡十分钟",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0006",
       "level": "light",
-      "optionA": "拥有瞬间移动",
-      "optionB": "拥有读心术",
-      "theme": "生活选择"
+      "question": "看一部新电影前，你会怎么选？",
+      "optionA": "先看评分",
+      "optionB": "完全不看评价",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0007",
       "level": "light",
-      "optionA": "看电影不吃零食",
-      "optionB": "吃零食不看电影",
-      "theme": "生活选择"
+      "question": "吃火锅时只剩最后一块肉，你会怎么做？",
+      "optionA": "主动夹走",
+      "optionB": "留给别人",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0008",
       "level": "light",
-      "optionA": "一年不网购",
-      "optionB": "一年不点外卖",
-      "theme": "生活选择"
+      "question": "收到一份不太喜欢的礼物，你会怎么回应？",
+      "optionA": "直接说实话",
+      "optionB": "开心地收下",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0009",
       "level": "light",
-      "optionA": "永远晴天",
-      "optionB": "永远小雨",
-      "theme": "生活选择"
+      "question": "去一家陌生餐厅，你会怎么点菜？",
+      "optionA": "点招牌菜",
+      "optionB": "点熟悉的菜",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0010",
       "level": "light",
-      "optionA": "只听一首歌",
-      "optionB": "只看一部电影",
-      "theme": "生活选择"
+      "question": "手机只剩百分之五电量，你会怎么做？",
+      "optionA": "立刻找充电器",
+      "optionB": "继续用到关机",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0011",
       "level": "light",
-      "optionA": "去熟悉的地方旅行",
-      "optionB": "去完全陌生的地方旅行",
-      "theme": "生活选择"
+      "question": "下雨天没有带伞，你会怎么做？",
+      "optionA": "冒雨跑回去",
+      "optionB": "原地等雨小",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0012",
       "level": "light",
-      "optionA": "拥有猫的生活",
-      "optionB": "拥有狗的生活",
-      "theme": "生活选择"
+      "question": "朋友发来一条很长的语音，你会怎么处理？",
+      "optionA": "马上听完",
+      "optionB": "让他改成文字",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0013",
       "level": "light",
-      "optionA": "永远排队五分钟",
-      "optionB": "永远堵车十分钟",
-      "theme": "生活选择"
+      "question": "聚会需要选背景音乐，你会怎么选？",
+      "optionA": "放热门歌单",
+      "optionB": "放自己的私藏",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0014",
       "level": "light",
-      "optionA": "只用语音聊天",
-      "optionB": "只用文字聊天",
-      "theme": "生活选择"
+      "question": "买衣服时两个颜色都喜欢，你会怎么选？",
+      "optionA": "选亮色",
+      "optionB": "选深色",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0015",
       "level": "light",
-      "optionA": "拥有无限假期",
-      "optionB": "拥有无限预算",
-      "theme": "生活选择"
+      "question": "晚上突然很想吃夜宵，你会怎么做？",
+      "optionA": "马上点一份",
+      "optionB": "忍住不吃",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0016",
       "level": "light",
-      "optionA": "每周聚会一次",
-      "optionB": "每月长途旅行一次",
-      "theme": "生活选择"
+      "question": "遇到一只亲人的流浪猫，你会怎么做？",
+      "optionA": "蹲下摸摸它",
+      "optionB": "保持距离观察",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0017",
       "level": "light",
-      "optionA": "只吃家常菜",
-      "optionB": "只吃餐厅菜",
-      "theme": "生活选择"
+      "question": "排队时前面的人让你先走，你会怎么回应？",
+      "optionA": "直接接受",
+      "optionB": "礼貌拒绝",
+      "theme": "情境选择"
     },
     {
       "id": "wr-light-0018",
       "level": "light",
-      "optionA": "永远不迷路",
-      "optionB": "永远不忘事",
-      "theme": "生活选择"
+      "question": "拍合照时你更愿意站在哪里？",
+      "optionA": "站在中间",
+      "optionB": "站在边上",
+      "theme": "情境选择"
     }
   ]
 }

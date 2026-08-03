@@ -1,0 +1,29 @@
+{
+  "consoleErrors": [],
+  "pageErrors": [],
+  "checks": {
+    "lobbyCards": 8,
+    "wouldRatherDirect": true,
+    "question": "群聊里出现尴尬冷场，你会怎么处理？",
+    "choices": [
+      "A\n主动找新话题",
+      "B\n安静等别人说"
+    ],
+    "opposedChoices": true,
+    "wheelPockets": 6,
+    "casinoLayers": {
+      "wood": 1,
+      "gold": 1,
+      "ball": 1,
+      "spindle": 1
+    },
+    "wheelMoves": true,
+    "ballMoves": true,
+    "undercoverWord": "薯片",
+    "undercoverShort": true,
+    "undercoverLeaksRole": false,
+    "width360LobbyOverflow": false,
+    "width360WheelOverflow": false,
+    "width360WheelWidth": 300
+  }
+}

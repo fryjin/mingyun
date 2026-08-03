@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.1.1-2026.08",
+  "bankVersion": "v9.1.2-2026.08",
   "game": "undercover",
   "level": "adult",
   "levelLabel": "成人",
@@ -10,2082 +10,2082 @@
     {
       "id": "uc-adult-0001",
       "level": "adult",
-      "civilian": "主动表达喜欢",
-      "undercover": "含蓄暗示喜欢",
+      "civilian": "单身",
+      "undercover": "暧昧",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系状态"
     },
     {
       "id": "uc-adult-0002",
       "level": "adult",
-      "civilian": "主动牵手",
-      "undercover": "主动拥抱",
+      "civilian": "暧昧",
+      "undercover": "恋爱",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系状态"
     },
     {
       "id": "uc-adult-0003",
       "level": "adult",
-      "civilian": "用眼神表达",
-      "undercover": "用语言表达",
+      "civilian": "恋爱",
+      "undercover": "异地",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系状态"
     },
     {
       "id": "uc-adult-0004",
       "level": "adult",
-      "civilian": "公开偏爱对方",
-      "undercover": "私下照顾对方",
+      "civilian": "异地",
+      "undercover": "同居",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系状态"
     },
     {
       "id": "uc-adult-0005",
       "level": "adult",
-      "civilian": "追求安全感",
-      "undercover": "追求新鲜感",
+      "civilian": "同居",
+      "undercover": "婚姻",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系状态"
     },
     {
       "id": "uc-adult-0006",
       "level": "adult",
-      "civilian": "制造仪式感",
-      "undercover": "提供日常陪伴",
+      "civilian": "婚姻",
+      "undercover": "前任",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系状态"
     },
     {
       "id": "uc-adult-0007",
       "level": "adult",
-      "civilian": "主动联系对方",
-      "undercover": "等待对方回复",
+      "civilian": "前任",
+      "undercover": "伴侣",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系状态"
     },
     {
       "id": "uc-adult-0008",
       "level": "adult",
-      "civilian": "坦白全部心事",
-      "undercover": "保留个人空间",
+      "civilian": "伴侣",
+      "undercover": "单身",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系状态"
     },
     {
       "id": "uc-adult-0009",
       "level": "adult",
-      "civilian": "直接告白",
-      "undercover": "慢慢试探",
+      "civilian": "单身",
+      "undercover": "恋爱",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系状态"
     },
     {
       "id": "uc-adult-0010",
       "level": "adult",
-      "civilian": "一起旅行",
-      "undercover": "一起宅家",
+      "civilian": "暧昧",
+      "undercover": "异地",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系状态"
     },
     {
       "id": "uc-adult-0011",
       "level": "adult",
-      "civilian": "计划共同未来",
-      "undercover": "享受当下相处",
+      "civilian": "心动",
+      "undercover": "好感",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情绪感受"
     },
     {
       "id": "uc-adult-0012",
       "level": "adult",
-      "civilian": "说甜言蜜语",
-      "undercover": "用实际行动",
+      "civilian": "好感",
+      "undercover": "期待",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情绪感受"
     },
     {
       "id": "uc-adult-0013",
       "level": "adult",
-      "civilian": "接受对方照顾",
-      "undercover": "主动照顾对方",
+      "civilian": "期待",
+      "undercover": "安心",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情绪感受"
     },
     {
       "id": "uc-adult-0014",
       "level": "adult",
-      "civilian": "保留独处时间",
-      "undercover": "增加共同时间",
+      "civilian": "委屈",
+      "undercover": "嫉妒",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情绪感受"
     },
     {
       "id": "uc-adult-0015",
       "level": "adult",
-      "civilian": "制造浪漫惊喜",
-      "undercover": "保持稳定陪伴",
+      "civilian": "嫉妒",
+      "undercover": "心动",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情绪感受"
     },
     {
       "id": "uc-adult-0016",
       "level": "adult",
-      "civilian": "追求情绪共鸣",
-      "undercover": "坚持理性沟通",
+      "civilian": "心动",
+      "undercover": "期待",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情绪感受"
     },
     {
       "id": "uc-adult-0017",
       "level": "adult",
-      "civilian": "主动道歉",
-      "undercover": "先彼此冷静",
+      "civilian": "好感",
+      "undercover": "安心",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情绪感受"
     },
     {
       "id": "uc-adult-0018",
       "level": "adult",
-      "civilian": "及时回复消息",
-      "undercover": "认真安排见面",
+      "civilian": "期待",
+      "undercover": "紧张",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情绪感受"
     },
     {
       "id": "uc-adult-0019",
       "level": "adult",
-      "civilian": "公开确认恋情",
-      "undercover": "保持低调恋爱",
+      "civilian": "安心",
+      "undercover": "失落",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情绪感受"
     },
     {
       "id": "uc-adult-0020",
       "level": "adult",
-      "civilian": "使用亲密昵称",
-      "undercover": "使用正式称呼",
+      "civilian": "失落",
+      "undercover": "嫉妒",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情绪感受"
     },
     {
       "id": "uc-adult-0021",
       "level": "adult",
-      "civilian": "撒娇示弱",
-      "undercover": "冷静表达",
+      "civilian": "温柔",
+      "undercover": "浪漫",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格表达"
     },
     {
       "id": "uc-adult-0022",
       "level": "adult",
-      "civilian": "坦白吃醋",
-      "undercover": "选择信任",
+      "civilian": "浪漫",
+      "undercover": "坦率",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格表达"
     },
     {
       "id": "uc-adult-0023",
       "level": "adult",
-      "civilian": "掌控关系节奏",
-      "undercover": "顺其自然发展",
+      "civilian": "坦率",
+      "undercover": "理性",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格表达"
     },
     {
       "id": "uc-adult-0024",
       "level": "adult",
-      "civilian": "先说喜欢",
-      "undercover": "等对方开口",
+      "civilian": "感性",
+      "undercover": "主动",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格表达"
     },
     {
       "id": "uc-adult-0025",
       "level": "adult",
-      "civilian": "用拥抱安慰",
-      "undercover": "用语言安慰",
+      "civilian": "主动",
+      "undercover": "被动",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格表达"
     },
     {
       "id": "uc-adult-0026",
       "level": "adult",
-      "civilian": "长时间陪伴",
-      "undercover": "高质量短聚",
+      "civilian": "被动",
+      "undercover": "成熟",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格表达"
     },
     {
       "id": "uc-adult-0027",
       "level": "adult",
-      "civilian": "培养共同爱好",
-      "undercover": "保持互补性格",
+      "civilian": "成熟",
+      "undercover": "温柔",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格表达"
     },
     {
       "id": "uc-adult-0028",
       "level": "adult",
-      "civilian": "安排浪漫约会",
-      "undercover": "享受生活烟火",
+      "civilian": "温柔",
+      "undercover": "坦率",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格表达"
     },
     {
       "id": "uc-adult-0029",
       "level": "adult",
-      "civilian": "相信心动感觉",
-      "undercover": "考虑合适条件",
+      "civilian": "浪漫",
+      "undercover": "理性",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格表达"
     },
     {
       "id": "uc-adult-0030",
       "level": "adult",
-      "civilian": "保持一点神秘",
-      "undercover": "做到完全坦诚",
+      "civilian": "坦率",
+      "undercover": "感性",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格表达"
     },
     {
       "id": "uc-adult-0031",
       "level": "adult",
-      "civilian": "频繁保持联系",
-      "undercover": "维持适度距离",
+      "civilian": "冷战",
+      "undercover": "争吵",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系波动"
     },
     {
       "id": "uc-adult-0032",
       "level": "adult",
-      "civilian": "当面说清楚",
-      "undercover": "用文字说清楚",
+      "civilian": "争吵",
+      "undercover": "误会",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系波动"
     },
     {
       "id": "uc-adult-0033",
       "level": "adult",
-      "civilian": "主动发出邀请",
-      "undercover": "等待被邀请",
+      "civilian": "误会",
+      "undercover": "隔阂",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系波动"
     },
     {
       "id": "uc-adult-0034",
       "level": "adult",
-      "civilian": "一起参加社交",
-      "undercover": "享受二人世界",
+      "civilian": "隔阂",
+      "undercover": "分手",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系波动"
     },
     {
       "id": "uc-adult-0035",
       "level": "adult",
-      "civilian": "分享日常细节",
-      "undercover": "分享内心秘密",
+      "civilian": "分手",
+      "undercover": "复合",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系波动"
     },
     {
       "id": "uc-adult-0036",
       "level": "adult",
-      "civilian": "立即解决矛盾",
-      "undercover": "过后冷静再谈",
+      "civilian": "复合",
+      "undercover": "疏远",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系波动"
     },
     {
       "id": "uc-adult-0037",
       "level": "adult",
-      "civilian": "明确关系",
-      "undercover": "保持暧昧",
+      "civilian": "疏远",
+      "undercover": "依赖",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系波动"
     },
     {
       "id": "uc-adult-0038",
       "level": "adult",
-      "civilian": "给出明确承诺",
-      "undercover": "用行动慢慢证明",
+      "civilian": "依赖",
+      "undercover": "冷战",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系波动"
     },
     {
       "id": "uc-adult-0039",
       "level": "adult",
-      "civilian": "接受对方缺点",
-      "undercover": "推动彼此改变",
+      "civilian": "冷战",
+      "undercover": "误会",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系波动"
     },
     {
       "id": "uc-adult-0040",
       "level": "adult",
-      "civilian": "陪伴对方低谷",
-      "undercover": "庆祝对方高光",
+      "civilian": "争吵",
+      "undercover": "隔阂",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系波动"
     },
     {
       "id": "uc-adult-0041",
       "level": "adult",
-      "civilian": "一起成长",
-      "undercover": "互相包容",
+      "civilian": "咖啡馆",
+      "undercover": "电影院",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "约会场景"
     },
     {
       "id": "uc-adult-0042",
       "level": "adult",
-      "civilian": "直球示爱",
-      "undercover": "含蓄撩拨",
+      "civilian": "电影院",
+      "undercover": "海边",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "约会场景"
     },
     {
       "id": "uc-adult-0043",
       "level": "adult",
-      "civilian": "使用专属称呼",
-      "undercover": "公开称赞对方",
+      "civilian": "海边",
+      "undercover": "夜市",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "约会场景"
     },
     {
       "id": "uc-adult-0044",
       "level": "adult",
-      "civilian": "临时制造惊喜",
-      "undercover": "提前做好计划",
+      "civilian": "夜市",
+      "undercover": "公园",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "约会场景"
     },
     {
       "id": "uc-adult-0045",
       "level": "adult",
-      "civilian": "依赖对方",
-      "undercover": "保持独立",
+      "civilian": "公园",
+      "undercover": "餐厅",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "约会场景"
     },
     {
       "id": "uc-adult-0046",
       "level": "adult",
-      "civilian": "认真倾听",
-      "undercover": "主动给建议",
+      "civilian": "餐厅",
+      "undercover": "露台",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "约会场景"
     },
     {
       "id": "uc-adult-0047",
       "level": "adult",
-      "civilian": "表达占有欲",
-      "undercover": "尊重彼此边界",
+      "civilian": "露台",
+      "undercover": "湖畔",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "约会场景"
     },
     {
       "id": "uc-adult-0048",
       "level": "adult",
-      "civilian": "深夜长聊",
-      "undercover": "白天见面",
+      "civilian": "湖畔",
+      "undercover": "咖啡馆",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "约会场景"
     },
     {
       "id": "uc-adult-0049",
       "level": "adult",
-      "civilian": "追求长久稳定",
-      "undercover": "享受短暂热烈",
+      "civilian": "咖啡馆",
+      "undercover": "海边",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "约会场景"
     },
     {
       "id": "uc-adult-0050",
       "level": "adult",
-      "civilian": "主动靠近",
-      "undercover": "等待对方靠近",
+      "civilian": "电影院",
+      "undercover": "夜市",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "约会场景"
     },
     {
       "id": "uc-adult-0051",
       "level": "adult",
-      "civilian": "分享手机密码",
-      "undercover": "保留个人隐私",
+      "civilian": "鲜花",
+      "undercover": "情书",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "纪念礼物"
     },
     {
       "id": "uc-adult-0052",
       "level": "adult",
-      "civilian": "先见朋友",
-      "undercover": "先见家人",
+      "civilian": "情书",
+      "undercover": "戒指",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "纪念礼物"
     },
     {
       "id": "uc-adult-0053",
       "level": "adult",
-      "civilian": "更愿意主动表达喜欢",
-      "undercover": "更愿意含蓄暗示喜欢",
+      "civilian": "戒指",
+      "undercover": "香水",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "纪念礼物"
     },
     {
       "id": "uc-adult-0054",
       "level": "adult",
-      "civilian": "更愿意主动牵手",
-      "undercover": "更愿意主动拥抱",
+      "civilian": "香水",
+      "undercover": "照片",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "纪念礼物"
     },
     {
       "id": "uc-adult-0055",
       "level": "adult",
-      "civilian": "更愿意用眼神表达",
-      "undercover": "更愿意用语言表达",
+      "civilian": "照片",
+      "undercover": "礼物",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "纪念礼物"
     },
     {
       "id": "uc-adult-0056",
       "level": "adult",
-      "civilian": "更愿意公开偏爱对方",
-      "undercover": "更愿意私下照顾对方",
+      "civilian": "礼物",
+      "undercover": "蛋糕",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "纪念礼物"
     },
     {
       "id": "uc-adult-0057",
       "level": "adult",
-      "civilian": "更愿意追求安全感",
-      "undercover": "更愿意追求新鲜感",
+      "civilian": "蛋糕",
+      "undercover": "手链",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "纪念礼物"
     },
     {
       "id": "uc-adult-0058",
       "level": "adult",
-      "civilian": "更愿意制造仪式感",
-      "undercover": "更愿意提供日常陪伴",
+      "civilian": "手链",
+      "undercover": "鲜花",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "纪念礼物"
     },
     {
       "id": "uc-adult-0059",
       "level": "adult",
-      "civilian": "更愿意主动联系对方",
-      "undercover": "更愿意等待对方回复",
+      "civilian": "鲜花",
+      "undercover": "戒指",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "纪念礼物"
     },
     {
       "id": "uc-adult-0060",
       "level": "adult",
-      "civilian": "更愿意坦白全部心事",
-      "undercover": "更愿意保留个人空间",
+      "civilian": "情书",
+      "undercover": "香水",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "纪念礼物"
     },
     {
       "id": "uc-adult-0061",
       "level": "adult",
-      "civilian": "更愿意直接告白",
-      "undercover": "更愿意慢慢试探",
+      "civilian": "电话",
+      "undercover": "语音",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "沟通方式"
     },
     {
       "id": "uc-adult-0062",
       "level": "adult",
-      "civilian": "更愿意一起旅行",
-      "undercover": "更愿意一起宅家",
+      "civilian": "语音",
+      "undercover": "短信",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "沟通方式"
     },
     {
       "id": "uc-adult-0063",
       "level": "adult",
-      "civilian": "更愿意计划共同未来",
-      "undercover": "更愿意享受当下相处",
+      "civilian": "短信",
+      "undercover": "视频",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "沟通方式"
     },
     {
       "id": "uc-adult-0064",
       "level": "adult",
-      "civilian": "更愿意说甜言蜜语",
-      "undercover": "更愿意用实际行动",
+      "civilian": "视频",
+      "undercover": "留言",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "沟通方式"
     },
     {
       "id": "uc-adult-0065",
       "level": "adult",
-      "civilian": "更愿意接受对方照顾",
-      "undercover": "更愿意主动照顾对方",
+      "civilian": "留言",
+      "undercover": "私信",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "沟通方式"
     },
     {
       "id": "uc-adult-0066",
       "level": "adult",
-      "civilian": "更愿意保留独处时间",
-      "undercover": "更愿意增加共同时间",
+      "civilian": "私信",
+      "undercover": "邮件",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "沟通方式"
     },
     {
       "id": "uc-adult-0067",
       "level": "adult",
-      "civilian": "更愿意制造浪漫惊喜",
-      "undercover": "更愿意保持稳定陪伴",
+      "civilian": "邮件",
+      "undercover": "动态",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "沟通方式"
     },
     {
       "id": "uc-adult-0068",
       "level": "adult",
-      "civilian": "更愿意追求情绪共鸣",
-      "undercover": "更愿意坚持理性沟通",
+      "civilian": "动态",
+      "undercover": "电话",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "沟通方式"
     },
     {
       "id": "uc-adult-0069",
       "level": "adult",
-      "civilian": "更愿意主动道歉",
-      "undercover": "更愿意先彼此冷静",
+      "civilian": "电话",
+      "undercover": "短信",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "沟通方式"
     },
     {
       "id": "uc-adult-0070",
       "level": "adult",
-      "civilian": "更愿意及时回复消息",
-      "undercover": "更愿意认真安排见面",
+      "civilian": "语音",
+      "undercover": "视频",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "沟通方式"
     },
     {
       "id": "uc-adult-0071",
       "level": "adult",
-      "civilian": "更愿意公开确认恋情",
-      "undercover": "更愿意保持低调恋爱",
+      "civilian": "清晨",
+      "undercover": "深夜",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "时间氛围"
     },
     {
       "id": "uc-adult-0072",
       "level": "adult",
-      "civilian": "更愿意使用亲密昵称",
-      "undercover": "更愿意使用正式称呼",
+      "civilian": "深夜",
+      "undercover": "周末",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "时间氛围"
     },
     {
       "id": "uc-adult-0073",
       "level": "adult",
-      "civilian": "更愿意撒娇示弱",
-      "undercover": "更愿意冷静表达",
+      "civilian": "周末",
+      "undercover": "生日",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "时间氛围"
     },
     {
       "id": "uc-adult-0074",
       "level": "adult",
-      "civilian": "更愿意坦白吃醋",
-      "undercover": "更愿意选择信任",
+      "civilian": "生日",
+      "undercover": "节日",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "时间氛围"
     },
     {
       "id": "uc-adult-0075",
       "level": "adult",
-      "civilian": "更愿意掌控关系节奏",
-      "undercover": "更愿意顺其自然发展",
+      "civilian": "节日",
+      "undercover": "黄昏",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "时间氛围"
     },
     {
       "id": "uc-adult-0076",
       "level": "adult",
-      "civilian": "更愿意先说喜欢",
-      "undercover": "更愿意等对方开口",
+      "civilian": "黄昏",
+      "undercover": "雨天",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "时间氛围"
     },
     {
       "id": "uc-adult-0077",
       "level": "adult",
-      "civilian": "更愿意用拥抱安慰",
-      "undercover": "更愿意用语言安慰",
+      "civilian": "雨天",
+      "undercover": "冬夜",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "时间氛围"
     },
     {
       "id": "uc-adult-0078",
       "level": "adult",
-      "civilian": "更愿意长时间陪伴",
-      "undercover": "更愿意高质量短聚",
+      "civilian": "冬夜",
+      "undercover": "清晨",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "时间氛围"
     },
     {
       "id": "uc-adult-0079",
       "level": "adult",
-      "civilian": "更愿意培养共同爱好",
-      "undercover": "更愿意保持互补性格",
+      "civilian": "清晨",
+      "undercover": "周末",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "时间氛围"
     },
     {
       "id": "uc-adult-0080",
       "level": "adult",
-      "civilian": "更愿意安排浪漫约会",
-      "undercover": "更愿意享受生活烟火",
+      "civilian": "深夜",
+      "undercover": "生日",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "时间氛围"
     },
     {
       "id": "uc-adult-0081",
       "level": "adult",
-      "civilian": "更愿意相信心动感觉",
-      "undercover": "更愿意考虑合适条件",
+      "civilian": "山顶",
+      "undercover": "街角",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "旅行地点"
     },
     {
       "id": "uc-adult-0082",
       "level": "adult",
-      "civilian": "更愿意保持一点神秘",
-      "undercover": "更愿意做到完全坦诚",
+      "civilian": "街角",
+      "undercover": "车站",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "旅行地点"
     },
     {
       "id": "uc-adult-0083",
       "level": "adult",
-      "civilian": "更愿意频繁保持联系",
-      "undercover": "更愿意维持适度距离",
+      "civilian": "车站",
+      "undercover": "机场",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "旅行地点"
     },
     {
       "id": "uc-adult-0084",
       "level": "adult",
-      "civilian": "更愿意当面说清楚",
-      "undercover": "更愿意用文字说清楚",
+      "civilian": "机场",
+      "undercover": "民宿",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "旅行地点"
     },
     {
       "id": "uc-adult-0085",
       "level": "adult",
-      "civilian": "更愿意主动发出邀请",
-      "undercover": "更愿意等待被邀请",
+      "civilian": "民宿",
+      "undercover": "古镇",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "旅行地点"
     },
     {
       "id": "uc-adult-0086",
       "level": "adult",
-      "civilian": "更愿意一起参加社交",
-      "undercover": "更愿意享受二人世界",
+      "civilian": "古镇",
+      "undercover": "海岛",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "旅行地点"
     },
     {
       "id": "uc-adult-0087",
       "level": "adult",
-      "civilian": "更愿意分享日常细节",
-      "undercover": "更愿意分享内心秘密",
+      "civilian": "海岛",
+      "undercover": "湖边",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "旅行地点"
     },
     {
       "id": "uc-adult-0088",
       "level": "adult",
-      "civilian": "更愿意立即解决矛盾",
-      "undercover": "更愿意过后冷静再谈",
+      "civilian": "湖边",
+      "undercover": "山顶",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "旅行地点"
     },
     {
       "id": "uc-adult-0089",
       "level": "adult",
-      "civilian": "更愿意明确关系",
-      "undercover": "更愿意保持暧昧",
+      "civilian": "山顶",
+      "undercover": "车站",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "旅行地点"
     },
     {
       "id": "uc-adult-0090",
       "level": "adult",
-      "civilian": "更愿意给出明确承诺",
-      "undercover": "更愿意用行动慢慢证明",
+      "civilian": "街角",
+      "undercover": "机场",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "旅行地点"
     },
     {
       "id": "uc-adult-0091",
       "level": "adult",
-      "civilian": "更愿意接受对方缺点",
-      "undercover": "更愿意推动彼此改变",
+      "civilian": "信任",
+      "undercover": "自由",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系价值"
     },
     {
       "id": "uc-adult-0092",
       "level": "adult",
-      "civilian": "更愿意陪伴对方低谷",
-      "undercover": "更愿意庆祝对方高光",
+      "civilian": "自由",
+      "undercover": "边界",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系价值"
     },
     {
       "id": "uc-adult-0093",
       "level": "adult",
-      "civilian": "更愿意一起成长",
-      "undercover": "更愿意互相包容",
+      "civilian": "边界",
+      "undercover": "忠诚",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系价值"
     },
     {
       "id": "uc-adult-0094",
       "level": "adult",
-      "civilian": "更愿意直球示爱",
-      "undercover": "更愿意含蓄撩拨",
+      "civilian": "忠诚",
+      "undercover": "默契",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系价值"
     },
     {
       "id": "uc-adult-0095",
       "level": "adult",
-      "civilian": "更愿意使用专属称呼",
-      "undercover": "更愿意公开称赞对方",
+      "civilian": "默契",
+      "undercover": "尊重",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系价值"
     },
     {
       "id": "uc-adult-0096",
       "level": "adult",
-      "civilian": "更愿意临时制造惊喜",
-      "undercover": "更愿意提前做好计划",
+      "civilian": "尊重",
+      "undercover": "空间",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系价值"
     },
     {
       "id": "uc-adult-0097",
       "level": "adult",
-      "civilian": "更愿意依赖对方",
-      "undercover": "更愿意保持独立",
+      "civilian": "空间",
+      "undercover": "责任",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系价值"
     },
     {
       "id": "uc-adult-0098",
       "level": "adult",
-      "civilian": "更愿意认真倾听",
-      "undercover": "更愿意主动给建议",
+      "civilian": "责任",
+      "undercover": "信任",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系价值"
     },
     {
       "id": "uc-adult-0099",
       "level": "adult",
-      "civilian": "更愿意表达占有欲",
-      "undercover": "更愿意尊重彼此边界",
+      "civilian": "信任",
+      "undercover": "边界",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系价值"
     },
     {
       "id": "uc-adult-0100",
       "level": "adult",
-      "civilian": "更愿意深夜长聊",
-      "undercover": "更愿意白天见面",
+      "civilian": "自由",
+      "undercover": "忠诚",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系价值"
     },
     {
       "id": "uc-adult-0101",
       "level": "adult",
-      "civilian": "更愿意追求长久稳定",
-      "undercover": "更愿意享受短暂热烈",
+      "civilian": "拥抱",
+      "undercover": "牵手",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "亲密象征"
     },
     {
       "id": "uc-adult-0102",
       "level": "adult",
-      "civilian": "更愿意主动靠近",
-      "undercover": "更愿意等待对方靠近",
+      "civilian": "牵手",
+      "undercover": "眼神",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "亲密象征"
     },
     {
       "id": "uc-adult-0103",
       "level": "adult",
-      "civilian": "更愿意分享手机密码",
-      "undercover": "更愿意保留个人隐私",
+      "civilian": "眼神",
+      "undercover": "微笑",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "亲密象征"
     },
     {
       "id": "uc-adult-0104",
       "level": "adult",
-      "civilian": "更愿意先见朋友",
-      "undercover": "更愿意先见家人",
+      "civilian": "微笑",
+      "undercover": "称呼",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "亲密象征"
     },
     {
       "id": "uc-adult-0105",
       "level": "adult",
-      "civilian": "恋爱中会主动表达喜欢",
-      "undercover": "恋爱中会含蓄暗示喜欢",
+      "civilian": "称呼",
+      "undercover": "昵称",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "亲密象征"
     },
     {
       "id": "uc-adult-0106",
       "level": "adult",
-      "civilian": "恋爱中会主动牵手",
-      "undercover": "恋爱中会主动拥抱",
+      "civilian": "昵称",
+      "undercover": "合照",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "亲密象征"
     },
     {
       "id": "uc-adult-0107",
       "level": "adult",
-      "civilian": "恋爱中会用眼神表达",
-      "undercover": "恋爱中会用语言表达",
+      "civilian": "合照",
+      "undercover": "纪念",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "亲密象征"
     },
     {
       "id": "uc-adult-0108",
       "level": "adult",
-      "civilian": "恋爱中会公开偏爱对方",
-      "undercover": "恋爱中会私下照顾对方",
+      "civilian": "纪念",
+      "undercover": "拥抱",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "亲密象征"
     },
     {
       "id": "uc-adult-0109",
       "level": "adult",
-      "civilian": "恋爱中会追求安全感",
-      "undercover": "恋爱中会追求新鲜感",
+      "civilian": "拥抱",
+      "undercover": "眼神",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "亲密象征"
     },
     {
       "id": "uc-adult-0110",
       "level": "adult",
-      "civilian": "恋爱中会制造仪式感",
-      "undercover": "恋爱中会提供日常陪伴",
+      "civilian": "牵手",
+      "undercover": "微笑",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "亲密象征"
     },
     {
       "id": "uc-adult-0111",
       "level": "adult",
-      "civilian": "恋爱中会主动联系对方",
-      "undercover": "恋爱中会等待对方回复",
+      "civilian": "热烈",
+      "undercover": "平淡",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处节奏"
     },
     {
       "id": "uc-adult-0112",
       "level": "adult",
-      "civilian": "恋爱中会坦白全部心事",
-      "undercover": "恋爱中会保留个人空间",
+      "civilian": "平淡",
+      "undercover": "稳定",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处节奏"
     },
     {
       "id": "uc-adult-0113",
       "level": "adult",
-      "civilian": "恋爱中会直接告白",
-      "undercover": "恋爱中会慢慢试探",
+      "civilian": "稳定",
+      "undercover": "自由",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处节奏"
     },
     {
       "id": "uc-adult-0114",
       "level": "adult",
-      "civilian": "恋爱中会一起旅行",
-      "undercover": "恋爱中会一起宅家",
+      "civilian": "自由",
+      "undercover": "黏人",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处节奏"
     },
     {
       "id": "uc-adult-0115",
       "level": "adult",
-      "civilian": "恋爱中会计划共同未来",
-      "undercover": "恋爱中会享受当下相处",
+      "civilian": "黏人",
+      "undercover": "独立",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处节奏"
     },
     {
       "id": "uc-adult-0116",
       "level": "adult",
-      "civilian": "恋爱中会说甜言蜜语",
-      "undercover": "恋爱中会用实际行动",
+      "civilian": "独立",
+      "undercover": "长久",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处节奏"
     },
     {
       "id": "uc-adult-0117",
       "level": "adult",
-      "civilian": "恋爱中会接受对方照顾",
-      "undercover": "恋爱中会主动照顾对方",
+      "civilian": "长久",
+      "undercover": "短暂",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处节奏"
     },
     {
       "id": "uc-adult-0118",
       "level": "adult",
-      "civilian": "恋爱中会保留独处时间",
-      "undercover": "恋爱中会增加共同时间",
+      "civilian": "短暂",
+      "undercover": "热烈",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处节奏"
     },
     {
       "id": "uc-adult-0119",
       "level": "adult",
-      "civilian": "恋爱中会制造浪漫惊喜",
-      "undercover": "恋爱中会保持稳定陪伴",
+      "civilian": "热烈",
+      "undercover": "稳定",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处节奏"
     },
     {
       "id": "uc-adult-0120",
       "level": "adult",
-      "civilian": "恋爱中会追求情绪共鸣",
-      "undercover": "恋爱中会坚持理性沟通",
+      "civilian": "平淡",
+      "undercover": "自由",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处节奏"
     },
     {
       "id": "uc-adult-0121",
       "level": "adult",
-      "civilian": "恋爱中会主动道歉",
-      "undercover": "恋爱中会先彼此冷静",
+      "civilian": "聚会",
+      "undercover": "约会",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "共同活动"
     },
     {
       "id": "uc-adult-0122",
       "level": "adult",
-      "civilian": "恋爱中会及时回复消息",
-      "undercover": "恋爱中会认真安排见面",
+      "civilian": "约会",
+      "undercover": "旅行",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "共同活动"
     },
     {
       "id": "uc-adult-0123",
       "level": "adult",
-      "civilian": "恋爱中会公开确认恋情",
-      "undercover": "恋爱中会保持低调恋爱",
+      "civilian": "旅行",
+      "undercover": "散步",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "共同活动"
     },
     {
       "id": "uc-adult-0124",
       "level": "adult",
-      "civilian": "恋爱中会使用亲密昵称",
-      "undercover": "恋爱中会使用正式称呼",
+      "civilian": "散步",
+      "undercover": "晚餐",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "共同活动"
     },
     {
       "id": "uc-adult-0125",
       "level": "adult",
-      "civilian": "恋爱中会撒娇示弱",
-      "undercover": "恋爱中会冷静表达",
+      "civilian": "晚餐",
+      "undercover": "电影",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "共同活动"
     },
     {
       "id": "uc-adult-0126",
       "level": "adult",
-      "civilian": "恋爱中会坦白吃醋",
-      "undercover": "恋爱中会选择信任",
+      "civilian": "电影",
+      "undercover": "展览",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "共同活动"
     },
     {
       "id": "uc-adult-0127",
       "level": "adult",
-      "civilian": "恋爱中会掌控关系节奏",
-      "undercover": "恋爱中会顺其自然发展",
+      "civilian": "展览",
+      "undercover": "音乐会",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "共同活动"
     },
     {
       "id": "uc-adult-0128",
       "level": "adult",
-      "civilian": "恋爱中会先说喜欢",
-      "undercover": "恋爱中会等对方开口",
+      "civilian": "音乐会",
+      "undercover": "聚会",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "共同活动"
     },
     {
       "id": "uc-adult-0129",
       "level": "adult",
-      "civilian": "恋爱中会用拥抱安慰",
-      "undercover": "恋爱中会用语言安慰",
+      "civilian": "聚会",
+      "undercover": "旅行",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "共同活动"
     },
     {
       "id": "uc-adult-0130",
       "level": "adult",
-      "civilian": "恋爱中会长时间陪伴",
-      "undercover": "恋爱中会高质量短聚",
+      "civilian": "约会",
+      "undercover": "散步",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "共同活动"
     },
     {
       "id": "uc-adult-0131",
       "level": "adult",
-      "civilian": "恋爱中会培养共同爱好",
-      "undercover": "恋爱中会保持互补性格",
+      "civilian": "早餐",
+      "undercover": "晚餐",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "生活日常"
     },
     {
       "id": "uc-adult-0132",
       "level": "adult",
-      "civilian": "恋爱中会安排浪漫约会",
-      "undercover": "恋爱中会享受生活烟火",
+      "civilian": "晚餐",
+      "undercover": "家务",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "生活日常"
     },
     {
       "id": "uc-adult-0133",
       "level": "adult",
-      "civilian": "恋爱中会相信心动感觉",
-      "undercover": "恋爱中会考虑合适条件",
+      "civilian": "家务",
+      "undercover": "宠物",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "生活日常"
     },
     {
       "id": "uc-adult-0134",
       "level": "adult",
-      "civilian": "恋爱中会保持一点神秘",
-      "undercover": "恋爱中会做到完全坦诚",
+      "civilian": "宠物",
+      "undercover": "房租",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "生活日常"
     },
     {
       "id": "uc-adult-0135",
       "level": "adult",
-      "civilian": "恋爱中会频繁保持联系",
-      "undercover": "恋爱中会维持适度距离",
+      "civilian": "房租",
+      "undercover": "厨房",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "生活日常"
     },
     {
       "id": "uc-adult-0136",
       "level": "adult",
-      "civilian": "恋爱中会当面说清楚",
-      "undercover": "恋爱中会用文字说清楚",
+      "civilian": "厨房",
+      "undercover": "客厅",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "生活日常"
     },
     {
       "id": "uc-adult-0137",
       "level": "adult",
-      "civilian": "恋爱中会主动发出邀请",
-      "undercover": "恋爱中会等待被邀请",
+      "civilian": "客厅",
+      "undercover": "阳台",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "生活日常"
     },
     {
       "id": "uc-adult-0138",
       "level": "adult",
-      "civilian": "恋爱中会一起参加社交",
-      "undercover": "恋爱中会享受二人世界",
+      "civilian": "阳台",
+      "undercover": "早餐",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "生活日常"
     },
     {
       "id": "uc-adult-0139",
       "level": "adult",
-      "civilian": "恋爱中会分享日常细节",
-      "undercover": "恋爱中会分享内心秘密",
+      "civilian": "早餐",
+      "undercover": "家务",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "生活日常"
     },
     {
       "id": "uc-adult-0140",
       "level": "adult",
-      "civilian": "恋爱中会立即解决矛盾",
-      "undercover": "恋爱中会过后冷静再谈",
+      "civilian": "晚餐",
+      "undercover": "宠物",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "生活日常"
     },
     {
       "id": "uc-adult-0141",
       "level": "adult",
-      "civilian": "恋爱中会明确关系",
-      "undercover": "恋爱中会保持暧昧",
+      "civilian": "长发",
+      "undercover": "短发",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "穿搭风格"
     },
     {
       "id": "uc-adult-0142",
       "level": "adult",
-      "civilian": "恋爱中会给出明确承诺",
-      "undercover": "恋爱中会用行动慢慢证明",
+      "civilian": "短发",
+      "undercover": "正装",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "穿搭风格"
     },
     {
       "id": "uc-adult-0143",
       "level": "adult",
-      "civilian": "恋爱中会接受对方缺点",
-      "undercover": "恋爱中会推动彼此改变",
+      "civilian": "正装",
+      "undercover": "休闲",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "穿搭风格"
     },
     {
       "id": "uc-adult-0144",
       "level": "adult",
-      "civilian": "恋爱中会陪伴对方低谷",
-      "undercover": "恋爱中会庆祝对方高光",
+      "civilian": "休闲",
+      "undercover": "清新",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "穿搭风格"
     },
     {
       "id": "uc-adult-0145",
       "level": "adult",
-      "civilian": "恋爱中会一起成长",
-      "undercover": "恋爱中会互相包容",
+      "civilian": "清新",
+      "undercover": "复古",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "穿搭风格"
     },
     {
       "id": "uc-adult-0146",
       "level": "adult",
-      "civilian": "恋爱中会直球示爱",
-      "undercover": "恋爱中会含蓄撩拨",
+      "civilian": "复古",
+      "undercover": "简约",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "穿搭风格"
     },
     {
       "id": "uc-adult-0147",
       "level": "adult",
-      "civilian": "恋爱中会使用专属称呼",
-      "undercover": "恋爱中会公开称赞对方",
+      "civilian": "简约",
+      "undercover": "华丽",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "穿搭风格"
     },
     {
       "id": "uc-adult-0148",
       "level": "adult",
-      "civilian": "恋爱中会临时制造惊喜",
-      "undercover": "恋爱中会提前做好计划",
+      "civilian": "华丽",
+      "undercover": "长发",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "穿搭风格"
     },
     {
       "id": "uc-adult-0149",
       "level": "adult",
-      "civilian": "恋爱中会依赖对方",
-      "undercover": "恋爱中会保持独立",
+      "civilian": "长发",
+      "undercover": "正装",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "穿搭风格"
     },
     {
       "id": "uc-adult-0150",
       "level": "adult",
-      "civilian": "恋爱中会认真倾听",
-      "undercover": "恋爱中会主动给建议",
+      "civilian": "短发",
+      "undercover": "休闲",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "穿搭风格"
     },
     {
       "id": "uc-adult-0151",
       "level": "adult",
-      "civilian": "恋爱中会表达占有欲",
-      "undercover": "恋爱中会尊重彼此边界",
+      "civilian": "月亮",
+      "undercover": "星空",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "浪漫意象"
     },
     {
       "id": "uc-adult-0152",
       "level": "adult",
-      "civilian": "恋爱中会深夜长聊",
-      "undercover": "恋爱中会白天见面",
+      "civilian": "星空",
+      "undercover": "烟花",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "浪漫意象"
     },
     {
       "id": "uc-adult-0153",
       "level": "adult",
-      "civilian": "恋爱中会追求长久稳定",
-      "undercover": "恋爱中会享受短暂热烈",
+      "civilian": "烟花",
+      "undercover": "玫瑰",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "浪漫意象"
     },
     {
       "id": "uc-adult-0154",
       "level": "adult",
-      "civilian": "恋爱中会主动靠近",
-      "undercover": "恋爱中会等待对方靠近",
+      "civilian": "玫瑰",
+      "undercover": "烛光",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "浪漫意象"
     },
     {
       "id": "uc-adult-0155",
       "level": "adult",
-      "civilian": "恋爱中会分享手机密码",
-      "undercover": "恋爱中会保留个人隐私",
+      "civilian": "烛光",
+      "undercover": "海浪",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "浪漫意象"
     },
     {
       "id": "uc-adult-0156",
       "level": "adult",
-      "civilian": "恋爱中会先见朋友",
-      "undercover": "恋爱中会先见家人",
+      "civilian": "海浪",
+      "undercover": "晚风",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "浪漫意象"
     },
     {
       "id": "uc-adult-0157",
       "level": "adult",
-      "civilian": "关系升温后会主动表达喜欢",
-      "undercover": "关系升温后会含蓄暗示喜欢",
+      "civilian": "晚风",
+      "undercover": "雨声",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "浪漫意象"
     },
     {
       "id": "uc-adult-0158",
       "level": "adult",
-      "civilian": "关系升温后会主动牵手",
-      "undercover": "关系升温后会主动拥抱",
+      "civilian": "雨声",
+      "undercover": "月亮",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "浪漫意象"
     },
     {
       "id": "uc-adult-0159",
       "level": "adult",
-      "civilian": "关系升温后会用眼神表达",
-      "undercover": "关系升温后会用语言表达",
+      "civilian": "月亮",
+      "undercover": "烟花",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "浪漫意象"
     },
     {
       "id": "uc-adult-0160",
       "level": "adult",
-      "civilian": "关系升温后会公开偏爱对方",
-      "undercover": "关系升温后会私下照顾对方",
+      "civilian": "星空",
+      "undercover": "玫瑰",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "浪漫意象"
     },
     {
       "id": "uc-adult-0161",
       "level": "adult",
-      "civilian": "关系升温后会追求安全感",
-      "undercover": "关系升温后会追求新鲜感",
+      "civilian": "头像",
+      "undercover": "昵称",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交资料"
     },
     {
       "id": "uc-adult-0162",
       "level": "adult",
-      "civilian": "关系升温后会制造仪式感",
-      "undercover": "关系升温后会提供日常陪伴",
+      "civilian": "昵称",
+      "undercover": "定位",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交资料"
     },
     {
       "id": "uc-adult-0163",
       "level": "adult",
-      "civilian": "关系升温后会主动联系对方",
-      "undercover": "关系升温后会等待对方回复",
+      "civilian": "定位",
+      "undercover": "密码",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交资料"
     },
     {
       "id": "uc-adult-0164",
       "level": "adult",
-      "civilian": "关系升温后会坦白全部心事",
-      "undercover": "关系升温后会保留个人空间",
+      "civilian": "密码",
+      "undercover": "相册",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交资料"
     },
     {
       "id": "uc-adult-0165",
       "level": "adult",
-      "civilian": "关系升温后会直接告白",
-      "undercover": "关系升温后会慢慢试探",
+      "civilian": "相册",
+      "undercover": "壁纸",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交资料"
     },
     {
       "id": "uc-adult-0166",
       "level": "adult",
-      "civilian": "关系升温后会一起旅行",
-      "undercover": "关系升温后会一起宅家",
+      "civilian": "壁纸",
+      "undercover": "备注",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交资料"
     },
     {
       "id": "uc-adult-0167",
       "level": "adult",
-      "civilian": "关系升温后会计划共同未来",
-      "undercover": "关系升温后会享受当下相处",
+      "civilian": "备注",
+      "undercover": "主页",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交资料"
     },
     {
       "id": "uc-adult-0168",
       "level": "adult",
-      "civilian": "关系升温后会说甜言蜜语",
-      "undercover": "关系升温后会用实际行动",
+      "civilian": "主页",
+      "undercover": "头像",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交资料"
     },
     {
       "id": "uc-adult-0169",
       "level": "adult",
-      "civilian": "关系升温后会接受对方照顾",
-      "undercover": "关系升温后会主动照顾对方",
+      "civilian": "头像",
+      "undercover": "定位",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交资料"
     },
     {
       "id": "uc-adult-0170",
       "level": "adult",
-      "civilian": "关系升温后会保留独处时间",
-      "undercover": "关系升温后会增加共同时间",
+      "civilian": "昵称",
+      "undercover": "密码",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交资料"
     },
     {
       "id": "uc-adult-0171",
       "level": "adult",
-      "civilian": "关系升温后会制造浪漫惊喜",
-      "undercover": "关系升温后会保持稳定陪伴",
+      "civilian": "旅行",
+      "undercover": "工作",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "未来选择"
     },
     {
       "id": "uc-adult-0172",
       "level": "adult",
-      "civilian": "关系升温后会追求情绪共鸣",
-      "undercover": "关系升温后会坚持理性沟通",
+      "civilian": "工作",
+      "undercover": "城市",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "未来选择"
     },
     {
       "id": "uc-adult-0173",
       "level": "adult",
-      "civilian": "关系升温后会主动道歉",
-      "undercover": "关系升温后会先彼此冷静",
+      "civilian": "城市",
+      "undercover": "家庭",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "未来选择"
     },
     {
       "id": "uc-adult-0174",
       "level": "adult",
-      "civilian": "关系升温后会及时回复消息",
-      "undercover": "关系升温后会认真安排见面",
+      "civilian": "家庭",
+      "undercover": "事业",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "未来选择"
     },
     {
       "id": "uc-adult-0175",
       "level": "adult",
-      "civilian": "关系升温后会公开确认恋情",
-      "undercover": "关系升温后会保持低调恋爱",
+      "civilian": "事业",
+      "undercover": "梦想",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "未来选择"
     },
     {
       "id": "uc-adult-0176",
       "level": "adult",
-      "civilian": "关系升温后会使用亲密昵称",
-      "undercover": "关系升温后会使用正式称呼",
+      "civilian": "梦想",
+      "undercover": "计划",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "未来选择"
     },
     {
       "id": "uc-adult-0177",
       "level": "adult",
-      "civilian": "关系升温后会撒娇示弱",
-      "undercover": "关系升温后会冷静表达",
+      "civilian": "计划",
+      "undercover": "选择",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "未来选择"
     },
     {
       "id": "uc-adult-0178",
       "level": "adult",
-      "civilian": "关系升温后会坦白吃醋",
-      "undercover": "关系升温后会选择信任",
+      "civilian": "选择",
+      "undercover": "旅行",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "未来选择"
     },
     {
       "id": "uc-adult-0179",
       "level": "adult",
-      "civilian": "关系升温后会掌控关系节奏",
-      "undercover": "关系升温后会顺其自然发展",
+      "civilian": "旅行",
+      "undercover": "城市",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "未来选择"
     },
     {
       "id": "uc-adult-0180",
       "level": "adult",
-      "civilian": "关系升温后会先说喜欢",
-      "undercover": "关系升温后会等对方开口",
+      "civilian": "工作",
+      "undercover": "家庭",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "未来选择"
     },
     {
       "id": "uc-adult-0181",
       "level": "adult",
-      "civilian": "关系升温后会用拥抱安慰",
-      "undercover": "关系升温后会用语言安慰",
+      "civilian": "距离",
+      "undercover": "空间",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系距离"
     },
     {
       "id": "uc-adult-0182",
       "level": "adult",
-      "civilian": "关系升温后会长时间陪伴",
-      "undercover": "关系升温后会高质量短聚",
+      "civilian": "空间",
+      "undercover": "陪伴",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系距离"
     },
     {
       "id": "uc-adult-0183",
       "level": "adult",
-      "civilian": "关系升温后会培养共同爱好",
-      "undercover": "关系升温后会保持互补性格",
+      "civilian": "陪伴",
+      "undercover": "联系",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系距离"
     },
     {
       "id": "uc-adult-0184",
       "level": "adult",
-      "civilian": "关系升温后会安排浪漫约会",
-      "undercover": "关系升温后会享受生活烟火",
+      "civilian": "联系",
+      "undercover": "见面",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系距离"
     },
     {
       "id": "uc-adult-0185",
       "level": "adult",
-      "civilian": "关系升温后会相信心动感觉",
-      "undercover": "关系升温后会考虑合适条件",
+      "civilian": "见面",
+      "undercover": "告别",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系距离"
     },
     {
       "id": "uc-adult-0186",
       "level": "adult",
-      "civilian": "关系升温后会保持一点神秘",
-      "undercover": "关系升温后会做到完全坦诚",
+      "civilian": "告别",
+      "undercover": "重逢",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系距离"
     },
     {
       "id": "uc-adult-0187",
       "level": "adult",
-      "civilian": "关系升温后会频繁保持联系",
-      "undercover": "关系升温后会维持适度距离",
+      "civilian": "重逢",
+      "undercover": "等待",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系距离"
     },
     {
       "id": "uc-adult-0188",
       "level": "adult",
-      "civilian": "关系升温后会当面说清楚",
-      "undercover": "关系升温后会用文字说清楚",
+      "civilian": "等待",
+      "undercover": "距离",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系距离"
     },
     {
       "id": "uc-adult-0189",
       "level": "adult",
-      "civilian": "关系升温后会主动发出邀请",
-      "undercover": "关系升温后会等待被邀请",
+      "civilian": "距离",
+      "undercover": "陪伴",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系距离"
     },
     {
       "id": "uc-adult-0190",
       "level": "adult",
-      "civilian": "关系升温后会一起参加社交",
-      "undercover": "关系升温后会享受二人世界",
+      "civilian": "空间",
+      "undercover": "联系",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "关系距离"
     },
     {
       "id": "uc-adult-0191",
       "level": "adult",
-      "civilian": "关系升温后会分享日常细节",
-      "undercover": "关系升温后会分享内心秘密",
+      "civilian": "初见",
+      "undercover": "相识",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "感情阶段"
     },
     {
       "id": "uc-adult-0192",
       "level": "adult",
-      "civilian": "关系升温后会立即解决矛盾",
-      "undercover": "关系升温后会过后冷静再谈",
+      "civilian": "相识",
+      "undercover": "熟悉",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "感情阶段"
     },
     {
       "id": "uc-adult-0193",
       "level": "adult",
-      "civilian": "关系升温后会明确关系",
-      "undercover": "关系升温后会保持暧昧",
+      "civilian": "熟悉",
+      "undercover": "暧昧",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "感情阶段"
     },
     {
       "id": "uc-adult-0194",
       "level": "adult",
-      "civilian": "关系升温后会给出明确承诺",
-      "undercover": "关系升温后会用行动慢慢证明",
+      "civilian": "暧昧",
+      "undercover": "确认",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "感情阶段"
     },
     {
       "id": "uc-adult-0195",
       "level": "adult",
-      "civilian": "关系升温后会接受对方缺点",
-      "undercover": "关系升温后会推动彼此改变",
+      "civilian": "确认",
+      "undercover": "恋爱",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "感情阶段"
     },
     {
       "id": "uc-adult-0196",
       "level": "adult",
-      "civilian": "关系升温后会陪伴对方低谷",
-      "undercover": "关系升温后会庆祝对方高光",
+      "civilian": "恋爱",
+      "undercover": "磨合",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "感情阶段"
     },
     {
       "id": "uc-adult-0197",
       "level": "adult",
-      "civilian": "关系升温后会一起成长",
-      "undercover": "关系升温后会互相包容",
+      "civilian": "磨合",
+      "undercover": "稳定",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "感情阶段"
     },
     {
       "id": "uc-adult-0198",
       "level": "adult",
-      "civilian": "关系升温后会直球示爱",
-      "undercover": "关系升温后会含蓄撩拨",
+      "civilian": "稳定",
+      "undercover": "初见",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "感情阶段"
     },
     {
       "id": "uc-adult-0199",
       "level": "adult",
-      "civilian": "关系升温后会使用专属称呼",
-      "undercover": "关系升温后会公开称赞对方",
+      "civilian": "初见",
+      "undercover": "熟悉",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "感情阶段"
     },
     {
       "id": "uc-adult-0200",
       "level": "adult",
-      "civilian": "关系升温后会临时制造惊喜",
-      "undercover": "关系升温后会提前做好计划",
+      "civilian": "相识",
+      "undercover": "暧昧",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "感情阶段"
     },
     {
       "id": "uc-adult-0201",
       "level": "adult",
-      "civilian": "关系升温后会依赖对方",
-      "undercover": "关系升温后会保持独立",
+      "civilian": "诚实",
+      "undercover": "忠诚",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处原则"
     },
     {
       "id": "uc-adult-0202",
       "level": "adult",
-      "civilian": "关系升温后会认真倾听",
-      "undercover": "关系升温后会主动给建议",
+      "civilian": "忠诚",
+      "undercover": "尊重",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处原则"
     },
     {
       "id": "uc-adult-0203",
       "level": "adult",
-      "civilian": "关系升温后会表达占有欲",
-      "undercover": "关系升温后会尊重彼此边界",
+      "civilian": "尊重",
+      "undercover": "信任",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处原则"
     },
     {
       "id": "uc-adult-0204",
       "level": "adult",
-      "civilian": "关系升温后会深夜长聊",
-      "undercover": "关系升温后会白天见面",
+      "civilian": "信任",
+      "undercover": "包容",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处原则"
     },
     {
       "id": "uc-adult-0205",
       "level": "adult",
-      "civilian": "关系升温后会追求长久稳定",
-      "undercover": "关系升温后会享受短暂热烈",
+      "civilian": "包容",
+      "undercover": "独立",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处原则"
     },
     {
       "id": "uc-adult-0206",
       "level": "adult",
-      "civilian": "关系升温后会主动靠近",
-      "undercover": "关系升温后会等待对方靠近",
+      "civilian": "独立",
+      "undercover": "责任",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处原则"
     },
     {
       "id": "uc-adult-0207",
       "level": "adult",
-      "civilian": "关系升温后会分享手机密码",
-      "undercover": "关系升温后会保留个人隐私",
+      "civilian": "责任",
+      "undercover": "自由",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处原则"
     },
     {
       "id": "uc-adult-0208",
       "level": "adult",
-      "civilian": "关系升温后会先见朋友",
-      "undercover": "关系升温后会先见家人",
+      "civilian": "自由",
+      "undercover": "诚实",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处原则"
     },
     {
       "id": "uc-adult-0209",
       "level": "adult",
-      "civilian": "面对喜欢的人会主动表达喜欢",
-      "undercover": "面对喜欢的人会含蓄暗示喜欢",
+      "civilian": "诚实",
+      "undercover": "尊重",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处原则"
     },
     {
       "id": "uc-adult-0210",
       "level": "adult",
-      "civilian": "面对喜欢的人会主动牵手",
-      "undercover": "面对喜欢的人会主动拥抱",
+      "civilian": "忠诚",
+      "undercover": "信任",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "相处原则"
     },
     {
       "id": "uc-adult-0211",
       "level": "adult",
-      "civilian": "面对喜欢的人会用眼神表达",
-      "undercover": "面对喜欢的人会用语言表达",
+      "civilian": "点赞",
+      "undercover": "评论",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交互动"
     },
     {
       "id": "uc-adult-0212",
       "level": "adult",
-      "civilian": "面对喜欢的人会公开偏爱对方",
-      "undercover": "面对喜欢的人会私下照顾对方",
+      "civilian": "评论",
+      "undercover": "私信",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交互动"
     },
     {
       "id": "uc-adult-0213",
       "level": "adult",
-      "civilian": "面对喜欢的人会追求安全感",
-      "undercover": "面对喜欢的人会追求新鲜感",
+      "civilian": "私信",
+      "undercover": "关注",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交互动"
     },
     {
       "id": "uc-adult-0214",
       "level": "adult",
-      "civilian": "面对喜欢的人会制造仪式感",
-      "undercover": "面对喜欢的人会提供日常陪伴",
+      "civilian": "关注",
+      "undercover": "取关",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交互动"
     },
     {
       "id": "uc-adult-0215",
       "level": "adult",
-      "civilian": "面对喜欢的人会主动联系对方",
-      "undercover": "面对喜欢的人会等待对方回复",
+      "civilian": "取关",
+      "undercover": "动态",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交互动"
     },
     {
       "id": "uc-adult-0216",
       "level": "adult",
-      "civilian": "面对喜欢的人会坦白全部心事",
-      "undercover": "面对喜欢的人会保留个人空间",
+      "civilian": "动态",
+      "undercover": "合照",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交互动"
     },
     {
       "id": "uc-adult-0217",
       "level": "adult",
-      "civilian": "面对喜欢的人会直接告白",
-      "undercover": "面对喜欢的人会慢慢试探",
+      "civilian": "合照",
+      "undercover": "定位",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交互动"
     },
     {
       "id": "uc-adult-0218",
       "level": "adult",
-      "civilian": "面对喜欢的人会一起旅行",
-      "undercover": "面对喜欢的人会一起宅家",
+      "civilian": "定位",
+      "undercover": "点赞",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交互动"
     },
     {
       "id": "uc-adult-0219",
       "level": "adult",
-      "civilian": "面对喜欢的人会计划共同未来",
-      "undercover": "面对喜欢的人会享受当下相处",
+      "civilian": "点赞",
+      "undercover": "私信",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交互动"
     },
     {
       "id": "uc-adult-0220",
       "level": "adult",
-      "civilian": "面对喜欢的人会说甜言蜜语",
-      "undercover": "面对喜欢的人会用实际行动",
+      "civilian": "评论",
+      "undercover": "关注",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "社交互动"
     },
     {
       "id": "uc-adult-0221",
       "level": "adult",
-      "civilian": "面对喜欢的人会接受对方照顾",
-      "undercover": "面对喜欢的人会主动照顾对方",
+      "civilian": "朋友",
+      "undercover": "恋人",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "人物关系"
     },
     {
       "id": "uc-adult-0222",
       "level": "adult",
-      "civilian": "面对喜欢的人会保留独处时间",
-      "undercover": "面对喜欢的人会增加共同时间",
+      "civilian": "恋人",
+      "undercover": "知己",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "人物关系"
     },
     {
       "id": "uc-adult-0223",
       "level": "adult",
-      "civilian": "面对喜欢的人会制造浪漫惊喜",
-      "undercover": "面对喜欢的人会保持稳定陪伴",
+      "civilian": "知己",
+      "undercover": "同事",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "人物关系"
     },
     {
       "id": "uc-adult-0224",
       "level": "adult",
-      "civilian": "面对喜欢的人会追求情绪共鸣",
-      "undercover": "面对喜欢的人会坚持理性沟通",
+      "civilian": "同事",
+      "undercover": "邻居",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "人物关系"
     },
     {
       "id": "uc-adult-0225",
       "level": "adult",
-      "civilian": "面对喜欢的人会主动道歉",
-      "undercover": "面对喜欢的人会先彼此冷静",
+      "civilian": "邻居",
+      "undercover": "网友",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "人物关系"
     },
     {
       "id": "uc-adult-0226",
       "level": "adult",
-      "civilian": "面对喜欢的人会及时回复消息",
-      "undercover": "面对喜欢的人会认真安排见面",
+      "civilian": "网友",
+      "undercover": "前任",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "人物关系"
     },
     {
       "id": "uc-adult-0227",
       "level": "adult",
-      "civilian": "面对喜欢的人会公开确认恋情",
-      "undercover": "面对喜欢的人会保持低调恋爱",
+      "civilian": "伴侣",
+      "undercover": "朋友",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "人物关系"
     },
     {
       "id": "uc-adult-0228",
       "level": "adult",
-      "civilian": "面对喜欢的人会使用亲密昵称",
-      "undercover": "面对喜欢的人会使用正式称呼",
+      "civilian": "朋友",
+      "undercover": "知己",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "人物关系"
     },
     {
       "id": "uc-adult-0229",
       "level": "adult",
-      "civilian": "面对喜欢的人会撒娇示弱",
-      "undercover": "面对喜欢的人会冷静表达",
+      "civilian": "恋人",
+      "undercover": "同事",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "人物关系"
     },
     {
       "id": "uc-adult-0230",
       "level": "adult",
-      "civilian": "面对喜欢的人会坦白吃醋",
-      "undercover": "面对喜欢的人会选择信任",
+      "civilian": "知己",
+      "undercover": "邻居",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "人物关系"
     },
     {
       "id": "uc-adult-0231",
       "level": "adult",
-      "civilian": "面对喜欢的人会掌控关系节奏",
-      "undercover": "面对喜欢的人会顺其自然发展",
+      "civilian": "幽默",
+      "undercover": "安静",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格差异"
     },
     {
       "id": "uc-adult-0232",
       "level": "adult",
-      "civilian": "面对喜欢的人会先说喜欢",
-      "undercover": "面对喜欢的人会等对方开口",
+      "civilian": "安静",
+      "undercover": "外向",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格差异"
     },
     {
       "id": "uc-adult-0233",
       "level": "adult",
-      "civilian": "面对喜欢的人会用拥抱安慰",
-      "undercover": "面对喜欢的人会用语言安慰",
+      "civilian": "外向",
+      "undercover": "内向",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格差异"
     },
     {
       "id": "uc-adult-0234",
       "level": "adult",
-      "civilian": "面对喜欢的人会长时间陪伴",
-      "undercover": "面对喜欢的人会高质量短聚",
+      "civilian": "内向",
+      "undercover": "细心",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格差异"
     },
     {
       "id": "uc-adult-0235",
       "level": "adult",
-      "civilian": "面对喜欢的人会培养共同爱好",
-      "undercover": "面对喜欢的人会保持互补性格",
+      "civilian": "细心",
+      "undercover": "粗心",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格差异"
     },
     {
       "id": "uc-adult-0236",
       "level": "adult",
-      "civilian": "面对喜欢的人会安排浪漫约会",
-      "undercover": "面对喜欢的人会享受生活烟火",
+      "civilian": "粗心",
+      "undercover": "敏感",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格差异"
     },
     {
       "id": "uc-adult-0237",
       "level": "adult",
-      "civilian": "面对喜欢的人会相信心动感觉",
-      "undercover": "面对喜欢的人会考虑合适条件",
+      "civilian": "敏感",
+      "undercover": "迟钝",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格差异"
     },
     {
       "id": "uc-adult-0238",
       "level": "adult",
-      "civilian": "面对喜欢的人会保持一点神秘",
-      "undercover": "面对喜欢的人会做到完全坦诚",
+      "civilian": "迟钝",
+      "undercover": "幽默",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格差异"
     },
     {
       "id": "uc-adult-0239",
       "level": "adult",
-      "civilian": "面对喜欢的人会频繁保持联系",
-      "undercover": "面对喜欢的人会维持适度距离",
+      "civilian": "幽默",
+      "undercover": "外向",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格差异"
     },
     {
       "id": "uc-adult-0240",
       "level": "adult",
-      "civilian": "面对喜欢的人会当面说清楚",
-      "undercover": "面对喜欢的人会用文字说清楚",
+      "civilian": "安静",
+      "undercover": "内向",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "性格差异"
     },
     {
       "id": "uc-adult-0241",
       "level": "adult",
-      "civilian": "面对喜欢的人会主动发出邀请",
-      "undercover": "面对喜欢的人会等待被邀请",
+      "civilian": "大方",
+      "undercover": "害羞",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "表达风格"
     },
     {
       "id": "uc-adult-0242",
       "level": "adult",
-      "civilian": "面对喜欢的人会一起参加社交",
-      "undercover": "面对喜欢的人会享受二人世界",
+      "civilian": "害羞",
+      "undercover": "直率",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "表达风格"
     },
     {
       "id": "uc-adult-0243",
       "level": "adult",
-      "civilian": "面对喜欢的人会分享日常细节",
-      "undercover": "面对喜欢的人会分享内心秘密",
+      "civilian": "直率",
+      "undercover": "含蓄",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "表达风格"
     },
     {
       "id": "uc-adult-0244",
       "level": "adult",
-      "civilian": "面对喜欢的人会立即解决矛盾",
-      "undercover": "面对喜欢的人会过后冷静再谈",
+      "civilian": "含蓄",
+      "undercover": "热情",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "表达风格"
     },
     {
       "id": "uc-adult-0245",
       "level": "adult",
-      "civilian": "面对喜欢的人会明确关系",
-      "undercover": "面对喜欢的人会保持暧昧",
+      "civilian": "热情",
+      "undercover": "冷静",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "表达风格"
     },
     {
       "id": "uc-adult-0246",
       "level": "adult",
-      "civilian": "面对喜欢的人会给出明确承诺",
-      "undercover": "面对喜欢的人会用行动慢慢证明",
+      "civilian": "冷静",
+      "undercover": "认真",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "表达风格"
     },
     {
       "id": "uc-adult-0247",
       "level": "adult",
-      "civilian": "面对喜欢的人会接受对方缺点",
-      "undercover": "面对喜欢的人会推动彼此改变",
+      "civilian": "随性",
+      "undercover": "大方",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "表达风格"
     },
     {
       "id": "uc-adult-0248",
       "level": "adult",
-      "civilian": "面对喜欢的人会陪伴对方低谷",
-      "undercover": "面对喜欢的人会庆祝对方高光",
+      "civilian": "大方",
+      "undercover": "直率",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "表达风格"
     },
     {
       "id": "uc-adult-0249",
       "level": "adult",
-      "civilian": "面对喜欢的人会一起成长",
-      "undercover": "面对喜欢的人会互相包容",
+      "civilian": "害羞",
+      "undercover": "含蓄",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "表达风格"
     },
     {
       "id": "uc-adult-0250",
       "level": "adult",
-      "civilian": "面对喜欢的人会直球示爱",
-      "undercover": "面对喜欢的人会含蓄撩拨",
+      "civilian": "直率",
+      "undercover": "热情",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "表达风格"
     },
     {
       "id": "uc-adult-0251",
       "level": "adult",
-      "civilian": "面对喜欢的人会使用专属称呼",
-      "undercover": "面对喜欢的人会公开称赞对方",
+      "civilian": "喜欢",
+      "undercover": "依赖",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情感基础"
     },
     {
       "id": "uc-adult-0252",
       "level": "adult",
-      "civilian": "面对喜欢的人会临时制造惊喜",
-      "undercover": "面对喜欢的人会提前做好计划",
+      "civilian": "依赖",
+      "undercover": "欣赏",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情感基础"
     },
     {
       "id": "uc-adult-0253",
       "level": "adult",
-      "civilian": "面对喜欢的人会依赖对方",
-      "undercover": "面对喜欢的人会保持独立",
+      "civilian": "欣赏",
+      "undercover": "信任",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情感基础"
     },
     {
       "id": "uc-adult-0254",
       "level": "adult",
-      "civilian": "面对喜欢的人会认真倾听",
-      "undercover": "面对喜欢的人会主动给建议",
+      "civilian": "信任",
+      "undercover": "想念",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情感基础"
     },
     {
       "id": "uc-adult-0255",
       "level": "adult",
-      "civilian": "面对喜欢的人会表达占有欲",
-      "undercover": "面对喜欢的人会尊重彼此边界",
+      "civilian": "想念",
+      "undercover": "关心",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情感基础"
     },
     {
       "id": "uc-adult-0256",
       "level": "adult",
-      "civilian": "面对喜欢的人会深夜长聊",
-      "undercover": "面对喜欢的人会白天见面",
+      "civilian": "关心",
+      "undercover": "理解",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情感基础"
     },
     {
       "id": "uc-adult-0257",
       "level": "adult",
-      "civilian": "面对喜欢的人会追求长久稳定",
-      "undercover": "面对喜欢的人会享受短暂热烈",
+      "civilian": "理解",
+      "undercover": "尊重",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情感基础"
     },
     {
       "id": "uc-adult-0258",
       "level": "adult",
-      "civilian": "面对喜欢的人会主动靠近",
-      "undercover": "面对喜欢的人会等待对方靠近",
+      "civilian": "尊重",
+      "undercover": "喜欢",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情感基础"
     },
     {
       "id": "uc-adult-0259",
       "level": "adult",
-      "civilian": "面对喜欢的人会分享手机密码",
-      "undercover": "面对喜欢的人会保留个人隐私",
+      "civilian": "喜欢",
+      "undercover": "欣赏",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情感基础"
     },
     {
       "id": "uc-adult-0260",
       "level": "adult",
-      "civilian": "面对喜欢的人会先见朋友",
-      "undercover": "面对喜欢的人会先见家人",
+      "civilian": "依赖",
+      "undercover": "信任",
       "blankAllowed": false,
-      "theme": "亲密关系"
+      "theme": "情感基础"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.1-2026.08",
+  "bankVersion": "v9.1.2-2026.08",
   "game": "would-rather",
   "level": "adult",
   "levelLabel": "成人",
@@ -10,3124 +10,3570 @@
     {
       "id": "wr-adult-0001",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "当暧昧对象突然变冷淡时，你会怎么处理？",
+      "optionA": "直接问清楚",
+      "optionB": "先观察一阵",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0002",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "当对方的态度忽冷忽热时，你会怎么处理？",
+      "optionA": "直接问清楚",
+      "optionB": "先观察一阵",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0003",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "当喜欢的人突然减少联系时，你会怎么处理？",
+      "optionA": "直接问清楚",
+      "optionB": "先观察一阵",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0004",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "当对方回避关系话题时，你会怎么处理？",
+      "optionA": "直接问清楚",
+      "optionB": "先观察一阵",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0005",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "当约会后对方变得沉默时，你会怎么处理？",
+      "optionA": "直接问清楚",
+      "optionB": "先观察一阵",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0006",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "当对方突然取消见面时，你会怎么处理？",
+      "optionA": "直接问清楚",
+      "optionB": "先观察一阵",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0007",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "当对方开始刻意保持距离时，你会怎么处理？",
+      "optionA": "直接问清楚",
+      "optionB": "先观察一阵",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0008",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "当对方的回应越来越敷衍时，你会怎么处理？",
+      "optionA": "直接问清楚",
+      "optionB": "先观察一阵",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0009",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "当对方突然不再主动时，你会怎么处理？",
+      "optionA": "直接问清楚",
+      "optionB": "先观察一阵",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0010",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "当对方做出让你困惑的举动时，你会怎么处理？",
+      "optionA": "直接问清楚",
+      "optionB": "先观察一阵",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0011",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "当你很想向喜欢的人表白时，你会怎么做？",
+      "optionA": "主动迈出一步",
+      "optionB": "等待对方先行动",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0012",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "当你很想约对方单独见面时，你会怎么做？",
+      "optionA": "主动迈出一步",
+      "optionB": "等待对方先行动",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0013",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "当你很想牵起对方的手时，你会怎么做？",
+      "optionA": "主动迈出一步",
+      "optionB": "等待对方先行动",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0014",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "当你很想把关系说清楚时，你会怎么做？",
+      "optionA": "主动迈出一步",
+      "optionB": "等待对方先行动",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0015",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "当你很想告诉对方你很想念TA时，你会怎么做？",
+      "optionA": "主动迈出一步",
+      "optionB": "等待对方先行动",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0016",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "当你很想邀请对方见朋友时，你会怎么做？",
+      "optionA": "主动迈出一步",
+      "optionB": "等待对方先行动",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0017",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "当你很想推进你们的关系时，你会怎么做？",
+      "optionA": "主动迈出一步",
+      "optionB": "等待对方先行动",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0018",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "当你很想结束一段暧昧期时，你会怎么做？",
+      "optionA": "主动迈出一步",
+      "optionB": "等待对方先行动",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0019",
       "level": "adult",
-      "optionA": "主动表达喜欢",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "当你很想确认对方的心意时，你会怎么做？",
+      "optionA": "主动迈出一步",
+      "optionB": "等待对方先行动",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0020",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "当你很想提出下一次约会时，你会怎么做？",
+      "optionA": "主动迈出一步",
+      "optionB": "等待对方先行动",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0021",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "需要回应对方的表白时，你会怎么选？",
+      "optionA": "当面说清楚",
+      "optionB": "回去发消息说",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0022",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "需要回应一次暧昧的试探时，你会怎么选？",
+      "optionA": "当面说清楚",
+      "optionB": "回去发消息说",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0023",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "需要回应关于关系的认真问题时，你会怎么选？",
+      "optionA": "当面说清楚",
+      "optionB": "回去发消息说",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0024",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "需要回应对方提出的约会邀请时，你会怎么选？",
+      "optionA": "当面说清楚",
+      "optionB": "回去发消息说",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0025",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "需要回应对方表达的不安全感时，你会怎么选？",
+      "optionA": "当面说清楚",
+      "optionB": "回去发消息说",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0026",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "需要回应朋友对你们的起哄时，你会怎么选？",
+      "optionA": "当面说清楚",
+      "optionB": "回去发消息说",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0027",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "需要回应一份明显带有心意的礼物时，你会怎么选？",
+      "optionA": "当面说清楚",
+      "optionB": "回去发消息说",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0028",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "需要回应对方关于未来的想法时，你会怎么选？",
+      "optionA": "当面说清楚",
+      "optionB": "回去发消息说",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0029",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "需要回应对方提出的亲密请求时，你会怎么选？",
+      "optionA": "当面说清楚",
+      "optionB": "回去发消息说",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0030",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "需要回应对方认真说出的想念时，你会怎么选？",
+      "optionA": "当面说清楚",
+      "optionB": "回去发消息说",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0031",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "当你们的关系出现明显的暧昧信号时，你会怎么做？",
+      "optionA": "明确说开",
+      "optionB": "继续保持模糊",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0032",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "当你们的关系出现越来越频繁的约会时，你会怎么做？",
+      "optionA": "明确说开",
+      "optionB": "继续保持模糊",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0033",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "当你们的关系出现朋友都能看出的亲密时，你会怎么做？",
+      "optionA": "明确说开",
+      "optionB": "继续保持模糊",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0034",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "当你们的关系出现彼此都没有说破的好感时，你会怎么做？",
+      "optionA": "明确说开",
+      "optionB": "继续保持模糊",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0035",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "当你们的关系出现超过普通朋友的依赖时，你会怎么做？",
+      "optionA": "明确说开",
+      "optionB": "继续保持模糊",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0036",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "当你们的关系出现持续很久的试探时，你会怎么做？",
+      "optionA": "明确说开",
+      "optionB": "继续保持模糊",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0037",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "当你们的关系出现默认般的相处模式时，你会怎么做？",
+      "optionA": "明确说开",
+      "optionB": "继续保持模糊",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0038",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "当你们的关系出现越来越强的占有欲时，你会怎么做？",
+      "optionA": "明确说开",
+      "optionB": "继续保持模糊",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0039",
       "level": "adult",
-      "optionA": "等待对方先开口",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "当你们的关系出现对未来的共同想象时，你会怎么做？",
+      "optionA": "明确说开",
+      "optionB": "继续保持模糊",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0040",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "当你们的关系出现迟迟没有定义的关系时，你会怎么做？",
+      "optionA": "明确说开",
+      "optionB": "继续保持模糊",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0041",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "当对方问你是否喜欢TA时，你会怎么回应？",
+      "optionA": "先表达自己的想法",
+      "optionB": "先问清对方的想法",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0042",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "当对方问你怎么看你们的关系时，你会怎么回应？",
+      "optionA": "先表达自己的想法",
+      "optionB": "先问清对方的想法",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0043",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "当对方问你愿不愿意更进一步时，你会怎么回应？",
+      "optionA": "先表达自己的想法",
+      "optionB": "先问清对方的想法",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0044",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "当对方问你是否介意公开关系时，你会怎么回应？",
+      "optionA": "先表达自己的想法",
+      "optionB": "先问清对方的想法",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0045",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "当对方问你对未来有什么期待时，你会怎么回应？",
+      "optionA": "先表达自己的想法",
+      "optionB": "先问清对方的想法",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0046",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "当对方问你是否需要更多陪伴时，你会怎么回应？",
+      "optionA": "先表达自己的想法",
+      "optionB": "先问清对方的想法",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0047",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "当对方问你为什么最近变得冷淡时，你会怎么回应？",
+      "optionA": "先表达自己的想法",
+      "optionB": "先问清对方的想法",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0048",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "当对方问你愿不愿意见TA的朋友时，你会怎么回应？",
+      "optionA": "先表达自己的想法",
+      "optionB": "先问清对方的想法",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0049",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "当对方问你能不能接受异地时，你会怎么回应？",
+      "optionA": "先表达自己的想法",
+      "optionB": "先问清对方的想法",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0050",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "当对方问你是否还在意前任时，你会怎么回应？",
+      "optionA": "先表达自己的想法",
+      "optionB": "先问清对方的想法",
+      "theme": "表达回应"
     },
     {
       "id": "wr-adult-0051",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "收到对方深夜发来的想念时，你会怎么处理？",
+      "optionA": "马上回复",
+      "optionB": "晚一点再回复",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0052",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "收到一条明显带有试探的消息时，你会怎么处理？",
+      "optionA": "马上回复",
+      "optionB": "晚一点再回复",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0053",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "收到约会后的到家提醒时，你会怎么处理？",
+      "optionA": "马上回复",
+      "optionB": "晚一点再回复",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0054",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "收到对方突然发来的语音时，你会怎么处理？",
+      "optionA": "马上回复",
+      "optionB": "晚一点再回复",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0055",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "收到一句简单的在吗时，你会怎么处理？",
+      "optionA": "马上回复",
+      "optionB": "晚一点再回复",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0056",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "收到对方主动分享的日常时，你会怎么处理？",
+      "optionA": "马上回复",
+      "optionB": "晚一点再回复",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0057",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "收到一条带有醋意的消息时，你会怎么处理？",
+      "optionA": "马上回复",
+      "optionB": "晚一点再回复",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0058",
       "level": "adult",
-      "optionA": "保持一点神秘感",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "收到对方发来的道歉时，你会怎么处理？",
+      "optionA": "马上回复",
+      "optionB": "晚一点再回复",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0059",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "收到对方提出的临时见面时，你会怎么处理？",
+      "optionA": "马上回复",
+      "optionB": "晚一点再回复",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0060",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "收到对方认真写的一大段话时，你会怎么处理？",
+      "optionA": "马上回复",
+      "optionB": "晚一点再回复",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0061",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "你们已经一天没有联系时，你会怎么做？",
+      "optionA": "主动联系",
+      "optionB": "等对方先联系",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0062",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "你们已经两天没有联系时，你会怎么做？",
+      "optionA": "主动联系",
+      "optionB": "等对方先联系",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0063",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "你们已经三天没有联系时，你会怎么做？",
+      "optionA": "主动联系",
+      "optionB": "等对方先联系",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0064",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "你们已经一个周末没有联系时，你会怎么做？",
+      "optionA": "主动联系",
+      "optionB": "等对方先联系",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0065",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "你们已经忙碌的一周没有联系时，你会怎么做？",
+      "optionA": "主动联系",
+      "optionB": "等对方先联系",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0066",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "你们已经一次争吵之后没有联系时，你会怎么做？",
+      "optionA": "主动联系",
+      "optionB": "等对方先联系",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0067",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "你们已经一次约会之后没有联系时，你会怎么做？",
+      "optionA": "主动联系",
+      "optionB": "等对方先联系",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0068",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "你们已经对方出差期间没有联系时，你会怎么做？",
+      "optionA": "主动联系",
+      "optionB": "等对方先联系",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0069",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "你们已经你情绪低落期间没有联系时，你会怎么做？",
+      "optionA": "主动联系",
+      "optionB": "等对方先联系",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0070",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "你们已经彼此都在等回应期间没有联系时，你会怎么做？",
+      "optionA": "主动联系",
+      "optionB": "等对方先联系",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0071",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "发现对方回复明显变慢时，你会怎么处理？",
+      "optionA": "直接问原因",
+      "optionB": "先观察一阵",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0072",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "发现对方突然不再分享日常时，你会怎么处理？",
+      "optionA": "直接问原因",
+      "optionB": "先观察一阵",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0073",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "发现对方开始频繁取消约会时，你会怎么处理？",
+      "optionA": "直接问原因",
+      "optionB": "先观察一阵",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0074",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "发现对方不再主动说晚安时，你会怎么处理？",
+      "optionA": "直接问原因",
+      "optionB": "先观察一阵",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0075",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "发现对方对某个话题一直回避时，你会怎么处理？",
+      "optionA": "直接问原因",
+      "optionB": "先观察一阵",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0076",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "发现对方见面时显得心不在焉时，你会怎么处理？",
+      "optionA": "直接问原因",
+      "optionB": "先观察一阵",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0077",
       "level": "adult",
-      "optionA": "把真实情绪直接说出来",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "发现对方对你的朋友格外在意时，你会怎么处理？",
+      "optionA": "直接问原因",
+      "optionB": "先观察一阵",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0078",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "发现对方频繁提起某个人时，你会怎么处理？",
+      "optionA": "直接问原因",
+      "optionB": "先观察一阵",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0079",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "发现对方社交平台状态异常时，你会怎么处理？",
+      "optionA": "直接问原因",
+      "optionB": "先观察一阵",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0080",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "发现对方突然需要大量独处时，你会怎么处理？",
+      "optionA": "直接问原因",
+      "optionB": "先观察一阵",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0081",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "聊天出现连续几次冷场时，你会怎么做？",
+      "optionA": "继续保持热情",
+      "optionB": "稍微降低热度",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0082",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "聊天出现回复越来越简短时，你会怎么做？",
+      "optionA": "继续保持热情",
+      "optionB": "稍微降低热度",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0083",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "聊天出现只有你在找话题时，你会怎么做？",
+      "optionA": "继续保持热情",
+      "optionB": "稍微降低热度",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0084",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "聊天出现对方忙得顾不上聊天时，你会怎么做？",
+      "optionA": "继续保持热情",
+      "optionB": "稍微降低热度",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0085",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "聊天出现话题开始变得暧昧时，你会怎么做？",
+      "optionA": "继续保持热情",
+      "optionB": "稍微降低热度",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0086",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "聊天出现对方忽然特别主动时，你会怎么做？",
+      "optionA": "继续保持热情",
+      "optionB": "稍微降低热度",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0087",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "聊天出现彼此的节奏不一致时，你会怎么做？",
+      "optionA": "继续保持热情",
+      "optionB": "稍微降低热度",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0088",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "聊天出现对方只在深夜联系时，你会怎么做？",
+      "optionA": "继续保持热情",
+      "optionB": "稍微降低热度",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0089",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "聊天出现聊天越来越依赖情绪时，你会怎么做？",
+      "optionA": "继续保持热情",
+      "optionB": "稍微降低热度",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0090",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "聊天出现你发现自己投入更快时，你会怎么做？",
+      "optionA": "继续保持热情",
+      "optionB": "稍微降低热度",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0091",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "想和对方谈你们的关系定义时，你会怎么选？",
+      "optionA": "约出来当面聊",
+      "optionB": "只在线上聊",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0092",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "想和对方谈最近的疏远时，你会怎么选？",
+      "optionA": "约出来当面聊",
+      "optionB": "只在线上聊",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0093",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "想和对方谈彼此的边界时，你会怎么选？",
+      "optionA": "约出来当面聊",
+      "optionB": "只在线上聊",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0094",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "想和对方谈一次误会时，你会怎么选？",
+      "optionA": "约出来当面聊",
+      "optionB": "只在线上聊",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0095",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "想和对方谈未来的打算时，你会怎么选？",
+      "optionA": "约出来当面聊",
+      "optionB": "只在线上聊",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0096",
       "level": "adult",
-      "optionA": "一起经历一次长途旅行",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "想和对方谈对前任的态度时，你会怎么选？",
+      "optionA": "约出来当面聊",
+      "optionB": "只在线上聊",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0097",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "想和对方谈见面频率时，你会怎么选？",
+      "optionA": "约出来当面聊",
+      "optionB": "只在线上聊",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0098",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "想和对方谈公开关系的问题时，你会怎么选？",
+      "optionA": "约出来当面聊",
+      "optionB": "只在线上聊",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0099",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "想和对方谈信任上的不安时，你会怎么选？",
+      "optionA": "约出来当面聊",
+      "optionB": "只在线上聊",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0100",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "想和对方谈一件让你介意的事时，你会怎么选？",
+      "optionA": "约出来当面聊",
+      "optionB": "只在线上聊",
+      "theme": "联系节奏"
     },
     {
       "id": "wr-adult-0101",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "因为迟到发生争执时，你会怎么处理？",
+      "optionA": "当场说清",
+      "optionB": "冷静后再聊",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0102",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "因为失约发生争执时，你会怎么处理？",
+      "optionA": "当场说清",
+      "optionB": "冷静后再聊",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0103",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "因为说话语气发生争执时，你会怎么处理？",
+      "optionA": "当场说清",
+      "optionB": "冷静后再聊",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0104",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "因为朋友边界发生争执时，你会怎么处理？",
+      "optionA": "当场说清",
+      "optionB": "冷静后再聊",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0105",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "因为社交平台发生争执时，你会怎么处理？",
+      "optionA": "当场说清",
+      "optionB": "冷静后再聊",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0106",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "因为见面频率发生争执时，你会怎么处理？",
+      "optionA": "当场说清",
+      "optionB": "冷静后再聊",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0107",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "因为消息回复发生争执时，你会怎么处理？",
+      "optionA": "当场说清",
+      "optionB": "冷静后再聊",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0108",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "因为前任话题发生争执时，你会怎么处理？",
+      "optionA": "当场说清",
+      "optionB": "冷静后再聊",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0109",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "因为消费习惯发生争执时，你会怎么处理？",
+      "optionA": "当场说清",
+      "optionB": "冷静后再聊",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0110",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "因为未来计划发生争执时，你会怎么处理？",
+      "optionA": "当场说清",
+      "optionB": "冷静后再聊",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0111",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "当你在争吵中说了重话时，你会怎么做？",
+      "optionA": "先道歉缓和",
+      "optionB": "先解释原因",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0112",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "当你在争吵中误解了对方时，你会怎么做？",
+      "optionA": "先道歉缓和",
+      "optionB": "先解释原因",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0113",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "当你在争吵中忘记了约定时，你会怎么做？",
+      "optionA": "先道歉缓和",
+      "optionB": "先解释原因",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0114",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "当你在争吵中迟到了很久时，你会怎么做？",
+      "optionA": "先道歉缓和",
+      "optionB": "先解释原因",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0115",
       "level": "adult",
-      "optionA": "一起完成一件很普通的小事",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "当你在争吵中忽略了对方感受时，你会怎么做？",
+      "optionA": "先道歉缓和",
+      "optionB": "先解释原因",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0116",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "当你在争吵中把情绪带给对方时，你会怎么做？",
+      "optionA": "先道歉缓和",
+      "optionB": "先解释原因",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0117",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "当你在争吵中公开让对方难堪时，你会怎么做？",
+      "optionA": "先道歉缓和",
+      "optionB": "先解释原因",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0118",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "当你在争吵中没有兑现承诺时，你会怎么做？",
+      "optionA": "先道歉缓和",
+      "optionB": "先解释原因",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0119",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "当你在争吵中隐瞒了一件小事时，你会怎么做？",
+      "optionA": "先道歉缓和",
+      "optionB": "先解释原因",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0120",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "当你在争吵中做了让对方担心的事时，你会怎么做？",
+      "optionA": "先道歉缓和",
+      "optionB": "先解释原因",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0121",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "当关于关系定义的讨论一直没有结果时，你会怎么做？",
+      "optionA": "继续说到底",
+      "optionB": "暂时停止讨论",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0122",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "当关于异性朋友的讨论一直没有结果时，你会怎么做？",
+      "optionA": "继续说到底",
+      "optionB": "暂时停止讨论",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0123",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "当关于个人空间的讨论一直没有结果时，你会怎么做？",
+      "optionA": "继续说到底",
+      "optionB": "暂时停止讨论",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0124",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "当关于见面安排的讨论一直没有结果时，你会怎么做？",
+      "optionA": "继续说到底",
+      "optionB": "暂时停止讨论",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0125",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "当关于未来城市的讨论一直没有结果时，你会怎么做？",
+      "optionA": "继续说到底",
+      "optionB": "暂时停止讨论",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0126",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "当关于家庭意见的讨论一直没有结果时，你会怎么做？",
+      "optionA": "继续说到底",
+      "optionB": "暂时停止讨论",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0127",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "当关于消费方式的讨论一直没有结果时，你会怎么做？",
+      "optionA": "继续说到底",
+      "optionB": "暂时停止讨论",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0128",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "当关于公开程度的讨论一直没有结果时，你会怎么做？",
+      "optionA": "继续说到底",
+      "optionB": "暂时停止讨论",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0129",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "当关于联系频率的讨论一直没有结果时，你会怎么做？",
+      "optionA": "继续说到底",
+      "optionB": "暂时停止讨论",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0130",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "当关于相处边界的讨论一直没有结果时，你会怎么做？",
+      "optionA": "继续说到底",
+      "optionB": "暂时停止讨论",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0131",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "当对方情绪很激动时，你会怎么处理？",
+      "optionA": "主动解决问题",
+      "optionB": "先给对方空间",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0132",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "当对方情绪非常委屈时，你会怎么处理？",
+      "optionA": "主动解决问题",
+      "optionB": "先给对方空间",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0133",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "当对方情绪明显生气时，你会怎么处理？",
+      "optionA": "主动解决问题",
+      "optionB": "先给对方空间",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0134",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "当对方情绪沉默不语时，你会怎么处理？",
+      "optionA": "主动解决问题",
+      "optionB": "先给对方空间",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0135",
       "level": "adult",
-      "optionA": "收到精心准备的惊喜",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "当对方情绪拒绝沟通时，你会怎么处理？",
+      "optionA": "主动解决问题",
+      "optionB": "先给对方空间",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0136",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "当对方情绪持续焦虑时，你会怎么处理？",
+      "optionA": "主动解决问题",
+      "optionB": "先给对方空间",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0137",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "当对方情绪突然崩溃时，你会怎么处理？",
+      "optionA": "主动解决问题",
+      "optionB": "先给对方空间",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0138",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "当对方情绪强烈吃醋时，你会怎么处理？",
+      "optionA": "主动解决问题",
+      "optionB": "先给对方空间",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0139",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "当对方情绪感到失望时，你会怎么处理？",
+      "optionA": "主动解决问题",
+      "optionB": "先给对方空间",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0140",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "当对方情绪陷入自责时，你会怎么处理？",
+      "optionA": "主动解决问题",
+      "optionB": "先给对方空间",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0141",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "当你感到被忽略时，你会怎么沟通？",
+      "optionA": "直接表达感受",
+      "optionB": "只讨论具体事情",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0142",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "当你感到没有安全感时，你会怎么沟通？",
+      "optionA": "直接表达感受",
+      "optionB": "只讨论具体事情",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0143",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "当你感到吃醋时，你会怎么沟通？",
+      "optionA": "直接表达感受",
+      "optionB": "只讨论具体事情",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0144",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "当你感到失望时，你会怎么沟通？",
+      "optionA": "直接表达感受",
+      "optionB": "只讨论具体事情",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0145",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "当你感到委屈时，你会怎么沟通？",
+      "optionA": "直接表达感受",
+      "optionB": "只讨论具体事情",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0146",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "当你感到压力很大时，你会怎么沟通？",
+      "optionA": "直接表达感受",
+      "optionB": "只讨论具体事情",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0147",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "当你感到不被理解时，你会怎么沟通？",
+      "optionA": "直接表达感受",
+      "optionB": "只讨论具体事情",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0148",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "当你感到边界被碰触时，你会怎么沟通？",
+      "optionA": "直接表达感受",
+      "optionB": "只讨论具体事情",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0149",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "当你感到投入不对等时，你会怎么沟通？",
+      "optionA": "直接表达感受",
+      "optionB": "只讨论具体事情",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0150",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "当你感到关系变得疏远时，你会怎么沟通？",
+      "optionA": "直接表达感受",
+      "optionB": "只讨论具体事情",
+      "theme": "冲突沟通"
     },
     {
       "id": "wr-adult-0151",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "当对方想知道你的手机密码时，你会怎么做？",
+      "optionA": "全部坦白",
+      "optionB": "保留个人隐私",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0152",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "当对方想知道你的聊天记录时，你会怎么做？",
+      "optionA": "全部坦白",
+      "optionB": "保留个人隐私",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0153",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "当对方想知道你的过去恋情时，你会怎么做？",
+      "optionA": "全部坦白",
+      "optionB": "保留个人隐私",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0154",
       "level": "adult",
-      "optionA": "收到一句非常真诚的话",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "当对方想知道你的具体行程时，你会怎么做？",
+      "optionA": "全部坦白",
+      "optionB": "保留个人隐私",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0155",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "当对方想知道你的收入情况时，你会怎么做？",
+      "optionA": "全部坦白",
+      "optionB": "保留个人隐私",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0156",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "当对方想知道你的家庭矛盾时，你会怎么做？",
+      "optionA": "全部坦白",
+      "optionB": "保留个人隐私",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0157",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "当对方想知道你的朋友秘密时，你会怎么做？",
+      "optionA": "全部坦白",
+      "optionB": "保留个人隐私",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0158",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "当对方想知道你的独处安排时，你会怎么做？",
+      "optionA": "全部坦白",
+      "optionB": "保留个人隐私",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0159",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "当对方想知道你的社交账号时，你会怎么做？",
+      "optionA": "全部坦白",
+      "optionB": "保留个人隐私",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0160",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "当对方想知道你的情绪日记时，你会怎么做？",
+      "optionA": "全部坦白",
+      "optionB": "保留个人隐私",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0161",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "当你怀疑对方隐瞒了事情时，你会怎么做？",
+      "optionA": "选择先相信",
+      "optionB": "先确认事实",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0162",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "当你怀疑对方和前任有联系时，你会怎么做？",
+      "optionA": "选择先相信",
+      "optionB": "先确认事实",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0163",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "当你怀疑对方对你说了谎时，你会怎么做？",
+      "optionA": "选择先相信",
+      "optionB": "先确认事实",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0164",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "当你怀疑对方忘记了约定时，你会怎么做？",
+      "optionA": "选择先相信",
+      "optionB": "先确认事实",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0165",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "当你怀疑对方在回避你时，你会怎么做？",
+      "optionA": "选择先相信",
+      "optionB": "先确认事实",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0166",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "当你怀疑对方对别人有好感时，你会怎么做？",
+      "optionA": "选择先相信",
+      "optionB": "先确认事实",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0167",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "当你怀疑对方没有说实话时，你会怎么做？",
+      "optionA": "选择先相信",
+      "optionB": "先确认事实",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0168",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "当你怀疑共同朋友传话不准时，你会怎么做？",
+      "optionA": "选择先相信",
+      "optionB": "先确认事实",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0169",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "当你怀疑对方在社交平台异常时，你会怎么做？",
+      "optionA": "选择先相信",
+      "optionB": "先确认事实",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0170",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "当你怀疑对方的解释有漏洞时，你会怎么做？",
+      "optionA": "选择先相信",
+      "optionB": "先确认事实",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0171",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "当对方提出查看你的手机时，你会怎么回应？",
+      "optionA": "接受对方的要求",
+      "optionB": "明确自己的边界",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0172",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "当对方提出共享实时位置时，你会怎么回应？",
+      "optionA": "接受对方的要求",
+      "optionB": "明确自己的边界",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0173",
       "level": "adult",
-      "optionA": "每天保持联系",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "当对方提出减少和某位朋友来往时，你会怎么回应？",
+      "optionA": "接受对方的要求",
+      "optionB": "明确自己的边界",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0174",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "当对方提出每天汇报行程时，你会怎么回应？",
+      "optionA": "接受对方的要求",
+      "optionB": "明确自己的边界",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0175",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "当对方提出公开你们的关系时，你会怎么回应？",
+      "optionA": "接受对方的要求",
+      "optionB": "明确自己的边界",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0176",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "当对方提出删除前任联系方式时，你会怎么回应？",
+      "optionA": "接受对方的要求",
+      "optionB": "明确自己的边界",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0177",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "当对方提出共享社交账号时，你会怎么回应？",
+      "optionA": "接受对方的要求",
+      "optionB": "明确自己的边界",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0178",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "当对方提出增加见面次数时，你会怎么回应？",
+      "optionA": "接受对方的要求",
+      "optionB": "明确自己的边界",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0179",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "当对方提出停止某个个人爱好时，你会怎么回应？",
+      "optionA": "接受对方的要求",
+      "optionB": "明确自己的边界",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0180",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "当对方提出一起参加所有聚会时，你会怎么回应？",
+      "optionA": "接受对方的要求",
+      "optionB": "明确自己的边界",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0181",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "当关系涉及异性朋友时，你会怎么处理？",
+      "optionA": "一起制定规则",
+      "optionB": "各自保持习惯",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0182",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "当关系涉及手机隐私时，你会怎么处理？",
+      "optionA": "一起制定规则",
+      "optionB": "各自保持习惯",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0183",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "当关系涉及独处时间时，你会怎么处理？",
+      "optionA": "一起制定规则",
+      "optionB": "各自保持习惯",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0184",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "当关系涉及社交平台时，你会怎么处理？",
+      "optionA": "一起制定规则",
+      "optionB": "各自保持习惯",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0185",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "当关系涉及前任联系时，你会怎么处理？",
+      "optionA": "一起制定规则",
+      "optionB": "各自保持习惯",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0186",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "当关系涉及消费分担时，你会怎么处理？",
+      "optionA": "一起制定规则",
+      "optionB": "各自保持习惯",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0187",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "当关系涉及见面频率时，你会怎么处理？",
+      "optionA": "一起制定规则",
+      "optionB": "各自保持习惯",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0188",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "当关系涉及旅行安排时，你会怎么处理？",
+      "optionA": "一起制定规则",
+      "optionB": "各自保持习惯",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0189",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "当关系涉及家庭介入时，你会怎么处理？",
+      "optionA": "一起制定规则",
+      "optionB": "各自保持习惯",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0190",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "当关系涉及公开尺度时，你会怎么处理？",
+      "optionA": "一起制定规则",
+      "optionB": "各自保持习惯",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0191",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "当你们对陪伴时间的需求不一致时，你会怎么做？",
+      "optionA": "主动调整自己",
+      "optionB": "坚持自己的需求",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0192",
       "level": "adult",
-      "optionA": "几天不联系但见面很投入",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "当你们对独处空间的需求不一致时，你会怎么做？",
+      "optionA": "主动调整自己",
+      "optionB": "坚持自己的需求",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0193",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "当你们对消息频率的需求不一致时，你会怎么做？",
+      "optionA": "主动调整自己",
+      "optionB": "坚持自己的需求",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0194",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "当你们对公开程度的需求不一致时，你会怎么做？",
+      "optionA": "主动调整自己",
+      "optionB": "坚持自己的需求",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0195",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "当你们对亲密表达的需求不一致时，你会怎么做？",
+      "optionA": "主动调整自己",
+      "optionB": "坚持自己的需求",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0196",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "当你们对旅行方式的需求不一致时，你会怎么做？",
+      "optionA": "主动调整自己",
+      "optionB": "坚持自己的需求",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0197",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "当你们对消费习惯的需求不一致时，你会怎么做？",
+      "optionA": "主动调整自己",
+      "optionB": "坚持自己的需求",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0198",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "当你们对社交活动的需求不一致时，你会怎么做？",
+      "optionA": "主动调整自己",
+      "optionB": "坚持自己的需求",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0199",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "当你们对未来规划的需求不一致时，你会怎么做？",
+      "optionA": "主动调整自己",
+      "optionB": "坚持自己的需求",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0200",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "当你们对生活节奏的需求不一致时，你会怎么做？",
+      "optionA": "主动调整自己",
+      "optionB": "坚持自己的需求",
+      "theme": "边界信任"
     },
     {
       "id": "wr-adult-0201",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "在朋友聚会被问起关系时，你会怎么做？",
+      "optionA": "公开承认",
+      "optionB": "私下再说",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0202",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "在同事聚餐被问起关系时，你会怎么做？",
+      "optionA": "公开承认",
+      "optionB": "私下再说",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0203",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "在家庭饭局被问起关系时，你会怎么做？",
+      "optionA": "公开承认",
+      "optionB": "私下再说",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0204",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "在共同旅行被问起关系时，你会怎么做？",
+      "optionA": "公开承认",
+      "optionB": "私下再说",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0205",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "在社交平台直播被问起关系时，你会怎么做？",
+      "optionA": "公开承认",
+      "optionB": "私下再说",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0206",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "在同学婚礼被问起关系时，你会怎么做？",
+      "optionA": "公开承认",
+      "optionB": "私下再说",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0207",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "在生日派对被问起关系时，你会怎么做？",
+      "optionA": "公开承认",
+      "optionB": "私下再说",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0208",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "在公司活动被问起关系时，你会怎么做？",
+      "optionA": "公开承认",
+      "optionB": "私下再说",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0209",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "在朋友群聊被问起关系时，你会怎么做？",
+      "optionA": "公开承认",
+      "optionB": "私下再说",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0210",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "在偶遇熟人被问起关系时，你会怎么做？",
+      "optionA": "公开承认",
+      "optionB": "私下再说",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0211",
       "level": "adult",
-      "optionA": "公开表达关系",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "当对方在朋友面前表现得很亲密时，你会怎么回应？",
+      "optionA": "大方回应",
+      "optionB": "保持低调",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0212",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "当对方在同事面前表现得很亲密时，你会怎么回应？",
+      "optionA": "大方回应",
+      "optionB": "保持低调",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0213",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "当对方在家人面前表现得很亲密时，你会怎么回应？",
+      "optionA": "大方回应",
+      "optionB": "保持低调",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0214",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "当对方在街上表现得很亲密时，你会怎么回应？",
+      "optionA": "大方回应",
+      "optionB": "保持低调",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0215",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "当对方在餐厅里表现得很亲密时，你会怎么回应？",
+      "optionA": "大方回应",
+      "optionB": "保持低调",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0216",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "当对方在电影院里表现得很亲密时，你会怎么回应？",
+      "optionA": "大方回应",
+      "optionB": "保持低调",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0217",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "当对方在旅行途中表现得很亲密时，你会怎么回应？",
+      "optionA": "大方回应",
+      "optionB": "保持低调",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0218",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "当对方在聚会现场表现得很亲密时，你会怎么回应？",
+      "optionA": "大方回应",
+      "optionB": "保持低调",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0219",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "当对方在社交平台表现得很亲密时，你会怎么回应？",
+      "optionA": "大方回应",
+      "optionB": "保持低调",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0220",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "当对方在共同朋友面前表现得很亲密时，你会怎么回应？",
+      "optionA": "大方回应",
+      "optionB": "保持低调",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0221",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "当对方想带你见最好的朋友时，你会怎么选？",
+      "optionA": "马上去见",
+      "optionB": "再相处一阵",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0222",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "当对方想带你见家人时，你会怎么选？",
+      "optionA": "马上去见",
+      "optionB": "再相处一阵",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0223",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "当对方想带你见同事时，你会怎么选？",
+      "optionA": "马上去见",
+      "optionB": "再相处一阵",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0224",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "当对方想带你见室友时，你会怎么选？",
+      "optionA": "马上去见",
+      "optionB": "再相处一阵",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0225",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "当对方想带你见发小时，你会怎么选？",
+      "optionA": "马上去见",
+      "optionB": "再相处一阵",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0226",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "当对方想带你见重要客户时，你会怎么选？",
+      "optionA": "马上去见",
+      "optionB": "再相处一阵",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0227",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "当对方想带你见兄弟姐妹时，你会怎么选？",
+      "optionA": "马上去见",
+      "optionB": "再相处一阵",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0228",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "当对方想带你见共同爱好圈时，你会怎么选？",
+      "optionA": "马上去见",
+      "optionB": "再相处一阵",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0229",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "当对方想带你见以前的同学时，你会怎么选？",
+      "optionA": "马上去见",
+      "optionB": "再相处一阵",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0230",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "当对方想带你见长期合作伙伴时，你会怎么选？",
+      "optionA": "马上去见",
+      "optionB": "再相处一阵",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0231",
       "level": "adult",
-      "optionA": "只在两个人之间保持默契",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "当对方想发布你们的合照时，你会怎么处理？",
+      "optionA": "同意公开分享",
+      "optionB": "不公开这份内容",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0232",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "当对方想发布约会照片时，你会怎么处理？",
+      "optionA": "同意公开分享",
+      "optionB": "不公开这份内容",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0233",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "当对方想发布旅行视频时，你会怎么处理？",
+      "optionA": "同意公开分享",
+      "optionB": "不公开这份内容",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0234",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "当对方想发布牵手照片时，你会怎么处理？",
+      "optionA": "同意公开分享",
+      "optionB": "不公开这份内容",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0235",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "当对方想发布纪念日动态时，你会怎么处理？",
+      "optionA": "同意公开分享",
+      "optionB": "不公开这份内容",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0236",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "当对方想发布收到礼物的照片时，你会怎么处理？",
+      "optionA": "同意公开分享",
+      "optionB": "不公开这份内容",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0237",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "当对方想发布一起做饭的视频时，你会怎么处理？",
+      "optionA": "同意公开分享",
+      "optionB": "不公开这份内容",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0238",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "当对方想发布朋友聚会合影时，你会怎么处理？",
+      "optionA": "同意公开分享",
+      "optionB": "不公开这份内容",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0239",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "当对方想发布情侣头像时，你会怎么处理？",
+      "optionA": "同意公开分享",
+      "optionB": "不公开这份内容",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0240",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "当对方想发布关于你的长文时，你会怎么处理？",
+      "optionA": "同意公开分享",
+      "optionB": "不公开这份内容",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0241",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "当别人问起你们怎么认识的时，你会怎么回应？",
+      "optionA": "如实回答细节",
+      "optionB": "礼貌回避问题",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0242",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "当别人问起谁先表白的时，你会怎么回应？",
+      "optionA": "如实回答细节",
+      "optionB": "礼貌回避问题",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0243",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "当别人问起是否住在一起时，你会怎么回应？",
+      "optionA": "如实回答细节",
+      "optionB": "礼貌回避问题",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0244",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "当别人问起有没有见家长时，你会怎么回应？",
+      "optionA": "如实回答细节",
+      "optionB": "礼貌回避问题",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0245",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "当别人问起最近是否吵架时，你会怎么回应？",
+      "optionA": "如实回答细节",
+      "optionB": "礼貌回避问题",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0246",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "当别人问起未来是否结婚时，你会怎么回应？",
+      "optionA": "如实回答细节",
+      "optionB": "礼貌回避问题",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0247",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "当别人问起谁更主动时，你会怎么回应？",
+      "optionA": "如实回答细节",
+      "optionB": "礼貌回避问题",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0248",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "当别人问起彼此的前任时，你会怎么回应？",
+      "optionA": "如实回答细节",
+      "optionB": "礼貌回避问题",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0249",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "当别人问起你们的消费分工时，你会怎么回应？",
+      "optionA": "如实回答细节",
+      "optionB": "礼貌回避问题",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0250",
       "level": "adult",
-      "optionA": "先确认彼此边界",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "当别人问起关系中的私密习惯时，你会怎么回应？",
+      "optionA": "如实回答细节",
+      "optionB": "礼貌回避问题",
+      "theme": "公开私密"
     },
     {
       "id": "wr-adult-0251",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "准备纪念日约会时，你会怎么安排？",
+      "optionA": "提前精心计划",
+      "optionB": "临时随性决定",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0252",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "准备生日惊喜时，你会怎么安排？",
+      "optionA": "提前精心计划",
+      "optionB": "临时随性决定",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0253",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "准备周末旅行时，你会怎么安排？",
+      "optionA": "提前精心计划",
+      "optionB": "临时随性决定",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0254",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "准备第一次正式约会时，你会怎么安排？",
+      "optionA": "提前精心计划",
+      "optionB": "临时随性决定",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0255",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "准备跨年活动时，你会怎么安排？",
+      "optionA": "提前精心计划",
+      "optionB": "临时随性决定",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0256",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "准备情人节安排时，你会怎么安排？",
+      "optionA": "提前精心计划",
+      "optionB": "临时随性决定",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0257",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "准备求和见面时，你会怎么安排？",
+      "optionA": "提前精心计划",
+      "optionB": "临时随性决定",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0258",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "准备庆祝好消息时，你会怎么安排？",
+      "optionA": "提前精心计划",
+      "optionB": "临时随性决定",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0259",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "准备久别重逢时，你会怎么安排？",
+      "optionA": "提前精心计划",
+      "optionB": "临时随性决定",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0260",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "准备一次特别晚餐时，你会怎么安排？",
+      "optionA": "提前精心计划",
+      "optionB": "临时随性决定",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0261",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "当遇到对方生日时，你更愿意怎样表达心意？",
+      "optionA": "送一份礼物",
+      "optionB": "留出完整陪伴",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0262",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "当遇到纪念日时，你更愿意怎样表达心意？",
+      "optionA": "送一份礼物",
+      "optionB": "留出完整陪伴",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0263",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "当遇到久别重逢时，你更愿意怎样表达心意？",
+      "optionA": "送一份礼物",
+      "optionB": "留出完整陪伴",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0264",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "当遇到对方低落时，你更愿意怎样表达心意？",
+      "optionA": "送一份礼物",
+      "optionB": "留出完整陪伴",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0265",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "当遇到好消息时，你更愿意怎样表达心意？",
+      "optionA": "送一份礼物",
+      "optionB": "留出完整陪伴",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0266",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "当遇到普通周末时，你更愿意怎样表达心意？",
+      "optionA": "送一份礼物",
+      "optionB": "留出完整陪伴",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0267",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "当遇到旅行途中时，你更愿意怎样表达心意？",
+      "optionA": "送一份礼物",
+      "optionB": "留出完整陪伴",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0268",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "当遇到工作很忙时，你更愿意怎样表达心意？",
+      "optionA": "送一份礼物",
+      "optionB": "留出完整陪伴",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0269",
       "level": "adult",
-      "optionA": "先顺着气氛自然发展",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "当遇到关系升温时，你更愿意怎样表达心意？",
+      "optionA": "送一份礼物",
+      "optionB": "留出完整陪伴",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0270",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "当遇到对方疲惫时，你更愿意怎样表达心意？",
+      "optionA": "送一份礼物",
+      "optionB": "留出完整陪伴",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0271",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "想在生日制造浪漫时，你会怎么选？",
+      "optionA": "准备一个大惊喜",
+      "optionB": "准备一份小心意",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0272",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "想在纪念日制造浪漫时，你会怎么选？",
+      "optionA": "准备一个大惊喜",
+      "optionB": "准备一份小心意",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0273",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "想在第一次约会制造浪漫时，你会怎么选？",
+      "optionA": "准备一个大惊喜",
+      "optionB": "准备一份小心意",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0274",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "想在周末旅行制造浪漫时，你会怎么选？",
+      "optionA": "准备一个大惊喜",
+      "optionB": "准备一份小心意",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0275",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "想在跨年夜制造浪漫时，你会怎么选？",
+      "optionA": "准备一个大惊喜",
+      "optionB": "准备一份小心意",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0276",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "想在久别重逢制造浪漫时，你会怎么选？",
+      "optionA": "准备一个大惊喜",
+      "optionB": "准备一份小心意",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0277",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "想在道歉和好制造浪漫时，你会怎么选？",
+      "optionA": "准备一个大惊喜",
+      "optionB": "准备一份小心意",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0278",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "想在庆祝成功制造浪漫时，你会怎么选？",
+      "optionA": "准备一个大惊喜",
+      "optionB": "准备一份小心意",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0279",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "想在普通晚餐制造浪漫时，你会怎么选？",
+      "optionA": "准备一个大惊喜",
+      "optionB": "准备一份小心意",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0280",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "想在突然见面制造浪漫时，你会怎么选？",
+      "optionA": "准备一个大惊喜",
+      "optionB": "准备一份小心意",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0281",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "准备一份礼物时，你会怎么决定细节？",
+      "optionA": "直接询问对方喜好",
+      "optionB": "按照自己的理解准备",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0282",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "准备一次约会时，你会怎么决定细节？",
+      "optionA": "直接询问对方喜好",
+      "optionB": "按照自己的理解准备",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0283",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "准备一趟旅行时，你会怎么决定细节？",
+      "optionA": "直接询问对方喜好",
+      "optionB": "按照自己的理解准备",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0284",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "准备生日晚餐时，你会怎么决定细节？",
+      "optionA": "直接询问对方喜好",
+      "optionB": "按照自己的理解准备",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0285",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "准备纪念日活动时，你会怎么决定细节？",
+      "optionA": "直接询问对方喜好",
+      "optionB": "按照自己的理解准备",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0286",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "准备一场电影时，你会怎么决定细节？",
+      "optionA": "直接询问对方喜好",
+      "optionB": "按照自己的理解准备",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0287",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "准备一份甜点时，你会怎么决定细节？",
+      "optionA": "直接询问对方喜好",
+      "optionB": "按照自己的理解准备",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0288",
       "level": "adult",
-      "optionA": "被温柔照顾",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "准备一束花时，你会怎么决定细节？",
+      "optionA": "直接询问对方喜好",
+      "optionB": "按照自己的理解准备",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0289",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "准备一间民宿时，你会怎么决定细节？",
+      "optionA": "直接询问对方喜好",
+      "optionB": "按照自己的理解准备",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0290",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "准备一张歌单时，你会怎么决定细节？",
+      "optionA": "直接询问对方喜好",
+      "optionB": "按照自己的理解准备",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0291",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "面对相识纪念日时，你会怎么过？",
+      "optionA": "认真安排纪念",
+      "optionB": "自然平常度过",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0292",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "面对确定关系纪念日时，你会怎么过？",
+      "optionA": "认真安排纪念",
+      "optionB": "自然平常度过",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0293",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "面对第一次约会周年时，你会怎么过？",
+      "optionA": "认真安排纪念",
+      "optionB": "自然平常度过",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0294",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "面对对方生日时，你会怎么过？",
+      "optionA": "认真安排纪念",
+      "optionB": "自然平常度过",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0295",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "面对情人节时，你会怎么过？",
+      "optionA": "认真安排纪念",
+      "optionB": "自然平常度过",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0296",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "面对跨年夜时，你会怎么过？",
+      "optionA": "认真安排纪念",
+      "optionB": "自然平常度过",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0297",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "面对第一次旅行周年时，你会怎么过？",
+      "optionA": "认真安排纪念",
+      "optionB": "自然平常度过",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0298",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "面对重要好消息时，你会怎么过？",
+      "optionA": "认真安排纪念",
+      "optionB": "自然平常度过",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0299",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "面对久别重逢日时，你会怎么过？",
+      "optionA": "认真安排纪念",
+      "optionB": "自然平常度过",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0300",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "面对共同完成目标的日子时，你会怎么过？",
+      "optionA": "认真安排纪念",
+      "optionB": "自然平常度过",
+      "theme": "浪漫方式"
     },
     {
       "id": "wr-adult-0301",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "当关系刚刚确认彼此好感时，你会怎么做？",
+      "optionA": "加快进度",
+      "optionB": "放慢节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0302",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "当关系刚刚结束暧昧时，你会怎么做？",
+      "optionA": "加快进度",
+      "optionB": "放慢节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0303",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "当关系刚刚开始约会时，你会怎么做？",
+      "optionA": "加快进度",
+      "optionB": "放慢节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0304",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "当关系刚刚第一次牵手时，你会怎么做？",
+      "optionA": "加快进度",
+      "optionB": "放慢节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0305",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "当关系刚刚第一次见朋友时，你会怎么做？",
+      "optionA": "加快进度",
+      "optionB": "放慢节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0306",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "当关系刚刚谈到未来时，你会怎么做？",
+      "optionA": "加快进度",
+      "optionB": "放慢节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0307",
       "level": "adult",
-      "optionA": "被坚定选择",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "当关系刚刚变得稳定时，你会怎么做？",
+      "optionA": "加快进度",
+      "optionB": "放慢节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0308",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "当关系刚刚重新复合时，你会怎么做？",
+      "optionA": "加快进度",
+      "optionB": "放慢节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0309",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "当关系刚刚开始异地时，你会怎么做？",
+      "optionA": "加快进度",
+      "optionB": "放慢节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0310",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "当关系刚刚进入磨合期时，你会怎么做？",
+      "optionA": "加快进度",
+      "optionB": "放慢节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0311",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "当对方想正式确定关系时，你会怎么回应？",
+      "optionA": "马上确定下来",
+      "optionB": "继续了解彼此",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0312",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "当对方想搬到一起住时，你会怎么回应？",
+      "optionA": "马上确定下来",
+      "optionB": "继续了解彼此",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0313",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "当对方想见双方家长时，你会怎么回应？",
+      "optionA": "马上确定下来",
+      "optionB": "继续了解彼此",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0314",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "当对方想规划共同旅行时，你会怎么回应？",
+      "optionA": "马上确定下来",
+      "optionB": "继续了解彼此",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0315",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "当对方想公开关系时，你会怎么回应？",
+      "optionA": "马上确定下来",
+      "optionB": "继续了解彼此",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0316",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "当对方想讨论结婚时，你会怎么回应？",
+      "optionA": "马上确定下来",
+      "optionB": "继续了解彼此",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0317",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "当对方想共同养宠物时，你会怎么回应？",
+      "optionA": "马上确定下来",
+      "optionB": "继续了解彼此",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0318",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "当对方想共享财务计划时，你会怎么回应？",
+      "optionA": "马上确定下来",
+      "optionB": "继续了解彼此",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0319",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "当对方想长期异地时，你会怎么回应？",
+      "optionA": "马上确定下来",
+      "optionB": "继续了解彼此",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0320",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "当对方想进入彼此朋友圈时，你会怎么回应？",
+      "optionA": "马上确定下来",
+      "optionB": "继续了解彼此",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0321",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "当你开始考虑长期关系时，你会怎么做？",
+      "optionA": "主动讨论未来",
+      "optionB": "只专注当下",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0322",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "当你开始考虑共同生活时，你会怎么做？",
+      "optionA": "主动讨论未来",
+      "optionB": "只专注当下",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0323",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "当你开始考虑城市选择时，你会怎么做？",
+      "optionA": "主动讨论未来",
+      "optionB": "只专注当下",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0324",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "当你开始考虑家庭意见时，你会怎么做？",
+      "optionA": "主动讨论未来",
+      "optionB": "只专注当下",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0325",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "当你开始考虑事业安排时，你会怎么做？",
+      "optionA": "主动讨论未来",
+      "optionB": "只专注当下",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0326",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "当你开始考虑婚姻可能时，你会怎么做？",
+      "optionA": "主动讨论未来",
+      "optionB": "只专注当下",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0327",
       "level": "adult",
-      "optionA": "和心动的人聊到天亮",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "当你开始考虑是否要孩子时，你会怎么做？",
+      "optionA": "主动讨论未来",
+      "optionB": "只专注当下",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0328",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "当你开始考虑财务分工时，你会怎么做？",
+      "optionA": "主动讨论未来",
+      "optionB": "只专注当下",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0329",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "当你开始考虑照顾父母时，你会怎么做？",
+      "optionA": "主动讨论未来",
+      "optionB": "只专注当下",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0330",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "当你开始考虑未来十年时，你会怎么做？",
+      "optionA": "主动讨论未来",
+      "optionB": "只专注当下",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0331",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "当你们的节奏不一致时，你会怎么处理联系频率？",
+      "optionA": "调整自己的节奏",
+      "optionB": "坚持自己的节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0332",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "当你们的节奏不一致时，你会怎么处理见面次数？",
+      "optionA": "调整自己的节奏",
+      "optionB": "坚持自己的节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0333",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "当你们的节奏不一致时，你会怎么处理公开时间？",
+      "optionA": "调整自己的节奏",
+      "optionB": "坚持自己的节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0334",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "当你们的节奏不一致时，你会怎么处理亲密程度？",
+      "optionA": "调整自己的节奏",
+      "optionB": "坚持自己的节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0335",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "当你们的节奏不一致时，你会怎么处理未来讨论？",
+      "optionA": "调整自己的节奏",
+      "optionB": "坚持自己的节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0336",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "当你们的节奏不一致时，你会怎么处理家庭介入？",
+      "optionA": "调整自己的节奏",
+      "optionB": "坚持自己的节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0337",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "当你们的节奏不一致时，你会怎么处理共同旅行？",
+      "optionA": "调整自己的节奏",
+      "optionB": "坚持自己的节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0338",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "当你们的节奏不一致时，你会怎么处理社交融合？",
+      "optionA": "调整自己的节奏",
+      "optionB": "坚持自己的节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0339",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "当你们的节奏不一致时，你会怎么处理消费分担？",
+      "optionA": "调整自己的节奏",
+      "optionB": "坚持自己的节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0340",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "当你们的节奏不一致时，你会怎么处理生活安排？",
+      "optionA": "调整自己的节奏",
+      "optionB": "坚持自己的节奏",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0341",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "面对工作日晚上的安排，你会怎么选？",
+      "optionA": "增加相处时间",
+      "optionB": "保留个人时间",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0342",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "面对整个周末的安排，你会怎么选？",
+      "optionA": "增加相处时间",
+      "optionB": "保留个人时间",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0343",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "面对长假的安排，你会怎么选？",
+      "optionA": "增加相处时间",
+      "optionB": "保留个人时间",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0344",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "面对旅行期间的安排，你会怎么选？",
+      "optionA": "增加相处时间",
+      "optionB": "保留个人时间",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0345",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "面对下班以后的安排，你会怎么选？",
+      "optionA": "增加相处时间",
+      "optionB": "保留个人时间",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0346",
       "level": "adult",
-      "optionA": "和心动的人安静待一整天",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "面对朋友聚会后的安排，你会怎么选？",
+      "optionA": "增加相处时间",
+      "optionB": "保留个人时间",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0347",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "面对异地见面时的安排，你会怎么选？",
+      "optionA": "增加相处时间",
+      "optionB": "保留个人时间",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0348",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "面对生日当天的安排，你会怎么选？",
+      "optionA": "增加相处时间",
+      "optionB": "保留个人时间",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0349",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "面对压力很大时的安排，你会怎么选？",
+      "optionA": "增加相处时间",
+      "optionB": "保留个人时间",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0350",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "面对关系磨合期的安排，你会怎么选？",
+      "optionA": "增加相处时间",
+      "optionB": "保留个人时间",
+      "theme": "关系节奏"
     },
     {
       "id": "wr-adult-0351",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "当谈到前任时，你会怎么做？",
+      "optionA": "直接讨论清楚",
+      "optionB": "尽量不再提起",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0352",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "当谈到过去的误会时，你会怎么做？",
+      "optionA": "直接讨论清楚",
+      "optionB": "尽量不再提起",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0353",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "当谈到曾经的暗恋时，你会怎么做？",
+      "optionA": "直接讨论清楚",
+      "optionB": "尽量不再提起",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0354",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "当谈到上一段关系时，你会怎么做？",
+      "optionA": "直接讨论清楚",
+      "optionB": "尽量不再提起",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0355",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "当谈到分手原因时，你会怎么做？",
+      "optionA": "直接讨论清楚",
+      "optionB": "尽量不再提起",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0356",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "当谈到旧照片时，你会怎么做？",
+      "optionA": "直接讨论清楚",
+      "optionB": "尽量不再提起",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0357",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "当谈到以前的承诺时，你会怎么做？",
+      "optionA": "直接讨论清楚",
+      "optionB": "尽量不再提起",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0358",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "当谈到曾经的伤害时，你会怎么做？",
+      "optionA": "直接讨论清楚",
+      "optionB": "尽量不再提起",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0359",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "当谈到共同朋友传闻时，你会怎么做？",
+      "optionA": "直接讨论清楚",
+      "optionB": "尽量不再提起",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0360",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "当谈到过去的遗憾时，你会怎么做？",
+      "optionA": "直接讨论清楚",
+      "optionB": "尽量不再提起",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0361",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "面对朋友婚礼时，你们会怎么安排？",
+      "optionA": "一起参加",
+      "optionB": "各自参加",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0362",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "面对同事聚会时，你们会怎么安排？",
+      "optionA": "一起参加",
+      "optionB": "各自参加",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0363",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "面对兴趣活动时，你们会怎么安排？",
+      "optionA": "一起参加",
+      "optionB": "各自参加",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0364",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "面对同学聚餐时，你们会怎么安排？",
+      "optionA": "一起参加",
+      "optionB": "各自参加",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0365",
       "level": "adult",
-      "optionA": "听到直接的赞美",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "面对公司年会时，你们会怎么安排？",
+      "optionA": "一起参加",
+      "optionB": "各自参加",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0366",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "面对生日派对时，你们会怎么安排？",
+      "optionA": "一起参加",
+      "optionB": "各自参加",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0367",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "面对家庭聚会时，你们会怎么安排？",
+      "optionA": "一起参加",
+      "optionB": "各自参加",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0368",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "面对旅行团建时，你们会怎么安排？",
+      "optionA": "一起参加",
+      "optionB": "各自参加",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0369",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "面对音乐节时，你们会怎么安排？",
+      "optionA": "一起参加",
+      "optionB": "各自参加",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0370",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "面对朋友露营时，你们会怎么安排？",
+      "optionA": "一起参加",
+      "optionB": "各自参加",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0371",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "当别人当面质疑对方能力时，你会怎么做？",
+      "optionA": "公开维护对方",
+      "optionB": "保持中立态度",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0372",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "当别人当面评价对方外貌时，你会怎么做？",
+      "optionA": "公开维护对方",
+      "optionB": "保持中立态度",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0373",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "当别人当面批评对方性格时，你会怎么做？",
+      "optionA": "公开维护对方",
+      "optionB": "保持中立态度",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0374",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "当别人当面拿对方开过分玩笑时，你会怎么做？",
+      "optionA": "公开维护对方",
+      "optionB": "保持中立态度",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0375",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "当别人当面否定你们的关系时，你会怎么做？",
+      "optionA": "公开维护对方",
+      "optionB": "保持中立态度",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0376",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "当别人当面提起对方前任时，你会怎么做？",
+      "optionA": "公开维护对方",
+      "optionB": "保持中立态度",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0377",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "当别人当面质疑对方收入时，你会怎么做？",
+      "optionA": "公开维护对方",
+      "optionB": "保持中立态度",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0378",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "当别人当面评论对方家庭时，你会怎么做？",
+      "optionA": "公开维护对方",
+      "optionB": "保持中立态度",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0379",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "当别人当面挑拨你们关系时，你会怎么做？",
+      "optionA": "公开维护对方",
+      "optionB": "保持中立态度",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0380",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "当别人当面传播错误消息时，你会怎么做？",
+      "optionA": "公开维护对方",
+      "optionB": "保持中立态度",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0381",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "当对方和前任保持联系时，你会怎么处理？",
+      "optionA": "询问具体细节",
+      "optionB": "给予充分信任",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0382",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "当对方和异性好友保持联系时，你会怎么处理？",
+      "optionA": "询问具体细节",
+      "optionB": "给予充分信任",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0383",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "当对方和曾经的追求者保持联系时，你会怎么处理？",
+      "optionA": "询问具体细节",
+      "optionB": "给予充分信任",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0384",
       "level": "adult",
-      "optionA": "看到默默的行动",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "当对方和关系亲密的同事保持联系时，你会怎么处理？",
+      "optionA": "询问具体细节",
+      "optionB": "给予充分信任",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0385",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "当对方和刚认识的网友保持联系时，你会怎么处理？",
+      "optionA": "询问具体细节",
+      "optionB": "给予充分信任",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0386",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "当对方和共同朋友保持联系时，你会怎么处理？",
+      "optionA": "询问具体细节",
+      "optionB": "给予充分信任",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0387",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "当对方和长期合作伙伴保持联系时，你会怎么处理？",
+      "optionA": "询问具体细节",
+      "optionB": "给予充分信任",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0388",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "当对方和过去的同学保持联系时，你会怎么处理？",
+      "optionA": "询问具体细节",
+      "optionB": "给予充分信任",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0389",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "当对方和旅行认识的人保持联系时，你会怎么处理？",
+      "optionA": "询问具体细节",
+      "optionB": "给予充分信任",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0390",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "当对方和兴趣圈好友保持联系时，你会怎么处理？",
+      "optionA": "询问具体细节",
+      "optionB": "给予充分信任",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0391",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "当前任重新出现时，你会怎么做？",
+      "optionA": "继续保持联系",
+      "optionB": "主动拉开距离",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0392",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "当曾经的暧昧对象重新出现时，你会怎么做？",
+      "optionA": "继续保持联系",
+      "optionB": "主动拉开距离",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0393",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "当过去的追求者重新出现时，你会怎么做？",
+      "optionA": "继续保持联系",
+      "optionB": "主动拉开距离",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0394",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "当很久没联系的异性好友重新出现时，你会怎么做？",
+      "optionA": "继续保持联系",
+      "optionB": "主动拉开距离",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0395",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "当曾经伤害你的人重新出现时，你会怎么做？",
+      "optionA": "继续保持联系",
+      "optionB": "主动拉开距离",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0396",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "当让伴侣介意的朋友重新出现时，你会怎么做？",
+      "optionA": "继续保持联系",
+      "optionB": "主动拉开距离",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0397",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "当旧同事重新出现时，你会怎么做？",
+      "optionA": "继续保持联系",
+      "optionB": "主动拉开距离",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0398",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "当旧同学重新出现时，你会怎么做？",
+      "optionA": "继续保持联系",
+      "optionB": "主动拉开距离",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0399",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "当旅行中认识的人重新出现时，你会怎么做？",
+      "optionA": "继续保持联系",
+      "optionB": "主动拉开距离",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0400",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "当网络好友重新出现时，你会怎么做？",
+      "optionA": "继续保持联系",
+      "optionB": "主动拉开距离",
+      "theme": "社交过去"
     },
     {
       "id": "wr-adult-0401",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "当对方心情低落时，你会怎么做？",
+      "optionA": "主动靠近",
+      "optionB": "先保持距离",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0402",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "当对方明显紧张时，你会怎么做？",
+      "optionA": "主动靠近",
+      "optionB": "先保持距离",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0403",
       "level": "adult",
-      "optionA": "在关系里保持独立",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "当对方沉默不语时，你会怎么做？",
+      "optionA": "主动靠近",
+      "optionB": "先保持距离",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0404",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "当对方刚刚哭过时，你会怎么做？",
+      "optionA": "主动靠近",
+      "optionB": "先保持距离",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0405",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "当对方很需要安慰时，你会怎么做？",
+      "optionA": "主动靠近",
+      "optionB": "先保持距离",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0406",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "当对方因为压力失眠时，你会怎么做？",
+      "optionA": "主动靠近",
+      "optionB": "先保持距离",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0407",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "当对方感到没有安全感时，你会怎么做？",
+      "optionA": "主动靠近",
+      "optionB": "先保持距离",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0408",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "当对方在聚会中不自在时，你会怎么做？",
+      "optionA": "主动靠近",
+      "optionB": "先保持距离",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0409",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "当对方突然变得脆弱时，你会怎么做？",
+      "optionA": "主动靠近",
+      "optionB": "先保持距离",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0410",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "当对方对你产生误会时，你会怎么做？",
+      "optionA": "主动靠近",
+      "optionB": "先保持距离",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0411",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "拥有强烈心动但充满未知的关系",
-      "theme": "亲密选择"
+      "question": "当对方因为工作受挫需要安慰时，你更愿意怎么做？",
+      "optionA": "用行动陪伴",
+      "optionB": "用语言安慰",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0412",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "当对方因为家庭压力需要安慰时，你更愿意怎么做？",
+      "optionA": "用行动陪伴",
+      "optionB": "用语言安慰",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0413",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "当对方因为朋友矛盾需要安慰时，你更愿意怎么做？",
+      "optionA": "用行动陪伴",
+      "optionB": "用语言安慰",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0414",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "当对方因为失眠焦虑需要安慰时，你更愿意怎么做？",
+      "optionA": "用行动陪伴",
+      "optionB": "用语言安慰",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0415",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "尽快确认关系",
-      "theme": "亲密选择"
+      "question": "当对方因为身体不适需要安慰时，你更愿意怎么做？",
+      "optionA": "用行动陪伴",
+      "optionB": "用语言安慰",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0416",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "当对方因为关系误会需要安慰时，你更愿意怎么做？",
+      "optionA": "用行动陪伴",
+      "optionB": "用语言安慰",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0417",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "当对方因为考试失败需要安慰时，你更愿意怎么做？",
+      "optionA": "用行动陪伴",
+      "optionB": "用语言安慰",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0418",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "当对方因为项目失败需要安慰时，你更愿意怎么做？",
+      "optionA": "用行动陪伴",
+      "optionB": "用语言安慰",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0419",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "在重要时刻听到承诺",
-      "theme": "亲密选择"
+      "question": "当对方因为情绪低落需要安慰时，你更愿意怎么做？",
+      "optionA": "用行动陪伴",
+      "optionB": "用语言安慰",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0420",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "当对方因为自我怀疑需要安慰时，你更愿意怎么做？",
+      "optionA": "用行动陪伴",
+      "optionB": "用语言安慰",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0421",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "当你们的气氛变得暧昧时，你会怎么做？",
+      "optionA": "主动发起互动",
+      "optionB": "等待对方主动",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0422",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "当你们的气氛变得安静时，你会怎么做？",
+      "optionA": "主动发起互动",
+      "optionB": "等待对方主动",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0423",
       "level": "adult",
-      "optionA": "在关系里高度分享",
-      "optionB": "故意慢一点确认感受",
-      "theme": "亲密选择"
+      "question": "当你们的气氛变得浪漫时，你会怎么做？",
+      "optionA": "主动发起互动",
+      "optionB": "等待对方主动",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0424",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "当你们的气氛变得紧张时，你会怎么做？",
+      "optionA": "主动发起互动",
+      "optionB": "等待对方主动",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0425",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "当你们的气氛变得甜蜜时，你会怎么做？",
+      "optionA": "主动发起互动",
+      "optionB": "等待对方主动",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0426",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "在朋友面前被公开偏爱",
-      "theme": "亲密选择"
+      "question": "当你们的气氛变得微妙时，你会怎么做？",
+      "optionA": "主动发起互动",
+      "optionB": "等待对方主动",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0427",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "当你们的气氛变得热烈时，你会怎么做？",
+      "optionA": "主动发起互动",
+      "optionB": "等待对方主动",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0428",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "保留一点无法完全看透的空间",
-      "theme": "亲密选择"
+      "question": "当你们的气氛变得温柔时，你会怎么做？",
+      "optionA": "主动发起互动",
+      "optionB": "等待对方主动",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0429",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "被对方主动靠近",
-      "theme": "亲密选择"
+      "question": "当你们的气氛变得害羞时，你会怎么做？",
+      "optionA": "主动发起互动",
+      "optionB": "等待对方主动",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0430",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "由自己主动拉近距离",
-      "theme": "亲密选择"
+      "question": "当你们的气氛变得期待时，你会怎么做？",
+      "optionA": "主动发起互动",
+      "optionB": "等待对方主动",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0431",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "拥有稳定安心但节奏平缓的关系",
-      "theme": "亲密选择"
+      "question": "当对方说想要安静一下时，你会怎么做？",
+      "optionA": "继续陪在身边",
+      "optionB": "让对方独处",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0432",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "一起回忆过去",
-      "theme": "亲密选择"
+      "question": "当对方说想要冷静一下时，你会怎么做？",
+      "optionA": "继续陪在身边",
+      "optionB": "让对方独处",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0433",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "一起规划未来",
-      "theme": "亲密选择"
+      "question": "当对方说想要整理情绪时，你会怎么做？",
+      "optionA": "继续陪在身边",
+      "optionB": "让对方独处",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0434",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "在暧昧期保持耐心",
-      "theme": "亲密选择"
+      "question": "当对方说想要自己想想时，你会怎么做？",
+      "optionA": "继续陪在身边",
+      "optionB": "让对方独处",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0435",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "被一句话打动",
-      "theme": "亲密选择"
+      "question": "当对方说想要休息一会时，你会怎么做？",
+      "optionA": "继续陪在身边",
+      "optionB": "让对方独处",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0436",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "被一个动作打动",
-      "theme": "亲密选择"
+      "question": "当对方说想要暂时不说话时，你会怎么做？",
+      "optionA": "继续陪在身边",
+      "optionB": "让对方独处",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0437",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "收到长篇消息",
-      "theme": "亲密选择"
+      "question": "当对方说想要一个人散步时，你会怎么做？",
+      "optionA": "继续陪在身边",
+      "optionB": "让对方独处",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0438",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "收到一句简短但确定的话",
-      "theme": "亲密选择"
+      "question": "当对方说想要早点睡觉时，你会怎么做？",
+      "optionA": "继续陪在身边",
+      "optionB": "让对方独处",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0439",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "在日常里感受到持续行动",
-      "theme": "亲密选择"
+      "question": "当对方说想要处理工作时，你会怎么做？",
+      "optionA": "继续陪在身边",
+      "optionB": "让对方独处",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0440",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "把吃醋说出来",
-      "theme": "亲密选择"
+      "question": "当对方说想要见朋友时，你会怎么做？",
+      "optionA": "继续陪在身边",
+      "optionB": "让对方独处",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0441",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "自己消化吃醋情绪",
-      "theme": "亲密选择"
+      "question": "当你在深夜想表达想念时，你会怎么做？",
+      "optionA": "直接说出想念",
+      "optionB": "用细节暗示想念",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0442",
       "level": "adult",
-      "optionA": "先解决矛盾",
-      "optionB": "立即回应心动",
-      "theme": "亲密选择"
+      "question": "当你在分别以后想表达想念时，你会怎么做？",
+      "optionA": "直接说出想念",
+      "optionB": "用细节暗示想念",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0443",
       "level": "adult",
-      "optionA": "先给彼此冷静空间",
-      "optionB": "接受一次意外的浪漫安排",
-      "theme": "亲密选择"
+      "question": "当你在异地期间想表达想念时，你会怎么做？",
+      "optionA": "直接说出想念",
+      "optionB": "用细节暗示想念",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0444",
       "level": "adult",
-      "optionA": "先给彼此冷静空间",
-      "optionB": "自己策划一场浪漫安排",
-      "theme": "亲密选择"
+      "question": "当你在工作间隙想表达想念时，你会怎么做？",
+      "optionA": "直接说出想念",
+      "optionB": "用细节暗示想念",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0445",
       "level": "adult",
-      "optionA": "先给彼此冷静空间",
-      "optionB": "私下得到只属于你的偏爱",
-      "theme": "亲密选择"
+      "question": "当你在旅行途中想表达想念时，你会怎么做？",
+      "optionA": "直接说出想念",
+      "optionB": "用细节暗示想念",
+      "theme": "亲密陪伴"
     },
     {
       "id": "wr-adult-0446",
       "level": "adult",
-      "optionA": "先给彼此冷静空间",
-      "optionB": "知道对方所有想法",
-      "theme": "亲密选择"
+      "question": "当你在约会结束后想表达想念时，你会怎么做？",
+      "optionA": "直接说出想念",
+      "optionB": "用细节暗示想念",
+      "theme": "亲密陪伴"
     }
   ]
 }

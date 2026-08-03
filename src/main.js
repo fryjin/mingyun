@@ -65,4 +65,4 @@ function showUpdate(registration){
   const banner=document.querySelector('#updateBanner');banner.hidden=false;
   document.querySelector('#applyUpdate').onclick=()=>{registration.waiting?.postMessage({type:'SKIP_WAITING'});location.reload()};
 }
-navigator.serviceWorker?.addEventListener('controllerchange',()=>console.info('V9.1.1 service worker active'));
+navigator.serviceWorker?.addEventListener('controllerchange',()=>console.info('V9.1.2 service worker active'));

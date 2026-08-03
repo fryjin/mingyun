@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.1.1-2026.08",
+  "bankVersion": "v9.1.2-2026.08",
   "generatedAt": "2026-08-03",
   "totalEnabledSpecialized": 2500,
   "files": [
@@ -118,8 +118,8 @@
       "level": "adult",
       "type": "word-pair",
       "count": 260,
-      "sha256": "f8b3d39bbcc8bc4ee7520a00f613cd67978cf3b814551011ab251b7c539baafe",
-      "bytes": 59232
+      "sha256": "8a741faedfc8fbdc3fdefaed0e22c849286e7955c6634dc62f49ef7f6de6b078",
+      "bytes": 47796
     },
     {
       "file": "data/games/undercover-bold.json",
@@ -127,8 +127,8 @@
       "level": "bold",
       "type": "word-pair",
       "count": 80,
-      "sha256": "1a0c342de5a0709e2dd319237d99f32d93b2401b7891bb25b1ba8051a8ea3479",
-      "bytes": 15138
+      "sha256": "c076366bdf6e3f05eff2e2a203664d12be021432d9e82656969b92873fce276f",
+      "bytes": 14669
     },
     {
       "file": "data/games/undercover-light.json",
@@ -136,8 +136,8 @@
       "level": "light",
       "type": "word-pair",
       "count": 80,
-      "sha256": "8bdbd86f7dfeb7e0648744f8b3105c6198b9c02df8fa160cdb4b15d9a9552b56",
-      "bytes": 14897
+      "sha256": "4205db0180533d718b558b47e75ccf760f38f3713e7a470421977a39b4b64f7f",
+      "bytes": 14791
     },
     {
       "file": "data/games/undercover-standard.json",
@@ -145,8 +145,8 @@
       "level": "standard",
       "type": "word-pair",
       "count": 80,
-      "sha256": "6c948d35de0b51fc29a0552329032eaf30854b2dffe3fd780eb615fd286a177e",
-      "bytes": 15320
+      "sha256": "11a074cbab8a0c7a5420cbd6215e2f2c07d99cba1eee3dab37ac35b84d314579",
+      "bytes": 15424
     },
     {
       "file": "data/games/would-rather-adult.json",
@@ -154,8 +154,8 @@
       "level": "adult",
       "type": "choice",
       "count": 446,
-      "sha256": "035f030b7b6e2d8c31fe5723deaabd9b20928f6212a36f55fc3a3741b51452da",
-      "bytes": 84377
+      "sha256": "cb0632b81b908cc90ddc000880984ad80e104f9aa30cce28efcfdd31a8fcac53",
+      "bytes": 112512
     },
     {
       "file": "data/games/would-rather-bold.json",
@@ -163,8 +163,8 @@
       "level": "bold",
       "type": "choice",
       "count": 18,
-      "sha256": "f6b5910d758487a20fb8f7e73f43b9d33e346a366e13d0eb9f5f61eb1b1a70b6",
-      "bytes": 3399
+      "sha256": "2c9d0164e3465458b7d6a033364278a26f330eb120b0b56d6d061bdd646942c0",
+      "bytes": 4664
     },
     {
       "file": "data/games/would-rather-light.json",
@@ -172,8 +172,8 @@
       "level": "light",
       "type": "choice",
       "count": 18,
-      "sha256": "63b69967d0e50ff1575cec78cc6a2f60cfd20855e391d5cb1ac53c264d6adb69",
-      "bytes": 3286
+      "sha256": "d75862d342df9a9ca34b36524fb7641d0986abe74d1e32eed729cf7386575647",
+      "bytes": 4455
     },
     {
       "file": "data/games/would-rather-standard.json",
@@ -181,13 +181,14 @@
       "level": "standard",
       "type": "choice",
       "count": 18,
-      "sha256": "7bf520a06d0e93af02c43bc0ac0bf28afc0c92abc979aa87350526a37aa78316",
-      "bytes": 3532
+      "sha256": "5f7f3f5cf364e26205fb6965a012b3977ca47eaf69ab4dfb54e4b1820a10ef14",
+      "bytes": 4743
     }
   ],
   "notes": {
     "hotPotato": "纯传递玩法，不加载专用任务库",
     "sharedPunishments": 3500,
-    "undercover": "词库已重审，移除机械前缀组合；玩家只查看词，不显示身份。"
+    "wouldRather": "每条内容包含具体情境，并提供方向相反的 A/B 选择。",
+    "undercover": "全部为 1–4 字短词，仅显示词语，不显示玩家身份。"
   }
 }

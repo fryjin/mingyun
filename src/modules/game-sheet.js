@@ -1,4 +1,4 @@
-import { activePlayers, getState, session, setRoute, updateGameSettings } from '../core/store.js';
+import { activePlayers, getState, session, startGame } from '../core/store.js';
 import { escapeHtml, icon } from '../core/utils.js';
 import { getGame } from '../games/registry.js';
 import { closeOverlay, confirmDialog, showSheet, toast } from './overlay.js';
@@ -21,7 +21,7 @@ export function openGameSheet(gameId) {
           const accepted=await confirmDialog({title:'开启成人内容？',message:'仅适用于所有参与者均已满 18 岁并明确自愿的聚会。任何人都可以随时跳过或退出。',confirmText:'确认并开启'});
           if(!accepted)return; session.adultAccepted=true;
         }
-        updateGameSettings(game.id,next);closeOverlay();setRoute('game',game.id);
+        closeOverlay();startGame(game.id,next);
       };
     }});
 }

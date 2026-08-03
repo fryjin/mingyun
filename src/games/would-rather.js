@@ -19,7 +19,7 @@ const plugin={
     try{item=await drawGame('would-rather',ctx.settings.level)}catch(error){root.innerHTML=escapeHtml(error.message);return}
     const settlement=['minority','majority'].includes(ctx.settings.settlement)?ctx.settings.settlement:'minority';
     const intro=()=>{
-      root.innerHTML=`${stageHeader(plugin.title,'秘密选择 · 统一揭晓')}<section class="game-stage centered"><span class="eyebrow">本轮二选一</span><div class="choice-preview"><article><small>A</small><strong>${escapeHtml(item.optionA)}</strong></article><span>OR</span><article><small>B</small><strong>${escapeHtml(item.optionB)}</strong></article></div><button class="button primary full" data-start>开始选择</button></section>`;
+      root.innerHTML=`${stageHeader(plugin.title,'秘密选择 · 统一揭晓')}<section class="game-stage centered"><span class="eyebrow">本轮情境</span><h2 class="choice-question">${escapeHtml(item.question||'遇到这种情况，你会怎么选？')}</h2><div class="choice-preview"><article><small>A</small><strong>${escapeHtml(item.optionA)}</strong></article><span>或</span><article><small>B</small><strong>${escapeHtml(item.optionB)}</strong></article></div><button class="button primary full" data-start>开始选择</button></section>`;
       bindExit(root,ctx);root.querySelector('[data-start]').onclick=pass;
     };
     const pass=()=>{
@@ -28,7 +28,7 @@ const plugin={
       bindExit(root,ctx);root.querySelector('[data-private-open]').onclick=()=>choose(player);
     };
     const choose=player=>{
-      root.innerHTML=`${stageHeader(plugin.title)}<section class="private-stage"><span class="eyebrow">${escapeHtml(player.name)}</span><h2>选一个</h2><div class="private-choice"><button data-value="A"><small>A</small><strong>${escapeHtml(item.optionA)}</strong></button><button data-value="B"><small>B</small><strong>${escapeHtml(item.optionB)}</strong></button></div></section>`;
+      root.innerHTML=`${stageHeader(plugin.title)}<section class="private-stage"><span class="eyebrow">${escapeHtml(player.name)} · 私密选择</span><h2 class="private-choice-question">${escapeHtml(item.question||'遇到这种情况，你会怎么选？')}</h2><div class="private-choice"><button data-value="A"><small>A</small><strong>${escapeHtml(item.optionA)}</strong></button><button data-value="B"><small>B</small><strong>${escapeHtml(item.optionB)}</strong></button></div></section>`;
       bindExit(root,ctx);root.querySelectorAll('[data-value]').forEach(button=>button.onclick=()=>save(player,button.dataset.value));
     };
     const save=(player,value)=>{choices.push({player,value});index++;index>=ctx.players.length?ready():pass()};

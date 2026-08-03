@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.1.1-2026.08",
+  "bankVersion": "v9.1.2-2026.08",
   "game": "undercover",
   "level": "standard",
   "levelLabel": "标准",
@@ -10,642 +10,642 @@
     {
       "id": "uc-standard-0001",
       "level": "standard",
-      "civilian": "加班",
-      "undercover": "熬夜",
+      "civilian": "蛋糕",
+      "undercover": "面包",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0002",
       "level": "standard",
-      "civilian": "旅行",
-      "undercover": "出差",
+      "civilian": "面包",
+      "undercover": "饼干",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0003",
       "level": "standard",
-      "civilian": "浪漫",
-      "undercover": "惊喜",
+      "civilian": "饼干",
+      "undercover": "曲奇",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0004",
       "level": "standard",
-      "civilian": "聪明",
-      "undercover": "机灵",
+      "civilian": "曲奇",
+      "undercover": "布丁",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0005",
       "level": "standard",
-      "civilian": "安静",
-      "undercover": "沉默",
+      "civilian": "布丁",
+      "undercover": "果冻",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0006",
       "level": "standard",
-      "civilian": "习惯",
-      "undercover": "爱好",
+      "civilian": "果冻",
+      "undercover": "薯片",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0007",
       "level": "standard",
-      "civilian": "梦想",
-      "undercover": "目标",
+      "civilian": "薯片",
+      "undercover": "爆米花",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0008",
       "level": "standard",
-      "civilian": "勇敢",
-      "undercover": "冲动",
+      "civilian": "爆米花",
+      "undercover": "巧克力",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0009",
       "level": "standard",
-      "civilian": "信任",
-      "undercover": "依赖",
+      "civilian": "巧克力",
+      "undercover": "冰淇淋",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0010",
       "level": "standard",
-      "civilian": "礼貌",
-      "undercover": "客气",
+      "civilian": "蛋糕",
+      "undercover": "饼干",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0011",
       "level": "standard",
-      "civilian": "独处",
-      "undercover": "孤独",
+      "civilian": "面包",
+      "undercover": "曲奇",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0012",
       "level": "standard",
-      "civilian": "计划",
-      "undercover": "安排",
+      "civilian": "饼干",
+      "undercover": "布丁",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0013",
       "level": "standard",
-      "civilian": "努力",
-      "undercover": "坚持",
+      "civilian": "曲奇",
+      "undercover": "果冻",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0014",
       "level": "standard",
-      "civilian": "选择",
-      "undercover": "决定",
+      "civilian": "布丁",
+      "undercover": "薯片",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0015",
       "level": "standard",
-      "civilian": "怀念",
-      "undercover": "遗憾",
+      "civilian": "果冻",
+      "undercover": "爆米花",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0016",
       "level": "standard",
-      "civilian": "自由",
-      "undercover": "随性",
+      "civilian": "薯片",
+      "undercover": "巧克力",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0017",
       "level": "standard",
-      "civilian": "认真",
-      "undercover": "固执",
+      "civilian": "爆米花",
+      "undercover": "冰淇淋",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0018",
       "level": "standard",
-      "civilian": "安慰",
-      "undercover": "鼓励",
+      "civilian": "蛋糕",
+      "undercover": "曲奇",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0019",
       "level": "standard",
-      "civilian": "坦白",
-      "undercover": "解释",
+      "civilian": "面包",
+      "undercover": "布丁",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0020",
       "level": "standard",
-      "civilian": "温柔",
-      "undercover": "体贴",
+      "civilian": "饼干",
+      "undercover": "果冻",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0021",
       "level": "standard",
-      "civilian": "自信",
-      "undercover": "自恋",
+      "civilian": "曲奇",
+      "undercover": "薯片",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0022",
       "level": "standard",
-      "civilian": "幽默",
-      "undercover": "搞笑",
+      "civilian": "布丁",
+      "undercover": "爆米花",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0023",
       "level": "standard",
-      "civilian": "成熟",
-      "undercover": "稳重",
+      "civilian": "果冻",
+      "undercover": "巧克力",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0024",
       "level": "standard",
-      "civilian": "理性",
-      "undercover": "冷静",
+      "civilian": "薯片",
+      "undercover": "冰淇淋",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0025",
       "level": "standard",
-      "civilian": "热情",
-      "undercover": "积极",
+      "civilian": "火锅",
+      "undercover": "烧烤",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0026",
       "level": "standard",
-      "civilian": "谨慎",
-      "undercover": "犹豫",
+      "civilian": "烧烤",
+      "undercover": "烤肉",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0027",
       "level": "standard",
-      "civilian": "效率",
-      "undercover": "速度",
+      "civilian": "烤肉",
+      "undercover": "串串",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0028",
       "level": "standard",
-      "civilian": "质量",
-      "undercover": "细节",
+      "civilian": "串串",
+      "undercover": "寿司",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0029",
       "level": "standard",
-      "civilian": "规则",
-      "undercover": "原则",
+      "civilian": "寿司",
+      "undercover": "拉面",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0030",
       "level": "standard",
-      "civilian": "机会",
-      "undercover": "运气",
+      "civilian": "拉面",
+      "undercover": "炒面",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0031",
       "level": "standard",
-      "civilian": "压力",
-      "undercover": "动力",
+      "civilian": "炒面",
+      "undercover": "炒粉",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0032",
       "level": "standard",
-      "civilian": "放松",
-      "undercover": "偷懒",
+      "civilian": "炒粉",
+      "undercover": "盖饭",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0033",
       "level": "standard",
-      "civilian": "竞争",
-      "undercover": "合作",
+      "civilian": "盖饭",
+      "undercover": "煲仔饭",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0034",
       "level": "standard",
-      "civilian": "建议",
-      "undercover": "命令",
+      "civilian": "火锅",
+      "undercover": "烤肉",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0035",
       "level": "standard",
-      "civilian": "沟通",
-      "undercover": "争论",
+      "civilian": "烧烤",
+      "undercover": "串串",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0036",
       "level": "standard",
-      "civilian": "道歉",
-      "undercover": "和解",
+      "civilian": "烤肉",
+      "undercover": "寿司",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0037",
       "level": "standard",
-      "civilian": "赞美",
-      "undercover": "奉承",
+      "civilian": "串串",
+      "undercover": "拉面",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0038",
       "level": "standard",
-      "civilian": "拒绝",
-      "undercover": "回避",
+      "civilian": "寿司",
+      "undercover": "炒面",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0039",
       "level": "standard",
-      "civilian": "帮助",
-      "undercover": "代替",
+      "civilian": "拉面",
+      "undercover": "炒粉",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0040",
       "level": "standard",
-      "civilian": "关心",
-      "undercover": "打扰",
+      "civilian": "炒面",
+      "undercover": "盖饭",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0041",
       "level": "standard",
-      "civilian": "守时",
-      "undercover": "提前",
+      "civilian": "炒粉",
+      "undercover": "煲仔饭",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0042",
       "level": "standard",
-      "civilian": "迟到",
-      "undercover": "缺席",
+      "civilian": "火锅",
+      "undercover": "串串",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0043",
       "level": "standard",
-      "civilian": "社交",
-      "undercover": "应酬",
+      "civilian": "烧烤",
+      "undercover": "寿司",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0044",
       "level": "standard",
-      "civilian": "聚会",
-      "undercover": "团建",
+      "civilian": "烤肉",
+      "undercover": "拉面",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0045",
       "level": "standard",
-      "civilian": "存钱",
-      "undercover": "理财",
+      "civilian": "串串",
+      "undercover": "炒面",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0046",
       "level": "standard",
-      "civilian": "消费",
-      "undercover": "投资",
+      "civilian": "寿司",
+      "undercover": "炒粉",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0047",
       "level": "standard",
-      "civilian": "兼职",
-      "undercover": "副业",
+      "civilian": "拉面",
+      "undercover": "盖饭",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0048",
       "level": "standard",
-      "civilian": "工作",
-      "undercover": "事业",
+      "civilian": "炒面",
+      "undercover": "煲仔饭",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0049",
       "level": "standard",
-      "civilian": "经验",
-      "undercover": "能力",
+      "civilian": "电影",
+      "undercover": "电视剧",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0050",
       "level": "standard",
-      "civilian": "天赋",
-      "undercover": "勤奋",
+      "civilian": "电视剧",
+      "undercover": "综艺",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0051",
       "level": "standard",
-      "civilian": "学历",
-      "undercover": "阅历",
+      "civilian": "综艺",
+      "undercover": "纪录片",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0052",
       "level": "standard",
-      "civilian": "领导",
-      "undercover": "管理",
+      "civilian": "纪录片",
+      "undercover": "动画片",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0053",
       "level": "standard",
-      "civilian": "创意",
-      "undercover": "执行",
+      "civilian": "动画片",
+      "undercover": "短视频",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0054",
       "level": "standard",
-      "civilian": "稳定",
-      "undercover": "安全",
+      "civilian": "短视频",
+      "undercover": "直播",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0055",
       "level": "standard",
-      "civilian": "变化",
-      "undercover": "挑战",
+      "civilian": "直播",
+      "undercover": "播客",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0056",
       "level": "standard",
-      "civilian": "现实",
-      "undercover": "理想",
+      "civilian": "播客",
+      "undercover": "小说",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0057",
       "level": "standard",
-      "civilian": "直觉",
-      "undercover": "判断",
+      "civilian": "小说",
+      "undercover": "漫画",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0058",
       "level": "standard",
-      "civilian": "记忆",
-      "undercover": "印象",
+      "civilian": "电影",
+      "undercover": "综艺",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0059",
       "level": "standard",
-      "civilian": "规律",
-      "undercover": "节奏",
+      "civilian": "电视剧",
+      "undercover": "纪录片",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0060",
       "level": "standard",
-      "civilian": "兴趣",
-      "undercover": "热爱",
+      "civilian": "综艺",
+      "undercover": "动画片",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0061",
       "level": "standard",
-      "civilian": "放弃",
-      "undercover": "暂停",
+      "civilian": "纪录片",
+      "undercover": "短视频",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0062",
       "level": "standard",
-      "civilian": "坚持到底",
-      "undercover": "逞强",
+      "civilian": "动画片",
+      "undercover": "直播",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0063",
       "level": "standard",
-      "civilian": "休息",
-      "undercover": "放空",
+      "civilian": "短视频",
+      "undercover": "播客",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0064",
       "level": "standard",
-      "civilian": "忙碌",
-      "undercover": "充实",
+      "civilian": "直播",
+      "undercover": "小说",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0065",
       "level": "standard",
-      "civilian": "简单",
-      "undercover": "敷衍",
+      "civilian": "播客",
+      "undercover": "漫画",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0066",
       "level": "standard",
-      "civilian": "复杂",
-      "undercover": "麻烦",
+      "civilian": "电影",
+      "undercover": "纪录片",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0067",
       "level": "standard",
-      "civilian": "精致",
-      "undercover": "讲究",
+      "civilian": "电视剧",
+      "undercover": "动画片",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0068",
       "level": "standard",
-      "civilian": "节省",
-      "undercover": "克制",
+      "civilian": "综艺",
+      "undercover": "短视频",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0069",
       "level": "standard",
-      "civilian": "分享",
-      "undercover": "炫耀",
+      "civilian": "纪录片",
+      "undercover": "直播",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0070",
       "level": "standard",
-      "civilian": "观察",
-      "undercover": "猜测",
+      "civilian": "动画片",
+      "undercover": "播客",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0071",
       "level": "standard",
-      "civilian": "提醒",
-      "undercover": "催促",
+      "civilian": "短视频",
+      "undercover": "小说",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0072",
       "level": "standard",
-      "civilian": "承认",
-      "undercover": "认输",
+      "civilian": "直播",
+      "undercover": "漫画",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0073",
       "level": "standard",
-      "civilian": "保密",
-      "undercover": "隐瞒",
+      "civilian": "手机",
+      "undercover": "平板",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0074",
       "level": "standard",
-      "civilian": "真诚",
-      "undercover": "直接",
+      "civilian": "平板",
+      "undercover": "电脑",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0075",
       "level": "standard",
-      "civilian": "宽容",
-      "undercover": "退让",
+      "civilian": "电脑",
+      "undercover": "相机",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0076",
       "level": "standard",
-      "civilian": "独立",
-      "undercover": "疏远",
+      "civilian": "相机",
+      "undercover": "耳机",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0077",
       "level": "standard",
-      "civilian": "陪伴",
-      "undercover": "照顾",
+      "civilian": "耳机",
+      "undercover": "音箱",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0078",
       "level": "standard",
-      "civilian": "期待",
-      "undercover": "要求",
+      "civilian": "音箱",
+      "undercover": "手表",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0079",
       "level": "standard",
-      "civilian": "认可",
-      "undercover": "赞同",
+      "civilian": "手表",
+      "undercover": "键盘",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-standard-0080",
       "level": "standard",
-      "civilian": "改变",
-      "undercover": "适应",
+      "civilian": "键盘",
+      "undercover": "鼠标",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     }
   ]
 }

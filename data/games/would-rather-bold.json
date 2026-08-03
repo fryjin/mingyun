@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.1-2026.08",
+  "bankVersion": "v9.1.2-2026.08",
   "game": "would-rather",
   "level": "bold",
   "levelLabel": "大胆",
@@ -10,128 +10,146 @@
     {
       "id": "wr-bold-0001",
       "level": "bold",
-      "optionA": "主动告白后被拒绝",
-      "optionB": "一直暗恋却不说",
-      "theme": "生活选择"
+      "question": "有人当众质疑你的能力，你会怎么回应？",
+      "optionA": "当场反击",
+      "optionB": "用结果证明",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0002",
       "level": "bold",
-      "optionA": "知道伴侣所有过去",
-      "optionB": "只关注彼此现在",
-      "theme": "生活选择"
+      "question": "朋友做了明显不合适的决定，你会怎么做？",
+      "optionA": "直接劝阻",
+      "optionB": "尊重他自己承担",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0003",
       "level": "bold",
-      "optionA": "留在熟悉关系里",
-      "optionB": "结束关系重新开始",
-      "theme": "生活选择"
+      "question": "你被安排承担明显更多的工作，会怎么处理？",
+      "optionA": "当面拒绝",
+      "optionB": "先完成再沟通",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0004",
       "level": "bold",
-      "optionA": "接受一次真诚道歉",
-      "optionB": "永远记住那次伤害",
-      "theme": "生活选择"
+      "question": "关系很好的人连续忽略你的感受，你会怎么做？",
+      "optionA": "直接摊牌",
+      "optionB": "逐渐疏远",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0005",
       "level": "bold",
-      "optionA": "爱得更多",
-      "optionB": "被爱得更多",
-      "theme": "生活选择"
+      "question": "你发现有人对你撒了一个重要的谎，会怎么做？",
+      "optionA": "立即追问",
+      "optionB": "先收集更多信息",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0006",
       "level": "bold",
-      "optionA": "公开一段关系",
-      "optionB": "长期保持低调",
-      "theme": "生活选择"
+      "question": "面对一个可能改变生活的机会，你会怎么选？",
+      "optionA": "马上抓住",
+      "optionB": "充分评估后再决定",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0007",
       "level": "bold",
-      "optionA": "面对面说分开",
-      "optionB": "用文字说分开",
-      "theme": "生活选择"
+      "question": "有人公开传播关于你的错误消息，你会怎么处理？",
+      "optionA": "公开澄清",
+      "optionB": "私下要求删除",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0008",
       "level": "bold",
-      "optionA": "为了爱情换城市",
-      "optionB": "为了事业保持距离",
-      "theme": "生活选择"
+      "question": "你在争论中发现自己错了，会怎么做？",
+      "optionA": "立刻认错",
+      "optionB": "先结束争论再道歉",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0009",
       "level": "bold",
-      "optionA": "继续一段缺乏激情的稳定关系",
-      "optionB": "开始一段充满不确定的新关系",
-      "theme": "生活选择"
+      "question": "朋友要求你帮忙隐瞒一件不妥的事，你会怎么选？",
+      "optionA": "拒绝帮忙",
+      "optionB": "先听完整原因",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0010",
       "level": "bold",
-      "optionA": "看见对方手机内容",
-      "optionB": "保留彼此绝对隐私",
-      "theme": "生活选择"
+      "question": "你不喜欢的人主动向你示好，会怎么回应？",
+      "optionA": "明确保持距离",
+      "optionB": "礼貌维持表面关系",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0011",
       "level": "bold",
-      "optionA": "原谅一次隐瞒",
-      "optionB": "坚持零容忍",
-      "theme": "生活选择"
+      "question": "别人触碰了你的原则底线，你会怎么做？",
+      "optionA": "立刻终止合作",
+      "optionB": "给一次改正机会",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0012",
       "level": "bold",
-      "optionA": "和前任成为朋友",
-      "optionB": "彻底断开联系",
-      "theme": "生活选择"
+      "question": "你发现团队的决定可能失败，会怎么做？",
+      "optionA": "强烈反对",
+      "optionB": "保留意见配合执行",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0013",
       "level": "bold",
-      "optionA": "先确认关系",
-      "optionB": "先确认未来规划",
-      "theme": "生活选择"
+      "question": "面对一次明显不公平的结果，你会怎么处理？",
+      "optionA": "公开争取",
+      "optionB": "接受后另找机会",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0014",
       "level": "bold",
-      "optionA": "每天高频联系",
-      "optionB": "给彼此充分空间",
-      "theme": "生活选择"
+      "question": "有人把私人矛盾带到公开场合，你会怎么做？",
+      "optionA": "当场解决",
+      "optionB": "拒绝公开讨论",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0015",
       "level": "bold",
-      "optionA": "坦白自己的不安全感",
-      "optionB": "保持成熟冷静形象",
-      "theme": "生活选择"
+      "question": "你必须在友情和原则间选择，会怎么做？",
+      "optionA": "坚持原则",
+      "optionB": "优先维护友情",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0016",
       "level": "bold",
-      "optionA": "接受对方的小缺点",
-      "optionB": "要求对方持续改变",
-      "theme": "生活选择"
+      "question": "有人要求查看你的私人聊天记录，你会怎么做？",
+      "optionA": "直接拒绝",
+      "optionB": "解释后部分展示",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0017",
       "level": "bold",
-      "optionA": "在争吵当天解决",
-      "optionB": "冷静一天后再谈",
-      "theme": "生活选择"
+      "question": "一段关系让你持续消耗，你会怎么做？",
+      "optionA": "马上离开",
+      "optionB": "再给彼此一次机会",
+      "theme": "情境选择"
     },
     {
       "id": "wr-bold-0018",
       "level": "bold",
-      "optionA": "选择心动",
-      "optionB": "选择合适",
-      "theme": "生活选择"
+      "question": "面对一个你很想赢的竞争，你会怎么做？",
+      "optionA": "全力争取",
+      "optionB": "保持平常心",
+      "theme": "情境选择"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.1.1-2026.08",
+  "bankVersion": "v9.1.2-2026.08",
   "game": "undercover",
   "level": "bold",
   "levelLabel": "大胆",
@@ -10,642 +10,642 @@
     {
       "id": "uc-bold-0001",
       "level": "bold",
-      "civilian": "暧昧",
-      "undercover": "恋爱",
+      "civilian": "开心",
+      "undercover": "兴奋",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0002",
       "level": "bold",
-      "civilian": "心动",
-      "undercover": "喜欢",
+      "civilian": "兴奋",
+      "undercover": "满足",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0003",
       "level": "bold",
-      "civilian": "吃醋",
-      "undercover": "介意",
+      "civilian": "满足",
+      "undercover": "安心",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0004",
       "level": "bold",
-      "civilian": "前任",
-      "undercover": "初恋",
+      "civilian": "安心",
+      "undercover": "平静",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0005",
       "level": "bold",
-      "civilian": "告白",
-      "undercover": "求婚",
+      "civilian": "平静",
+      "undercover": "紧张",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0006",
       "level": "bold",
-      "civilian": "试探",
-      "undercover": "确认",
+      "civilian": "紧张",
+      "undercover": "焦虑",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0007",
       "level": "bold",
-      "civilian": "承诺",
-      "undercover": "保证",
+      "civilian": "焦虑",
+      "undercover": "失落",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0008",
       "level": "bold",
-      "civilian": "占有欲",
-      "undercover": "安全感",
+      "civilian": "失落",
+      "undercover": "委屈",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0009",
       "level": "bold",
-      "civilian": "冷战",
-      "undercover": "冷静期",
+      "civilian": "委屈",
+      "undercover": "生气",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0010",
       "level": "bold",
-      "civilian": "依赖",
-      "undercover": "陪伴感",
+      "civilian": "开心",
+      "undercover": "满足",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0011",
       "level": "bold",
-      "civilian": "隐瞒",
-      "undercover": "欺骗",
+      "civilian": "兴奋",
+      "undercover": "安心",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0012",
       "level": "bold",
-      "civilian": "原谅",
-      "undercover": "妥协",
+      "civilian": "满足",
+      "undercover": "平静",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0013",
       "level": "bold",
-      "civilian": "分手",
-      "undercover": "告别",
+      "civilian": "安心",
+      "undercover": "紧张",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0014",
       "level": "bold",
-      "civilian": "复合",
-      "undercover": "重逢",
+      "civilian": "平静",
+      "undercover": "焦虑",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0015",
       "level": "bold",
-      "civilian": "边界",
-      "undercover": "距离",
+      "civilian": "紧张",
+      "undercover": "失落",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0016",
       "level": "bold",
-      "civilian": "主动示好",
-      "undercover": "热情追求",
+      "civilian": "焦虑",
+      "undercover": "委屈",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0017",
       "level": "bold",
-      "civilian": "沉默",
-      "undercover": "逃避",
+      "civilian": "失落",
+      "undercover": "生气",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0018",
       "level": "bold",
-      "civilian": "心软",
-      "undercover": "动摇",
+      "civilian": "开心",
+      "undercover": "安心",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0019",
       "level": "bold",
-      "civilian": "坦诚",
-      "undercover": "直白",
+      "civilian": "兴奋",
+      "undercover": "平静",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0020",
       "level": "bold",
-      "civilian": "合适",
-      "undercover": "心动感",
+      "civilian": "满足",
+      "undercover": "紧张",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0021",
       "level": "bold",
-      "civilian": "喜欢",
-      "undercover": "习惯感",
+      "civilian": "安心",
+      "undercover": "焦虑",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0022",
       "level": "bold",
-      "civilian": "吸引",
-      "undercover": "欣赏",
+      "civilian": "平静",
+      "undercover": "失落",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0023",
       "level": "bold",
-      "civilian": "偏爱",
-      "undercover": "照顾",
+      "civilian": "紧张",
+      "undercover": "委屈",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0024",
       "level": "bold",
-      "civilian": "撒娇",
-      "undercover": "示弱",
+      "civilian": "焦虑",
+      "undercover": "生气",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0025",
       "level": "bold",
-      "civilian": "拥抱",
-      "undercover": "牵手",
+      "civilian": "温柔",
+      "undercover": "体贴",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0026",
       "level": "bold",
-      "civilian": "约会",
-      "undercover": "见面",
+      "civilian": "体贴",
+      "undercover": "细心",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0027",
       "level": "bold",
-      "civilian": "联系",
-      "undercover": "回复",
+      "civilian": "细心",
+      "undercover": "耐心",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0028",
       "level": "bold",
-      "civilian": "已读",
-      "undercover": "未回",
+      "civilian": "耐心",
+      "undercover": "随和",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0029",
       "level": "bold",
-      "civilian": "热恋",
-      "undercover": "稳定期",
+      "civilian": "随和",
+      "undercover": "安静",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0030",
       "level": "bold",
-      "civilian": "新鲜感",
-      "undercover": "踏实感",
+      "civilian": "安静",
+      "undercover": "活泼",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0031",
       "level": "bold",
-      "civilian": "仪式感",
-      "undercover": "陪伴感",
+      "civilian": "活泼",
+      "undercover": "热情",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0032",
       "level": "bold",
-      "civilian": "秘密",
-      "undercover": "隐私",
+      "civilian": "热情",
+      "undercover": "直接",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0033",
       "level": "bold",
-      "civilian": "信任感",
-      "undercover": "坦白局",
+      "civilian": "直接",
+      "undercover": "强势",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0034",
       "level": "bold",
-      "civilian": "嫉妒",
-      "undercover": "羡慕",
+      "civilian": "温柔",
+      "undercover": "细心",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0035",
       "level": "bold",
-      "civilian": "控制",
-      "undercover": "保护",
+      "civilian": "体贴",
+      "undercover": "耐心",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0036",
       "level": "bold",
-      "civilian": "坚定",
-      "undercover": "执着",
+      "civilian": "细心",
+      "undercover": "随和",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0037",
       "level": "bold",
-      "civilian": "暧昧期",
-      "undercover": "空窗期",
+      "civilian": "耐心",
+      "undercover": "安静",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0038",
       "level": "bold",
-      "civilian": "异地恋",
-      "undercover": "同城恋",
+      "civilian": "随和",
+      "undercover": "活泼",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0039",
       "level": "bold",
-      "civilian": "网恋",
-      "undercover": "现实恋爱",
+      "civilian": "安静",
+      "undercover": "热情",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0040",
       "level": "bold",
-      "civilian": "一见钟情",
-      "undercover": "日久生情",
+      "civilian": "活泼",
+      "undercover": "直接",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0041",
       "level": "bold",
-      "civilian": "双向奔赴",
-      "undercover": "单向付出",
+      "civilian": "热情",
+      "undercover": "强势",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0042",
       "level": "bold",
-      "civilian": "公开恋情",
-      "undercover": "地下恋情",
+      "civilian": "温柔",
+      "undercover": "耐心",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0043",
       "level": "bold",
-      "civilian": "主动追求",
-      "undercover": "被动等待",
+      "civilian": "体贴",
+      "undercover": "随和",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0044",
       "level": "bold",
-      "civilian": "甜言蜜语",
-      "undercover": "实际行动",
+      "civilian": "细心",
+      "undercover": "安静",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0045",
       "level": "bold",
-      "civilian": "情绪价值",
-      "undercover": "物质支持",
+      "civilian": "耐心",
+      "undercover": "活泼",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0046",
       "level": "bold",
-      "civilian": "灵魂伴侣",
-      "undercover": "合适对象",
+      "civilian": "随和",
+      "undercover": "热情",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0047",
       "level": "bold",
-      "civilian": "心动对象",
-      "undercover": "理想伴侣",
+      "civilian": "安静",
+      "undercover": "直接",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0048",
       "level": "bold",
-      "civilian": "直球",
-      "undercover": "暗示",
+      "civilian": "活泼",
+      "undercover": "强势",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0049",
       "level": "bold",
-      "civilian": "表白",
-      "undercover": "暗恋",
+      "civilian": "勇敢",
+      "undercover": "谨慎",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0050",
       "level": "bold",
-      "civilian": "牵挂",
-      "undercover": "想念",
+      "civilian": "谨慎",
+      "undercover": "果断",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0051",
       "level": "bold",
-      "civilian": "暧昧消息",
-      "undercover": "普通问候",
+      "civilian": "果断",
+      "undercover": "犹豫",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0052",
       "level": "bold",
-      "civilian": "独占欲",
-      "undercover": "保护欲",
+      "civilian": "犹豫",
+      "undercover": "自信",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0053",
       "level": "bold",
-      "civilian": "恋爱脑",
-      "undercover": "事业脑",
+      "civilian": "自信",
+      "undercover": "谦虚",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0054",
       "level": "bold",
-      "civilian": "感性表达",
-      "undercover": "理性分析",
+      "civilian": "谦虚",
+      "undercover": "乐观",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0055",
       "level": "bold",
-      "civilian": "浪漫主义",
-      "undercover": "现实主义",
+      "civilian": "乐观",
+      "undercover": "悲观",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0056",
       "level": "bold",
-      "civilian": "共同爱好",
-      "undercover": "互补性格",
+      "civilian": "悲观",
+      "undercover": "理性",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0057",
       "level": "bold",
-      "civilian": "回忆过去",
-      "undercover": "计划未来",
+      "civilian": "理性",
+      "undercover": "感性",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0058",
       "level": "bold",
-      "civilian": "突然惊喜",
-      "undercover": "固定仪式",
+      "civilian": "勇敢",
+      "undercover": "果断",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0059",
       "level": "bold",
-      "civilian": "道歉",
-      "undercover": "挽留",
+      "civilian": "谨慎",
+      "undercover": "犹豫",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0060",
       "level": "bold",
-      "civilian": "示好",
-      "undercover": "讨好",
+      "civilian": "果断",
+      "undercover": "自信",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0061",
       "level": "bold",
-      "civilian": "主动靠近",
-      "undercover": "保持距离",
+      "civilian": "犹豫",
+      "undercover": "谦虚",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0062",
       "level": "bold",
-      "civilian": "见家长",
-      "undercover": "见朋友",
+      "civilian": "自信",
+      "undercover": "乐观",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0063",
       "level": "bold",
-      "civilian": "同居",
-      "undercover": "合租",
+      "civilian": "谦虚",
+      "undercover": "悲观",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0064",
       "level": "bold",
-      "civilian": "约会计划",
-      "undercover": "旅行计划",
+      "civilian": "乐观",
+      "undercover": "理性",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0065",
       "level": "bold",
-      "civilian": "纪念日",
-      "undercover": "生日礼物",
+      "civilian": "悲观",
+      "undercover": "感性",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0066",
       "level": "bold",
-      "civilian": "公开偏爱",
-      "undercover": "私下照顾",
+      "civilian": "勇敢",
+      "undercover": "犹豫",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0067",
       "level": "bold",
-      "civilian": "认真倾听",
-      "undercover": "主动建议",
+      "civilian": "谨慎",
+      "undercover": "自信",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0068",
       "level": "bold",
-      "civilian": "共同成长",
-      "undercover": "彼此包容",
+      "civilian": "果断",
+      "undercover": "谦虚",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0069",
       "level": "bold",
-      "civilian": "及时回复",
-      "undercover": "认真见面",
+      "civilian": "犹豫",
+      "undercover": "乐观",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0070",
       "level": "bold",
-      "civilian": "专属称呼",
-      "undercover": "公开称赞",
+      "civilian": "自信",
+      "undercover": "悲观",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0071",
       "level": "bold",
-      "civilian": "分享日常",
-      "undercover": "分享秘密",
+      "civilian": "谦虚",
+      "undercover": "理性",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0072",
       "level": "bold",
-      "civilian": "解决矛盾",
-      "undercover": "暂时冷静",
+      "civilian": "乐观",
+      "undercover": "感性",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0073",
       "level": "bold",
-      "civilian": "确认关系",
-      "undercover": "保持暧昧",
+      "civilian": "守时",
+      "undercover": "拖延",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0074",
       "level": "bold",
-      "civilian": "表达喜欢",
-      "undercover": "隐藏喜欢",
+      "civilian": "拖延",
+      "undercover": "自律",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0075",
       "level": "bold",
-      "civilian": "接受缺点",
-      "undercover": "推动改变",
+      "civilian": "自律",
+      "undercover": "随性",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0076",
       "level": "bold",
-      "civilian": "相互依赖",
-      "undercover": "各自独立",
+      "civilian": "随性",
+      "undercover": "认真",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0077",
       "level": "bold",
-      "civilian": "长久稳定",
-      "undercover": "短暂热烈",
+      "civilian": "认真",
+      "undercover": "敷衍",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0078",
       "level": "bold",
-      "civilian": "主动拥抱",
-      "undercover": "等待靠近",
+      "civilian": "敷衍",
+      "undercover": "勤快",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0079",
       "level": "bold",
-      "civilian": "共同时间",
-      "undercover": "个人空间",
+      "civilian": "勤快",
+      "undercover": "懒散",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     },
     {
       "id": "uc-bold-0080",
       "level": "bold",
-      "civilian": "计划未来",
-      "undercover": "享受当下",
+      "civilian": "懒散",
+      "undercover": "节俭",
       "blankAllowed": false,
-      "theme": "词语辨析"
+      "theme": "短词辨析"
     }
   ]
 }
