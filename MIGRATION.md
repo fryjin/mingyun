@@ -1,55 +1,40 @@
-# V9.1.1 → V9.1.2 迁移说明
+# V9.1.2 → V9.1.2.1 升级说明
 
-## 推荐操作
+## 补丁范围
 
-1. 备份当前 GitHub 仓库和线上可用版本。
-2. 解压本补丁包。
-3. 将补丁包目录内全部文件覆盖到仓库根目录。
-4. 等待 GitHub Pages 部署完成。
-5. 手机端刷新两次；若仍显示旧版，清除该站点数据或注销旧 Service Worker。
+本补丁只调整“命运转盘”的中心视觉：
 
-## 重点更新文件
+- 删除中心轴帽中的“命”字。
+- 保留现有赌场轮盘结构、金属渐变、高光、立体阴影和中心轴。
+- 中心区域改为无文字的纯金属圆形轴帽。
+- 不修改轮盘随机算法、白球运动、RAF 动画、音效、震动、结果判定或题库。
+- Service Worker 缓存键升级为 `party-game-v9.1.2.1`，确保部署后能获取新版插件。
+
+## 覆盖文件
+
+将补丁包中的下列文件覆盖到 GitHub 仓库根目录的同名位置：
 
 ```text
-src/core/store.js
-src/modules/game-sheet.js
-src/games/would-rather.js
 src/games/wheel.js
-styles/games.css
-data/games/would-rather-*.json
-data/games/undercover-*.json
-data/games/manifest.json
-scripts/validate_project.py
-README.md
-CHANGELOG.md
-TEST-REPORT.md
 sw.js
 ```
 
-## 不建议只替换单个文件
+其他文件均无需覆盖。
 
-本补丁同时修改路由状态、游戏插件、样式、专用题库、Manifest 摘要和 Service Worker 缓存键。只替换一个游戏文件可能造成数据摘要不一致或继续命中旧缓存。
+## 部署步骤
 
-## 缓存变化
+1. 备份当前 V9.1.2 仓库。
+2. 解压本补丁包。
+3. 将 `src/games/wheel.js` 和 `sw.js` 上传并覆盖仓库中的同名文件。
+4. 等待 GitHub Pages 部署完成。
+5. 手机端刷新两次。
+6. 若仍显示旧中心文字，清除该站点缓存或注销旧 Service Worker 后重新打开。
 
-Service Worker 缓存键：
+## 回退方式
 
-```text
-party-game-v9.1.2
-```
-
-新 Service Worker 激活后会删除旧缓存。游戏进行中不会主动强制刷新。
-
-## 数据兼容
-
-- 玩家名单、暂离状态和原有游戏设置继续使用 `party-game-v9.1` 本地存储键，不会因补丁升级被清空。
-- 二选一数据增加 `question` 字段，旧版游戏插件不应继续配合新版数据单独使用。
-- 谁是卧底 ID 和各档数量保持不变，但词组正文已经重整。
-
-## 旧原型备份
-
-V9 原型仍保留在：
+恢复 V9.1.2 中的以下两个文件即可：
 
 ```text
-docs/prototype-v9/
+src/games/wheel.js
+sw.js
 ```

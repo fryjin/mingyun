@@ -1,15 +1,15 @@
 {
-  "version": "v9.1.2",
-  "sharedQuestions": 3500,
-  "specializedContent": 2500,
-  "enabledContentTotal": 6000,
-  "gameCounts": {
-    "five-second": 500,
-    "king": 500,
-    "most-likely": 500,
-    "undercover": 500,
-    "would-rather": 500
+  "version": "V9.1.2.1",
+  "status": "PASS",
+  "checks": {
+    "wheelFileExists": true,
+    "serviceWorkerExists": true,
+    "spindleHasNoText": true,
+    "cacheVersion": "party-game-v9.1.2.1"
   },
   "errors": [],
-  "status": "PASS"
+  "sha256": {
+    "src/games/wheel.js": "d452ab7ac008ca680acf7a917f8491c541c09ab1aec8a74d6315aca642365e0d",
+    "sw.js": "24b459cc86406d6eb5d06f69ddd0aa6ebaef4b8c817c8888a3abb3d3a22b4cac"
+  }
 }

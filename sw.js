@@ -1,4 +1,4 @@
-const VERSION='party-game-v9.1.2';
+const VERSION='party-game-v9.1.2.1';
 const SHELL=[
   './','./index.html','./manifest.webmanifest','./styles/app.css','./styles/games.css',
   './src/main.js','./src/core/utils.js','./src/core/store.js','./src/core/motion.js','./src/modules/overlay.js',
