@@ -1,0 +1,730 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.4-undercover-2026.08",
+  "gameId": "undercover",
+  "level": 3,
+  "levelLabel": "烧脑",
+  "count": 80,
+  "items": [
+    {
+      "id": "undercover-hard-001",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "喜欢",
+      "undercoverWord": "欣赏",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-002",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "依赖",
+      "undercoverWord": "习惯",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-003",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "自信",
+      "undercoverWord": "自负",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-004",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "敏感",
+      "undercoverWord": "脆弱",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-005",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "善良",
+      "undercoverWord": "讨好",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-006",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "坦诚",
+      "undercoverWord": "直接",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-007",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "冷静",
+      "undercoverWord": "冷漠",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-008",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "克制",
+      "undercoverWord": "压抑",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-009",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "自由",
+      "undercoverWord": "逃避",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-010",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "坚持",
+      "undercoverWord": "固执",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-011",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "谨慎",
+      "undercoverWord": "犹豫",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-012",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "野心",
+      "undercoverWord": "欲望",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-013",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "责任",
+      "undercoverWord": "负担",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-014",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "浪漫",
+      "undercoverWord": "仪式感",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-015",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "安全感",
+      "undercoverWord": "控制欲",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-016",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "边界",
+      "undercoverWord": "距离",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-017",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "信任",
+      "undercoverWord": "依赖",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-018",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "包容",
+      "undercoverWord": "妥协",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-019",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "原谅",
+      "undercoverWord": "遗忘",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-020",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "遗憾",
+      "undercoverWord": "怀念",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-021",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "孤独",
+      "undercoverWord": "独处",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-022",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "热情",
+      "undercoverWord": "冲动",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-023",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "好奇",
+      "undercoverWord": "窥探",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-024",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "幽默",
+      "undercoverWord": "讽刺",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-025",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "自律",
+      "undercoverWord": "焦虑",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-026",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "效率",
+      "undercoverWord": "急躁",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-027",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "理性",
+      "undercoverWord": "冷酷",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-028",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "直觉",
+      "undercoverWord": "偏见",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-029",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "记忆",
+      "undercoverWord": "印象",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-030",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "真相",
+      "undercoverWord": "事实",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-031",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "观点",
+      "undercoverWord": "立场",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-032",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "规则",
+      "undercoverWord": "原则",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-033",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "例外",
+      "undercoverWord": "特权",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-034",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "平等",
+      "undercoverWord": "公平",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-035",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "尊重",
+      "undercoverWord": "礼貌",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-036",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "道歉",
+      "undercoverWord": "解释",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-037",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "承诺",
+      "undercoverWord": "期待",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-038",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "关注",
+      "undercoverWord": "关心",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-039",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "陪伴",
+      "undercoverWord": "在场",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-040",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "爱情",
+      "undercoverWord": "依恋",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-041",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "亲密",
+      "undercoverWord": "依赖",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-042",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "暧昧",
+      "undercoverWord": "调情",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-043",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "嫉妒",
+      "undercoverWord": "占有欲",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-044",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "保护",
+      "undercoverWord": "干涉",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-045",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "关心",
+      "undercoverWord": "盘问",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-046",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "分享",
+      "undercoverWord": "炫耀",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-047",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "隐私",
+      "undercoverWord": "秘密",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-048",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "惊喜",
+      "undercoverWord": "惊吓",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-049",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "勇气",
+      "undercoverWord": "鲁莽",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-050",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "冒险",
+      "undercoverWord": "风险",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-051",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "机会",
+      "undercoverWord": "运气",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-052",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "失败",
+      "undercoverWord": "错误",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-053",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "成长",
+      "undercoverWord": "改变",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-054",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "成熟",
+      "undercoverWord": "世故",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-055",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "天真",
+      "undercoverWord": "幼稚",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-056",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "乐观",
+      "undercoverWord": "逃避",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-057",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "悲观",
+      "undercoverWord": "谨慎",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-058",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "稳定",
+      "undercoverWord": "停滞",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-059",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "改变",
+      "undercoverWord": "背叛",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-060",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "和解",
+      "undercoverWord": "妥协",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-061",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "辩论",
+      "undercoverWord": "争吵",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-062",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "沟通",
+      "undercoverWord": "说服",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-063",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "沉默",
+      "undercoverWord": "忽视",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-064",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "倾听",
+      "undercoverWord": "服从",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-065",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "建议",
+      "undercoverWord": "命令",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-066",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "合作",
+      "undercoverWord": "依附",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-067",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "独立",
+      "undercoverWord": "孤立",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-068",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "领导",
+      "undercoverWord": "控制",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-069",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "执行",
+      "undercoverWord": "服从",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-070",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "创造",
+      "undercoverWord": "模仿",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-071",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "灵感",
+      "undercoverWord": "冲动",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-072",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "品味",
+      "undercoverWord": "偏好",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-073",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "风格",
+      "undercoverWord": "潮流",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-074",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "经典",
+      "undercoverWord": "过时",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-075",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "简洁",
+      "undercoverWord": "敷衍",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-076",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "精致",
+      "undercoverWord": "复杂",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-077",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "透明",
+      "undercoverWord": "暴露",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-078",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "神秘",
+      "undercoverWord": "含糊",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-079",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "共情",
+      "undercoverWord": "同情",
+      "category": "抽象概念",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-hard-080",
+      "gameId": "undercover",
+      "level": 3,
+      "civilianWord": "怜悯",
+      "undercoverWord": "可怜",
+      "category": "抽象概念",
+      "source": "v9.4"
+    }
+  ]
+}

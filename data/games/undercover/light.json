@@ -1,0 +1,730 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.4-undercover-2026.08",
+  "gameId": "undercover",
+  "level": 1,
+  "levelLabel": "轻松",
+  "count": 80,
+  "items": [
+    {
+      "id": "undercover-light-001",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "咖啡",
+      "undercoverWord": "奶茶",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-002",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "猫",
+      "undercoverWord": "狗",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-003",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "米饭",
+      "undercoverWord": "面条",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-004",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "火锅",
+      "undercoverWord": "烧烤",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-005",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "苹果",
+      "undercoverWord": "梨",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-006",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "西瓜",
+      "undercoverWord": "哈密瓜",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-007",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "可乐",
+      "undercoverWord": "雪碧",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-008",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "蛋糕",
+      "undercoverWord": "面包",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-009",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "饺子",
+      "undercoverWord": "馄饨",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-010",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "豆浆",
+      "undercoverWord": "牛奶",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-011",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "火车",
+      "undercoverWord": "高铁",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-012",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "地铁",
+      "undercoverWord": "公交车",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-013",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "自行车",
+      "undercoverWord": "电动车",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-014",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "出租车",
+      "undercoverWord": "网约车",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-015",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "电影院",
+      "undercoverWord": "KTV",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-016",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "公园",
+      "undercoverWord": "动物园",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-017",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "酒店",
+      "undercoverWord": "民宿",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-018",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "海边",
+      "undercoverWord": "游泳池",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-019",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "高山",
+      "undercoverWord": "小山",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-020",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "河流",
+      "undercoverWord": "湖泊",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-021",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "下雨",
+      "undercoverWord": "下雪",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-022",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "打雷",
+      "undercoverWord": "闪电",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-023",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "太阳",
+      "undercoverWord": "月亮",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-024",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "云",
+      "undercoverWord": "雾",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-025",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "春天",
+      "undercoverWord": "秋天",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-026",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "早晨",
+      "undercoverWord": "傍晚",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-027",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "枕头",
+      "undercoverWord": "被子",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-028",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "沙发",
+      "undercoverWord": "椅子",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-029",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "书桌",
+      "undercoverWord": "餐桌",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-030",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "衣柜",
+      "undercoverWord": "储物柜",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-031",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "冰箱",
+      "undercoverWord": "冷柜",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-032",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "烤箱",
+      "undercoverWord": "微波炉",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-033",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "洗衣机",
+      "undercoverWord": "烘干机",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-034",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "空调",
+      "undercoverWord": "风扇",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-035",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "牙刷",
+      "undercoverWord": "牙膏",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-036",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "洗发水",
+      "undercoverWord": "沐浴露",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-037",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "毛巾",
+      "undercoverWord": "浴巾",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-038",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "镜子",
+      "undercoverWord": "相机",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-039",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "键盘",
+      "undercoverWord": "鼠标",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-040",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "手机",
+      "undercoverWord": "平板",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-041",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "笔记本电脑",
+      "undercoverWord": "台式电脑",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-042",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "耳机",
+      "undercoverWord": "音箱",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-043",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "充电器",
+      "undercoverWord": "充电宝",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-044",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "遥控器",
+      "undercoverWord": "游戏手柄",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-045",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "笔记本",
+      "undercoverWord": "日记本",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-046",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "铅笔",
+      "undercoverWord": "圆珠笔",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-047",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "橡皮",
+      "undercoverWord": "修正带",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-048",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "剪刀",
+      "undercoverWord": "美工刀",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-049",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "雨伞",
+      "undercoverWord": "雨衣",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-050",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "帽子",
+      "undercoverWord": "围巾",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-051",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "拖鞋",
+      "undercoverWord": "凉鞋",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-052",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "运动鞋",
+      "undercoverWord": "皮鞋",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-053",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "背包",
+      "undercoverWord": "行李箱",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-054",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "钱包",
+      "undercoverWord": "卡包",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-055",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "手表",
+      "undercoverWord": "闹钟",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-056",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "眼镜",
+      "undercoverWord": "墨镜",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-057",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "医生",
+      "undercoverWord": "护士",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-058",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "老师",
+      "undercoverWord": "班长",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-059",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "厨师",
+      "undercoverWord": "服务员",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-060",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "警察",
+      "undercoverWord": "保安",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-061",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "歌手",
+      "undercoverWord": "演员",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-062",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "主持人",
+      "undercoverWord": "记者",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-063",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "篮球",
+      "undercoverWord": "足球",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-064",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "羽毛球",
+      "undercoverWord": "网球",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-065",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "游泳",
+      "undercoverWord": "跑步",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-066",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "瑜伽",
+      "undercoverWord": "普拉提",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-067",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "象棋",
+      "undercoverWord": "围棋",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-068",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "扑克牌",
+      "undercoverWord": "麻将",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-069",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "小说",
+      "undercoverWord": "漫画",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-070",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "电影",
+      "undercoverWord": "电视剧",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-071",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "音乐",
+      "undercoverWord": "播客",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-072",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "照片",
+      "undercoverWord": "视频",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-073",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "生日",
+      "undercoverWord": "婚礼",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-074",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "假期",
+      "undercoverWord": "周末",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-075",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "早餐",
+      "undercoverWord": "晚餐",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-076",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "餐厅",
+      "undercoverWord": "食堂",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-077",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "超市",
+      "undercoverWord": "便利店",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-078",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "菜市场",
+      "undercoverWord": "商场",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-079",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "电梯",
+      "undercoverWord": "扶梯",
+      "category": "日常事物",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-light-080",
+      "gameId": "undercover",
+      "level": 1,
+      "civilianWord": "楼梯",
+      "undercoverWord": "坡道",
+      "category": "日常事物",
+      "source": "v9.4"
+    }
+  ]
+}

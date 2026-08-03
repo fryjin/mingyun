@@ -1,8 +1,8 @@
-# V9.3 国王游戏补丁清单
+# V9.4 谁是卧底补丁清单
 
 ## 迁移目标
 
-在已部署的 V9.2 基础上正式接入“国王游戏”，不重复携带现有 3500 道共享惩罚题库，也不重复携带 V9.2 四种玩法的 288 条 JSON 内容。
+在已部署的 V9.3 基础上正式接入“谁是卧底”，使游戏大厅中的 8 种玩法全部可运行。
 
 ## 覆盖文件
 
@@ -19,29 +19,28 @@ data/games/manifest.json
 ## 新增文件
 
 ```text
-src/games/king.js
-data/games/king/light.json
-data/games/king/standard.json
-data/games/king/bold.json
-data/games/king/adult.json
+src/games/undercover.js
+data/games/undercover/light.json
+data/games/undercover/standard.json
+data/games/undercover/hard.json
 ```
 
 ## 新增能力
 
-- 国王游戏由“待接入”改为正式可玩。
-- 3–12 位在场玩家。
-- 每轮随机分配一位国王与唯一号码。
-- 防偷看的逐人交接与身份查看流程。
-- 页面切到后台时自动隐藏当前身份。
-- 随机题库和国王自定两种模式。
-- 国王自定支持 1 人或 2 人目标。
-- 号码揭晓后显示真实玩家。
-- 每轮结束重新洗牌并重新选出国王。
-- 四档专用指令共 120 条。
-- 成人档继续沿用现有 18+ 会话确认。
+- 完整的秘密看词与手机交接流程。
+- 1–3 位隐藏阵营，按玩家人数自动限额。
+- 可选空白牌。
+- 轻松、标准、烧脑三档词库。
+- 随机发言顺序。
+- 逐人秘密投票，禁止自投。
+- 平票加赛与再次平票随机决胜。
+- 淘汰身份揭晓与自动胜负判断。
+- 最后一位隐藏玩家猜词翻盘。
+- 后台切换自动隐藏词语和投票页面。
+- 240 组专用词库。
 
 ## 版本变化
 
-- 可玩模式：6 → 7。
-- `data/games/` 专用内容：288 → 408。
-- Service Worker：`mingyun-v9.3-*`。
+- 可玩模式：7 → 8。
+- `data/games/` 专用内容：408 → 648。
+- Service Worker：`mingyun-v9.4-*`。

@@ -4,6 +4,7 @@ import { mountWouldRather } from '../games/would-rather.js';
 import { mountFiveSecond } from '../games/five-second.js';
 import { mountHotPotato } from '../games/hot-potato.js';
 import { mountKing } from '../games/king.js';
+import { mountUndercover } from '../games/undercover.js';
 
 const COLORS = ['#ff667f','#7d62f4','#2dc7a6','#f2ae45','#4d9de0','#da67cf','#8bc34a','#ff8a55','#6f7bf7','#f25f9d','#44b7c8','#c48bff'];
 const LEVEL_LABELS = { 1:'轻松', 2:'标准', 3:'大胆', 4:'成人刺激' };
@@ -121,7 +122,7 @@ export function openGameSheet({ root, game, store, onClose, onStart, showToast }
       </div>
 
       <div class="settings-label">游戏设置</div>
-      ${renderSpecificSettings(game, config)}
+      ${renderSpecificSettings(game, config, activeCount)}
 
       ${game.supportsQuestions ? renderIntensity(config.intensity, game.supportsAdult) : ''}
 
@@ -193,7 +194,7 @@ export function openGameSheet({ root, game, store, onClose, onStart, showToast }
   return close;
 }
 
-function renderSpecificSettings(game, config) {
+function renderSpecificSettings(game, config, activeCount = 0) {
   if (game.id === 'dice') {
     return `
       <div class="setting">
@@ -272,18 +273,36 @@ function renderSpecificSettings(game, config) {
   }
 
   if (game.id === 'undercover') {
+    const maxSpies = activeCount >= 9 ? 3 : activeCount >= 6 ? 2 : 1;
+    config.spyCount = Math.min(maxSpies, Math.max(1, Number(config.spyCount) || 1));
+    const difficultyLabels = { 1:'轻松', 2:'标准', 3:'烧脑' };
     return `
       <div class="setting">
         <div class="setting-head"><span>卧底人数</span><strong>${config.spyCount} 人</strong></div>
         <div class="segmented">
-          ${[1,2,3].map((count) => `<button type="button" data-config="spyCount" data-value="${count}" class="${config.spyCount === count ? 'active' : ''}">${count} 人</button>`).join('')}
+          ${Array.from({ length:maxSpies },(_,index) => index + 1).map((count) => `<button type="button" data-config="spyCount" data-value="${count}" class="${config.spyCount === count ? 'active' : ''}">${count} 人</button>`).join('')}
         </div>
+        <p class="setting-help">人数较少时会自动限制隐藏阵营数量，避免开局失衡。</p>
       </div>
       <div class="setting">
         <div class="setting-head"><span>空白牌</span><strong>${config.blankCard ? '开启' : '关闭'}</strong></div>
         <div class="segmented">
           <button type="button" data-config="blankCard" data-value="false" class="${!config.blankCard ? 'active' : ''}">关闭</button>
           <button type="button" data-config="blankCard" data-value="true" class="${config.blankCard ? 'active' : ''}">开启</button>
+        </div>
+        <p class="setting-help">开启后，其中 1 位卧底获得空白牌；卧底总人数不变。</p>
+      </div>
+      <div class="setting">
+        <div class="setting-head"><span>词库难度</span><strong>${difficultyLabels[config.wordDifficulty]}</strong></div>
+        <div class="segmented">
+          ${Object.entries(difficultyLabels).map(([value,label]) => `<button type="button" data-config="wordDifficulty" data-value="${value}" class="${Number(config.wordDifficulty) === Number(value) ? 'active' : ''}">${label}</button>`).join('')}
+        </div>
+      </div>
+      <div class="setting">
+        <div class="setting-head"><span>卧底猜词翻盘</span><strong>${config.guessChance ? '开启' : '关闭'}</strong></div>
+        <div class="segmented">
+          <button type="button" data-config="guessChance" data-value="true" class="${config.guessChance ? 'active' : ''}">开启</button>
+          <button type="button" data-config="guessChance" data-value="false" class="${!config.guessChance ? 'active' : ''}">关闭</button>
         </div>
       </div>`;
   }
@@ -504,11 +523,11 @@ registerGame(placeholderPlugin({
   defaultConfig:{ duration:'standard', direction:'clockwise' },mount:mountHotPotato
 }));
 registerGame(placeholderPlugin({
-  id:'undercover',title:'谁是卧底',description:'查看身份、轮流描述、投票找出卧底。',
+  id:'undercover',title:'谁是卧底',description:'秘密看词、轮流描述、投票找出卧底。',
   playersLabel:'4–12人',minPlayers:4,maxPlayers:12,timeLabel:'8–20 分钟',icon:'mask',color:'#34d399',
-  supportsAdult:false,supportsQuestions:false,phoneMode:'需要轮流传递',resultMode:'阵营胜负',
-  rules:'经典推理玩法。设置卧底人数与词库难度后即可开始。',
-  defaultConfig:{ spyCount:1, blankCard:false }
+  supportsAdult:false,supportsQuestions:false,implemented:true,phoneMode:'需要轮流传递',resultMode:'平民与隐藏阵营胜负',
+  rules:'经典推理玩法。秘密看词后轮流描述，通过匿名投票找出隐藏阵营。',
+  defaultConfig:{ spyCount:1, blankCard:false, wordDifficulty:2, guessChance:true },mount:mountUndercover
 }));
 registerGame(placeholderPlugin({
   id:'king',title:'国王游戏',description:'秘密查看身份，由国王抽取号码并发布指令。',

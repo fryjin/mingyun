@@ -1,6 +1,6 @@
-const CACHE_VERSION = 'mingyun-v9.3-shell-1';
-const QUESTION_CACHE = 'mingyun-v9.3-questions-1';
-const GAME_CONTENT_CACHE = 'mingyun-v9.3-game-content-1';
+const CACHE_VERSION = 'mingyun-v9.4-shell-1';
+const QUESTION_CACHE = 'mingyun-v9.4-questions-1';
+const GAME_CONTENT_CACHE = 'mingyun-v9.4-game-content-1';
 
 const APP_SHELL = [
   './',
@@ -21,6 +21,7 @@ const APP_SHELL = [
   './src/games/five-second.js',
   './src/games/hot-potato.js',
   './src/games/king.js',
+  './src/games/undercover.js',
   './data/games/manifest.json'
 ];
 

@@ -1,0 +1,730 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.4-undercover-2026.08",
+  "gameId": "undercover",
+  "level": 2,
+  "levelLabel": "标准",
+  "count": 80,
+  "items": [
+    {
+      "id": "undercover-standard-001",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "浓缩咖啡",
+      "undercoverWord": "美式咖啡",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-002",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "拿铁",
+      "undercoverWord": "卡布奇诺",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-003",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "绿茶",
+      "undercoverWord": "乌龙茶",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-004",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "红酒",
+      "undercoverWord": "香槟",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-005",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "威士忌",
+      "undercoverWord": "白兰地",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-006",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "寿司",
+      "undercoverWord": "刺身",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-007",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "拉面",
+      "undercoverWord": "乌冬面",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-008",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "披萨",
+      "undercoverWord": "馅饼",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-009",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "汉堡",
+      "undercoverWord": "三明治",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-010",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "慕斯",
+      "undercoverWord": "布丁",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-011",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "口红",
+      "undercoverWord": "唇釉",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-012",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "粉底液",
+      "undercoverWord": "遮瑕膏",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-013",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "防晒霜",
+      "undercoverWord": "隔离霜",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-014",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "香水",
+      "undercoverWord": "香薰",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-015",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "洁面乳",
+      "undercoverWord": "卸妆油",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-016",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "爽肤水",
+      "undercoverWord": "乳液",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-017",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "耳环",
+      "undercoverWord": "耳夹",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-018",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "项链",
+      "undercoverWord": "手链",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-019",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "戒指",
+      "undercoverWord": "胸针",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-020",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "风衣",
+      "undercoverWord": "大衣",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-021",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "西装",
+      "undercoverWord": "礼服",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-022",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "卫衣",
+      "undercoverWord": "毛衣",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-023",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "睡衣",
+      "undercoverWord": "浴袍",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-024",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "旗袍",
+      "undercoverWord": "汉服",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-025",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "护照",
+      "undercoverWord": "身份证",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-026",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "车票",
+      "undercoverWord": "登机牌",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-027",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "地图",
+      "undercoverWord": "导航",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-028",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "指南针",
+      "undercoverWord": "陀螺仪",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-029",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "日历",
+      "undercoverWord": "日程表",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-030",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "简历",
+      "undercoverWord": "作品集",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-031",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "合同",
+      "undercoverWord": "协议",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-032",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "发票",
+      "undercoverWord": "收据",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-033",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "密码",
+      "undercoverWord": "验证码",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-034",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "Wi-Fi",
+      "undercoverWord": "蓝牙",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-035",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "下载",
+      "undercoverWord": "上传",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-036",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "直播",
+      "undercoverWord": "视频通话",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-037",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "截图",
+      "undercoverWord": "录屏",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-038",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "滤镜",
+      "undercoverWord": "美颜",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-039",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "评论",
+      "undercoverWord": "私信",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-040",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "点赞",
+      "undercoverWord": "收藏",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-041",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "搜索",
+      "undercoverWord": "推荐",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-042",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "云盘",
+      "undercoverWord": "硬盘",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-043",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "数据库",
+      "undercoverWord": "电子表格",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-044",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "浏览器",
+      "undercoverWord": "搜索引擎",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-045",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "小程序",
+      "undercoverWord": "H5",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-046",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "漏洞",
+      "undercoverWord": "故障",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-047",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "更新",
+      "undercoverWord": "升级",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-048",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "备份",
+      "undercoverWord": "归档",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-049",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "通知",
+      "undercoverWord": "提醒",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-050",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "静音",
+      "undercoverWord": "勿扰模式",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-051",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "面试",
+      "undercoverWord": "试镜",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-052",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "会议",
+      "undercoverWord": "培训",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-053",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "演讲",
+      "undercoverWord": "汇报",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-054",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "方案",
+      "undercoverWord": "报价",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-055",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "样品",
+      "undercoverWord": "原型",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-056",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "仓库",
+      "undercoverWord": "工厂",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-057",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "海关",
+      "undercoverWord": "货代",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-058",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "询盘",
+      "undercoverWord": "订单",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-059",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "定金",
+      "undercoverWord": "尾款",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-060",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "零售",
+      "undercoverWord": "批发",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-061",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "品牌",
+      "undercoverWord": "商标",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-062",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "专利",
+      "undercoverWord": "版权",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-063",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "导演",
+      "undercoverWord": "制片人",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-064",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "编剧",
+      "undercoverWord": "剪辑师",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-065",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "摄影师",
+      "undercoverWord": "摄像师",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-066",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "设计师",
+      "undercoverWord": "插画师",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-067",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "律师",
+      "undercoverWord": "法官",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-068",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "会计",
+      "undercoverWord": "审计",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-069",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "心理咨询师",
+      "undercoverWord": "心理医生",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-070",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "营养师",
+      "undercoverWord": "健身教练",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-071",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "博物馆",
+      "undercoverWord": "美术馆",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-072",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "图书馆",
+      "undercoverWord": "书店",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-073",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "演唱会",
+      "undercoverWord": "音乐节",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-074",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "展览",
+      "undercoverWord": "展会",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-075",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "露营",
+      "undercoverWord": "野餐",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-076",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "徒步",
+      "undercoverWord": "登山",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-077",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "潜水",
+      "undercoverWord": "浮潜",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-078",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "滑雪",
+      "undercoverWord": "滑冰",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-079",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "日出",
+      "undercoverWord": "日落",
+      "category": "生活方式",
+      "source": "v9.4"
+    },
+    {
+      "id": "undercover-standard-080",
+      "gameId": "undercover",
+      "level": 2,
+      "civilianWord": "雷阵雨",
+      "undercoverWord": "阵雨",
+      "category": "生活方式",
+      "source": "v9.4"
+    }
+  ]
+}

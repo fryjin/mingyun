@@ -1,15 +1,16 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.3-games-2026.08",
+  "bankVersion": "v9.4-games-2026.08",
   "generatedAt": "2026-08-03",
-  "description": "V9.2 四种互动玩法与 V9.3 国王游戏的专用内容库。",
+  "description": "V9.2 四种互动玩法、V9.3 国王游戏与 V9.4 谁是卧底的专用内容库。",
   "totals": {
-    "all": 408,
+    "all": 648,
     "most-likely": 72,
     "would-rather": 72,
     "five-second": 72,
     "hot-potato": 72,
-    "king": 120
+    "king": 120,
+    "undercover": 240
   },
   "files": [
     {
@@ -171,6 +172,30 @@
       "count": 30,
       "sha256": "025e375404434b3dcf264ba19a1533de9ce9709ea7f618481ee807a3fecd4ea8",
       "bytes": 7916
+    },
+    {
+      "file": "data/games/undercover/light.json",
+      "gameId": "undercover",
+      "level": 1,
+      "count": 80,
+      "sha256": "a2fe1139e7bbeb30997000dfbf0ad484be58e5f59d34178ffbdd5911e28d2cab",
+      "bytes": 17875
+    },
+    {
+      "file": "data/games/undercover/standard.json",
+      "gameId": "undercover",
+      "level": 2,
+      "count": 80,
+      "sha256": "db4ecc5d07d7a22f4812e838a38f9e2281a3ccdfe006bd24adfa71342075ec76",
+      "bytes": 18176
+    },
+    {
+      "file": "data/games/undercover/hard.json",
+      "gameId": "undercover",
+      "level": 3,
+      "count": 80,
+      "sha256": "01eb6cc9ee052e2f74532764b310f9fb7537a783403e384dcb9c1155f91dfd8d",
+      "bytes": 17705
     }
   ],
   "loadingPolicy": {
