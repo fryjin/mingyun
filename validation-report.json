@@ -1,14 +1,10 @@
 {
-  "version": "v9.1.3",
-  "base": "v9.1.2 or v9.1.2.1",
-  "newContent": 2000,
-  "adultPlusTruth": 500,
-  "adultPlusDare": 500,
-  "adultPlusKing": 1000,
-  "projectContentAfterUpgrade": 8000,
-  "jsSyntax": "PASS",
-  "dataValidation": "PASS",
-  "safetyPhraseScan": "PASS",
-  "browserAutomation": "NOT_RUN",
-  "status": "PASS"
+  "version": "v9.2.1",
+  "issue": "mobile header grid expansion",
+  "files": [
+    "index.html",
+    "sw.js",
+    "styles/midnight-game-hall.css"
+  ],
+  "status": "validated"
 }
