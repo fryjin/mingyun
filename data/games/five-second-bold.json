@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "five-second",
+  "level": "bold",
+  "levelLabel": "大胆",
+  "type": "challenge",
+  "count": 18,
+  "items": [
+    {
+      "id": "fs-bold-0001",
+      "level": "bold",
+      "prompt": "说出三个会让你立刻心软的行为",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0002",
+      "level": "bold",
+      "prompt": "说出三个你曾经隐瞒真实情绪的原因",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0003",
+      "level": "bold",
+      "prompt": "说出三个你最怕别人误会的地方",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0004",
+      "level": "bold",
+      "prompt": "说出三个你在关系里会吃醋的场景",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0005",
+      "level": "bold",
+      "prompt": "说出三个你很难主动承认的缺点",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0006",
+      "level": "bold",
+      "prompt": "说出三个你可能重新联系旧人的理由",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0007",
+      "level": "bold",
+      "prompt": "说出三个你会结束一段关系的原因",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0008",
+      "level": "bold",
+      "prompt": "说出三个你曾经嘴硬的时刻",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0009",
+      "level": "bold",
+      "prompt": "说出三个你会主动追问答案的问题",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0010",
+      "level": "bold",
+      "prompt": "说出三个你不愿被比较的方面",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0011",
+      "level": "bold",
+      "prompt": "说出三个你最需要被理解的情绪",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0012",
+      "level": "bold",
+      "prompt": "说出三个你曾经后悔没说出口的话题",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0013",
+      "level": "bold",
+      "prompt": "说出三个你会因为喜欢而改变的习惯",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0014",
+      "level": "bold",
+      "prompt": "说出三个你最容易失去耐心的情况",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0015",
+      "level": "bold",
+      "prompt": "说出三个你无法接受的关系边界",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0016",
+      "level": "bold",
+      "prompt": "说出三个你会主动争取的人或事",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0017",
+      "level": "bold",
+      "prompt": "说出三个你会选择沉默的时刻",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-bold-0018",
+      "level": "bold",
+      "prompt": "说出三个你希望别人主动发现的需求",
+      "answerCount": 3,
+      "theme": "快速反应"
+    }
+  ]
+}

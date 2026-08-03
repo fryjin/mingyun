@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "most-likely",
+  "level": "light",
+  "levelLabel": "轻松",
+  "type": "prompt",
+  "count": 18,
+  "items": [
+    {
+      "id": "ml-light-0001",
+      "level": "light",
+      "text": "谁最可能最先记住所有人的生日？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0002",
+      "level": "light",
+      "text": "谁最可能把聚会照片整理成相册？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0003",
+      "level": "light",
+      "text": "谁最可能在旅行前做完整攻略？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0004",
+      "level": "light",
+      "text": "谁最可能因为一部电影感动到哭？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0005",
+      "level": "light",
+      "text": "谁最可能临时决定出门旅行？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0006",
+      "level": "light",
+      "text": "谁最可能成为群里的气氛担当？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0007",
+      "level": "light",
+      "text": "谁最可能在深夜突然点外卖？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0008",
+      "level": "light",
+      "text": "谁最可能把房间收拾得最整齐？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0009",
+      "level": "light",
+      "text": "谁最可能养最多的宠物？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0010",
+      "level": "light",
+      "text": "谁最可能第一个学会新桌游？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0011",
+      "level": "light",
+      "text": "谁最可能忘记自己把手机放在哪里？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0012",
+      "level": "light",
+      "text": "谁最可能给朋友准备惊喜礼物？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0013",
+      "level": "light",
+      "text": "谁最可能坚持每天运动？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0014",
+      "level": "light",
+      "text": "谁最可能独自去看演唱会？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0015",
+      "level": "light",
+      "text": "谁最可能成为美食探店达人？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0016",
+      "level": "light",
+      "text": "谁最可能在聚会结束后负责收拾？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0017",
+      "level": "light",
+      "text": "谁最可能在陌生场合主动破冰？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-light-0018",
+      "level": "light",
+      "text": "谁最可能一年换最多次头像？",
+      "theme": "派对观察",
+      "consentRequired": false
+    }
+  ]
+}

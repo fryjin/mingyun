@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "most-likely",
+  "level": "standard",
+  "levelLabel": "标准",
+  "type": "prompt",
+  "count": 18,
+  "items": [
+    {
+      "id": "ml-standard-0001",
+      "level": "standard",
+      "text": "谁最可能嘴上说随便，心里早有答案？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0002",
+      "level": "standard",
+      "text": "谁最可能在群聊里潜水但什么都知道？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0003",
+      "level": "standard",
+      "text": "谁最可能为了面子硬撑到底？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0004",
+      "level": "standard",
+      "text": "谁最可能把小事想得特别复杂？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0005",
+      "level": "standard",
+      "text": "谁最可能悄悄记住别人随口提过的愿望？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0006",
+      "level": "standard",
+      "text": "谁最可能在争论中最后主动道歉？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0007",
+      "level": "standard",
+      "text": "谁最可能看起来冷静其实最紧张？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0008",
+      "level": "standard",
+      "text": "谁最可能被朋友一句话说服改变计划？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0009",
+      "level": "standard",
+      "text": "谁最可能遇到问题先自己消化？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0010",
+      "level": "standard",
+      "text": "谁最可能因为舍不得而保留旧东西？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0011",
+      "level": "standard",
+      "text": "谁最可能偷偷给自己设很多小目标？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0012",
+      "level": "standard",
+      "text": "谁最可能在重要时刻突然忘词？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0013",
+      "level": "standard",
+      "text": "谁最可能对喜欢的事情特别执着？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0014",
+      "level": "standard",
+      "text": "谁最可能嘴硬但最容易心软？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0015",
+      "level": "standard",
+      "text": "谁最可能在朋友圈只发精选生活？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0016",
+      "level": "standard",
+      "text": "谁最可能成为大家倾诉的对象？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0017",
+      "level": "standard",
+      "text": "谁最可能明明累了还说没事？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-standard-0018",
+      "level": "standard",
+      "text": "谁最可能把秘密守得最久？",
+      "theme": "派对观察",
+      "consentRequired": false
+    }
+  ]
+}

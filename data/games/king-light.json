@@ -1,0 +1,281 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "king",
+  "level": "light",
+  "levelLabel": "轻松",
+  "type": "instruction",
+  "count": 30,
+  "items": [
+    {
+      "id": "king-light-0001",
+      "level": "light",
+      "instruction": "{target1}用播音腔介绍自己。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0002",
+      "level": "light",
+      "instruction": "{target1}模仿一种动物十秒。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0003",
+      "level": "light",
+      "instruction": "{target1}唱一句大家都听过的歌。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0004",
+      "level": "light",
+      "instruction": "{target1}做一个夸张的胜利动作。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0005",
+      "level": "light",
+      "instruction": "{target1}用三个词形容今天。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0006",
+      "level": "light",
+      "instruction": "{target1}讲一个冷笑话。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0007",
+      "level": "light",
+      "instruction": "{target1}原地走一段模特步。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0008",
+      "level": "light",
+      "instruction": "{target1}模仿一个电影角色。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0009",
+      "level": "light",
+      "instruction": "{target1}用方言说一句欢迎大家。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0010",
+      "level": "light",
+      "instruction": "{target1}摆出最有自信的姿势。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0011",
+      "level": "light",
+      "instruction": "{target2}和{target1}完成一次击掌暗号。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0012",
+      "level": "light",
+      "instruction": "{target1}和{target2}同时说出一种水果，直到相同。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0013",
+      "level": "light",
+      "instruction": "{target1}和{target2}互相取一个临时昵称。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0014",
+      "level": "light",
+      "instruction": "{target1}和{target2}合作表演一段天气预报。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0015",
+      "level": "light",
+      "instruction": "{target1}和{target2}用动作演出一个成语。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0016",
+      "level": "light",
+      "instruction": "{target1}、{target2}和{target3}一起摆出团体合照姿势。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0017",
+      "level": "light",
+      "instruction": "{target1}、{target2}和{target3}按顺序接龙说城市名。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0018",
+      "level": "light",
+      "instruction": "{target1}、{target2}和{target3}完成三人同步动作。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0019",
+      "level": "light",
+      "instruction": "{target1}说出今天最开心的一件事。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0020",
+      "level": "light",
+      "instruction": "{target1}推荐一首最近常听的歌。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0021",
+      "level": "light",
+      "instruction": "{target1}向大家展示一个无声表情包。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0022",
+      "level": "light",
+      "instruction": "{target1}用一句广告词推销桌上的物品。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0023",
+      "level": "light",
+      "instruction": "{target1}描述一种食物但不能说名字。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0024",
+      "level": "light",
+      "instruction": "{target1}模仿手机来电铃声。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0025",
+      "level": "light",
+      "instruction": "{target1}给全场做一个三秒开场。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0026",
+      "level": "light",
+      "instruction": "{target1}说出三个带“水”的词。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0027",
+      "level": "light",
+      "instruction": "{target1}用手势表达“我饿了”。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0028",
+      "level": "light",
+      "instruction": "{target1}模仿一次慢动作奔跑。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0029",
+      "level": "light",
+      "instruction": "{target1}和{target2}背对背猜拳。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-light-0030",
+      "level": "light",
+      "instruction": "{target1}和{target2}一起完成十秒即兴舞蹈。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    }
+  ]
+}

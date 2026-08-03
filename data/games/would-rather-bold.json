@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "would-rather",
+  "level": "bold",
+  "levelLabel": "大胆",
+  "type": "choice",
+  "count": 18,
+  "items": [
+    {
+      "id": "wr-bold-0001",
+      "level": "bold",
+      "optionA": "主动告白后被拒绝",
+      "optionB": "一直暗恋却不说",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0002",
+      "level": "bold",
+      "optionA": "知道伴侣所有过去",
+      "optionB": "只关注彼此现在",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0003",
+      "level": "bold",
+      "optionA": "留在熟悉关系里",
+      "optionB": "结束关系重新开始",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0004",
+      "level": "bold",
+      "optionA": "接受一次真诚道歉",
+      "optionB": "永远记住那次伤害",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0005",
+      "level": "bold",
+      "optionA": "爱得更多",
+      "optionB": "被爱得更多",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0006",
+      "level": "bold",
+      "optionA": "公开一段关系",
+      "optionB": "长期保持低调",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0007",
+      "level": "bold",
+      "optionA": "面对面说分开",
+      "optionB": "用文字说分开",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0008",
+      "level": "bold",
+      "optionA": "为了爱情换城市",
+      "optionB": "为了事业保持距离",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0009",
+      "level": "bold",
+      "optionA": "继续一段缺乏激情的稳定关系",
+      "optionB": "开始一段充满不确定的新关系",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0010",
+      "level": "bold",
+      "optionA": "看见对方手机内容",
+      "optionB": "保留彼此绝对隐私",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0011",
+      "level": "bold",
+      "optionA": "原谅一次隐瞒",
+      "optionB": "坚持零容忍",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0012",
+      "level": "bold",
+      "optionA": "和前任成为朋友",
+      "optionB": "彻底断开联系",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0013",
+      "level": "bold",
+      "optionA": "先确认关系",
+      "optionB": "先确认未来规划",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0014",
+      "level": "bold",
+      "optionA": "每天高频联系",
+      "optionB": "给彼此充分空间",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0015",
+      "level": "bold",
+      "optionA": "坦白自己的不安全感",
+      "optionB": "保持成熟冷静形象",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0016",
+      "level": "bold",
+      "optionA": "接受对方的小缺点",
+      "optionB": "要求对方持续改变",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0017",
+      "level": "bold",
+      "optionA": "在争吵当天解决",
+      "optionB": "冷静一天后再谈",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-bold-0018",
+      "level": "bold",
+      "optionA": "选择心动",
+      "optionB": "选择合适",
+      "theme": "生活选择"
+    }
+  ]
+}

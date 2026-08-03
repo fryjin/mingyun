@@ -1,206 +1,192 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.4-games-2026.08",
+  "bankVersion": "v9.1-2026.08",
   "generatedAt": "2026-08-03",
-  "description": "V9.2 四种互动玩法、V9.3 国王游戏与 V9.4 谁是卧底的专用内容库。",
-  "totals": {
-    "all": 648,
-    "most-likely": 72,
-    "would-rather": 72,
-    "five-second": 72,
-    "hot-potato": 72,
-    "king": 120,
-    "undercover": 240
-  },
+  "totalEnabledSpecialized": 2500,
   "files": [
     {
-      "file": "data/games/most-likely/light.json",
-      "gameId": "most-likely",
-      "level": 1,
-      "count": 18,
-      "sha256": "cf5cfcfc1e9a0836d96eadcc2755d467a46626eb72aa2590f3a2d8eb43dc555f",
-      "bytes": 2241
+      "file": "data/games/five-second-adult.json",
+      "game": "five-second",
+      "level": "adult",
+      "type": "challenge",
+      "count": 446,
+      "sha256": "5c074aea2a5c07e20107ecea954b2d5ada907a73de508777318f509b7adfa95b",
+      "bytes": 92105
     },
     {
-      "file": "data/games/most-likely/standard.json",
-      "gameId": "most-likely",
-      "level": 2,
+      "file": "data/games/five-second-bold.json",
+      "game": "five-second",
+      "level": "bold",
+      "type": "challenge",
       "count": 18,
-      "sha256": "c41f20103f111d9c66649c593133ac3ce8505c267ecc2939836f9b73d6b6fdfd",
-      "bytes": 2331
+      "sha256": "5575a32765b830e59e333c083d0c7d9b47572be334c2b9600e1c7296779b2912",
+      "bytes": 3458
     },
     {
-      "file": "data/games/most-likely/bold.json",
-      "gameId": "most-likely",
-      "level": 3,
+      "file": "data/games/five-second-light.json",
+      "game": "five-second",
+      "level": "light",
+      "type": "challenge",
       "count": 18,
-      "sha256": "bceb932a25ddf8254a034fd78255f680b9e98d81c99f0d40580f9535ff703e4b",
-      "bytes": 2267
+      "sha256": "1a0a7743d003a10235fba24f117da920eccd4813a589f2c3d35545e617a8db6a",
+      "bytes": 3114
     },
     {
-      "file": "data/games/most-likely/adult.json",
-      "gameId": "most-likely",
-      "level": 4,
+      "file": "data/games/five-second-standard.json",
+      "game": "five-second",
+      "level": "standard",
+      "type": "challenge",
       "count": 18,
-      "sha256": "e8b518353d439d5e52f85939c2ca2c6bbcbc0ff635c81f9a50e8f082ad5deb3f",
-      "bytes": 2445
+      "sha256": "d1157bc53a46f6f62c390a22c2ad89198478ed2740d9dd7b6efcb2b03644318d",
+      "bytes": 3486
     },
     {
-      "file": "data/games/would-rather/light.json",
-      "gameId": "would-rather",
-      "level": 1,
-      "count": 18,
-      "sha256": "4434f7c6ac5e3e3ecb008c428bbcabe8ef2b3a38ec9e48d12d954e2e37dc03b0",
-      "bytes": 2635
+      "file": "data/games/king-adult.json",
+      "game": "king",
+      "level": "adult",
+      "type": "instruction",
+      "count": 410,
+      "sha256": "f74c0b2ffb882c0f0f5cdde9fb8459a37a2f6a169a8d0174566547123ea4e2a1",
+      "bytes": 128416
     },
     {
-      "file": "data/games/would-rather/standard.json",
-      "gameId": "would-rather",
-      "level": 2,
-      "count": 18,
-      "sha256": "b9d15afcaa88b49ee3a94039f8f860c4ad06811f39ebadaabe79c590263d2057",
-      "bytes": 2854
-    },
-    {
-      "file": "data/games/would-rather/bold.json",
-      "gameId": "would-rather",
-      "level": 3,
-      "count": 18,
-      "sha256": "098dff4a15bc630c2db72bc9730704438be5e621442c3010208e85e8e0dc761a",
-      "bytes": 2853
-    },
-    {
-      "file": "data/games/would-rather/adult.json",
-      "gameId": "would-rather",
-      "level": 4,
-      "count": 18,
-      "sha256": "866baae69bfd4fa6106697275ac2c72abf7c9643ed7938f98e46199f2b049c90",
-      "bytes": 3052
-    },
-    {
-      "file": "data/games/five-second/light.json",
-      "gameId": "five-second",
-      "level": 1,
-      "count": 18,
-      "sha256": "2ca5929441d09f81b36f023e03ed9c61ddf36d05bcd675eb347a8f74e6b46696",
-      "bytes": 2058
-    },
-    {
-      "file": "data/games/five-second/standard.json",
-      "gameId": "five-second",
-      "level": 2,
-      "count": 18,
-      "sha256": "64210a430a4422ffa7d8e7303febf885d23aa3aed6ffc31a48f664d8ae9de195",
-      "bytes": 2292
-    },
-    {
-      "file": "data/games/five-second/bold.json",
-      "gameId": "five-second",
-      "level": 3,
-      "count": 18,
-      "sha256": "417d57d5ac7342ba629ac972d286023ed9f334b6a162b94d6426d7314cbd05d0",
-      "bytes": 2291
-    },
-    {
-      "file": "data/games/five-second/adult.json",
-      "gameId": "five-second",
-      "level": 4,
-      "count": 18,
-      "sha256": "4cc9287526a17bb5ed54aed729316b52d792a6b3cbea9196b03a1ce2120d404f",
-      "bytes": 2382
-    },
-    {
-      "file": "data/games/hot-potato/light.json",
-      "gameId": "hot-potato",
-      "level": 1,
-      "count": 18,
-      "sha256": "a78d4d12f07b2006a6f597262c7e02089383c19bb032ad2358358c4032017c08",
-      "bytes": 2072
-    },
-    {
-      "file": "data/games/hot-potato/standard.json",
-      "gameId": "hot-potato",
-      "level": 2,
-      "count": 18,
-      "sha256": "7bd817d036bafe33f591d4b578e97094b74794867edc33262b109294671a94ac",
-      "bytes": 2261
-    },
-    {
-      "file": "data/games/hot-potato/bold.json",
-      "gameId": "hot-potato",
-      "level": 3,
-      "count": 18,
-      "sha256": "d04f1c95372fb719ba579cdacad815c98213ca6bd5768c3a4cbbc908b0bd1361",
-      "bytes": 2218
-    },
-    {
-      "file": "data/games/hot-potato/adult.json",
-      "gameId": "hot-potato",
-      "level": 4,
-      "count": 18,
-      "sha256": "712c08c6de0f472d1ae50afdb227d32ca7ebb427440f1fda7523a4917f64879b",
-      "bytes": 2381
-    },
-    {
-      "file": "data/games/king/light.json",
-      "gameId": "king",
-      "level": 1,
+      "file": "data/games/king-bold.json",
+      "game": "king",
+      "level": "bold",
+      "type": "instruction",
       "count": 30,
-      "sha256": "1bf70a51e20f97bce94ff3858d8d4e6542bf95cd7caf2797829609f6e1a157e5",
-      "bytes": 7424
+      "sha256": "5ff1682ef9dfb26b01d78f183701ff98f2e5a39b147bf7795a7b7ee1c5fc370b",
+      "bytes": 8338
     },
     {
-      "file": "data/games/king/standard.json",
-      "gameId": "king",
-      "level": 2,
+      "file": "data/games/king-light.json",
+      "game": "king",
+      "level": "light",
+      "type": "instruction",
       "count": 30,
-      "sha256": "34cf0e905557813e0c98e4dcd896e300aa9717596f0bd818d11ef2b276400f0f",
-      "bytes": 7586
+      "sha256": "6672da903b7e514c59690e20a2cfa0eb57b50c2902c1c643bbe9cc9a2acd37c5",
+      "bytes": 7923
     },
     {
-      "file": "data/games/king/bold.json",
-      "gameId": "king",
-      "level": 3,
+      "file": "data/games/king-standard.json",
+      "game": "king",
+      "level": "standard",
+      "type": "instruction",
       "count": 30,
-      "sha256": "a5f58efb2ea8e90bd9fa9637fdad907ea95927ec7fa7a67da737868e50545bae",
-      "bytes": 7614
+      "sha256": "e92d1b55daa59e12c57a54b9fdd23aefd416f7551099af375bfd79dc84e8e071",
+      "bytes": 8309
     },
     {
-      "file": "data/games/king/adult.json",
-      "gameId": "king",
-      "level": 4,
-      "count": 30,
-      "sha256": "025e375404434b3dcf264ba19a1533de9ce9709ea7f618481ee807a3fecd4ea8",
-      "bytes": 7916
+      "file": "data/games/most-likely-adult.json",
+      "game": "most-likely",
+      "level": "adult",
+      "type": "prompt",
+      "count": 446,
+      "sha256": "241bd4c30801cc09cc1a575514b186b8f4f84b76c68d158264e3cf7572506338",
+      "bytes": 92024
     },
     {
-      "file": "data/games/undercover/light.json",
-      "gameId": "undercover",
-      "level": 1,
+      "file": "data/games/most-likely-bold.json",
+      "game": "most-likely",
+      "level": "bold",
+      "type": "prompt",
+      "count": 18,
+      "sha256": "43a217b128bf08344da332c8b3cc8469443643c63611c3186c6baf2bdc6d000b",
+      "bytes": 3620
+    },
+    {
+      "file": "data/games/most-likely-light.json",
+      "game": "most-likely",
+      "level": "light",
+      "type": "prompt",
+      "count": 18,
+      "sha256": "301e64eceef883a59489ee110fd5bae1dcd956337359d915622b7a035ade1d51",
+      "bytes": 3549
+    },
+    {
+      "file": "data/games/most-likely-standard.json",
+      "game": "most-likely",
+      "level": "standard",
+      "type": "prompt",
+      "count": 18,
+      "sha256": "9db66286d3f101b27df2a96bac9785954f1bab14af8180e23467060c49ba4003",
+      "bytes": 3729
+    },
+    {
+      "file": "data/games/undercover-adult.json",
+      "game": "undercover",
+      "level": "adult",
+      "type": "word-pair",
+      "count": 260,
+      "sha256": "0e03d9164910de96b4dfd1e8a2df286b6214f33cc94539e482775138ed6be226",
+      "bytes": 57649
+    },
+    {
+      "file": "data/games/undercover-bold.json",
+      "game": "undercover",
+      "level": "bold",
+      "type": "word-pair",
       "count": 80,
-      "sha256": "a2fe1139e7bbeb30997000dfbf0ad484be58e5f59d34178ffbdd5911e28d2cab",
-      "bytes": 17875
+      "sha256": "053325ab9482f4d6a220e86bb4b7ef89ec8de47893039c0425fd6e4d66c0e3c2",
+      "bytes": 15331
     },
     {
-      "file": "data/games/undercover/standard.json",
-      "gameId": "undercover",
-      "level": 2,
+      "file": "data/games/undercover-light.json",
+      "game": "undercover",
+      "level": "light",
+      "type": "word-pair",
       "count": 80,
-      "sha256": "db4ecc5d07d7a22f4812e838a38f9e2281a3ccdfe006bd24adfa71342075ec76",
-      "bytes": 18176
+      "sha256": "7a9709174c7b60a77c6dbb27d12845d3a694ddb09d49fe981180a39f30778985",
+      "bytes": 15444
     },
     {
-      "file": "data/games/undercover/hard.json",
-      "gameId": "undercover",
-      "level": 3,
+      "file": "data/games/undercover-standard.json",
+      "game": "undercover",
+      "level": "standard",
+      "type": "word-pair",
       "count": 80,
-      "sha256": "01eb6cc9ee052e2f74532764b310f9fb7537a783403e384dcb9c1155f91dfd8d",
-      "bytes": 17705
+      "sha256": "184de6f819d7d1b25bf04722932a129415822de74086da39d75c1fdb4d6db333",
+      "bytes": 15951
+    },
+    {
+      "file": "data/games/would-rather-adult.json",
+      "game": "would-rather",
+      "level": "adult",
+      "type": "choice",
+      "count": 446,
+      "sha256": "035f030b7b6e2d8c31fe5723deaabd9b20928f6212a36f55fc3a3741b51452da",
+      "bytes": 84377
+    },
+    {
+      "file": "data/games/would-rather-bold.json",
+      "game": "would-rather",
+      "level": "bold",
+      "type": "choice",
+      "count": 18,
+      "sha256": "f6b5910d758487a20fb8f7e73f43b9d33e346a366e13d0eb9f5f61eb1b1a70b6",
+      "bytes": 3399
+    },
+    {
+      "file": "data/games/would-rather-light.json",
+      "game": "would-rather",
+      "level": "light",
+      "type": "choice",
+      "count": 18,
+      "sha256": "63b69967d0e50ff1575cec78cc6a2f60cfd20855e391d5cb1ac53c264d6adb69",
+      "bytes": 3286
+    },
+    {
+      "file": "data/games/would-rather-standard.json",
+      "game": "would-rather",
+      "level": "standard",
+      "type": "choice",
+      "count": 18,
+      "sha256": "7bf520a06d0e93af02c43bc0ac0bf28afc0c92abc979aa87350526a37aa78316",
+      "bytes": 3532
     }
   ],
-  "loadingPolicy": {
-    "core": "进入对应游戏并选择尺度后，仅加载该游戏当前档位 JSON",
-    "adult": "仅在会话内完成 18+ 确认后加载",
-    "cache": "首次使用后由 Service Worker 运行时缓存"
+  "notes": {
+    "hotPotato": "纯传递玩法，不加载专用任务库",
+    "sharedPunishments": 3500
   }
 }

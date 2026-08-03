@@ -1,0 +1,651 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "undercover",
+  "level": "standard",
+  "levelLabel": "标准",
+  "type": "word-pair",
+  "count": 80,
+  "items": [
+    {
+      "id": "uc-standard-0001",
+      "level": "standard",
+      "civilian": "加班",
+      "undercover": "熬夜",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0002",
+      "level": "standard",
+      "civilian": "旅行",
+      "undercover": "出差",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0003",
+      "level": "standard",
+      "civilian": "浪漫",
+      "undercover": "惊喜",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0004",
+      "level": "standard",
+      "civilian": "聪明",
+      "undercover": "机灵",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0005",
+      "level": "standard",
+      "civilian": "安静",
+      "undercover": "沉默",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0006",
+      "level": "standard",
+      "civilian": "习惯",
+      "undercover": "爱好",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0007",
+      "level": "standard",
+      "civilian": "梦想",
+      "undercover": "目标",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0008",
+      "level": "standard",
+      "civilian": "勇敢",
+      "undercover": "冲动",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0009",
+      "level": "standard",
+      "civilian": "信任",
+      "undercover": "依赖",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0010",
+      "level": "standard",
+      "civilian": "礼貌",
+      "undercover": "客气",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0011",
+      "level": "standard",
+      "civilian": "独处",
+      "undercover": "孤独",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0012",
+      "level": "standard",
+      "civilian": "计划",
+      "undercover": "安排",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0013",
+      "level": "standard",
+      "civilian": "努力",
+      "undercover": "坚持",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0014",
+      "level": "standard",
+      "civilian": "选择",
+      "undercover": "决定",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0015",
+      "level": "standard",
+      "civilian": "怀念",
+      "undercover": "遗憾",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0016",
+      "level": "standard",
+      "civilian": "自由",
+      "undercover": "随性",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0017",
+      "level": "standard",
+      "civilian": "认真",
+      "undercover": "固执",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0018",
+      "level": "standard",
+      "civilian": "安慰",
+      "undercover": "鼓励",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0019",
+      "level": "standard",
+      "civilian": "坦白",
+      "undercover": "解释",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0020",
+      "level": "standard",
+      "civilian": "温柔",
+      "undercover": "体贴",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0021",
+      "level": "standard",
+      "civilian": "日常加班",
+      "undercover": "日常熬夜",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0022",
+      "level": "standard",
+      "civilian": "日常旅行",
+      "undercover": "日常出差",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0023",
+      "level": "standard",
+      "civilian": "日常浪漫",
+      "undercover": "日常惊喜",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0024",
+      "level": "standard",
+      "civilian": "日常聪明",
+      "undercover": "日常机灵",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0025",
+      "level": "standard",
+      "civilian": "日常安静",
+      "undercover": "日常沉默",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0026",
+      "level": "standard",
+      "civilian": "日常习惯",
+      "undercover": "日常爱好",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0027",
+      "level": "standard",
+      "civilian": "日常梦想",
+      "undercover": "日常目标",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0028",
+      "level": "standard",
+      "civilian": "日常勇敢",
+      "undercover": "日常冲动",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0029",
+      "level": "standard",
+      "civilian": "日常信任",
+      "undercover": "日常依赖",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0030",
+      "level": "standard",
+      "civilian": "日常礼貌",
+      "undercover": "日常客气",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0031",
+      "level": "standard",
+      "civilian": "日常独处",
+      "undercover": "日常孤独",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0032",
+      "level": "standard",
+      "civilian": "日常计划",
+      "undercover": "日常安排",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0033",
+      "level": "standard",
+      "civilian": "日常努力",
+      "undercover": "日常坚持",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0034",
+      "level": "standard",
+      "civilian": "日常选择",
+      "undercover": "日常决定",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0035",
+      "level": "standard",
+      "civilian": "日常怀念",
+      "undercover": "日常遗憾",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0036",
+      "level": "standard",
+      "civilian": "日常自由",
+      "undercover": "日常随性",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0037",
+      "level": "standard",
+      "civilian": "日常认真",
+      "undercover": "日常固执",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0038",
+      "level": "standard",
+      "civilian": "日常安慰",
+      "undercover": "日常鼓励",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0039",
+      "level": "standard",
+      "civilian": "日常坦白",
+      "undercover": "日常解释",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0040",
+      "level": "standard",
+      "civilian": "日常温柔",
+      "undercover": "日常体贴",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0041",
+      "level": "standard",
+      "civilian": "深夜加班",
+      "undercover": "深夜熬夜",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0042",
+      "level": "standard",
+      "civilian": "深夜旅行",
+      "undercover": "深夜出差",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0043",
+      "level": "standard",
+      "civilian": "深夜浪漫",
+      "undercover": "深夜惊喜",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0044",
+      "level": "standard",
+      "civilian": "深夜聪明",
+      "undercover": "深夜机灵",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0045",
+      "level": "standard",
+      "civilian": "深夜安静",
+      "undercover": "深夜沉默",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0046",
+      "level": "standard",
+      "civilian": "深夜习惯",
+      "undercover": "深夜爱好",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0047",
+      "level": "standard",
+      "civilian": "深夜梦想",
+      "undercover": "深夜目标",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0048",
+      "level": "standard",
+      "civilian": "深夜勇敢",
+      "undercover": "深夜冲动",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0049",
+      "level": "standard",
+      "civilian": "深夜信任",
+      "undercover": "深夜依赖",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0050",
+      "level": "standard",
+      "civilian": "深夜礼貌",
+      "undercover": "深夜客气",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0051",
+      "level": "standard",
+      "civilian": "深夜独处",
+      "undercover": "深夜孤独",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0052",
+      "level": "standard",
+      "civilian": "深夜计划",
+      "undercover": "深夜安排",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0053",
+      "level": "standard",
+      "civilian": "深夜努力",
+      "undercover": "深夜坚持",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0054",
+      "level": "standard",
+      "civilian": "深夜选择",
+      "undercover": "深夜决定",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0055",
+      "level": "standard",
+      "civilian": "深夜怀念",
+      "undercover": "深夜遗憾",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0056",
+      "level": "standard",
+      "civilian": "深夜自由",
+      "undercover": "深夜随性",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0057",
+      "level": "standard",
+      "civilian": "深夜认真",
+      "undercover": "深夜固执",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0058",
+      "level": "standard",
+      "civilian": "深夜安慰",
+      "undercover": "深夜鼓励",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0059",
+      "level": "standard",
+      "civilian": "深夜坦白",
+      "undercover": "深夜解释",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0060",
+      "level": "standard",
+      "civilian": "深夜温柔",
+      "undercover": "深夜体贴",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0061",
+      "level": "standard",
+      "civilian": "旅行加班",
+      "undercover": "旅行熬夜",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0062",
+      "level": "standard",
+      "civilian": "旅行旅行",
+      "undercover": "旅行出差",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0063",
+      "level": "standard",
+      "civilian": "旅行浪漫",
+      "undercover": "旅行惊喜",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0064",
+      "level": "standard",
+      "civilian": "旅行聪明",
+      "undercover": "旅行机灵",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0065",
+      "level": "standard",
+      "civilian": "旅行安静",
+      "undercover": "旅行沉默",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0066",
+      "level": "standard",
+      "civilian": "旅行习惯",
+      "undercover": "旅行爱好",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0067",
+      "level": "standard",
+      "civilian": "旅行梦想",
+      "undercover": "旅行目标",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0068",
+      "level": "standard",
+      "civilian": "旅行勇敢",
+      "undercover": "旅行冲动",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0069",
+      "level": "standard",
+      "civilian": "旅行信任",
+      "undercover": "旅行依赖",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0070",
+      "level": "standard",
+      "civilian": "旅行礼貌",
+      "undercover": "旅行客气",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0071",
+      "level": "standard",
+      "civilian": "旅行独处",
+      "undercover": "旅行孤独",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0072",
+      "level": "standard",
+      "civilian": "旅行计划",
+      "undercover": "旅行安排",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0073",
+      "level": "standard",
+      "civilian": "旅行努力",
+      "undercover": "旅行坚持",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0074",
+      "level": "standard",
+      "civilian": "旅行选择",
+      "undercover": "旅行决定",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0075",
+      "level": "standard",
+      "civilian": "旅行怀念",
+      "undercover": "旅行遗憾",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0076",
+      "level": "standard",
+      "civilian": "旅行自由",
+      "undercover": "旅行随性",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0077",
+      "level": "standard",
+      "civilian": "旅行认真",
+      "undercover": "旅行固执",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0078",
+      "level": "standard",
+      "civilian": "旅行安慰",
+      "undercover": "旅行鼓励",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0079",
+      "level": "standard",
+      "civilian": "旅行坦白",
+      "undercover": "旅行解释",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-standard-0080",
+      "level": "standard",
+      "civilian": "旅行温柔",
+      "undercover": "旅行体贴",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    }
+  ]
+}

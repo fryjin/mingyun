@@ -1,0 +1,651 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "undercover",
+  "level": "bold",
+  "levelLabel": "烧脑",
+  "type": "word-pair",
+  "count": 80,
+  "items": [
+    {
+      "id": "uc-bold-0001",
+      "level": "bold",
+      "civilian": "暧昧",
+      "undercover": "恋爱",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0002",
+      "level": "bold",
+      "civilian": "心动",
+      "undercover": "喜欢",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0003",
+      "level": "bold",
+      "civilian": "吃醋",
+      "undercover": "介意",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0004",
+      "level": "bold",
+      "civilian": "前任",
+      "undercover": "旧爱",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0005",
+      "level": "bold",
+      "civilian": "告白",
+      "undercover": "求婚",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0006",
+      "level": "bold",
+      "civilian": "试探",
+      "undercover": "确认",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0007",
+      "level": "bold",
+      "civilian": "承诺",
+      "undercover": "保证",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0008",
+      "level": "bold",
+      "civilian": "占有欲",
+      "undercover": "安全感",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0009",
+      "level": "bold",
+      "civilian": "冷战",
+      "undercover": "冷静",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0010",
+      "level": "bold",
+      "civilian": "依赖",
+      "undercover": "陪伴",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0011",
+      "level": "bold",
+      "civilian": "隐瞒",
+      "undercover": "欺骗",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0012",
+      "level": "bold",
+      "civilian": "原谅",
+      "undercover": "妥协",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0013",
+      "level": "bold",
+      "civilian": "分手",
+      "undercover": "告别",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0014",
+      "level": "bold",
+      "civilian": "复合",
+      "undercover": "重逢",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0015",
+      "level": "bold",
+      "civilian": "边界",
+      "undercover": "距离",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0016",
+      "level": "bold",
+      "civilian": "主动",
+      "undercover": "热情",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0017",
+      "level": "bold",
+      "civilian": "沉默",
+      "undercover": "逃避",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0018",
+      "level": "bold",
+      "civilian": "心软",
+      "undercover": "动摇",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0019",
+      "level": "bold",
+      "civilian": "坦诚",
+      "undercover": "直接",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0020",
+      "level": "bold",
+      "civilian": "合适",
+      "undercover": "心动",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0021",
+      "level": "bold",
+      "civilian": "日常暧昧",
+      "undercover": "日常恋爱",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0022",
+      "level": "bold",
+      "civilian": "日常心动",
+      "undercover": "日常喜欢",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0023",
+      "level": "bold",
+      "civilian": "日常吃醋",
+      "undercover": "日常介意",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0024",
+      "level": "bold",
+      "civilian": "日常前任",
+      "undercover": "日常旧爱",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0025",
+      "level": "bold",
+      "civilian": "日常告白",
+      "undercover": "日常求婚",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0026",
+      "level": "bold",
+      "civilian": "日常试探",
+      "undercover": "日常确认",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0027",
+      "level": "bold",
+      "civilian": "日常承诺",
+      "undercover": "日常保证",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0028",
+      "level": "bold",
+      "civilian": "日常占有欲",
+      "undercover": "日常安全感",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0029",
+      "level": "bold",
+      "civilian": "日常冷战",
+      "undercover": "日常冷静",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0030",
+      "level": "bold",
+      "civilian": "日常依赖",
+      "undercover": "日常陪伴",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0031",
+      "level": "bold",
+      "civilian": "日常隐瞒",
+      "undercover": "日常欺骗",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0032",
+      "level": "bold",
+      "civilian": "日常原谅",
+      "undercover": "日常妥协",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0033",
+      "level": "bold",
+      "civilian": "日常分手",
+      "undercover": "日常告别",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0034",
+      "level": "bold",
+      "civilian": "日常复合",
+      "undercover": "日常重逢",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0035",
+      "level": "bold",
+      "civilian": "日常边界",
+      "undercover": "日常距离",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0036",
+      "level": "bold",
+      "civilian": "日常主动",
+      "undercover": "日常热情",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0037",
+      "level": "bold",
+      "civilian": "日常沉默",
+      "undercover": "日常逃避",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0038",
+      "level": "bold",
+      "civilian": "日常心软",
+      "undercover": "日常动摇",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0039",
+      "level": "bold",
+      "civilian": "日常坦诚",
+      "undercover": "日常直接",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0040",
+      "level": "bold",
+      "civilian": "日常合适",
+      "undercover": "日常心动",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0041",
+      "level": "bold",
+      "civilian": "深夜暧昧",
+      "undercover": "深夜恋爱",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0042",
+      "level": "bold",
+      "civilian": "深夜心动",
+      "undercover": "深夜喜欢",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0043",
+      "level": "bold",
+      "civilian": "深夜吃醋",
+      "undercover": "深夜介意",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0044",
+      "level": "bold",
+      "civilian": "深夜前任",
+      "undercover": "深夜旧爱",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0045",
+      "level": "bold",
+      "civilian": "深夜告白",
+      "undercover": "深夜求婚",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0046",
+      "level": "bold",
+      "civilian": "深夜试探",
+      "undercover": "深夜确认",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0047",
+      "level": "bold",
+      "civilian": "深夜承诺",
+      "undercover": "深夜保证",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0048",
+      "level": "bold",
+      "civilian": "深夜占有欲",
+      "undercover": "深夜安全感",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0049",
+      "level": "bold",
+      "civilian": "深夜冷战",
+      "undercover": "深夜冷静",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0050",
+      "level": "bold",
+      "civilian": "深夜依赖",
+      "undercover": "深夜陪伴",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0051",
+      "level": "bold",
+      "civilian": "深夜隐瞒",
+      "undercover": "深夜欺骗",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0052",
+      "level": "bold",
+      "civilian": "深夜原谅",
+      "undercover": "深夜妥协",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0053",
+      "level": "bold",
+      "civilian": "深夜分手",
+      "undercover": "深夜告别",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0054",
+      "level": "bold",
+      "civilian": "深夜复合",
+      "undercover": "深夜重逢",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0055",
+      "level": "bold",
+      "civilian": "深夜边界",
+      "undercover": "深夜距离",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0056",
+      "level": "bold",
+      "civilian": "深夜主动",
+      "undercover": "深夜热情",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0057",
+      "level": "bold",
+      "civilian": "深夜沉默",
+      "undercover": "深夜逃避",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0058",
+      "level": "bold",
+      "civilian": "深夜心软",
+      "undercover": "深夜动摇",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0059",
+      "level": "bold",
+      "civilian": "深夜坦诚",
+      "undercover": "深夜直接",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0060",
+      "level": "bold",
+      "civilian": "深夜合适",
+      "undercover": "深夜心动",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0061",
+      "level": "bold",
+      "civilian": "旅行暧昧",
+      "undercover": "旅行恋爱",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0062",
+      "level": "bold",
+      "civilian": "旅行心动",
+      "undercover": "旅行喜欢",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0063",
+      "level": "bold",
+      "civilian": "旅行吃醋",
+      "undercover": "旅行介意",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0064",
+      "level": "bold",
+      "civilian": "旅行前任",
+      "undercover": "旅行旧爱",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0065",
+      "level": "bold",
+      "civilian": "旅行告白",
+      "undercover": "旅行求婚",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0066",
+      "level": "bold",
+      "civilian": "旅行试探",
+      "undercover": "旅行确认",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0067",
+      "level": "bold",
+      "civilian": "旅行承诺",
+      "undercover": "旅行保证",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0068",
+      "level": "bold",
+      "civilian": "旅行占有欲",
+      "undercover": "旅行安全感",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0069",
+      "level": "bold",
+      "civilian": "旅行冷战",
+      "undercover": "旅行冷静",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0070",
+      "level": "bold",
+      "civilian": "旅行依赖",
+      "undercover": "旅行陪伴",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0071",
+      "level": "bold",
+      "civilian": "旅行隐瞒",
+      "undercover": "旅行欺骗",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0072",
+      "level": "bold",
+      "civilian": "旅行原谅",
+      "undercover": "旅行妥协",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0073",
+      "level": "bold",
+      "civilian": "旅行分手",
+      "undercover": "旅行告别",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0074",
+      "level": "bold",
+      "civilian": "旅行复合",
+      "undercover": "旅行重逢",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0075",
+      "level": "bold",
+      "civilian": "旅行边界",
+      "undercover": "旅行距离",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0076",
+      "level": "bold",
+      "civilian": "旅行主动",
+      "undercover": "旅行热情",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0077",
+      "level": "bold",
+      "civilian": "旅行沉默",
+      "undercover": "旅行逃避",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0078",
+      "level": "bold",
+      "civilian": "旅行心软",
+      "undercover": "旅行动摇",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0079",
+      "level": "bold",
+      "civilian": "旅行坦诚",
+      "undercover": "旅行直接",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-bold-0080",
+      "level": "bold",
+      "civilian": "旅行合适",
+      "undercover": "旅行心动",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    }
+  ]
+}

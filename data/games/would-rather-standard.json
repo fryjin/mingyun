@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "would-rather",
+  "level": "standard",
+  "levelLabel": "标准",
+  "type": "choice",
+  "count": 18,
+  "items": [
+    {
+      "id": "wr-standard-0001",
+      "level": "standard",
+      "optionA": "知道别人真实评价",
+      "optionB": "永远不知道别人评价",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0002",
+      "level": "standard",
+      "optionA": "做喜欢但收入普通的工作",
+      "optionB": "做不喜欢但收入很高的工作",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0003",
+      "level": "standard",
+      "optionA": "和朋友坦白一切",
+      "optionB": "保留一部分秘密",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0004",
+      "level": "standard",
+      "optionA": "先道歉但不认同",
+      "optionB": "坚持等对方先开口",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0005",
+      "level": "standard",
+      "optionA": "拥有稳定生活",
+      "optionB": "拥有充满变化的生活",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0006",
+      "level": "standard",
+      "optionA": "被误解但不解释",
+      "optionB": "解释到对方理解",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0007",
+      "level": "standard",
+      "optionA": "说真话伤人",
+      "optionB": "说善意谎言",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0008",
+      "level": "standard",
+      "optionA": "成为团队领导",
+      "optionB": "成为自由执行者",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0009",
+      "level": "standard",
+      "optionA": "提前知道结果",
+      "optionB": "保留所有惊喜",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0010",
+      "level": "standard",
+      "optionA": "删除所有旧照片",
+      "optionB": "保留所有聊天记录",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0011",
+      "level": "standard",
+      "optionA": "失去社交媒体",
+      "optionB": "失去短视频",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0012",
+      "level": "standard",
+      "optionA": "永远准时但匆忙",
+      "optionB": "偶尔迟到但从容",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0013",
+      "level": "standard",
+      "optionA": "公开表达情绪",
+      "optionB": "独自消化情绪",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0014",
+      "level": "standard",
+      "optionA": "被很多人喜欢",
+      "optionB": "被少数人真正理解",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0015",
+      "level": "standard",
+      "optionA": "先做再调整",
+      "optionB": "想清楚再开始",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0016",
+      "level": "standard",
+      "optionA": "为了关系妥协",
+      "optionB": "坚持个人边界",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0017",
+      "level": "standard",
+      "optionA": "重来一次过去",
+      "optionB": "提前看见未来",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-standard-0018",
+      "level": "standard",
+      "optionA": "获得一次完美机会",
+      "optionB": "拥有持续的小幸运",
+      "theme": "生活选择"
+    }
+  ]
+}

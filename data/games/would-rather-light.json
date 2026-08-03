@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "would-rather",
+  "level": "light",
+  "levelLabel": "轻松",
+  "type": "choice",
+  "count": 18,
+  "items": [
+    {
+      "id": "wr-light-0001",
+      "level": "light",
+      "optionA": "永远喝热饮",
+      "optionB": "永远喝冰饮",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0002",
+      "level": "light",
+      "optionA": "旅行只拍照片",
+      "optionB": "旅行只写日记",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0003",
+      "level": "light",
+      "optionA": "住在海边",
+      "optionB": "住在山里",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0004",
+      "level": "light",
+      "optionA": "每天早起",
+      "optionB": "每天晚睡",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0005",
+      "level": "light",
+      "optionA": "只能吃甜食",
+      "optionB": "只能吃咸食",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0006",
+      "level": "light",
+      "optionA": "拥有瞬间移动",
+      "optionB": "拥有读心术",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0007",
+      "level": "light",
+      "optionA": "看电影不吃零食",
+      "optionB": "吃零食不看电影",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0008",
+      "level": "light",
+      "optionA": "一年不网购",
+      "optionB": "一年不点外卖",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0009",
+      "level": "light",
+      "optionA": "永远晴天",
+      "optionB": "永远小雨",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0010",
+      "level": "light",
+      "optionA": "只听一首歌",
+      "optionB": "只看一部电影",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0011",
+      "level": "light",
+      "optionA": "去熟悉的地方旅行",
+      "optionB": "去完全陌生的地方旅行",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0012",
+      "level": "light",
+      "optionA": "拥有猫的生活",
+      "optionB": "拥有狗的生活",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0013",
+      "level": "light",
+      "optionA": "永远排队五分钟",
+      "optionB": "永远堵车十分钟",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0014",
+      "level": "light",
+      "optionA": "只用语音聊天",
+      "optionB": "只用文字聊天",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0015",
+      "level": "light",
+      "optionA": "拥有无限假期",
+      "optionB": "拥有无限预算",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0016",
+      "level": "light",
+      "optionA": "每周聚会一次",
+      "optionB": "每月长途旅行一次",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0017",
+      "level": "light",
+      "optionA": "只吃家常菜",
+      "optionB": "只吃餐厅菜",
+      "theme": "生活选择"
+    },
+    {
+      "id": "wr-light-0018",
+      "level": "light",
+      "optionA": "永远不迷路",
+      "optionB": "永远不忘事",
+      "theme": "生活选择"
+    }
+  ]
+}

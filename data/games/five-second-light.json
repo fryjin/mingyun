@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "five-second",
+  "level": "light",
+  "levelLabel": "轻松",
+  "type": "challenge",
+  "count": 18,
+  "items": [
+    {
+      "id": "fs-light-0001",
+      "level": "light",
+      "prompt": "说出三种红色食物",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0002",
+      "level": "light",
+      "prompt": "说出三部动画电影",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0003",
+      "level": "light",
+      "prompt": "说出三个适合旅行的城市",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0004",
+      "level": "light",
+      "prompt": "说出三种常见饮料",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0005",
+      "level": "light",
+      "prompt": "说出三个圆形物品",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0006",
+      "level": "light",
+      "prompt": "说出三种会飞的动物",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0007",
+      "level": "light",
+      "prompt": "说出三个手机应用",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0008",
+      "level": "light",
+      "prompt": "说出三种早餐",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0009",
+      "level": "light",
+      "prompt": "说出三个节日",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0010",
+      "level": "light",
+      "prompt": "说出三种乐器",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0011",
+      "level": "light",
+      "prompt": "说出三个蓝色物品",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0012",
+      "level": "light",
+      "prompt": "说出三种水果",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0013",
+      "level": "light",
+      "prompt": "说出三个运动项目",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0014",
+      "level": "light",
+      "prompt": "说出三种天气",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0015",
+      "level": "light",
+      "prompt": "说出三个便利店商品",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0016",
+      "level": "light",
+      "prompt": "说出三种宠物",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0017",
+      "level": "light",
+      "prompt": "说出三个家用电器",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-light-0018",
+      "level": "light",
+      "prompt": "说出三种甜品",
+      "answerCount": 3,
+      "theme": "快速反应"
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "king",
+  "level": "standard",
+  "levelLabel": "标准",
+  "type": "instruction",
+  "count": 30,
+  "items": [
+    {
+      "id": "king-standard-0001",
+      "level": "standard",
+      "instruction": "{target1}分享一个最近改变的看法。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0002",
+      "level": "standard",
+      "instruction": "{target1}说出自己最想改善的习惯。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0003",
+      "level": "standard",
+      "instruction": "{target1}真诚夸奖现场一位玩家。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0004",
+      "level": "standard",
+      "instruction": "{target1}讲一个自己曾经误会别人的经历。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0005",
+      "level": "standard",
+      "instruction": "{target1}说出最近一次主动道歉的原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0006",
+      "level": "standard",
+      "instruction": "{target1}分享一个正在努力完成的目标。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0007",
+      "level": "standard",
+      "instruction": "{target1}说出自己最需要独处的时刻。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0008",
+      "level": "standard",
+      "instruction": "{target1}讲一个让自己重新振作的方法。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0009",
+      "level": "standard",
+      "instruction": "{target1}说出朋友最容易误解自己的地方。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0010",
+      "level": "standard",
+      "instruction": "{target1}分享一件一直保留的小物品。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0011",
+      "level": "standard",
+      "instruction": "{target1}和{target2}互相说出对方一个优点。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0012",
+      "level": "standard",
+      "instruction": "{target1}和{target2}交换一个提高效率的方法。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0013",
+      "level": "standard",
+      "instruction": "{target1}和{target2}分别说出对友谊最重要的事。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0014",
+      "level": "standard",
+      "instruction": "{target1}和{target2}合作编一句聚会口号。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0015",
+      "level": "standard",
+      "instruction": "{target1}和{target2}分别推荐一部作品。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0016",
+      "level": "standard",
+      "instruction": "{target1}、{target2}和{target3}各说一个今年的愿望。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0017",
+      "level": "standard",
+      "instruction": "{target1}、{target2}和{target3}共同编一个三句故事。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0018",
+      "level": "standard",
+      "instruction": "{target1}、{target2}和{target3}各说一个解压方式。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0019",
+      "level": "standard",
+      "instruction": "{target1}说出自己最欣赏的品质。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0020",
+      "level": "standard",
+      "instruction": "{target1}分享一次克服尴尬的经历。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0021",
+      "level": "standard",
+      "instruction": "{target1}说出一次改变计划后的意外收获。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0022",
+      "level": "standard",
+      "instruction": "{target1}分享一个希望被朋友提醒的习惯。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0023",
+      "level": "standard",
+      "instruction": "{target1}说出一个不容易做出的决定。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0024",
+      "level": "standard",
+      "instruction": "{target1}讲一个自己曾经坚持到底的事情。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0025",
+      "level": "standard",
+      "instruction": "{target1}说出现在最想感谢的人。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0026",
+      "level": "standard",
+      "instruction": "{target1}分享一个会让自己安心的场景。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0027",
+      "level": "standard",
+      "instruction": "{target1}说出一个希望重新尝试的事情。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0028",
+      "level": "standard",
+      "instruction": "{target1}和{target2}为彼此设计一个轻松周末。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0029",
+      "level": "standard",
+      "instruction": "{target1}和{target2}交换一个真实但温和的建议。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-standard-0030",
+      "level": "standard",
+      "instruction": "{target1}和{target2}用一句话总结彼此第一印象。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    }
+  ]
+}

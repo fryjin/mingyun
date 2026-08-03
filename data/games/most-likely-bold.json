@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "most-likely",
+  "level": "bold",
+  "levelLabel": "大胆",
+  "type": "prompt",
+  "count": 18,
+  "items": [
+    {
+      "id": "ml-bold-0001",
+      "level": "bold",
+      "text": "谁最可能为了喜欢的人改变原本计划？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0002",
+      "level": "bold",
+      "text": "谁最可能在争吵时说出最直接的话？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0003",
+      "level": "bold",
+      "text": "谁最可能对前任仍保留复杂情绪？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0004",
+      "level": "bold",
+      "text": "谁最可能因为吃醋而表现得很明显？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0005",
+      "level": "bold",
+      "text": "谁最可能最先在关系中主动确认答案？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0006",
+      "level": "bold",
+      "text": "谁最可能看起来洒脱其实最念旧？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0007",
+      "level": "bold",
+      "text": "谁最可能在感情里反复试探对方？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0008",
+      "level": "bold",
+      "text": "谁最可能因为害怕失去而先退缩？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0009",
+      "level": "bold",
+      "text": "谁最可能把暧昧拖得最久？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0010",
+      "level": "bold",
+      "text": "谁最可能在被拒绝后仍然坚持一次？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0011",
+      "level": "bold",
+      "text": "谁最可能为了关系放下自己的原则？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0012",
+      "level": "bold",
+      "text": "谁最可能最在意别人如何评价自己的感情？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0013",
+      "level": "bold",
+      "text": "谁最可能在喜欢的人面前反常？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0014",
+      "level": "bold",
+      "text": "谁最可能偷偷关注某个人很久？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0015",
+      "level": "bold",
+      "text": "谁最可能在关系结束后最快开始新生活？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0016",
+      "level": "bold",
+      "text": "谁最可能嘴上说不在乎其实最介意？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0017",
+      "level": "bold",
+      "text": "谁最可能在感情里需要最多安全感？",
+      "theme": "派对观察",
+      "consentRequired": false
+    },
+    {
+      "id": "ml-bold-0018",
+      "level": "bold",
+      "text": "谁最可能把真实想法藏到最后？",
+      "theme": "派对观察",
+      "consentRequired": false
+    }
+  ]
+}

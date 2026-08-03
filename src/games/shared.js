@@ -1,48 +1,22 @@
-export function escapeHtml(value) {
-  return String(value ?? '')
-    .replaceAll('&','&amp;')
-    .replaceAll('<','&lt;')
-    .replaceAll('>','&gt;')
-    .replaceAll('"','&quot;')
-    .replaceAll("'",'&#039;');
+import { drawShared } from '../modules/questions.js';
+import { closeOverlay, showModal, toast } from '../modules/overlay.js';
+import { escapeHtml } from '../core/utils.js';
+export function createGameContext({root,game,settings,players,global,goLobby,rerender}) {
+  const cleanups=[];
+  return {root,game,settings,players,global,goLobby,rerender,onCleanup(fn){cleanups.push(fn)},cleanup(){cleanups.splice(0).forEach(fn=>{try{fn()}catch{}})},async punishment(losers,{onDone}={}){await showPunishment(losers,settings.level,onDone)}};
 }
-
-export function secureRandomInt(max) {
-  if (!Number.isFinite(max) || max <= 0) return 0;
-  if (globalThis.crypto?.getRandomValues) {
-    const values = new Uint32Array(1);
-    globalThis.crypto.getRandomValues(values);
-    return Math.floor((values[0] / 4294967296) * max);
-  }
-  return Math.floor(Math.random() * max);
+export async function showPunishment(losers,level='standard',onDone){
+  const names=Array.isArray(losers)?losers.map(p=>p.name).join('、'):losers.name;
+  showModal(`<span class="eyebrow">本轮结果</span><h2>${escapeHtml(names)} 遭殃</h2><p class="modal-copy">选择本轮惩罚类型。任何题目都可以直接跳过或更换。</p><div class="choice-actions"><button class="choice-card" data-type="truth"><strong>真心话</strong><span>诚实回答一个问题</span></button><button class="choice-card" data-type="dare"><strong>大冒险</strong><span>完成一个安全挑战</span></button></div><button class="button ghost full" data-finish>跳过惩罚</button>`,{dismissible:false,onMount(card){
+    card.querySelector('[data-finish]').onclick=()=>{closeOverlay();onDone?.()};
+    card.querySelectorAll('[data-type]').forEach(button=>button.onclick=()=>load(button.dataset.type));
+    async function load(type){
+      card.innerHTML='<div class="loading-state">正在抽取题目…</div>';
+      try{const item=await drawShared(level,type);card.innerHTML=`<span class="eyebrow">${type==='truth'?'真心话':'大冒险'}</span><h2>${escapeHtml(names)}</h2><p class="question-text">${escapeHtml(item.text)}</p>${item.consentRequired?'<p class="consent-note">涉及其他玩家时，必须先取得对方明确同意。</p>':''}<div class="modal-actions"><button class="button secondary" data-change>换一题</button><button class="button primary" data-done>完成</button></div>`;card.querySelector('[data-change]').onclick=()=>load(type);card.querySelector('[data-done]').onclick=()=>{closeOverlay();onDone?.()};}
+      catch(error){toast(error.message);closeOverlay();onDone?.()}
+    }
+  }});
 }
-
-export function secureShuffle(items) {
-  const result = [...items];
-  for (let index = result.length - 1; index > 0; index -= 1) {
-    const target = secureRandomInt(index + 1);
-    [result[index], result[target]] = [result[target], result[index]];
-  }
-  return result;
-}
-
-export function levelLabel(level) {
-  return ({ 1:'轻松', 2:'标准', 3:'大胆', 4:'成人刺激' })[Number(level)] || '标准';
-}
-
-export function announce(message) {
-  const region = document.querySelector('#liveRegion');
-  if (region) region.textContent = message;
-}
-
-export function delay(ms) {
-  return new Promise((resolve) => window.setTimeout(resolve, ms));
-}
-
-export function clamp(value, min, max) {
-  return Math.min(max, Math.max(min, Number(value) || min));
-}
-
-export function randomChoice(items) {
-  return items[secureRandomInt(items.length)] || null;
-}
+export function stageHeader(title,subtitle=''){return `<header class="stage-header"><div><span class="eyebrow">NOW PLAYING</span><h1>${escapeHtml(title)}</h1>${subtitle?`<p>${escapeHtml(subtitle)}</p>`:''}</div><button class="icon-button" data-exit aria-label="结束游戏">×</button></header>`}
+export function bindExit(root,ctx){root.querySelector('[data-exit]')?.addEventListener('click',ctx.goLobby)}
+export function passScreen(player,actionText='查看我的内容'){return `<section class="private-stage"><span class="privacy-icon">◉</span><span class="eyebrow">请把手机交给</span><h2>${escapeHtml(player.name)}</h2><p>确认周围的人看不到屏幕后继续。</p><button class="button primary full" data-private-open>${escapeHtml(actionText)}</button></section>`}

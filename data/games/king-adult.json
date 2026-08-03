@@ -1,0 +1,3701 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "king",
+  "level": "adult",
+  "levelLabel": "成人",
+  "type": "instruction",
+  "count": 410,
+  "items": [
+    {
+      "id": "king-adult-0001",
+      "level": "adult",
+      "instruction": "{target1}说出一个最容易让自己心动的细节。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0002",
+      "level": "adult",
+      "instruction": "{target1}说出一个最容易让自己心动的细节，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0003",
+      "level": "adult",
+      "instruction": "{target1}说出一个最容易让自己心动的细节，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0004",
+      "level": "adult",
+      "instruction": "{target1}说出一个最容易让自己心动的细节，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0005",
+      "level": "adult",
+      "instruction": "{target1}说出一个最容易让自己心动的细节，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0006",
+      "level": "adult",
+      "instruction": "{target1}分享一次因为喜欢而表现反常的时刻。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0007",
+      "level": "adult",
+      "instruction": "{target1}分享一次因为喜欢而表现反常的时刻，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0008",
+      "level": "adult",
+      "instruction": "{target1}分享一次因为喜欢而表现反常的时刻，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0009",
+      "level": "adult",
+      "instruction": "{target1}分享一次因为喜欢而表现反常的时刻，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0010",
+      "level": "adult",
+      "instruction": "{target1}分享一次因为喜欢而表现反常的时刻，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0011",
+      "level": "adult",
+      "instruction": "{target1}用一句话描述理想中的亲密关系。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0012",
+      "level": "adult",
+      "instruction": "{target1}用一句话描述理想中的亲密关系，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0013",
+      "level": "adult",
+      "instruction": "{target1}用一句话描述理想中的亲密关系，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0014",
+      "level": "adult",
+      "instruction": "{target1}用一句话描述理想中的亲密关系，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0015",
+      "level": "adult",
+      "instruction": "{target1}用一句话描述理想中的亲密关系，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0016",
+      "level": "adult",
+      "instruction": "{target1}说出一个自己最重视的相处边界。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0017",
+      "level": "adult",
+      "instruction": "{target1}说出一个自己最重视的相处边界，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0018",
+      "level": "adult",
+      "instruction": "{target1}说出一个自己最重视的相处边界，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0019",
+      "level": "adult",
+      "instruction": "{target1}说出一个自己最重视的相处边界，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0020",
+      "level": "adult",
+      "instruction": "{target1}说出一个自己最重视的相处边界，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0021",
+      "level": "adult",
+      "instruction": "{target1}分享一次被温柔打动的经历。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0022",
+      "level": "adult",
+      "instruction": "{target1}分享一次被温柔打动的经历，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0023",
+      "level": "adult",
+      "instruction": "{target1}分享一次被温柔打动的经历，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0024",
+      "level": "adult",
+      "instruction": "{target1}分享一次被温柔打动的经历，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0025",
+      "level": "adult",
+      "instruction": "{target1}分享一次被温柔打动的经历，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0026",
+      "level": "adult",
+      "instruction": "{target1}说出一个会让自己立刻失去兴趣的行为。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0027",
+      "level": "adult",
+      "instruction": "{target1}说出一个会让自己立刻失去兴趣的行为，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0028",
+      "level": "adult",
+      "instruction": "{target1}说出一个会让自己立刻失去兴趣的行为，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0029",
+      "level": "adult",
+      "instruction": "{target1}说出一个会让自己立刻失去兴趣的行为，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0030",
+      "level": "adult",
+      "instruction": "{target1}说出一个会让自己立刻失去兴趣的行为，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0031",
+      "level": "adult",
+      "instruction": "{target1}描述一次最想重来的约会时刻。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0032",
+      "level": "adult",
+      "instruction": "{target1}描述一次最想重来的约会时刻，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0033",
+      "level": "adult",
+      "instruction": "{target1}描述一次最想重来的约会时刻，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0034",
+      "level": "adult",
+      "instruction": "{target1}描述一次最想重来的约会时刻，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0035",
+      "level": "adult",
+      "instruction": "{target1}描述一次最想重来的约会时刻，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0036",
+      "level": "adult",
+      "instruction": "{target1}说出自己最需要安全感的场景。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0037",
+      "level": "adult",
+      "instruction": "{target1}说出自己最需要安全感的场景，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0038",
+      "level": "adult",
+      "instruction": "{target1}说出自己最需要安全感的场景，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0039",
+      "level": "adult",
+      "instruction": "{target1}说出自己最需要安全感的场景，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0040",
+      "level": "adult",
+      "instruction": "{target1}说出自己最需要安全感的场景，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0041",
+      "level": "adult",
+      "instruction": "{target1}分享一次明明吃醋却装作没事的经历。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0042",
+      "level": "adult",
+      "instruction": "{target1}分享一次明明吃醋却装作没事的经历，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0043",
+      "level": "adult",
+      "instruction": "{target1}分享一次明明吃醋却装作没事的经历，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0044",
+      "level": "adult",
+      "instruction": "{target1}分享一次明明吃醋却装作没事的经历，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0045",
+      "level": "adult",
+      "instruction": "{target1}分享一次明明吃醋却装作没事的经历，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0046",
+      "level": "adult",
+      "instruction": "{target1}说出一个最想从心动对象那里听到的回答。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0047",
+      "level": "adult",
+      "instruction": "{target1}说出一个最想从心动对象那里听到的回答，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0048",
+      "level": "adult",
+      "instruction": "{target1}说出一个最想从心动对象那里听到的回答，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0049",
+      "level": "adult",
+      "instruction": "{target1}说出一个最想从心动对象那里听到的回答，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0050",
+      "level": "adult",
+      "instruction": "{target1}说出一个最想从心动对象那里听到的回答，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0051",
+      "level": "adult",
+      "instruction": "{target1}描述自己主动靠近一个人时的信号。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0052",
+      "level": "adult",
+      "instruction": "{target1}描述自己主动靠近一个人时的信号，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0053",
+      "level": "adult",
+      "instruction": "{target1}描述自己主动靠近一个人时的信号，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0054",
+      "level": "adult",
+      "instruction": "{target1}描述自己主动靠近一个人时的信号，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0055",
+      "level": "adult",
+      "instruction": "{target1}描述自己主动靠近一个人时的信号，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0056",
+      "level": "adult",
+      "instruction": "{target1}说出一个愿意为关系改变的小习惯。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0057",
+      "level": "adult",
+      "instruction": "{target1}说出一个愿意为关系改变的小习惯，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0058",
+      "level": "adult",
+      "instruction": "{target1}说出一个愿意为关系改变的小习惯，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0059",
+      "level": "adult",
+      "instruction": "{target1}说出一个愿意为关系改变的小习惯，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0060",
+      "level": "adult",
+      "instruction": "{target1}说出一个愿意为关系改变的小习惯，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0061",
+      "level": "adult",
+      "instruction": "{target1}分享一次选择坦白而不是试探的经历。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0062",
+      "level": "adult",
+      "instruction": "{target1}分享一次选择坦白而不是试探的经历，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0063",
+      "level": "adult",
+      "instruction": "{target1}分享一次选择坦白而不是试探的经历，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0064",
+      "level": "adult",
+      "instruction": "{target1}分享一次选择坦白而不是试探的经历，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0065",
+      "level": "adult",
+      "instruction": "{target1}分享一次选择坦白而不是试探的经历，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0066",
+      "level": "adult",
+      "instruction": "{target1}说出一个需要对方明确同意的互动边界。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0067",
+      "level": "adult",
+      "instruction": "{target1}说出一个需要对方明确同意的互动边界，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0068",
+      "level": "adult",
+      "instruction": "{target1}说出一个需要对方明确同意的互动边界，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0069",
+      "level": "adult",
+      "instruction": "{target1}说出一个需要对方明确同意的互动边界，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0070",
+      "level": "adult",
+      "instruction": "{target1}说出一个需要对方明确同意的互动边界，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0071",
+      "level": "adult",
+      "instruction": "{target1}描述一次最浪漫但不昂贵的安排。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0072",
+      "level": "adult",
+      "instruction": "{target1}描述一次最浪漫但不昂贵的安排，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0073",
+      "level": "adult",
+      "instruction": "{target1}描述一次最浪漫但不昂贵的安排，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0074",
+      "level": "adult",
+      "instruction": "{target1}描述一次最浪漫但不昂贵的安排，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0075",
+      "level": "adult",
+      "instruction": "{target1}描述一次最浪漫但不昂贵的安排，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0076",
+      "level": "adult",
+      "instruction": "{target1}说出一个会让自己主动结束暧昧的原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0077",
+      "level": "adult",
+      "instruction": "{target1}说出一个会让自己主动结束暧昧的原因，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0078",
+      "level": "adult",
+      "instruction": "{target1}说出一个会让自己主动结束暧昧的原因，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0079",
+      "level": "adult",
+      "instruction": "{target1}说出一个会让自己主动结束暧昧的原因，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0080",
+      "level": "adult",
+      "instruction": "{target1}说出一个会让自己主动结束暧昧的原因，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0081",
+      "level": "adult",
+      "instruction": "{target1}分享一次因为被坚定选择而感动的经历。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0082",
+      "level": "adult",
+      "instruction": "{target1}分享一次因为被坚定选择而感动的经历，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0083",
+      "level": "adult",
+      "instruction": "{target1}分享一次因为被坚定选择而感动的经历，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0084",
+      "level": "adult",
+      "instruction": "{target1}分享一次因为被坚定选择而感动的经历，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0085",
+      "level": "adult",
+      "instruction": "{target1}分享一次因为被坚定选择而感动的经历，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0086",
+      "level": "adult",
+      "instruction": "{target1}说出一个自己不愿公开讨论的关系原则。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0087",
+      "level": "adult",
+      "instruction": "{target1}说出一个自己不愿公开讨论的关系原则，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0088",
+      "level": "adult",
+      "instruction": "{target1}说出一个自己不愿公开讨论的关系原则，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0089",
+      "level": "adult",
+      "instruction": "{target1}说出一个自己不愿公开讨论的关系原则，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0090",
+      "level": "adult",
+      "instruction": "{target1}说出一个自己不愿公开讨论的关系原则，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0091",
+      "level": "adult",
+      "instruction": "{target1}描述一次最理想的深夜聊天。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0092",
+      "level": "adult",
+      "instruction": "{target1}描述一次最理想的深夜聊天，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0093",
+      "level": "adult",
+      "instruction": "{target1}描述一次最理想的深夜聊天，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0094",
+      "level": "adult",
+      "instruction": "{target1}描述一次最理想的深夜聊天，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0095",
+      "level": "adult",
+      "instruction": "{target1}描述一次最理想的深夜聊天，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0096",
+      "level": "adult",
+      "instruction": "{target1}说出一个最容易让自己心软的道歉方式。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0097",
+      "level": "adult",
+      "instruction": "{target1}说出一个最容易让自己心软的道歉方式，并用十秒说明原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0098",
+      "level": "adult",
+      "instruction": "{target1}说出一个最容易让自己心软的道歉方式，回答后可以选择跳过追问。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0099",
+      "level": "adult",
+      "instruction": "{target1}说出一个最容易让自己心软的道歉方式，不得提及真实姓名。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0100",
+      "level": "adult",
+      "instruction": "{target1}说出一个最容易让自己心软的道歉方式，用最直接但尊重的方式表达。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "king-adult-0101",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相说出对方最有吸引力的一个优点。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0102",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相说出对方最有吸引力的一个优点，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0103",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相说出对方最有吸引力的一个优点，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0104",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相说出对方最有吸引力的一个优点，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0105",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相说出对方最有吸引力的一个优点，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0106",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自描述一次理想的第一次约会。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0107",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自描述一次理想的第一次约会，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0108",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自描述一次理想的第一次约会，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0109",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自描述一次理想的第一次约会，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0110",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自描述一次理想的第一次约会，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0111",
+      "level": "adult",
+      "instruction": "{target1}和{target2}对视五秒后各说一句真实感受。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0112",
+      "level": "adult",
+      "instruction": "{target1}和{target2}对视五秒后各说一句真实感受，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0113",
+      "level": "adult",
+      "instruction": "{target1}和{target2}对视五秒后各说一句真实感受，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0114",
+      "level": "adult",
+      "instruction": "{target1}和{target2}对视五秒后各说一句真实感受，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0115",
+      "level": "adult",
+      "instruction": "{target1}和{target2}对视五秒后各说一句真实感受，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0116",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出关系中最不能接受的一条边界。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0117",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出关系中最不能接受的一条边界，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0118",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出关系中最不能接受的一条边界，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0119",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出关系中最不能接受的一条边界，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0120",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出关系中最不能接受的一条边界，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0121",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相设计一个不花钱的浪漫安排。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0122",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相设计一个不花钱的浪漫安排，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0123",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相设计一个不花钱的浪漫安排，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0124",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相设计一个不花钱的浪漫安排，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0125",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相设计一个不花钱的浪漫安排，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0126",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自说出一次愿意主动道歉的场景。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0127",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自说出一次愿意主动道歉的场景，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0128",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自说出一次愿意主动道歉的场景，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0129",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自说出一次愿意主动道歉的场景，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0130",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自说出一次愿意主动道歉的场景，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0131",
+      "level": "adult",
+      "instruction": "{target1}和{target2}用一句话完成一段安全且自愿的搭讪演练。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0132",
+      "level": "adult",
+      "instruction": "{target1}和{target2}用一句话完成一段安全且自愿的搭讪演练，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0133",
+      "level": "adult",
+      "instruction": "{target1}和{target2}用一句话完成一段安全且自愿的搭讪演练，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0134",
+      "level": "adult",
+      "instruction": "{target1}和{target2}用一句话完成一段安全且自愿的搭讪演练，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0135",
+      "level": "adult",
+      "instruction": "{target1}和{target2}用一句话完成一段安全且自愿的搭讪演练，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0136",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出自己最需要的安全感来源。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0137",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出自己最需要的安全感来源，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0138",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出自己最需要的安全感来源，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0139",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出自己最需要的安全感来源，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0140",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出自己最需要的安全感来源，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0141",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自选择“心动”或“合适”并解释。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0142",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自选择“心动”或“合适”并解释，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0143",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自选择“心动”或“合适”并解释，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0144",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自选择“心动”或“合适”并解释，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0145",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自选择“心动”或“合适”并解释，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0146",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相问一个关于相处习惯的问题。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0147",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相问一个关于相处习惯的问题，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0148",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相问一个关于相处习惯的问题，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0149",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相问一个关于相处习惯的问题，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0150",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相问一个关于相处习惯的问题，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0151",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出最容易吃醋的情境。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0152",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出最容易吃醋的情境，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0153",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出最容易吃醋的情境，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0154",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出最容易吃醋的情境，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0155",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出最容易吃醋的情境，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0156",
+      "level": "adult",
+      "instruction": "{target1}和{target2}合作演一段误会解开后的对话。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0157",
+      "level": "adult",
+      "instruction": "{target1}和{target2}合作演一段误会解开后的对话，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0158",
+      "level": "adult",
+      "instruction": "{target1}和{target2}合作演一段误会解开后的对话，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0159",
+      "level": "adult",
+      "instruction": "{target1}和{target2}合作演一段误会解开后的对话，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0160",
+      "level": "adult",
+      "instruction": "{target1}和{target2}合作演一段误会解开后的对话，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0161",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自说出一个希望对方尊重的私人空间。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0162",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自说出一个希望对方尊重的私人空间，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0163",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自说出一个希望对方尊重的私人空间，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0164",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自说出一个希望对方尊重的私人空间，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0165",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自说出一个希望对方尊重的私人空间，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0166",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相夸奖一个平时不容易注意到的细节。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0167",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相夸奖一个平时不容易注意到的细节，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0168",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相夸奖一个平时不容易注意到的细节，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0169",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相夸奖一个平时不容易注意到的细节，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0170",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相夸奖一个平时不容易注意到的细节，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0171",
+      "level": "adult",
+      "instruction": "{target1}和{target2}共同规划一场理想的夜间约会。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0172",
+      "level": "adult",
+      "instruction": "{target1}和{target2}共同规划一场理想的夜间约会，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0173",
+      "level": "adult",
+      "instruction": "{target1}和{target2}共同规划一场理想的夜间约会，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0174",
+      "level": "adult",
+      "instruction": "{target1}和{target2}共同规划一场理想的夜间约会，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0175",
+      "level": "adult",
+      "instruction": "{target1}和{target2}共同规划一场理想的夜间约会，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0176",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出收到消息后最期待看到的内容。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0177",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出收到消息后最期待看到的内容，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0178",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出收到消息后最期待看到的内容，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0179",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出收到消息后最期待看到的内容，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0180",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出收到消息后最期待看到的内容，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0181",
+      "level": "adult",
+      "instruction": "{target1}和{target2}合作演一段第一次表达喜欢的场景。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0182",
+      "level": "adult",
+      "instruction": "{target1}和{target2}合作演一段第一次表达喜欢的场景，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0183",
+      "level": "adult",
+      "instruction": "{target1}和{target2}合作演一段第一次表达喜欢的场景，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0184",
+      "level": "adult",
+      "instruction": "{target1}和{target2}合作演一段第一次表达喜欢的场景，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0185",
+      "level": "adult",
+      "instruction": "{target1}和{target2}合作演一段第一次表达喜欢的场景，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0186",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自说出一个会让关系升温的日常动作。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0187",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自说出一个会让关系升温的日常动作，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0188",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自说出一个会让关系升温的日常动作，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0189",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自说出一个会让关系升温的日常动作，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0190",
+      "level": "adult",
+      "instruction": "{target1}和{target2}各自说出一个会让关系升温的日常动作，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0191",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出一次愿意主动确认关系的信号。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0192",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出一次愿意主动确认关系的信号，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0193",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出一次愿意主动确认关系的信号，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0194",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出一次愿意主动确认关系的信号，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0195",
+      "level": "adult",
+      "instruction": "{target1}和{target2}分别说出一次愿意主动确认关系的信号，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0196",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相给出一句真诚但不过界的赞美。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0197",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相给出一句真诚但不过界的赞美，并用十秒说明原因。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0198",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相给出一句真诚但不过界的赞美，回答后可以选择跳过追问。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0199",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相给出一句真诚但不过界的赞美，不得提及真实姓名。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0200",
+      "level": "adult",
+      "instruction": "{target1}和{target2}互相给出一句真诚但不过界的赞美，用最直接但尊重的方式表达。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0201",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个健康关系中最重要的原则。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0202",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个健康关系中最重要的原则，并用十秒说明原因。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0203",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个健康关系中最重要的原则，回答后可以选择跳过追问。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0204",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个健康关系中最重要的原则，不得提及真实姓名。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0205",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个健康关系中最重要的原则，用最直接但尊重的方式表达。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0206",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}共同设计一场三人即兴浪漫电影预告。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0207",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}共同设计一场三人即兴浪漫电影预告，并用十秒说明原因。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0208",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}共同设计一场三人即兴浪漫电影预告，回答后可以选择跳过追问。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0209",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}共同设计一场三人即兴浪漫电影预告，不得提及真实姓名。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0210",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}共同设计一场三人即兴浪漫电影预告，用最直接但尊重的方式表达。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0211",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个会让暧昧降温的行为。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0212",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个会让暧昧降温的行为，并用十秒说明原因。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0213",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个会让暧昧降温的行为，回答后可以选择跳过追问。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0214",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个会让暧昧降温的行为，不得提及真实姓名。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0215",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个会让暧昧降温的行为，用最直接但尊重的方式表达。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0216",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}轮流说一句适合深夜聊天的开场。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0217",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}轮流说一句适合深夜聊天的开场，并用十秒说明原因。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0218",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}轮流说一句适合深夜聊天的开场，回答后可以选择跳过追问。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0219",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}轮流说一句适合深夜聊天的开场，不得提及真实姓名。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0220",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}轮流说一句适合深夜聊天的开场，用最直接但尊重的方式表达。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0221",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}共同讨论“主动表达”和“等待确认”哪个更好。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0222",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}共同讨论“主动表达”和“等待确认”哪个更好，并用十秒说明原因。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0223",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}共同讨论“主动表达”和“等待确认”哪个更好，回答后可以选择跳过追问。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0224",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}共同讨论“主动表达”和“等待确认”哪个更好，不得提及真实姓名。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0225",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}共同讨论“主动表达”和“等待确认”哪个更好，用最直接但尊重的方式表达。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0226",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个需要明确同意的互动边界。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0227",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个需要明确同意的互动边界，并用十秒说明原因。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0228",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个需要明确同意的互动边界，回答后可以选择跳过追问。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0229",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个需要明确同意的互动边界，不得提及真实姓名。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0230",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个需要明确同意的互动边界，用最直接但尊重的方式表达。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0231",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}合作演一段朋友起哄后的化解场景。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0232",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}合作演一段朋友起哄后的化解场景，并用十秒说明原因。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0233",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}合作演一段朋友起哄后的化解场景，回答后可以选择跳过追问。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0234",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}合作演一段朋友起哄后的化解场景，不得提及真实姓名。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0235",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}合作演一段朋友起哄后的化解场景，用最直接但尊重的方式表达。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0236",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个会让自己感到被尊重的动作。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0237",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个会让自己感到被尊重的动作，并用十秒说明原因。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0238",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个会让自己感到被尊重的动作，回答后可以选择跳过追问。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0239",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个会让自己感到被尊重的动作，不得提及真实姓名。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0240",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一个会让自己感到被尊重的动作，用最直接但尊重的方式表达。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0241",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}共同设计一次安全有趣的团体约会。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0242",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}共同设计一次安全有趣的团体约会，并用十秒说明原因。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0243",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}共同设计一次安全有趣的团体约会，回答后可以选择跳过追问。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0244",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}共同设计一次安全有趣的团体约会，不得提及真实姓名。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0245",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}共同设计一次安全有趣的团体约会，用最直接但尊重的方式表达。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0246",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一句最想收到的肯定。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0247",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一句最想收到的肯定，并用十秒说明原因。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0248",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一句最想收到的肯定，回答后可以选择跳过追问。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0249",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一句最想收到的肯定，不得提及真实姓名。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0250",
+      "level": "adult",
+      "instruction": "{target1}、{target2}和{target3}各说一句最想收到的肯定，用最直接但尊重的方式表达。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "多人互动"
+    },
+    {
+      "id": "king-adult-0251",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}互相说出对方最有吸引力的一个优点，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0252",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}互相说出对方最有吸引力的一个优点，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0253",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}互相说出对方最有吸引力的一个优点，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0254",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}各自描述一次理想的第一次约会，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0255",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}各自描述一次理想的第一次约会，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0256",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}各自描述一次理想的第一次约会，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0257",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}对视五秒后各说一句真实感受，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0258",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}对视五秒后各说一句真实感受，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0259",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}对视五秒后各说一句真实感受，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0260",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}分别说出关系中最不能接受的一条边界，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0261",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}分别说出关系中最不能接受的一条边界，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0262",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}分别说出关系中最不能接受的一条边界，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0263",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}互相设计一个不花钱的浪漫安排，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0264",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}互相设计一个不花钱的浪漫安排，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0265",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}互相设计一个不花钱的浪漫安排，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0266",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}各自说出一次愿意主动道歉的场景，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0267",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}各自说出一次愿意主动道歉的场景，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0268",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}各自说出一次愿意主动道歉的场景，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0269",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}用一句话完成一段安全且自愿的搭讪演练，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0270",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}用一句话完成一段安全且自愿的搭讪演练，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0271",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}用一句话完成一段安全且自愿的搭讪演练，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0272",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}分别说出自己最需要的安全感来源，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0273",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}分别说出自己最需要的安全感来源，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0274",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}分别说出自己最需要的安全感来源，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0275",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}各自选择“心动”或“合适”并解释，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0276",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}各自选择“心动”或“合适”并解释，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0277",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}各自选择“心动”或“合适”并解释，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0278",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}互相问一个关于相处习惯的问题，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0279",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}互相问一个关于相处习惯的问题，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0280",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}互相问一个关于相处习惯的问题，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0281",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}分别说出最容易吃醋的情境，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0282",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}分别说出最容易吃醋的情境，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0283",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}分别说出最容易吃醋的情境，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0284",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}合作演一段误会解开后的对话，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0285",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}合作演一段误会解开后的对话，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0286",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}合作演一段误会解开后的对话，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0287",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}各自说出一个希望对方尊重的私人空间，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0288",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}各自说出一个希望对方尊重的私人空间，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0289",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}各自说出一个希望对方尊重的私人空间，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0290",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}互相夸奖一个平时不容易注意到的细节，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0291",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}互相夸奖一个平时不容易注意到的细节，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0292",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}互相夸奖一个平时不容易注意到的细节，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0293",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}共同规划一场理想的夜间约会，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0294",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}共同规划一场理想的夜间约会，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0295",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}共同规划一场理想的夜间约会，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0296",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}分别说出收到消息后最期待看到的内容，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0297",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}分别说出收到消息后最期待看到的内容，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0298",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}分别说出收到消息后最期待看到的内容，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0299",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}合作演一段第一次表达喜欢的场景，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0300",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}合作演一段第一次表达喜欢的场景，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0301",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}合作演一段第一次表达喜欢的场景，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0302",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}各自说出一个会让关系升温的日常动作，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0303",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}各自说出一个会让关系升温的日常动作，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0304",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}各自说出一个会让关系升温的日常动作，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0305",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}分别说出一次愿意主动确认关系的信号，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0306",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}分别说出一次愿意主动确认关系的信号，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0307",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}分别说出一次愿意主动确认关系的信号，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0308",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}互相给出一句真诚但不过界的赞美，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0309",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}互相给出一句真诚但不过界的赞美，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0310",
+      "level": "adult",
+      "instruction": "请{target1}和{target2}互相给出一句真诚但不过界的赞美，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0311",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}互相说出对方最有吸引力的一个优点，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0312",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}互相说出对方最有吸引力的一个优点，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0313",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}互相说出对方最有吸引力的一个优点，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0314",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}各自描述一次理想的第一次约会，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0315",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}各自描述一次理想的第一次约会，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0316",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}各自描述一次理想的第一次约会，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0317",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}对视五秒后各说一句真实感受，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0318",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}对视五秒后各说一句真实感受，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0319",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}对视五秒后各说一句真实感受，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0320",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}分别说出关系中最不能接受的一条边界，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0321",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}分别说出关系中最不能接受的一条边界，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0322",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}分别说出关系中最不能接受的一条边界，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0323",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}互相设计一个不花钱的浪漫安排，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0324",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}互相设计一个不花钱的浪漫安排，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0325",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}互相设计一个不花钱的浪漫安排，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0326",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}各自说出一次愿意主动道歉的场景，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0327",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}各自说出一次愿意主动道歉的场景，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0328",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}各自说出一次愿意主动道歉的场景，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0329",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}用一句话完成一段安全且自愿的搭讪演练，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0330",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}用一句话完成一段安全且自愿的搭讪演练，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0331",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}用一句话完成一段安全且自愿的搭讪演练，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0332",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}分别说出自己最需要的安全感来源，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0333",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}分别说出自己最需要的安全感来源，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0334",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}分别说出自己最需要的安全感来源，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0335",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}各自选择“心动”或“合适”并解释，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0336",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}各自选择“心动”或“合适”并解释，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0337",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}各自选择“心动”或“合适”并解释，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0338",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}互相问一个关于相处习惯的问题，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0339",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}互相问一个关于相处习惯的问题，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0340",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}互相问一个关于相处习惯的问题，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0341",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}分别说出最容易吃醋的情境，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0342",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}分别说出最容易吃醋的情境，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0343",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}分别说出最容易吃醋的情境，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0344",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}合作演一段误会解开后的对话，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0345",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}合作演一段误会解开后的对话，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0346",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}合作演一段误会解开后的对话，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0347",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}各自说出一个希望对方尊重的私人空间，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0348",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}各自说出一个希望对方尊重的私人空间，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0349",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}各自说出一个希望对方尊重的私人空间，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0350",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}互相夸奖一个平时不容易注意到的细节，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0351",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}互相夸奖一个平时不容易注意到的细节，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0352",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}互相夸奖一个平时不容易注意到的细节，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0353",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}共同规划一场理想的夜间约会，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0354",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}共同规划一场理想的夜间约会，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0355",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}共同规划一场理想的夜间约会，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0356",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}分别说出收到消息后最期待看到的内容，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0357",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}分别说出收到消息后最期待看到的内容，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0358",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}分别说出收到消息后最期待看到的内容，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0359",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}合作演一段第一次表达喜欢的场景，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0360",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}合作演一段第一次表达喜欢的场景，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0361",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}合作演一段第一次表达喜欢的场景，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0362",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}各自说出一个会让关系升温的日常动作，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0363",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}各自说出一个会让关系升温的日常动作，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0364",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}各自说出一个会让关系升温的日常动作，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0365",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}分别说出一次愿意主动确认关系的信号，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0366",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}分别说出一次愿意主动确认关系的信号，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0367",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}分别说出一次愿意主动确认关系的信号，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0368",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}互相给出一句真诚但不过界的赞美，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0369",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}互相给出一句真诚但不过界的赞美，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0370",
+      "level": "adult",
+      "instruction": "这一轮由{target1}和{target2}互相给出一句真诚但不过界的赞美，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0371",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}互相说出对方最有吸引力的一个优点，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0372",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}互相说出对方最有吸引力的一个优点，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0373",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}互相说出对方最有吸引力的一个优点，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0374",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}各自描述一次理想的第一次约会，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0375",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}各自描述一次理想的第一次约会，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0376",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}各自描述一次理想的第一次约会，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0377",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}对视五秒后各说一句真实感受，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0378",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}对视五秒后各说一句真实感受，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0379",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}对视五秒后各说一句真实感受，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0380",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}分别说出关系中最不能接受的一条边界，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0381",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}分别说出关系中最不能接受的一条边界，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0382",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}分别说出关系中最不能接受的一条边界，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0383",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}互相设计一个不花钱的浪漫安排，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0384",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}互相设计一个不花钱的浪漫安排，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0385",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}互相设计一个不花钱的浪漫安排，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0386",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}各自说出一次愿意主动道歉的场景，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0387",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}各自说出一次愿意主动道歉的场景，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0388",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}各自说出一次愿意主动道歉的场景，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0389",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}用一句话完成一段安全且自愿的搭讪演练，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0390",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}用一句话完成一段安全且自愿的搭讪演练，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0391",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}用一句话完成一段安全且自愿的搭讪演练，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0392",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}分别说出自己最需要的安全感来源，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0393",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}分别说出自己最需要的安全感来源，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0394",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}分别说出自己最需要的安全感来源，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0395",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}各自选择“心动”或“合适”并解释，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0396",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}各自选择“心动”或“合适”并解释，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0397",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}各自选择“心动”或“合适”并解释，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0398",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}互相问一个关于相处习惯的问题，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0399",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}互相问一个关于相处习惯的问题，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0400",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}互相问一个关于相处习惯的问题，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0401",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}分别说出最容易吃醋的情境，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0402",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}分别说出最容易吃醋的情境，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0403",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}分别说出最容易吃醋的情境，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0404",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}合作演一段误会解开后的对话，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0405",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}合作演一段误会解开后的对话，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0406",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}合作演一段误会解开后的对话，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0407",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}各自说出一个希望对方尊重的私人空间，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0408",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}各自说出一个希望对方尊重的私人空间，双方都可以直接跳过。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0409",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}各自说出一个希望对方尊重的私人空间，保持尊重且不进行身体接触。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    },
+    {
+      "id": "king-adult-0410",
+      "level": "adult",
+      "instruction": "国王指定{target1}和{target2}互相夸奖一个平时不容易注意到的细节，并在不舒服时立即停止。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "互动关系"
+    }
+  ]
+}

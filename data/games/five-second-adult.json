@@ -1,0 +1,3133 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "five-second",
+  "level": "adult",
+  "levelLabel": "成人",
+  "type": "challenge",
+  "count": 446,
+  "items": [
+    {
+      "id": "fs-adult-0001",
+      "level": "adult",
+      "prompt": "说出三个让你心动的细节",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0002",
+      "level": "adult",
+      "prompt": "说出三个让你心动的细节，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0003",
+      "level": "adult",
+      "prompt": "说出三个让你心动的细节，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0004",
+      "level": "adult",
+      "prompt": "说出三个让你心动的细节，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0005",
+      "level": "adult",
+      "prompt": "说出三个让你心动的细节，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0006",
+      "level": "adult",
+      "prompt": "说出三个适合第一次约会的地点",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0007",
+      "level": "adult",
+      "prompt": "说出三个适合第一次约会的地点，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0008",
+      "level": "adult",
+      "prompt": "说出三个适合第一次约会的地点，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0009",
+      "level": "adult",
+      "prompt": "说出三个适合第一次约会的地点，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0010",
+      "level": "adult",
+      "prompt": "说出三个适合第一次约会的地点，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0011",
+      "level": "adult",
+      "prompt": "说出三个会让你脸红的称呼",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0012",
+      "level": "adult",
+      "prompt": "说出三个会让你脸红的称呼，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0013",
+      "level": "adult",
+      "prompt": "说出三个会让你脸红的称呼，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0014",
+      "level": "adult",
+      "prompt": "说出三个会让你脸红的称呼，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0015",
+      "level": "adult",
+      "prompt": "说出三个会让你脸红的称呼，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0016",
+      "level": "adult",
+      "prompt": "说出三个你愿意主动靠近一个人的理由",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0017",
+      "level": "adult",
+      "prompt": "说出三个你愿意主动靠近一个人的理由，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0018",
+      "level": "adult",
+      "prompt": "说出三个你愿意主动靠近一个人的理由，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0019",
+      "level": "adult",
+      "prompt": "说出三个你愿意主动靠近一个人的理由，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0020",
+      "level": "adult",
+      "prompt": "说出三个你愿意主动靠近一个人的理由，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0021",
+      "level": "adult",
+      "prompt": "说出三个关系中需要提前确认的边界",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0022",
+      "level": "adult",
+      "prompt": "说出三个关系中需要提前确认的边界，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0023",
+      "level": "adult",
+      "prompt": "说出三个关系中需要提前确认的边界，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0024",
+      "level": "adult",
+      "prompt": "说出三个关系中需要提前确认的边界，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0025",
+      "level": "adult",
+      "prompt": "说出三个关系中需要提前确认的边界，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0026",
+      "level": "adult",
+      "prompt": "说出三个你觉得浪漫但不俗套的行为",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0027",
+      "level": "adult",
+      "prompt": "说出三个你觉得浪漫但不俗套的行为，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0028",
+      "level": "adult",
+      "prompt": "说出三个你觉得浪漫但不俗套的行为，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0029",
+      "level": "adult",
+      "prompt": "说出三个你觉得浪漫但不俗套的行为，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0030",
+      "level": "adult",
+      "prompt": "说出三个你觉得浪漫但不俗套的行为，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0031",
+      "level": "adult",
+      "prompt": "说出三个让你产生安全感的表达",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0032",
+      "level": "adult",
+      "prompt": "说出三个让你产生安全感的表达，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0033",
+      "level": "adult",
+      "prompt": "说出三个让你产生安全感的表达，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0034",
+      "level": "adult",
+      "prompt": "说出三个让你产生安全感的表达，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0035",
+      "level": "adult",
+      "prompt": "说出三个让你产生安全感的表达，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0036",
+      "level": "adult",
+      "prompt": "说出三个你会认真回复的深夜消息",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0037",
+      "level": "adult",
+      "prompt": "说出三个你会认真回复的深夜消息，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0038",
+      "level": "adult",
+      "prompt": "说出三个你会认真回复的深夜消息，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0039",
+      "level": "adult",
+      "prompt": "说出三个你会认真回复的深夜消息，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0040",
+      "level": "adult",
+      "prompt": "说出三个你会认真回复的深夜消息，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0041",
+      "level": "adult",
+      "prompt": "说出三个你愿意为喜欢的人做的小事",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0042",
+      "level": "adult",
+      "prompt": "说出三个你愿意为喜欢的人做的小事，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0043",
+      "level": "adult",
+      "prompt": "说出三个你愿意为喜欢的人做的小事，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0044",
+      "level": "adult",
+      "prompt": "说出三个你愿意为喜欢的人做的小事，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0045",
+      "level": "adult",
+      "prompt": "说出三个你愿意为喜欢的人做的小事，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0046",
+      "level": "adult",
+      "prompt": "说出三个你最看重的相处习惯",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0047",
+      "level": "adult",
+      "prompt": "说出三个你最看重的相处习惯，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0048",
+      "level": "adult",
+      "prompt": "说出三个你最看重的相处习惯，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0049",
+      "level": "adult",
+      "prompt": "说出三个你最看重的相处习惯，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0050",
+      "level": "adult",
+      "prompt": "说出三个你最看重的相处习惯，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0051",
+      "level": "adult",
+      "prompt": "说出三个会让暧昧升温的瞬间",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0052",
+      "level": "adult",
+      "prompt": "说出三个会让暧昧升温的瞬间，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0053",
+      "level": "adult",
+      "prompt": "说出三个会让暧昧升温的瞬间，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0054",
+      "level": "adult",
+      "prompt": "说出三个会让暧昧升温的瞬间，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0055",
+      "level": "adult",
+      "prompt": "说出三个会让暧昧升温的瞬间，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0056",
+      "level": "adult",
+      "prompt": "说出三个会让你立刻降温的行为",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0057",
+      "level": "adult",
+      "prompt": "说出三个会让你立刻降温的行为，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0058",
+      "level": "adult",
+      "prompt": "说出三个会让你立刻降温的行为，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0059",
+      "level": "adult",
+      "prompt": "说出三个会让你立刻降温的行为，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0060",
+      "level": "adult",
+      "prompt": "说出三个会让你立刻降温的行为，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0061",
+      "level": "adult",
+      "prompt": "说出三个你认为有吸引力的性格特征",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0062",
+      "level": "adult",
+      "prompt": "说出三个你认为有吸引力的性格特征，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0063",
+      "level": "adult",
+      "prompt": "说出三个你认为有吸引力的性格特征，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0064",
+      "level": "adult",
+      "prompt": "说出三个你认为有吸引力的性格特征，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0065",
+      "level": "adult",
+      "prompt": "说出三个你认为有吸引力的性格特征，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0066",
+      "level": "adult",
+      "prompt": "说出三个适合两个人一起完成的计划",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0067",
+      "level": "adult",
+      "prompt": "说出三个适合两个人一起完成的计划，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0068",
+      "level": "adult",
+      "prompt": "说出三个适合两个人一起完成的计划，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0069",
+      "level": "adult",
+      "prompt": "说出三个适合两个人一起完成的计划，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0070",
+      "level": "adult",
+      "prompt": "说出三个适合两个人一起完成的计划，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0071",
+      "level": "adult",
+      "prompt": "说出三个你愿意分享给亲密对象的秘密类型",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0072",
+      "level": "adult",
+      "prompt": "说出三个你愿意分享给亲密对象的秘密类型，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0073",
+      "level": "adult",
+      "prompt": "说出三个你愿意分享给亲密对象的秘密类型，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0074",
+      "level": "adult",
+      "prompt": "说出三个你愿意分享给亲密对象的秘密类型，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0075",
+      "level": "adult",
+      "prompt": "说出三个你愿意分享给亲密对象的秘密类型，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0076",
+      "level": "adult",
+      "prompt": "说出三个你希望对方主动理解的情绪",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0077",
+      "level": "adult",
+      "prompt": "说出三个你希望对方主动理解的情绪，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0078",
+      "level": "adult",
+      "prompt": "说出三个你希望对方主动理解的情绪，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0079",
+      "level": "adult",
+      "prompt": "说出三个你希望对方主动理解的情绪，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0080",
+      "level": "adult",
+      "prompt": "说出三个你希望对方主动理解的情绪，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0081",
+      "level": "adult",
+      "prompt": "说出三个你最容易吃醋的场景",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0082",
+      "level": "adult",
+      "prompt": "说出三个你最容易吃醋的场景，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0083",
+      "level": "adult",
+      "prompt": "说出三个你最容易吃醋的场景，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0084",
+      "level": "adult",
+      "prompt": "说出三个你最容易吃醋的场景，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0085",
+      "level": "adult",
+      "prompt": "说出三个你最容易吃醋的场景，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0086",
+      "level": "adult",
+      "prompt": "说出三个你会选择坦白的真实想法",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0087",
+      "level": "adult",
+      "prompt": "说出三个你会选择坦白的真实想法，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0088",
+      "level": "adult",
+      "prompt": "说出三个你会选择坦白的真实想法，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0089",
+      "level": "adult",
+      "prompt": "说出三个你会选择坦白的真实想法，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0090",
+      "level": "adult",
+      "prompt": "说出三个你会选择坦白的真实想法，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0091",
+      "level": "adult",
+      "prompt": "说出三个你需要对方明确同意的互动",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0092",
+      "level": "adult",
+      "prompt": "说出三个你需要对方明确同意的互动，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0093",
+      "level": "adult",
+      "prompt": "说出三个你需要对方明确同意的互动，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0094",
+      "level": "adult",
+      "prompt": "说出三个你需要对方明确同意的互动，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0095",
+      "level": "adult",
+      "prompt": "说出三个你需要对方明确同意的互动，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0096",
+      "level": "adult",
+      "prompt": "说出三个让你觉得被尊重的举动",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0097",
+      "level": "adult",
+      "prompt": "说出三个让你觉得被尊重的举动，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0098",
+      "level": "adult",
+      "prompt": "说出三个让你觉得被尊重的举动，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0099",
+      "level": "adult",
+      "prompt": "说出三个让你觉得被尊重的举动，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0100",
+      "level": "adult",
+      "prompt": "说出三个让你觉得被尊重的举动，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0101",
+      "level": "adult",
+      "prompt": "说出三个关系出现误会时的解决方式",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0102",
+      "level": "adult",
+      "prompt": "说出三个关系出现误会时的解决方式，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0103",
+      "level": "adult",
+      "prompt": "说出三个关系出现误会时的解决方式，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0104",
+      "level": "adult",
+      "prompt": "说出三个关系出现误会时的解决方式，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0105",
+      "level": "adult",
+      "prompt": "说出三个关系出现误会时的解决方式，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0106",
+      "level": "adult",
+      "prompt": "说出三个你会拒绝继续推进关系的信号",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0107",
+      "level": "adult",
+      "prompt": "说出三个你会拒绝继续推进关系的信号，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0108",
+      "level": "adult",
+      "prompt": "说出三个你会拒绝继续推进关系的信号，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0109",
+      "level": "adult",
+      "prompt": "说出三个你会拒绝继续推进关系的信号，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0110",
+      "level": "adult",
+      "prompt": "说出三个你会拒绝继续推进关系的信号，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0111",
+      "level": "adult",
+      "prompt": "说出三个你愿意接受的浪漫惊喜",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0112",
+      "level": "adult",
+      "prompt": "说出三个你愿意接受的浪漫惊喜，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0113",
+      "level": "adult",
+      "prompt": "说出三个你愿意接受的浪漫惊喜，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0114",
+      "level": "adult",
+      "prompt": "说出三个你愿意接受的浪漫惊喜，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0115",
+      "level": "adult",
+      "prompt": "说出三个你愿意接受的浪漫惊喜，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0116",
+      "level": "adult",
+      "prompt": "说出三个你最想听到的肯定",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0117",
+      "level": "adult",
+      "prompt": "说出三个你最想听到的肯定，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0118",
+      "level": "adult",
+      "prompt": "说出三个你最想听到的肯定，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0119",
+      "level": "adult",
+      "prompt": "说出三个你最想听到的肯定，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0120",
+      "level": "adult",
+      "prompt": "说出三个你最想听到的肯定，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0121",
+      "level": "adult",
+      "prompt": "说出三个你会记很久的亲密时刻",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0122",
+      "level": "adult",
+      "prompt": "说出三个你会记很久的亲密时刻，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0123",
+      "level": "adult",
+      "prompt": "说出三个你会记很久的亲密时刻，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0124",
+      "level": "adult",
+      "prompt": "说出三个你会记很久的亲密时刻，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0125",
+      "level": "adult",
+      "prompt": "说出三个你会记很久的亲密时刻，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0126",
+      "level": "adult",
+      "prompt": "说出三个适合夜晚一起做的安全活动",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0127",
+      "level": "adult",
+      "prompt": "说出三个适合夜晚一起做的安全活动，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0128",
+      "level": "adult",
+      "prompt": "说出三个适合夜晚一起做的安全活动，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0129",
+      "level": "adult",
+      "prompt": "说出三个适合夜晚一起做的安全活动，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0130",
+      "level": "adult",
+      "prompt": "说出三个适合夜晚一起做的安全活动，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0131",
+      "level": "adult",
+      "prompt": "说出三个你会主动发出的邀请",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0132",
+      "level": "adult",
+      "prompt": "说出三个你会主动发出的邀请，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0133",
+      "level": "adult",
+      "prompt": "说出三个你会主动发出的邀请，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0134",
+      "level": "adult",
+      "prompt": "说出三个你会主动发出的邀请，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0135",
+      "level": "adult",
+      "prompt": "说出三个你会主动发出的邀请，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0136",
+      "level": "adult",
+      "prompt": "说出三个你希望对方保持的独立空间",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0137",
+      "level": "adult",
+      "prompt": "说出三个你希望对方保持的独立空间，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0138",
+      "level": "adult",
+      "prompt": "说出三个你希望对方保持的独立空间，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0139",
+      "level": "adult",
+      "prompt": "说出三个你希望对方保持的独立空间，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0140",
+      "level": "adult",
+      "prompt": "说出三个你希望对方保持的独立空间，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0141",
+      "level": "adult",
+      "prompt": "说出三个你认为健康的亲密习惯",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0142",
+      "level": "adult",
+      "prompt": "说出三个你认为健康的亲密习惯，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0143",
+      "level": "adult",
+      "prompt": "说出三个你认为健康的亲密习惯，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0144",
+      "level": "adult",
+      "prompt": "说出三个你认为健康的亲密习惯，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0145",
+      "level": "adult",
+      "prompt": "说出三个你认为健康的亲密习惯，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0146",
+      "level": "adult",
+      "prompt": "说出三个你愿意认真讨论的未来计划",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0147",
+      "level": "adult",
+      "prompt": "说出三个你愿意认真讨论的未来计划，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0148",
+      "level": "adult",
+      "prompt": "说出三个你愿意认真讨论的未来计划，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0149",
+      "level": "adult",
+      "prompt": "说出三个你愿意认真讨论的未来计划，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0150",
+      "level": "adult",
+      "prompt": "说出三个你愿意认真讨论的未来计划，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0151",
+      "level": "adult",
+      "prompt": "列举三个让你心动的细节",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0152",
+      "level": "adult",
+      "prompt": "列举三个让你心动的细节，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0153",
+      "level": "adult",
+      "prompt": "列举三个让你心动的细节，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0154",
+      "level": "adult",
+      "prompt": "列举三个让你心动的细节，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0155",
+      "level": "adult",
+      "prompt": "列举三个让你心动的细节，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0156",
+      "level": "adult",
+      "prompt": "列举三个适合第一次约会的地点",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0157",
+      "level": "adult",
+      "prompt": "列举三个适合第一次约会的地点，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0158",
+      "level": "adult",
+      "prompt": "列举三个适合第一次约会的地点，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0159",
+      "level": "adult",
+      "prompt": "列举三个适合第一次约会的地点，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0160",
+      "level": "adult",
+      "prompt": "列举三个适合第一次约会的地点，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0161",
+      "level": "adult",
+      "prompt": "列举三个会让你脸红的称呼",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0162",
+      "level": "adult",
+      "prompt": "列举三个会让你脸红的称呼，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0163",
+      "level": "adult",
+      "prompt": "列举三个会让你脸红的称呼，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0164",
+      "level": "adult",
+      "prompt": "列举三个会让你脸红的称呼，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0165",
+      "level": "adult",
+      "prompt": "列举三个会让你脸红的称呼，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0166",
+      "level": "adult",
+      "prompt": "列举三个你愿意主动靠近一个人的理由",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0167",
+      "level": "adult",
+      "prompt": "列举三个你愿意主动靠近一个人的理由，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0168",
+      "level": "adult",
+      "prompt": "列举三个你愿意主动靠近一个人的理由，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0169",
+      "level": "adult",
+      "prompt": "列举三个你愿意主动靠近一个人的理由，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0170",
+      "level": "adult",
+      "prompt": "列举三个你愿意主动靠近一个人的理由，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0171",
+      "level": "adult",
+      "prompt": "列举三个关系中需要提前确认的边界",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0172",
+      "level": "adult",
+      "prompt": "列举三个关系中需要提前确认的边界，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0173",
+      "level": "adult",
+      "prompt": "列举三个关系中需要提前确认的边界，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0174",
+      "level": "adult",
+      "prompt": "列举三个关系中需要提前确认的边界，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0175",
+      "level": "adult",
+      "prompt": "列举三个关系中需要提前确认的边界，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0176",
+      "level": "adult",
+      "prompt": "列举三个你觉得浪漫但不俗套的行为",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0177",
+      "level": "adult",
+      "prompt": "列举三个你觉得浪漫但不俗套的行为，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0178",
+      "level": "adult",
+      "prompt": "列举三个你觉得浪漫但不俗套的行为，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0179",
+      "level": "adult",
+      "prompt": "列举三个你觉得浪漫但不俗套的行为，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0180",
+      "level": "adult",
+      "prompt": "列举三个你觉得浪漫但不俗套的行为，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0181",
+      "level": "adult",
+      "prompt": "列举三个让你产生安全感的表达",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0182",
+      "level": "adult",
+      "prompt": "列举三个让你产生安全感的表达，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0183",
+      "level": "adult",
+      "prompt": "列举三个让你产生安全感的表达，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0184",
+      "level": "adult",
+      "prompt": "列举三个让你产生安全感的表达，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0185",
+      "level": "adult",
+      "prompt": "列举三个让你产生安全感的表达，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0186",
+      "level": "adult",
+      "prompt": "列举三个你会认真回复的深夜消息",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0187",
+      "level": "adult",
+      "prompt": "列举三个你会认真回复的深夜消息，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0188",
+      "level": "adult",
+      "prompt": "列举三个你会认真回复的深夜消息，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0189",
+      "level": "adult",
+      "prompt": "列举三个你会认真回复的深夜消息，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0190",
+      "level": "adult",
+      "prompt": "列举三个你会认真回复的深夜消息，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0191",
+      "level": "adult",
+      "prompt": "列举三个你愿意为喜欢的人做的小事",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0192",
+      "level": "adult",
+      "prompt": "列举三个你愿意为喜欢的人做的小事，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0193",
+      "level": "adult",
+      "prompt": "列举三个你愿意为喜欢的人做的小事，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0194",
+      "level": "adult",
+      "prompt": "列举三个你愿意为喜欢的人做的小事，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0195",
+      "level": "adult",
+      "prompt": "列举三个你愿意为喜欢的人做的小事，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0196",
+      "level": "adult",
+      "prompt": "列举三个你最看重的相处习惯",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0197",
+      "level": "adult",
+      "prompt": "列举三个你最看重的相处习惯，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0198",
+      "level": "adult",
+      "prompt": "列举三个你最看重的相处习惯，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0199",
+      "level": "adult",
+      "prompt": "列举三个你最看重的相处习惯，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0200",
+      "level": "adult",
+      "prompt": "列举三个你最看重的相处习惯，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0201",
+      "level": "adult",
+      "prompt": "列举三个会让暧昧升温的瞬间",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0202",
+      "level": "adult",
+      "prompt": "列举三个会让暧昧升温的瞬间，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0203",
+      "level": "adult",
+      "prompt": "列举三个会让暧昧升温的瞬间，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0204",
+      "level": "adult",
+      "prompt": "列举三个会让暧昧升温的瞬间，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0205",
+      "level": "adult",
+      "prompt": "列举三个会让暧昧升温的瞬间，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0206",
+      "level": "adult",
+      "prompt": "列举三个会让你立刻降温的行为",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0207",
+      "level": "adult",
+      "prompt": "列举三个会让你立刻降温的行为，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0208",
+      "level": "adult",
+      "prompt": "列举三个会让你立刻降温的行为，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0209",
+      "level": "adult",
+      "prompt": "列举三个会让你立刻降温的行为，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0210",
+      "level": "adult",
+      "prompt": "列举三个会让你立刻降温的行为，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0211",
+      "level": "adult",
+      "prompt": "列举三个你认为有吸引力的性格特征",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0212",
+      "level": "adult",
+      "prompt": "列举三个你认为有吸引力的性格特征，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0213",
+      "level": "adult",
+      "prompt": "列举三个你认为有吸引力的性格特征，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0214",
+      "level": "adult",
+      "prompt": "列举三个你认为有吸引力的性格特征，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0215",
+      "level": "adult",
+      "prompt": "列举三个你认为有吸引力的性格特征，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0216",
+      "level": "adult",
+      "prompt": "列举三个适合两个人一起完成的计划",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0217",
+      "level": "adult",
+      "prompt": "列举三个适合两个人一起完成的计划，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0218",
+      "level": "adult",
+      "prompt": "列举三个适合两个人一起完成的计划，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0219",
+      "level": "adult",
+      "prompt": "列举三个适合两个人一起完成的计划，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0220",
+      "level": "adult",
+      "prompt": "列举三个适合两个人一起完成的计划，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0221",
+      "level": "adult",
+      "prompt": "列举三个你愿意分享给亲密对象的秘密类型",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0222",
+      "level": "adult",
+      "prompt": "列举三个你愿意分享给亲密对象的秘密类型，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0223",
+      "level": "adult",
+      "prompt": "列举三个你愿意分享给亲密对象的秘密类型，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0224",
+      "level": "adult",
+      "prompt": "列举三个你愿意分享给亲密对象的秘密类型，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0225",
+      "level": "adult",
+      "prompt": "列举三个你愿意分享给亲密对象的秘密类型，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0226",
+      "level": "adult",
+      "prompt": "列举三个你希望对方主动理解的情绪",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0227",
+      "level": "adult",
+      "prompt": "列举三个你希望对方主动理解的情绪，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0228",
+      "level": "adult",
+      "prompt": "列举三个你希望对方主动理解的情绪，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0229",
+      "level": "adult",
+      "prompt": "列举三个你希望对方主动理解的情绪，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0230",
+      "level": "adult",
+      "prompt": "列举三个你希望对方主动理解的情绪，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0231",
+      "level": "adult",
+      "prompt": "列举三个你最容易吃醋的场景",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0232",
+      "level": "adult",
+      "prompt": "列举三个你最容易吃醋的场景，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0233",
+      "level": "adult",
+      "prompt": "列举三个你最容易吃醋的场景，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0234",
+      "level": "adult",
+      "prompt": "列举三个你最容易吃醋的场景，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0235",
+      "level": "adult",
+      "prompt": "列举三个你最容易吃醋的场景，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0236",
+      "level": "adult",
+      "prompt": "列举三个你会选择坦白的真实想法",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0237",
+      "level": "adult",
+      "prompt": "列举三个你会选择坦白的真实想法，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0238",
+      "level": "adult",
+      "prompt": "列举三个你会选择坦白的真实想法，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0239",
+      "level": "adult",
+      "prompt": "列举三个你会选择坦白的真实想法，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0240",
+      "level": "adult",
+      "prompt": "列举三个你会选择坦白的真实想法，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0241",
+      "level": "adult",
+      "prompt": "列举三个你需要对方明确同意的互动",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0242",
+      "level": "adult",
+      "prompt": "列举三个你需要对方明确同意的互动，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0243",
+      "level": "adult",
+      "prompt": "列举三个你需要对方明确同意的互动，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0244",
+      "level": "adult",
+      "prompt": "列举三个你需要对方明确同意的互动，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0245",
+      "level": "adult",
+      "prompt": "列举三个你需要对方明确同意的互动，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0246",
+      "level": "adult",
+      "prompt": "列举三个让你觉得被尊重的举动",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0247",
+      "level": "adult",
+      "prompt": "列举三个让你觉得被尊重的举动，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0248",
+      "level": "adult",
+      "prompt": "列举三个让你觉得被尊重的举动，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0249",
+      "level": "adult",
+      "prompt": "列举三个让你觉得被尊重的举动，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0250",
+      "level": "adult",
+      "prompt": "列举三个让你觉得被尊重的举动，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0251",
+      "level": "adult",
+      "prompt": "列举三个关系出现误会时的解决方式",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0252",
+      "level": "adult",
+      "prompt": "列举三个关系出现误会时的解决方式，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0253",
+      "level": "adult",
+      "prompt": "列举三个关系出现误会时的解决方式，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0254",
+      "level": "adult",
+      "prompt": "列举三个关系出现误会时的解决方式，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0255",
+      "level": "adult",
+      "prompt": "列举三个关系出现误会时的解决方式，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0256",
+      "level": "adult",
+      "prompt": "列举三个你会拒绝继续推进关系的信号",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0257",
+      "level": "adult",
+      "prompt": "列举三个你会拒绝继续推进关系的信号，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0258",
+      "level": "adult",
+      "prompt": "列举三个你会拒绝继续推进关系的信号，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0259",
+      "level": "adult",
+      "prompt": "列举三个你会拒绝继续推进关系的信号，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0260",
+      "level": "adult",
+      "prompt": "列举三个你会拒绝继续推进关系的信号，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0261",
+      "level": "adult",
+      "prompt": "列举三个你愿意接受的浪漫惊喜",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0262",
+      "level": "adult",
+      "prompt": "列举三个你愿意接受的浪漫惊喜，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0263",
+      "level": "adult",
+      "prompt": "列举三个你愿意接受的浪漫惊喜，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0264",
+      "level": "adult",
+      "prompt": "列举三个你愿意接受的浪漫惊喜，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0265",
+      "level": "adult",
+      "prompt": "列举三个你愿意接受的浪漫惊喜，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0266",
+      "level": "adult",
+      "prompt": "列举三个你最想听到的肯定",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0267",
+      "level": "adult",
+      "prompt": "列举三个你最想听到的肯定，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0268",
+      "level": "adult",
+      "prompt": "列举三个你最想听到的肯定，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0269",
+      "level": "adult",
+      "prompt": "列举三个你最想听到的肯定，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0270",
+      "level": "adult",
+      "prompt": "列举三个你最想听到的肯定，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0271",
+      "level": "adult",
+      "prompt": "列举三个你会记很久的亲密时刻",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0272",
+      "level": "adult",
+      "prompt": "列举三个你会记很久的亲密时刻，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0273",
+      "level": "adult",
+      "prompt": "列举三个你会记很久的亲密时刻，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0274",
+      "level": "adult",
+      "prompt": "列举三个你会记很久的亲密时刻，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0275",
+      "level": "adult",
+      "prompt": "列举三个你会记很久的亲密时刻，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0276",
+      "level": "adult",
+      "prompt": "列举三个适合夜晚一起做的安全活动",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0277",
+      "level": "adult",
+      "prompt": "列举三个适合夜晚一起做的安全活动，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0278",
+      "level": "adult",
+      "prompt": "列举三个适合夜晚一起做的安全活动，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0279",
+      "level": "adult",
+      "prompt": "列举三个适合夜晚一起做的安全活动，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0280",
+      "level": "adult",
+      "prompt": "列举三个适合夜晚一起做的安全活动，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0281",
+      "level": "adult",
+      "prompt": "列举三个你会主动发出的邀请",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0282",
+      "level": "adult",
+      "prompt": "列举三个你会主动发出的邀请，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0283",
+      "level": "adult",
+      "prompt": "列举三个你会主动发出的邀请，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0284",
+      "level": "adult",
+      "prompt": "列举三个你会主动发出的邀请，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0285",
+      "level": "adult",
+      "prompt": "列举三个你会主动发出的邀请，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0286",
+      "level": "adult",
+      "prompt": "列举三个你希望对方保持的独立空间",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0287",
+      "level": "adult",
+      "prompt": "列举三个你希望对方保持的独立空间，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0288",
+      "level": "adult",
+      "prompt": "列举三个你希望对方保持的独立空间，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0289",
+      "level": "adult",
+      "prompt": "列举三个你希望对方保持的独立空间，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0290",
+      "level": "adult",
+      "prompt": "列举三个你希望对方保持的独立空间，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0291",
+      "level": "adult",
+      "prompt": "列举三个你认为健康的亲密习惯",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0292",
+      "level": "adult",
+      "prompt": "列举三个你认为健康的亲密习惯，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0293",
+      "level": "adult",
+      "prompt": "列举三个你认为健康的亲密习惯，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0294",
+      "level": "adult",
+      "prompt": "列举三个你认为健康的亲密习惯，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0295",
+      "level": "adult",
+      "prompt": "列举三个你认为健康的亲密习惯，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0296",
+      "level": "adult",
+      "prompt": "列举三个你愿意认真讨论的未来计划",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0297",
+      "level": "adult",
+      "prompt": "列举三个你愿意认真讨论的未来计划，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0298",
+      "level": "adult",
+      "prompt": "列举三个你愿意认真讨论的未来计划，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0299",
+      "level": "adult",
+      "prompt": "列举三个你愿意认真讨论的未来计划，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0300",
+      "level": "adult",
+      "prompt": "列举三个你愿意认真讨论的未来计划，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0301",
+      "level": "adult",
+      "prompt": "快速讲出三个让你心动的细节",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0302",
+      "level": "adult",
+      "prompt": "快速讲出三个让你心动的细节，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0303",
+      "level": "adult",
+      "prompt": "快速讲出三个让你心动的细节，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0304",
+      "level": "adult",
+      "prompt": "快速讲出三个让你心动的细节，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0305",
+      "level": "adult",
+      "prompt": "快速讲出三个让你心动的细节，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0306",
+      "level": "adult",
+      "prompt": "快速讲出三个适合第一次约会的地点",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0307",
+      "level": "adult",
+      "prompt": "快速讲出三个适合第一次约会的地点，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0308",
+      "level": "adult",
+      "prompt": "快速讲出三个适合第一次约会的地点，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0309",
+      "level": "adult",
+      "prompt": "快速讲出三个适合第一次约会的地点，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0310",
+      "level": "adult",
+      "prompt": "快速讲出三个适合第一次约会的地点，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0311",
+      "level": "adult",
+      "prompt": "快速讲出三个会让你脸红的称呼",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0312",
+      "level": "adult",
+      "prompt": "快速讲出三个会让你脸红的称呼，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0313",
+      "level": "adult",
+      "prompt": "快速讲出三个会让你脸红的称呼，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0314",
+      "level": "adult",
+      "prompt": "快速讲出三个会让你脸红的称呼，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0315",
+      "level": "adult",
+      "prompt": "快速讲出三个会让你脸红的称呼，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0316",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意主动靠近一个人的理由",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0317",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意主动靠近一个人的理由，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0318",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意主动靠近一个人的理由，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0319",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意主动靠近一个人的理由，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0320",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意主动靠近一个人的理由，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0321",
+      "level": "adult",
+      "prompt": "快速讲出三个关系中需要提前确认的边界",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0322",
+      "level": "adult",
+      "prompt": "快速讲出三个关系中需要提前确认的边界，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0323",
+      "level": "adult",
+      "prompt": "快速讲出三个关系中需要提前确认的边界，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0324",
+      "level": "adult",
+      "prompt": "快速讲出三个关系中需要提前确认的边界，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0325",
+      "level": "adult",
+      "prompt": "快速讲出三个关系中需要提前确认的边界，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0326",
+      "level": "adult",
+      "prompt": "快速讲出三个你觉得浪漫但不俗套的行为",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0327",
+      "level": "adult",
+      "prompt": "快速讲出三个你觉得浪漫但不俗套的行为，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0328",
+      "level": "adult",
+      "prompt": "快速讲出三个你觉得浪漫但不俗套的行为，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0329",
+      "level": "adult",
+      "prompt": "快速讲出三个你觉得浪漫但不俗套的行为，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0330",
+      "level": "adult",
+      "prompt": "快速讲出三个你觉得浪漫但不俗套的行为，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0331",
+      "level": "adult",
+      "prompt": "快速讲出三个让你产生安全感的表达",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0332",
+      "level": "adult",
+      "prompt": "快速讲出三个让你产生安全感的表达，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0333",
+      "level": "adult",
+      "prompt": "快速讲出三个让你产生安全感的表达，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0334",
+      "level": "adult",
+      "prompt": "快速讲出三个让你产生安全感的表达，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0335",
+      "level": "adult",
+      "prompt": "快速讲出三个让你产生安全感的表达，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0336",
+      "level": "adult",
+      "prompt": "快速讲出三个你会认真回复的深夜消息",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0337",
+      "level": "adult",
+      "prompt": "快速讲出三个你会认真回复的深夜消息，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0338",
+      "level": "adult",
+      "prompt": "快速讲出三个你会认真回复的深夜消息，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0339",
+      "level": "adult",
+      "prompt": "快速讲出三个你会认真回复的深夜消息，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0340",
+      "level": "adult",
+      "prompt": "快速讲出三个你会认真回复的深夜消息，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0341",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意为喜欢的人做的小事",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0342",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意为喜欢的人做的小事，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0343",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意为喜欢的人做的小事，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0344",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意为喜欢的人做的小事，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0345",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意为喜欢的人做的小事，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0346",
+      "level": "adult",
+      "prompt": "快速讲出三个你最看重的相处习惯",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0347",
+      "level": "adult",
+      "prompt": "快速讲出三个你最看重的相处习惯，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0348",
+      "level": "adult",
+      "prompt": "快速讲出三个你最看重的相处习惯，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0349",
+      "level": "adult",
+      "prompt": "快速讲出三个你最看重的相处习惯，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0350",
+      "level": "adult",
+      "prompt": "快速讲出三个你最看重的相处习惯，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0351",
+      "level": "adult",
+      "prompt": "快速讲出三个会让暧昧升温的瞬间",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0352",
+      "level": "adult",
+      "prompt": "快速讲出三个会让暧昧升温的瞬间，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0353",
+      "level": "adult",
+      "prompt": "快速讲出三个会让暧昧升温的瞬间，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0354",
+      "level": "adult",
+      "prompt": "快速讲出三个会让暧昧升温的瞬间，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0355",
+      "level": "adult",
+      "prompt": "快速讲出三个会让暧昧升温的瞬间，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0356",
+      "level": "adult",
+      "prompt": "快速讲出三个会让你立刻降温的行为",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0357",
+      "level": "adult",
+      "prompt": "快速讲出三个会让你立刻降温的行为，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0358",
+      "level": "adult",
+      "prompt": "快速讲出三个会让你立刻降温的行为，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0359",
+      "level": "adult",
+      "prompt": "快速讲出三个会让你立刻降温的行为，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0360",
+      "level": "adult",
+      "prompt": "快速讲出三个会让你立刻降温的行为，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0361",
+      "level": "adult",
+      "prompt": "快速讲出三个你认为有吸引力的性格特征",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0362",
+      "level": "adult",
+      "prompt": "快速讲出三个你认为有吸引力的性格特征，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0363",
+      "level": "adult",
+      "prompt": "快速讲出三个你认为有吸引力的性格特征，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0364",
+      "level": "adult",
+      "prompt": "快速讲出三个你认为有吸引力的性格特征，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0365",
+      "level": "adult",
+      "prompt": "快速讲出三个你认为有吸引力的性格特征，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0366",
+      "level": "adult",
+      "prompt": "快速讲出三个适合两个人一起完成的计划",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0367",
+      "level": "adult",
+      "prompt": "快速讲出三个适合两个人一起完成的计划，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0368",
+      "level": "adult",
+      "prompt": "快速讲出三个适合两个人一起完成的计划，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0369",
+      "level": "adult",
+      "prompt": "快速讲出三个适合两个人一起完成的计划，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0370",
+      "level": "adult",
+      "prompt": "快速讲出三个适合两个人一起完成的计划，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0371",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意分享给亲密对象的秘密类型",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0372",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意分享给亲密对象的秘密类型，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0373",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意分享给亲密对象的秘密类型，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0374",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意分享给亲密对象的秘密类型，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0375",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意分享给亲密对象的秘密类型，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0376",
+      "level": "adult",
+      "prompt": "快速讲出三个你希望对方主动理解的情绪",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0377",
+      "level": "adult",
+      "prompt": "快速讲出三个你希望对方主动理解的情绪，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0378",
+      "level": "adult",
+      "prompt": "快速讲出三个你希望对方主动理解的情绪，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0379",
+      "level": "adult",
+      "prompt": "快速讲出三个你希望对方主动理解的情绪，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0380",
+      "level": "adult",
+      "prompt": "快速讲出三个你希望对方主动理解的情绪，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0381",
+      "level": "adult",
+      "prompt": "快速讲出三个你最容易吃醋的场景",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0382",
+      "level": "adult",
+      "prompt": "快速讲出三个你最容易吃醋的场景，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0383",
+      "level": "adult",
+      "prompt": "快速讲出三个你最容易吃醋的场景，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0384",
+      "level": "adult",
+      "prompt": "快速讲出三个你最容易吃醋的场景，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0385",
+      "level": "adult",
+      "prompt": "快速讲出三个你最容易吃醋的场景，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0386",
+      "level": "adult",
+      "prompt": "快速讲出三个你会选择坦白的真实想法",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0387",
+      "level": "adult",
+      "prompt": "快速讲出三个你会选择坦白的真实想法，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0388",
+      "level": "adult",
+      "prompt": "快速讲出三个你会选择坦白的真实想法，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0389",
+      "level": "adult",
+      "prompt": "快速讲出三个你会选择坦白的真实想法，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0390",
+      "level": "adult",
+      "prompt": "快速讲出三个你会选择坦白的真实想法，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0391",
+      "level": "adult",
+      "prompt": "快速讲出三个你需要对方明确同意的互动",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0392",
+      "level": "adult",
+      "prompt": "快速讲出三个你需要对方明确同意的互动，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0393",
+      "level": "adult",
+      "prompt": "快速讲出三个你需要对方明确同意的互动，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0394",
+      "level": "adult",
+      "prompt": "快速讲出三个你需要对方明确同意的互动，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0395",
+      "level": "adult",
+      "prompt": "快速讲出三个你需要对方明确同意的互动，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0396",
+      "level": "adult",
+      "prompt": "快速讲出三个让你觉得被尊重的举动",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0397",
+      "level": "adult",
+      "prompt": "快速讲出三个让你觉得被尊重的举动，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0398",
+      "level": "adult",
+      "prompt": "快速讲出三个让你觉得被尊重的举动，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0399",
+      "level": "adult",
+      "prompt": "快速讲出三个让你觉得被尊重的举动，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0400",
+      "level": "adult",
+      "prompt": "快速讲出三个让你觉得被尊重的举动，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0401",
+      "level": "adult",
+      "prompt": "快速讲出三个关系出现误会时的解决方式",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0402",
+      "level": "adult",
+      "prompt": "快速讲出三个关系出现误会时的解决方式，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0403",
+      "level": "adult",
+      "prompt": "快速讲出三个关系出现误会时的解决方式，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0404",
+      "level": "adult",
+      "prompt": "快速讲出三个关系出现误会时的解决方式，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0405",
+      "level": "adult",
+      "prompt": "快速讲出三个关系出现误会时的解决方式，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0406",
+      "level": "adult",
+      "prompt": "快速讲出三个你会拒绝继续推进关系的信号",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0407",
+      "level": "adult",
+      "prompt": "快速讲出三个你会拒绝继续推进关系的信号，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0408",
+      "level": "adult",
+      "prompt": "快速讲出三个你会拒绝继续推进关系的信号，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0409",
+      "level": "adult",
+      "prompt": "快速讲出三个你会拒绝继续推进关系的信号，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0410",
+      "level": "adult",
+      "prompt": "快速讲出三个你会拒绝继续推进关系的信号，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0411",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意接受的浪漫惊喜",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0412",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意接受的浪漫惊喜，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0413",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意接受的浪漫惊喜，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0414",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意接受的浪漫惊喜，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0415",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意接受的浪漫惊喜，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0416",
+      "level": "adult",
+      "prompt": "快速讲出三个你最想听到的肯定",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0417",
+      "level": "adult",
+      "prompt": "快速讲出三个你最想听到的肯定，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0418",
+      "level": "adult",
+      "prompt": "快速讲出三个你最想听到的肯定，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0419",
+      "level": "adult",
+      "prompt": "快速讲出三个你最想听到的肯定，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0420",
+      "level": "adult",
+      "prompt": "快速讲出三个你最想听到的肯定，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0421",
+      "level": "adult",
+      "prompt": "快速讲出三个你会记很久的亲密时刻",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0422",
+      "level": "adult",
+      "prompt": "快速讲出三个你会记很久的亲密时刻，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0423",
+      "level": "adult",
+      "prompt": "快速讲出三个你会记很久的亲密时刻，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0424",
+      "level": "adult",
+      "prompt": "快速讲出三个你会记很久的亲密时刻，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0425",
+      "level": "adult",
+      "prompt": "快速讲出三个你会记很久的亲密时刻，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0426",
+      "level": "adult",
+      "prompt": "快速讲出三个适合夜晚一起做的安全活动",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0427",
+      "level": "adult",
+      "prompt": "快速讲出三个适合夜晚一起做的安全活动，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0428",
+      "level": "adult",
+      "prompt": "快速讲出三个适合夜晚一起做的安全活动，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0429",
+      "level": "adult",
+      "prompt": "快速讲出三个适合夜晚一起做的安全活动，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0430",
+      "level": "adult",
+      "prompt": "快速讲出三个适合夜晚一起做的安全活动，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0431",
+      "level": "adult",
+      "prompt": "快速讲出三个你会主动发出的邀请",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0432",
+      "level": "adult",
+      "prompt": "快速讲出三个你会主动发出的邀请，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0433",
+      "level": "adult",
+      "prompt": "快速讲出三个你会主动发出的邀请，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0434",
+      "level": "adult",
+      "prompt": "快速讲出三个你会主动发出的邀请，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0435",
+      "level": "adult",
+      "prompt": "快速讲出三个你会主动发出的邀请，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0436",
+      "level": "adult",
+      "prompt": "快速讲出三个你希望对方保持的独立空间",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0437",
+      "level": "adult",
+      "prompt": "快速讲出三个你希望对方保持的独立空间，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0438",
+      "level": "adult",
+      "prompt": "快速讲出三个你希望对方保持的独立空间，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0439",
+      "level": "adult",
+      "prompt": "快速讲出三个你希望对方保持的独立空间，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0440",
+      "level": "adult",
+      "prompt": "快速讲出三个你希望对方保持的独立空间，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0441",
+      "level": "adult",
+      "prompt": "快速讲出三个你认为健康的亲密习惯",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0442",
+      "level": "adult",
+      "prompt": "快速讲出三个你认为健康的亲密习惯，不能重复",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0443",
+      "level": "adult",
+      "prompt": "快速讲出三个你认为健康的亲密习惯，并说明其中一个",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0444",
+      "level": "adult",
+      "prompt": "快速讲出三个你认为健康的亲密习惯，按重要程度排列",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0445",
+      "level": "adult",
+      "prompt": "快速讲出三个你认为健康的亲密习惯，其中至少一个与沟通有关",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    },
+    {
+      "id": "fs-adult-0446",
+      "level": "adult",
+      "prompt": "快速讲出三个你愿意认真讨论的未来计划",
+      "answerCount": 3,
+      "theme": "亲密表达"
+    }
+  ]
+}

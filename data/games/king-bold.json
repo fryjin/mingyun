@@ -1,0 +1,281 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "king",
+  "level": "bold",
+  "levelLabel": "大胆",
+  "type": "instruction",
+  "count": 30,
+  "items": [
+    {
+      "id": "king-bold-0001",
+      "level": "bold",
+      "instruction": "{target1}说出自己在关系中最害怕面对的问题。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0002",
+      "level": "bold",
+      "instruction": "{target1}分享一次明明介意却装作没事的经历。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0003",
+      "level": "bold",
+      "instruction": "{target1}说出一个自己很难承认的缺点。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0004",
+      "level": "bold",
+      "instruction": "{target1}讲一个曾经因为害怕失去而退缩的时刻。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0005",
+      "level": "bold",
+      "instruction": "{target1}说出最容易让自己吃醋的场景。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0006",
+      "level": "bold",
+      "instruction": "{target1}分享一句曾经没有说出口的话。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0007",
+      "level": "bold",
+      "instruction": "{target1}说出一条不会为关系放弃的底线。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0008",
+      "level": "bold",
+      "instruction": "{target1}讲一次自己主动结束关系或合作的原因。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0009",
+      "level": "bold",
+      "instruction": "{target1}说出一个希望被认真理解的情绪。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0010",
+      "level": "bold",
+      "instruction": "{target1}分享一次选择坦白而不是逃避的经历。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0011",
+      "level": "bold",
+      "instruction": "{target1}和{target2}互相说出一个真实的第一印象。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0012",
+      "level": "bold",
+      "instruction": "{target1}和{target2}分别说出关系中最重视的边界。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0013",
+      "level": "bold",
+      "instruction": "{target1}和{target2}讨论“心动”和“合适”哪个更重要。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0014",
+      "level": "bold",
+      "instruction": "{target1}和{target2}分别说出一次嘴硬的经历。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0015",
+      "level": "bold",
+      "instruction": "{target1}和{target2}交换一个想问但平时不会问的问题。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0016",
+      "level": "bold",
+      "instruction": "{target1}、{target2}和{target3}各说一个无法接受的相处习惯。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0017",
+      "level": "bold",
+      "instruction": "{target1}、{target2}和{target3}各说一个最需要安全感的时刻。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0018",
+      "level": "bold",
+      "instruction": "{target1}、{target2}和{target3}讨论一次是否该主动联系旧人。",
+      "targetCount": 3,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0019",
+      "level": "bold",
+      "instruction": "{target1}说出自己最难放下的一类事情。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0020",
+      "level": "bold",
+      "instruction": "{target1}分享一次因为在意而表现反常的经历。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0021",
+      "level": "bold",
+      "instruction": "{target1}说出一个最想得到明确答案的问题。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0022",
+      "level": "bold",
+      "instruction": "{target1}讲一次自己后悔没有及时沟通的经历。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0023",
+      "level": "bold",
+      "instruction": "{target1}说出一个曾经改变自己判断的人。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0024",
+      "level": "bold",
+      "instruction": "{target1}分享一次被误解却没有解释的经历。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0025",
+      "level": "bold",
+      "instruction": "{target1}说出关系中最需要对方主动做的事。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0026",
+      "level": "bold",
+      "instruction": "{target1}讲一次为了保护自己而保持距离的经历。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0027",
+      "level": "bold",
+      "instruction": "{target1}说出一个会让自己立刻心软的行为。",
+      "targetCount": 1,
+      "allowKingAsTarget": false,
+      "consentRequired": false,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0028",
+      "level": "bold",
+      "instruction": "{target1}和{target2}分别说出最怕被对方误会的地方。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0029",
+      "level": "bold",
+      "instruction": "{target1}和{target2}互相提出一个必须诚实回答的问题。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    },
+    {
+      "id": "king-bold-0030",
+      "level": "bold",
+      "instruction": "{target1}和{target2}讨论一次“先道歉还是先讲道理”。",
+      "targetCount": 2,
+      "allowKingAsTarget": false,
+      "consentRequired": true,
+      "theme": "国王指令"
+    }
+  ]
+}

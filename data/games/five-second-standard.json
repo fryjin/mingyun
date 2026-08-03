@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "five-second",
+  "level": "standard",
+  "levelLabel": "标准",
+  "type": "challenge",
+  "count": 18,
+  "items": [
+    {
+      "id": "fs-standard-0001",
+      "level": "standard",
+      "prompt": "说出三个你最近想完成的目标",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0002",
+      "level": "standard",
+      "prompt": "说出三个让你放松的方法",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0003",
+      "level": "standard",
+      "prompt": "说出三个你欣赏朋友的优点",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0004",
+      "level": "standard",
+      "prompt": "说出三个你会拒绝的请求",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0005",
+      "level": "standard",
+      "prompt": "说出三个你希望改善的习惯",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0006",
+      "level": "standard",
+      "prompt": "说出三个让你有安全感的瞬间",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0007",
+      "level": "standard",
+      "prompt": "说出三个你愿意反复去的地方",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0008",
+      "level": "standard",
+      "prompt": "说出三个你容易拖延的事情",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0009",
+      "level": "standard",
+      "prompt": "说出三个你想学习的技能",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0010",
+      "level": "standard",
+      "prompt": "说出三个能让聚会冷场的行为",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0011",
+      "level": "standard",
+      "prompt": "说出三个你会主动道歉的情况",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0012",
+      "level": "standard",
+      "prompt": "说出三个你不愿妥协的原则",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0013",
+      "level": "standard",
+      "prompt": "说出三个你最常用的借口",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0014",
+      "level": "standard",
+      "prompt": "说出三个让你感到尴尬的场景",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0015",
+      "level": "standard",
+      "prompt": "说出三个你愿意为朋友做的事情",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0016",
+      "level": "standard",
+      "prompt": "说出三个你最近做过的勇敢决定",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0017",
+      "level": "standard",
+      "prompt": "说出三个你最想感谢的人",
+      "answerCount": 3,
+      "theme": "快速反应"
+    },
+    {
+      "id": "fs-standard-0018",
+      "level": "standard",
+      "prompt": "说出三个你会保留很久的物品",
+      "answerCount": 3,
+      "theme": "快速反应"
+    }
+  ]
+}

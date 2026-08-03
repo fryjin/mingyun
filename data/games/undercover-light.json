@@ -1,0 +1,651 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "undercover",
+  "level": "light",
+  "levelLabel": "轻松",
+  "type": "word-pair",
+  "count": 80,
+  "items": [
+    {
+      "id": "uc-light-0001",
+      "level": "light",
+      "civilian": "咖啡",
+      "undercover": "奶茶",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0002",
+      "level": "light",
+      "civilian": "猫",
+      "undercover": "狗",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0003",
+      "level": "light",
+      "civilian": "苹果",
+      "undercover": "梨",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0004",
+      "level": "light",
+      "civilian": "地铁",
+      "undercover": "公交",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0005",
+      "level": "light",
+      "civilian": "雨伞",
+      "undercover": "雨衣",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0006",
+      "level": "light",
+      "civilian": "蛋糕",
+      "undercover": "面包",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0007",
+      "level": "light",
+      "civilian": "钢琴",
+      "undercover": "吉他",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0008",
+      "level": "light",
+      "civilian": "海边",
+      "undercover": "湖边",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0009",
+      "level": "light",
+      "civilian": "电影",
+      "undercover": "电视剧",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0010",
+      "level": "light",
+      "civilian": "火锅",
+      "undercover": "烧烤",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0011",
+      "level": "light",
+      "civilian": "微信",
+      "undercover": "短信",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0012",
+      "level": "light",
+      "civilian": "拖鞋",
+      "undercover": "凉鞋",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0013",
+      "level": "light",
+      "civilian": "冰箱",
+      "undercover": "空调",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0014",
+      "level": "light",
+      "civilian": "医生",
+      "undercover": "护士",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0015",
+      "level": "light",
+      "civilian": "篮球",
+      "undercover": "足球",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0016",
+      "level": "light",
+      "civilian": "橙子",
+      "undercover": "橘子",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0017",
+      "level": "light",
+      "civilian": "森林",
+      "undercover": "草原",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0018",
+      "level": "light",
+      "civilian": "月亮",
+      "undercover": "星星",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0019",
+      "level": "light",
+      "civilian": "相机",
+      "undercover": "手机",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0020",
+      "level": "light",
+      "civilian": "铅笔",
+      "undercover": "钢笔",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0021",
+      "level": "light",
+      "civilian": "日常咖啡",
+      "undercover": "日常奶茶",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0022",
+      "level": "light",
+      "civilian": "日常猫",
+      "undercover": "日常狗",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0023",
+      "level": "light",
+      "civilian": "日常苹果",
+      "undercover": "日常梨",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0024",
+      "level": "light",
+      "civilian": "日常地铁",
+      "undercover": "日常公交",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0025",
+      "level": "light",
+      "civilian": "日常雨伞",
+      "undercover": "日常雨衣",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0026",
+      "level": "light",
+      "civilian": "日常蛋糕",
+      "undercover": "日常面包",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0027",
+      "level": "light",
+      "civilian": "日常钢琴",
+      "undercover": "日常吉他",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0028",
+      "level": "light",
+      "civilian": "日常海边",
+      "undercover": "日常湖边",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0029",
+      "level": "light",
+      "civilian": "日常电影",
+      "undercover": "日常电视剧",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0030",
+      "level": "light",
+      "civilian": "日常火锅",
+      "undercover": "日常烧烤",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0031",
+      "level": "light",
+      "civilian": "日常微信",
+      "undercover": "日常短信",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0032",
+      "level": "light",
+      "civilian": "日常拖鞋",
+      "undercover": "日常凉鞋",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0033",
+      "level": "light",
+      "civilian": "日常冰箱",
+      "undercover": "日常空调",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0034",
+      "level": "light",
+      "civilian": "日常医生",
+      "undercover": "日常护士",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0035",
+      "level": "light",
+      "civilian": "日常篮球",
+      "undercover": "日常足球",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0036",
+      "level": "light",
+      "civilian": "日常橙子",
+      "undercover": "日常橘子",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0037",
+      "level": "light",
+      "civilian": "日常森林",
+      "undercover": "日常草原",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0038",
+      "level": "light",
+      "civilian": "日常月亮",
+      "undercover": "日常星星",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0039",
+      "level": "light",
+      "civilian": "日常相机",
+      "undercover": "日常手机",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0040",
+      "level": "light",
+      "civilian": "日常铅笔",
+      "undercover": "日常钢笔",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0041",
+      "level": "light",
+      "civilian": "深夜咖啡",
+      "undercover": "深夜奶茶",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0042",
+      "level": "light",
+      "civilian": "深夜猫",
+      "undercover": "深夜狗",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0043",
+      "level": "light",
+      "civilian": "深夜苹果",
+      "undercover": "深夜梨",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0044",
+      "level": "light",
+      "civilian": "深夜地铁",
+      "undercover": "深夜公交",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0045",
+      "level": "light",
+      "civilian": "深夜雨伞",
+      "undercover": "深夜雨衣",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0046",
+      "level": "light",
+      "civilian": "深夜蛋糕",
+      "undercover": "深夜面包",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0047",
+      "level": "light",
+      "civilian": "深夜钢琴",
+      "undercover": "深夜吉他",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0048",
+      "level": "light",
+      "civilian": "深夜海边",
+      "undercover": "深夜湖边",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0049",
+      "level": "light",
+      "civilian": "深夜电影",
+      "undercover": "深夜电视剧",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0050",
+      "level": "light",
+      "civilian": "深夜火锅",
+      "undercover": "深夜烧烤",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0051",
+      "level": "light",
+      "civilian": "深夜微信",
+      "undercover": "深夜短信",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0052",
+      "level": "light",
+      "civilian": "深夜拖鞋",
+      "undercover": "深夜凉鞋",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0053",
+      "level": "light",
+      "civilian": "深夜冰箱",
+      "undercover": "深夜空调",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0054",
+      "level": "light",
+      "civilian": "深夜医生",
+      "undercover": "深夜护士",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0055",
+      "level": "light",
+      "civilian": "深夜篮球",
+      "undercover": "深夜足球",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0056",
+      "level": "light",
+      "civilian": "深夜橙子",
+      "undercover": "深夜橘子",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0057",
+      "level": "light",
+      "civilian": "深夜森林",
+      "undercover": "深夜草原",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0058",
+      "level": "light",
+      "civilian": "深夜月亮",
+      "undercover": "深夜星星",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0059",
+      "level": "light",
+      "civilian": "深夜相机",
+      "undercover": "深夜手机",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0060",
+      "level": "light",
+      "civilian": "深夜铅笔",
+      "undercover": "深夜钢笔",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0061",
+      "level": "light",
+      "civilian": "旅行咖啡",
+      "undercover": "旅行奶茶",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0062",
+      "level": "light",
+      "civilian": "旅行猫",
+      "undercover": "旅行狗",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0063",
+      "level": "light",
+      "civilian": "旅行苹果",
+      "undercover": "旅行梨",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0064",
+      "level": "light",
+      "civilian": "旅行地铁",
+      "undercover": "旅行公交",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0065",
+      "level": "light",
+      "civilian": "旅行雨伞",
+      "undercover": "旅行雨衣",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0066",
+      "level": "light",
+      "civilian": "旅行蛋糕",
+      "undercover": "旅行面包",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0067",
+      "level": "light",
+      "civilian": "旅行钢琴",
+      "undercover": "旅行吉他",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0068",
+      "level": "light",
+      "civilian": "旅行海边",
+      "undercover": "旅行湖边",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0069",
+      "level": "light",
+      "civilian": "旅行电影",
+      "undercover": "旅行电视剧",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0070",
+      "level": "light",
+      "civilian": "旅行火锅",
+      "undercover": "旅行烧烤",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0071",
+      "level": "light",
+      "civilian": "旅行微信",
+      "undercover": "旅行短信",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0072",
+      "level": "light",
+      "civilian": "旅行拖鞋",
+      "undercover": "旅行凉鞋",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0073",
+      "level": "light",
+      "civilian": "旅行冰箱",
+      "undercover": "旅行空调",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0074",
+      "level": "light",
+      "civilian": "旅行医生",
+      "undercover": "旅行护士",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0075",
+      "level": "light",
+      "civilian": "旅行篮球",
+      "undercover": "旅行足球",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0076",
+      "level": "light",
+      "civilian": "旅行橙子",
+      "undercover": "旅行橘子",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0077",
+      "level": "light",
+      "civilian": "旅行森林",
+      "undercover": "旅行草原",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0078",
+      "level": "light",
+      "civilian": "旅行月亮",
+      "undercover": "旅行星星",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0079",
+      "level": "light",
+      "civilian": "旅行相机",
+      "undercover": "旅行手机",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    },
+    {
+      "id": "uc-light-0080",
+      "level": "light",
+      "civilian": "旅行铅笔",
+      "undercover": "旅行钢笔",
+      "blankAllowed": true,
+      "theme": "词语辨析"
+    }
+  ]
+}

@@ -1,0 +1,3133 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1-2026.08",
+  "game": "would-rather",
+  "level": "adult",
+  "levelLabel": "成人",
+  "type": "choice",
+  "count": 446,
+  "items": [
+    {
+      "id": "wr-adult-0001",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0002",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0003",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0004",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0005",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0006",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0007",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0008",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0009",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0010",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0011",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0012",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0013",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0014",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0015",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0016",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0017",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0018",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0019",
+      "level": "adult",
+      "optionA": "主动表达喜欢",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0020",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0021",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0022",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0023",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0024",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0025",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0026",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0027",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0028",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0029",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0030",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0031",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0032",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0033",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0034",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0035",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0036",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0037",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0038",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0039",
+      "level": "adult",
+      "optionA": "等待对方先开口",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0040",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0041",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0042",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0043",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0044",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0045",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0046",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0047",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0048",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0049",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0050",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0051",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0052",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0053",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0054",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0055",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0056",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0057",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0058",
+      "level": "adult",
+      "optionA": "保持一点神秘感",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0059",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0060",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0061",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0062",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0063",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0064",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0065",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0066",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0067",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0068",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0069",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0070",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0071",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0072",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0073",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0074",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0075",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0076",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0077",
+      "level": "adult",
+      "optionA": "把真实情绪直接说出来",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0078",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0079",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0080",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0081",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0082",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0083",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0084",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0085",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0086",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0087",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0088",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0089",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0090",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0091",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0092",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0093",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0094",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0095",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0096",
+      "level": "adult",
+      "optionA": "一起经历一次长途旅行",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0097",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0098",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0099",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0100",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0101",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0102",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0103",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0104",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0105",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0106",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0107",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0108",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0109",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0110",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0111",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0112",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0113",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0114",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0115",
+      "level": "adult",
+      "optionA": "一起完成一件很普通的小事",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0116",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0117",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0118",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0119",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0120",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0121",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0122",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0123",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0124",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0125",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0126",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0127",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0128",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0129",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0130",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0131",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0132",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0133",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0134",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0135",
+      "level": "adult",
+      "optionA": "收到精心准备的惊喜",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0136",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0137",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0138",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0139",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0140",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0141",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0142",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0143",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0144",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0145",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0146",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0147",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0148",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0149",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0150",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0151",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0152",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0153",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0154",
+      "level": "adult",
+      "optionA": "收到一句非常真诚的话",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0155",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0156",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0157",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0158",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0159",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0160",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0161",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0162",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0163",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0164",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0165",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0166",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0167",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0168",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0169",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0170",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0171",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0172",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0173",
+      "level": "adult",
+      "optionA": "每天保持联系",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0174",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0175",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0176",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0177",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0178",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0179",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0180",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0181",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0182",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0183",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0184",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0185",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0186",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0187",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0188",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0189",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0190",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0191",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0192",
+      "level": "adult",
+      "optionA": "几天不联系但见面很投入",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0193",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0194",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0195",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0196",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0197",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0198",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0199",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0200",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0201",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0202",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0203",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0204",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0205",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0206",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0207",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0208",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0209",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0210",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0211",
+      "level": "adult",
+      "optionA": "公开表达关系",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0212",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0213",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0214",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0215",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0216",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0217",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0218",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0219",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0220",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0221",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0222",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0223",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0224",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0225",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0226",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0227",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0228",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0229",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0230",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0231",
+      "level": "adult",
+      "optionA": "只在两个人之间保持默契",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0232",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0233",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0234",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0235",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0236",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0237",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0238",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0239",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0240",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0241",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0242",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0243",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0244",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0245",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0246",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0247",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0248",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0249",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0250",
+      "level": "adult",
+      "optionA": "先确认彼此边界",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0251",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0252",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0253",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0254",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0255",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0256",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0257",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0258",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0259",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0260",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0261",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0262",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0263",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0264",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0265",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0266",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0267",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0268",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0269",
+      "level": "adult",
+      "optionA": "先顺着气氛自然发展",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0270",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0271",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0272",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0273",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0274",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0275",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0276",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0277",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0278",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0279",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0280",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0281",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0282",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0283",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0284",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0285",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0286",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0287",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0288",
+      "level": "adult",
+      "optionA": "被温柔照顾",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0289",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0290",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0291",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0292",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0293",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0294",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0295",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0296",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0297",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0298",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0299",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0300",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0301",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0302",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0303",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0304",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0305",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0306",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0307",
+      "level": "adult",
+      "optionA": "被坚定选择",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0308",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0309",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0310",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0311",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0312",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0313",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0314",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0315",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0316",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0317",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0318",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0319",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0320",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0321",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0322",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0323",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0324",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0325",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0326",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0327",
+      "level": "adult",
+      "optionA": "和心动的人聊到天亮",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0328",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0329",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0330",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0331",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0332",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0333",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0334",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0335",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0336",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0337",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0338",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0339",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0340",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0341",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0342",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0343",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0344",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0345",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0346",
+      "level": "adult",
+      "optionA": "和心动的人安静待一整天",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0347",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0348",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0349",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0350",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0351",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0352",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0353",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0354",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0355",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0356",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0357",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0358",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0359",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0360",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0361",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0362",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0363",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0364",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0365",
+      "level": "adult",
+      "optionA": "听到直接的赞美",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0366",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0367",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0368",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0369",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0370",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0371",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0372",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0373",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0374",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0375",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0376",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0377",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0378",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0379",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0380",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0381",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0382",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0383",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0384",
+      "level": "adult",
+      "optionA": "看到默默的行动",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0385",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0386",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0387",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0388",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0389",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0390",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0391",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0392",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0393",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0394",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0395",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0396",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0397",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0398",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0399",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0400",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0401",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0402",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0403",
+      "level": "adult",
+      "optionA": "在关系里保持独立",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0404",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0405",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0406",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0407",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0408",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0409",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0410",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0411",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "拥有强烈心动但充满未知的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0412",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0413",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0414",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0415",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "尽快确认关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0416",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0417",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0418",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0419",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "在重要时刻听到承诺",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0420",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0421",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0422",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0423",
+      "level": "adult",
+      "optionA": "在关系里高度分享",
+      "optionB": "故意慢一点确认感受",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0424",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0425",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0426",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "在朋友面前被公开偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0427",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0428",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "保留一点无法完全看透的空间",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0429",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "被对方主动靠近",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0430",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "由自己主动拉近距离",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0431",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "拥有稳定安心但节奏平缓的关系",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0432",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "一起回忆过去",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0433",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "一起规划未来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0434",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "在暧昧期保持耐心",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0435",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "被一句话打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0436",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "被一个动作打动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0437",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "收到长篇消息",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0438",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "收到一句简短但确定的话",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0439",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "在日常里感受到持续行动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0440",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "把吃醋说出来",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0441",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "自己消化吃醋情绪",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0442",
+      "level": "adult",
+      "optionA": "先解决矛盾",
+      "optionB": "立即回应心动",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0443",
+      "level": "adult",
+      "optionA": "先给彼此冷静空间",
+      "optionB": "接受一次意外的浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0444",
+      "level": "adult",
+      "optionA": "先给彼此冷静空间",
+      "optionB": "自己策划一场浪漫安排",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0445",
+      "level": "adult",
+      "optionA": "先给彼此冷静空间",
+      "optionB": "私下得到只属于你的偏爱",
+      "theme": "亲密选择"
+    },
+    {
+      "id": "wr-adult-0446",
+      "level": "adult",
+      "optionA": "先给彼此冷静空间",
+      "optionB": "知道对方所有想法",
+      "theme": "亲密选择"
+    }
+  ]
+}
