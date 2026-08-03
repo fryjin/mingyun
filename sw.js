@@ -1,6 +1,6 @@
-const VERSION='party-game-v9.2.3-design-system-ui-only';
+const VERSION='party-game-v9.2.4-fate-wheel-ui-only';
 const SHELL=[
-  './','./index.html','./manifest.webmanifest','./styles/app.css','./styles/games.css','./styles/adult-plus.css','./styles/ui-refresh.css','./styles/midnight-game-hall.css?v=9.2.3',
+  './','./index.html','./manifest.webmanifest','./styles/app.css','./styles/games.css','./styles/adult-plus.css','./styles/ui-refresh.css','./styles/midnight-game-hall.css?v=9.2.3','./styles/fate-wheel-v9.2.4.css?v=9.2.4',
   './src/main.js','./src/core/utils.js','./src/core/store.js','./src/core/motion.js','./src/modules/overlay.js',
   './src/modules/lobby.js','./src/modules/players.js','./src/modules/game-sheet.js','./src/modules/settings.js','./src/modules/questions.js',
   './src/games/registry.js','./src/games/index.js','./src/games/shared.js','./src/games/dice.js','./src/games/wheel.js',
