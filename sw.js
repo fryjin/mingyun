@@ -1,76 +1,92 @@
-const CACHE_NAME = 'party-game-v8.0.0';
+const CACHE_VERSION = 'mingyun-v9.1-shell-1';
+const QUESTION_CACHE = 'mingyun-v9.1-questions-1';
+
 const APP_SHELL = [
   './',
   './index.html',
-  './app.css',
-  './app.js',
   './manifest.webmanifest',
-  './icons/icon-180.png',
-  './icons/icon-192.png',
-  './icons/icon-512.png'
+  './icons/icon.svg',
+  './styles/app.css',
+  './styles/games.css',
+  './src/main.js',
+  './src/modules/lobby.js',
+  './src/modules/players.js',
+  './src/modules/games.js',
+  './src/modules/questions.js'
 ];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME)
+    caches.open(CACHE_VERSION)
       .then((cache) => cache.addAll(APP_SHELL))
       .then(() => self.skipWaiting())
   );
 });
 
 self.addEventListener('activate', (event) => {
-  event.waitUntil((async () => {
-    const keys = await caches.keys();
-    await Promise.all(keys.filter((key) => key !== CACHE_NAME).map((key) => caches.delete(key)));
-    if (self.registration.navigationPreload) {
-      await self.registration.navigationPreload.enable();
-    }
-    await self.clients.claim();
-  })());
+  event.waitUntil(
+    Promise.all([
+      caches.keys().then((keys) => Promise.all(
+        keys.filter((key) => key !== CACHE_VERSION && key !== QUESTION_CACHE)
+          .map((key) => caches.delete(key))
+      )),
+      self.clients.claim()
+    ])
+  );
 });
-
-async function cachePut(request, response) {
-  if (!response || !response.ok || response.type === 'opaque') return;
-  const cache = await caches.open(CACHE_NAME);
-  await cache.put(request, response.clone());
-}
-
-async function handleNavigation(event) {
-  try {
-    const preload = await event.preloadResponse;
-    if (preload) {
-      event.waitUntil(cachePut(event.request, preload));
-      return preload;
-    }
-    const network = await fetch(event.request);
-    event.waitUntil(cachePut(event.request, network));
-    return network;
-  } catch {
-    return (await caches.match('./index.html')) || Response.error();
-  }
-}
-
-async function staleWhileRevalidate(event) {
-  const cached = await caches.match(event.request);
-  const networkPromise = fetch(event.request)
-    .then((response) => {
-      event.waitUntil(cachePut(event.request, response));
-      return response;
-    })
-    .catch(() => null);
-  return cached || networkPromise || Response.error();
-}
 
 self.addEventListener('fetch', (event) => {
   const request = event.request;
-  if (request.method !== 'GET') return;
   const url = new URL(request.url);
-  if (url.origin !== self.location.origin) return;
 
-  if (request.mode === 'navigate') {
-    event.respondWith(handleNavigation(event));
+  if (request.method !== 'GET' || url.origin !== self.location.origin) return;
+
+  if (url.pathname.includes('/data/questions/')) {
+    event.respondWith(staleWhileRevalidate(request, QUESTION_CACHE));
     return;
   }
 
-  event.respondWith(staleWhileRevalidate(event));
+  if (request.mode === 'navigate') {
+    event.respondWith(networkFirst(request, CACHE_VERSION, './index.html'));
+    return;
+  }
+
+  event.respondWith(cacheFirst(request, CACHE_VERSION));
 });
+
+async function cacheFirst(request, cacheName) {
+  const cache = await caches.open(cacheName);
+  const cached = await cache.match(request);
+  if (cached) return cached;
+  const response = await fetch(request);
+  if (response.ok) cache.put(request, response.clone());
+  return response;
+}
+
+async function staleWhileRevalidate(request, cacheName) {
+  const cache = await caches.open(cacheName);
+  const cached = await cache.match(request);
+  const network = fetch(request).then((response) => {
+    if (response.ok) cache.put(request, response.clone());
+    return response;
+  }).catch(() => null);
+
+  if (cached) {
+    network.catch(() => null);
+    return cached;
+  }
+
+  const response = await network;
+  return response || new Response('Question bank unavailable', { status:503 });
+}
+
+async function networkFirst(request, cacheName, fallbackUrl) {
+  const cache = await caches.open(cacheName);
+  try {
+    const response = await fetch(request);
+    if (response.ok) cache.put(request, response.clone());
+    return response;
+  } catch {
+    return (await cache.match(request)) || cache.match(fallbackUrl);
+  }
+}
