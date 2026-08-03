@@ -1,9 +1,18 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.1.3-2026.08",
+  "bankVersion": "v9.1.4-2026.08",
   "generatedAt": "2026-08-03",
-  "totalEnabledSpecialized": 3500,
+  "totalEnabledSpecialized": 5500,
   "files": [
+    {
+      "file": "data/games/five-second-adult-plus.json",
+      "game": "five-second",
+      "level": "adult-plus",
+      "type": "challenge",
+      "count": 500,
+      "sha256": "1f217af40b3537ad55030eebf34a6c1769165abe8ec9c01acfaab85110ef5c01",
+      "bytes": 252918
+    },
     {
       "file": "data/games/five-second-adult.json",
       "game": "five-second",
@@ -39,6 +48,15 @@
       "count": 18,
       "sha256": "d1157bc53a46f6f62c390a22c2ad89198478ed2740d9dd7b6efcb2b03644318d",
       "bytes": 3486
+    },
+    {
+      "file": "data/games/king-adult-plus.json",
+      "game": "king",
+      "level": "adult-plus",
+      "type": "instruction",
+      "count": 1000,
+      "sha256": "337c7e93d6767ac94161170af4e4a6adfba9d144bac1e8c497f0008c98cb184d",
+      "bytes": 644489
     },
     {
       "file": "data/games/king-adult.json",
@@ -77,6 +95,15 @@
       "bytes": 8309
     },
     {
+      "file": "data/games/most-likely-adult-plus.json",
+      "game": "most-likely",
+      "level": "adult-plus",
+      "type": "prompt",
+      "count": 500,
+      "sha256": "a61f79f2c0b54f4d8ee3a54149082186cbea1057fdfaff752ef283dc799f600c",
+      "bytes": 205316
+    },
+    {
       "file": "data/games/most-likely-adult.json",
       "game": "most-likely",
       "level": "adult",
@@ -111,6 +138,15 @@
       "count": 18,
       "sha256": "9db66286d3f101b27df2a96bac9785954f1bab14af8180e23467060c49ba4003",
       "bytes": 3729
+    },
+    {
+      "file": "data/games/undercover-adult-plus.json",
+      "game": "undercover",
+      "level": "adult-plus",
+      "type": "word-pair",
+      "count": 500,
+      "sha256": "ce0059c7092824b7cc7783e6bb22c09bace79675112093f65b3f5df759294360",
+      "bytes": 187480
     },
     {
       "file": "data/games/undercover-adult.json",
@@ -149,6 +185,15 @@
       "bytes": 15424
     },
     {
+      "file": "data/games/would-rather-adult-plus.json",
+      "game": "would-rather",
+      "level": "adult-plus",
+      "type": "choice",
+      "count": 500,
+      "sha256": "c1604cc212a14410153ada8de377e4dfa1dc665e7bb398adc43af95187e30b9e",
+      "bytes": 245714
+    },
+    {
       "file": "data/games/would-rather-adult.json",
       "game": "would-rather",
       "level": "adult",
@@ -183,21 +228,13 @@
       "count": 18,
       "sha256": "5f7f3f5cf364e26205fb6965a012b3977ca47eaf69ab4dfb54e4b1820a10ef14",
       "bytes": 4743
-    },
-    {
-      "file": "data/games/king-adult-plus.json",
-      "game": "king",
-      "level": "adult-plus",
-      "type": "instruction",
-      "count": 1000,
-      "sha256": "a6c14f9a918777cdbb2d19911a941fee115be65d3098b6c3dac67b649e783467",
-      "bytes": 644489
     }
   ],
   "notes": {
-    "hotPotato": "纯传递玩法，不加载专用任务库",
+    "hotPotato": "纯传递玩法，不加载专用任务库；成人进阶用于爆炸后的共享惩罚。",
     "sharedPunishments": 4500,
-    "king": "原500条基础指令 + 1000条成人进阶指令",
-    "adultPlus": "只对命运骰局、命运转盘共享惩罚和国王游戏开放。"
+    "king": "原500条基础指令 + 1000条成人进阶指令。",
+    "adultPlus": "全部8种游戏模式开放；谁最可能、二选一、五秒挑战、谁是卧底各新增500条成人进阶专用内容。",
+    "enabledContentTotal": 10000
   }
 }

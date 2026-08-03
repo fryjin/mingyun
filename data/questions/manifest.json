@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.1.3-2026.08",
+  "bankVersion": "v9.1.4-2026.08",
   "generatedAt": "2026-08-03",
-  "description": "共享真心话/大冒险题库：新增成人进阶档，共4500道。",
+  "description": "共享真心话/大冒险题库：五档内容，共4500道；成人进阶已开放到全部游戏的共享惩罚流程。",
   "totals": {
     "all": 4500,
     "light": 500,
@@ -93,7 +93,7 @@
       "levelKey": "adult-plus",
       "type": "dare",
       "count": 500,
-      "sha256": "d0f2d56d3560d174893ed945c28347aff8998e48f50bdef4af309f4b74229641",
+      "sha256": "f0595877c5afc087a107b44bc51604623647d5d4b4b9a31f2d2e65bedfd34b7c",
       "bytes": 362749
     }
   ],

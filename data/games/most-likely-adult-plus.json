@@ -1,0 +1,7011 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1.4-2026.08",
+  "game": "most-likely",
+  "level": "adult-plus",
+  "levelLabel": "成人进阶",
+  "type": "prompt",
+  "count": 500,
+  "items": [
+    {
+      "id": "most-likely-adult-plus-0001",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0002",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0003",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0004",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0005",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0006",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0007",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0008",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0009",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0010",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0011",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0012",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0013",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0014",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0015",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0016",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0017",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0018",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0019",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0020",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0021",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0022",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0023",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0024",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0025",
+      "level": "adult-plus",
+      "text": "如果发生在第一次约会，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0026",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0027",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0028",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0029",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0030",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0031",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0032",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0033",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0034",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0035",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0036",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0037",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0038",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0039",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0040",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0041",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0042",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0043",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0044",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0045",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0046",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0047",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0048",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0049",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0050",
+      "level": "adult-plus",
+      "text": "如果发生在深夜散步，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0051",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0052",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0053",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0054",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0055",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0056",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0057",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0058",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0059",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0060",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0061",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0062",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0063",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0064",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0065",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0066",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0067",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0068",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0069",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0070",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0071",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0072",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0073",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0074",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0075",
+      "level": "adult-plus",
+      "text": "如果发生在朋友聚会，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0076",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0077",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0078",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0079",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0080",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0081",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0082",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0083",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0084",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0085",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0086",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0087",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0088",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0089",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0090",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0091",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0092",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0093",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0094",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0095",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0096",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0097",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0098",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0099",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0100",
+      "level": "adult-plus",
+      "text": "如果发生在旅行途中，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0101",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0102",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0103",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0104",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0105",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0106",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0107",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0108",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0109",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0110",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0111",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0112",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0113",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0114",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0115",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0116",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0117",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0118",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0119",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0120",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0121",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0122",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0123",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0124",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0125",
+      "level": "adult-plus",
+      "text": "如果发生在电影散场，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0126",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0127",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0128",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0129",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0130",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0131",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0132",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0133",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0134",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0135",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0136",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0137",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0138",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0139",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0140",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0141",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0142",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0143",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0144",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0145",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0146",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0147",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0148",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0149",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0150",
+      "level": "adult-plus",
+      "text": "如果发生在雨天共伞，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0151",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0152",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0153",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0154",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0155",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0156",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0157",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0158",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0159",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0160",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0161",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0162",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0163",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0164",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0165",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0166",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0167",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0168",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0169",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0170",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0171",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0172",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0173",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0174",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0175",
+      "level": "adult-plus",
+      "text": "如果发生在海边夜聊，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0176",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0177",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0178",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0179",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0180",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0181",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0182",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0183",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0184",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0185",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0186",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0187",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0188",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0189",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0190",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0191",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0192",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0193",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0194",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0195",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0196",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0197",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0198",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0199",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0200",
+      "level": "adult-plus",
+      "text": "如果发生在微醺时刻，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0201",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0202",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0203",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0204",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0205",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0206",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0207",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0208",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0209",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0210",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0211",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0212",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0213",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0214",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0215",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0216",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0217",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0218",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0219",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0220",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0221",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0222",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0223",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0224",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0225",
+      "level": "adult-plus",
+      "text": "如果发生在陌生派对，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0226",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0227",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0228",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0229",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0230",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0231",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0232",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0233",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0234",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0235",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0236",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0237",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0238",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0239",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0240",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0241",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0242",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0243",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0244",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0245",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0246",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0247",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0248",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0249",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0250",
+      "level": "adult-plus",
+      "text": "如果发生在久别重逢，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0251",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0252",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0253",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0254",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0255",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0256",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0257",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0258",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0259",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0260",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0261",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0262",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0263",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0264",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0265",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0266",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0267",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0268",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0269",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0270",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0271",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0272",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0273",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0274",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0275",
+      "level": "adult-plus",
+      "text": "如果发生在告别之前，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0276",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0277",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0278",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0279",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0280",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0281",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0282",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0283",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0284",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0285",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0286",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0287",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0288",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0289",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0290",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0291",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0292",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0293",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0294",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0295",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0296",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0297",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0298",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0299",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0300",
+      "level": "adult-plus",
+      "text": "如果发生在暧昧阶段，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0301",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0302",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0303",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0304",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0305",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0306",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0307",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0308",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0309",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0310",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0311",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0312",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0313",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0314",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0315",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0316",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0317",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0318",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0319",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0320",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0321",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0322",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0323",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0324",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0325",
+      "level": "adult-plus",
+      "text": "如果发生在关系升温，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0326",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0327",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0328",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0329",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0330",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0331",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0332",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0333",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0334",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0335",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0336",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0337",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0338",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0339",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0340",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0341",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0342",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0343",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0344",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0345",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0346",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0347",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0348",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0349",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0350",
+      "level": "adult-plus",
+      "text": "如果发生在冷战之后，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0351",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0352",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0353",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0354",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0355",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0356",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0357",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0358",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0359",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0360",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0361",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0362",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0363",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0364",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0365",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0366",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0367",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0368",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0369",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0370",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0371",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0372",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0373",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0374",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0375",
+      "level": "adult-plus",
+      "text": "如果发生在庆祝时刻，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0376",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0377",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0378",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0379",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0380",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0381",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0382",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0383",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0384",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0385",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0386",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0387",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0388",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0389",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0390",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0391",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0392",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0393",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0394",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0395",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0396",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0397",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0398",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0399",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0400",
+      "level": "adult-plus",
+      "text": "如果发生在临时起意的夜晚，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0401",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0402",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0403",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0404",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0405",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0406",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0407",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0408",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0409",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0410",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0411",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0412",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0413",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0414",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0415",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0416",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0417",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0418",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0419",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0420",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0421",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0422",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0423",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0424",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0425",
+      "level": "adult-plus",
+      "text": "如果发生在周末夜晚，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0426",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0427",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0428",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0429",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0430",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0431",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0432",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0433",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0434",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0435",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0436",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0437",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0438",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0439",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0440",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0441",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0442",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0443",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0444",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0445",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0446",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0447",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0448",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0449",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0450",
+      "level": "adult-plus",
+      "text": "如果发生在音乐响起的时候，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0451",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0452",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0453",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0454",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0455",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0456",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0457",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0458",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0459",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0460",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0461",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0462",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0463",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0464",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0465",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0466",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0467",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0468",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0469",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0470",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0471",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0472",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0473",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0474",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0475",
+      "level": "adult-plus",
+      "text": "如果发生在气氛安静的时候，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0476",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能主动邀请心动对象牵手？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0477",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能先靠近喜欢的人坐下？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0478",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能用眼神表达明显好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0479",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能提议和某个人单独散步？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0480",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能主动为心动对象准备饮品？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0481",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能在气氛到位时先说出好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0482",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能因为一个拥抱心跳加速？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0483",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能接受一场临时约会？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0484",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能主动邀请一位自愿玩家共舞？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0485",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能被一句耳语打动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0486",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能公开夸奖现场某个人有吸引力？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0487",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能在喝饮品时偷偷观察心动对象？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0488",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能主动提出和某个人碰杯？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0489",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能因为近距离对视脸红？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0490",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能把暧昧话说得像玩笑？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0491",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能先确认对方的身体接触边界？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0492",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能选择额头吻而不是脸颊吻？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0493",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能拒绝不舒服的亲密互动？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0494",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能把无酒精饮品也喝出微醺气氛？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0495",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能在关系里产生占有欲？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0496",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能主动结束一段不清不楚的暧昧？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0497",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能在亲密互动前认真询问同意？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0498",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能被声音而不是外貌吸引？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0499",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能把普通碰杯变成心动瞬间？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "most-likely-adult-plus-0500",
+      "level": "adult-plus",
+      "text": "如果发生在大家起哄的时候，谁最可能承认自己对现场某个人有好感？",
+      "theme": "亲密判断",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    }
+  ]
+}

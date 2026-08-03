@@ -1,9 +1,49 @@
 {
-  "version": "v9.1.3",
-  "newContent": 2000,
-  "truth": 500,
-  "dare": 500,
-  "king": 1000,
+  "version": "v9.1.4",
+  "newSpecializedContent": 2000,
+  "includedAdultPlusShared": 1000,
+  "includedAdultPlusSpecialized": 3000,
+  "includedAdultPlusTotal": 4000,
+  "enabledProjectContentAfterUpgrade": 10000,
+  "counts": {
+    "adult-plus-truth": 500,
+    "adult-plus-dare": 500,
+    "most-likely": 500,
+    "would-rather": 500,
+    "five-second": 500,
+    "undercover": 500,
+    "king": 1000
+  },
+  "eligibility": {
+    "adult-plus-truth.json": {
+      "allOff": 500,
+      "allOn": 500
+    },
+    "adult-plus-dare.json": {
+      "allOff": 100,
+      "allOn": 500
+    },
+    "most-likely-adult-plus.json": {
+      "allOff": 266,
+      "allOn": 500
+    },
+    "would-rather-adult-plus.json": {
+      "allOff": 304,
+      "allOn": 500
+    },
+    "five-second-adult-plus.json": {
+      "allOff": 200,
+      "allOn": 500
+    },
+    "undercover-adult-plus.json": {
+      "allOff": 304,
+      "allOn": 500
+    },
+    "king-adult-plus.json": {
+      "allOff": 300,
+      "allOn": 1000
+    }
+  },
   "errors": [],
   "status": "PASS"
 }

@@ -28,7 +28,7 @@ export function adultPlusFilterKey(preferences={}) {
 export function allowedByAdultPlus(item, preferences={}) {
   const requirements=item?.requirements||{};
   if (requirements.contact && preferences.contact===false) return false;
-  if (requirements.contact && Number(requirements.contactLevel||1)>Number(preferences.contactLevel||1)) return false;
+  if (requirements.contact && !requirements.kissing && Number(requirements.contactLevel||1)>Number(preferences.contactLevel||1)) return false;
   if (requirements.kissing && !preferences.kissing) return false;
   if (requirements.alcohol && !preferences.alcohol) return false;
   return true;

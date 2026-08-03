@@ -1,0 +1,95 @@
+/* V9.1.4 — mobile-first interaction refresh
+   Principles: 8pt rhythm, clear hierarchy, 44px touch targets, visible focus,
+   no hover-only affordances, safe-area aware sticky actions. */
+:root{
+  --space-1:4px;--space-2:8px;--space-3:12px;--space-4:16px;--space-5:24px;--space-6:32px;
+  --surface-soft:rgba(255,255,255,.035);--surface-strong:rgba(255,255,255,.07);
+  --focus:#c4b5fd;
+}
+button,input{touch-action:manipulation}
+button:focus-visible,input:focus-visible,[tabindex]:focus-visible{outline:3px solid color-mix(in srgb,var(--focus) 78%,transparent);outline-offset:2px}
+button{-webkit-tap-highlight-color:transparent}
+.app-header{position:sticky;top:0;height:auto;min-height:70px;background:linear-gradient(to bottom,rgba(9,10,16,.96),rgba(9,10,16,.78),transparent);backdrop-filter:blur(14px);padding-top:calc(12px + env(safe-area-inset-top));z-index:30}
+.app-view{padding-top:8px;padding-bottom:calc(36px + var(--safe-bottom))}
+.icon-button,.text-button,.away-button,.count-button,.segmented button,.preset-row button,.preset-cards button,.player-choice-grid button,.private-choice button{min-height:44px}
+
+/* Lobby */
+.room-summary-card{padding:16px;border-color:rgba(255,255,255,.11);box-shadow:0 14px 36px rgba(0,0,0,.16);background:linear-gradient(145deg,rgba(255,255,255,.062),rgba(255,255,255,.018))}
+.room-summary-card h1{font-size:20px;margin-top:6px}
+.room-manage{min-height:40px;padding:0 2px;display:inline-flex;align-items:center;gap:4px}
+.room-manage span{font-size:17px;line-height:1}
+.room-summary-chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+.room-summary-chips span{padding:6px 9px;border:1px solid var(--line);border-radius:999px;background:rgba(0,0,0,.14);font-size:10px;color:#c9ccda}
+.room-players{margin-top:14px}.ready-chip{display:inline-flex;align-items:center;gap:6px}.ready-chip i{width:6px;height:6px;border-radius:50%;background:var(--ok);box-shadow:0 0 10px rgba(52,211,153,.7)}
+.lobby-section{margin-top:28px}.section-title{margin-bottom:14px}.section-title h2{letter-spacing:-.02em}
+.game-grid{gap:10px}
+.game-card{min-height:166px;padding:14px 14px 13px;border-radius:20px;border-color:rgba(255,255,255,.1);background:linear-gradient(150deg,rgba(255,255,255,.06),rgba(255,255,255,.018));transition:transform .14s ease,border-color .14s ease,background .14s ease}
+.game-card:active{transform:scale(.975);background:linear-gradient(150deg,rgba(255,255,255,.085),rgba(255,255,255,.025))}
+.game-card-top{width:100%;display:flex;align-items:flex-start;justify-content:space-between;gap:8px}
+.game-index{font-size:10px;letter-spacing:.12em;color:#6f7486;font-variant-numeric:tabular-nums}
+.game-card strong{margin-top:14px;font-size:16px;letter-spacing:-.015em}
+.game-card p{margin:6px 0 14px;line-height:1.55}
+.game-card-footer{width:100%;margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:6px}
+.game-meta{margin:0}.advanced-chip{font-size:8px;line-height:1;padding:5px 6px;border-radius:999px;border:1px solid rgba(251,113,133,.24);background:rgba(251,113,133,.075);color:#fecdd3;white-space:nowrap}
+
+/* Players */
+.player-row{grid-template-columns:36px minmax(0,1fr) 64px;gap:10px;padding:12px 0}
+.player-row input{min-height:44px;font-size:14px}
+.away-button{display:inline-flex;align-items:center;justify-content:center;gap:5px;height:44px;border-radius:12px}
+.away-button i{width:6px;height:6px;border-radius:50%;background:var(--ok)}
+.player-row.is-away .away-button i{background:#73798b}.player-row.is-away{opacity:.62}
+.sticky-actions{padding-top:18px;bottom:-1px;z-index:8}
+
+/* Sheet structure and fixed action */
+.bottom-sheet{padding:0;overflow:hidden;display:flex;flex-direction:column;max-height:min(92dvh,900px);background:#11131a}
+.sheet-handle{flex:0 0 auto;margin:9px auto 2px}
+.sheet-close{position:absolute;right:12px;top:10px;z-index:5;width:44px;height:44px;border:0;border-radius:14px;background:rgba(255,255,255,.045);color:#aeb3c4;font-size:24px;display:grid;place-items:center}
+.sheet-body{overflow:auto;padding:18px 18px 8px;overscroll-behavior:contain;scrollbar-width:none}.sheet-body::-webkit-scrollbar{display:none}
+.sheet-header{padding-right:42px;align-items:flex-start}.sheet-header h2{font-size:22px;letter-spacing:-.02em}.sheet-header p{line-height:1.45}
+.sheet-copy{margin:16px 0 14px;line-height:1.65}
+.rule-card{padding:14px;background:rgba(255,255,255,.035)}.rule-card>div{padding-top:3px;margin-top:7px}.rule-card strong{max-width:58%}
+.settings-heading{font-size:13px;margin:20px 0 2px;color:#e7e8ef}
+.setting-block{padding:16px 0}.setting-label{gap:12px}.setting-label>span{font-weight:700}.setting-label small{line-height:1.35;text-align:right}
+.sheet-action-bar{flex:0 0 auto;padding:10px 18px calc(12px + var(--safe-bottom));border-top:1px solid var(--line);background:linear-gradient(to top,#11131a 78%,rgba(17,19,26,.94));box-shadow:0 -14px 34px rgba(0,0,0,.28)}
+.sheet-action-bar .button.full{margin:0;min-height:52px;font-size:15px}
+
+/* Five-level selector */
+.level-picker{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-top:12px}
+.level-card{min-height:58px;padding:10px 12px;border:1px solid var(--line);border-radius:14px;background:rgba(255,255,255,.025);text-align:left;display:grid;align-content:center;gap:4px;color:#d7dae5}
+.level-card strong{font-size:12px}.level-card small{font-size:9px;line-height:1.35;color:var(--muted)}
+.level-card.active{border-color:rgba(167,139,250,.65);background:linear-gradient(145deg,rgba(139,92,246,.21),rgba(139,92,246,.08));box-shadow:inset 0 0 0 1px rgba(196,181,253,.1)}
+.level-card.advanced{grid-column:1/-1;min-height:62px;border-color:rgba(251,113,133,.2);background:linear-gradient(145deg,rgba(127,29,29,.13),rgba(88,28,135,.09))}
+.level-card.advanced.active{border-color:rgba(251,113,133,.56);background:linear-gradient(145deg,rgba(190,24,93,.22),rgba(109,40,217,.15))}
+.level-card.advanced strong{color:#fecdd3}
+
+/* Controls */
+.segmented{min-height:48px;align-items:stretch}.segmented button{padding:10px 7px}
+.preset-cards{align-items:stretch}.preset-cards button{min-height:64px;padding:11px 9px}.preset-cards button.active{box-shadow:inset 0 0 0 1px rgba(196,181,253,.18)}
+.time-stepper button{width:44px;height:44px}.time-stepper input{height:44px;font-size:15px}
+.setting-row{min-height:72px}.switch{width:50px;height:30px;padding:4px}.switch span{width:22px;height:22px}.switch.on span{transform:translateX(20px)}
+
+/* Game stage */
+.stage-header{position:sticky;top:70px;z-index:12;padding:8px 0 10px;background:linear-gradient(to bottom,rgba(9,10,16,.98),rgba(9,10,16,.82),transparent);backdrop-filter:blur(12px)}
+.stage-header .icon-button{flex:0 0 auto}
+.game-stage,.private-stage{border-radius:22px;min-height:calc(100dvh - 166px);padding:22px 18px}
+.game-stage.centered,.private-stage{justify-content:center}
+.feature-question{max-width:340px;letter-spacing:-.015em}
+.player-choice-grid button,.private-choice button{font-size:13px;border-color:rgba(255,255,255,.11)}
+.player-choice-grid button:active,.private-choice button:active{background:#2a2e3b;transform:scale(.985)}
+.choice-preview article,.reveal-columns article{min-width:0}
+.choice-preview strong,.reveal-columns h3{overflow-wrap:anywhere}
+.modal-card{max-height:calc(100dvh - 32px);overflow:auto;padding:22px}
+.modal-actions{align-items:stretch}.modal-actions .button{min-height:48px}
+.question-text{letter-spacing:-.015em}
+.requirement-tags{margin-top:10px}
+.consent-gate{margin:12px auto}
+
+@media(max-width:360px){
+  .app-view{padding-left:12px;padding-right:12px}.game-grid{gap:8px}.game-card{min-height:158px;padding:12px}.game-card p{font-size:10px}.advanced-chip{font-size:7px;padding:4px 5px}
+  .room-summary-card{padding:14px}.room-summary-chips span{font-size:9px;padding:5px 7px}
+  .sheet-body{padding-left:14px;padding-right:14px}.sheet-action-bar{padding-left:14px;padding-right:14px}.sheet-header h2{font-size:20px}
+  .level-card{padding:9px 10px}.level-card strong{font-size:11px}.level-card small{font-size:8px}
+  .modal-actions{grid-template-columns:1fr}.choice-actions{gap:8px}.game-stage,.private-stage{padding:18px 14px}
+}
+@media(prefers-reduced-motion:reduce){.game-card,.switch span,.overlay-backdrop{transition:none!important}}
+.sheet-inline-confirm{margin:14px 0 8px;padding:14px;border:1px solid rgba(251,191,36,.3);border-radius:16px;background:linear-gradient(145deg,rgba(120,53,15,.17),rgba(88,28,135,.1));scroll-margin-bottom:92px}.sheet-inline-confirm h3{font-size:16px;margin:6px 0}.sheet-inline-confirm p{font-size:10px;line-height:1.6;color:#d7d2c5;margin:0}.sheet-inline-confirm .modal-actions{margin-top:12px}

@@ -1,0 +1,7511 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.1.4-2026.08",
+  "game": "undercover",
+  "level": "adult-plus",
+  "levelLabel": "成人进阶",
+  "type": "word-pair",
+  "count": 500,
+  "items": [
+    {
+      "id": "uc-adult-plus-0001",
+      "level": "adult-plus",
+      "civilian": "初次牵手",
+      "undercover": "初次挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0002",
+      "level": "adult-plus",
+      "civilian": "初次拥抱",
+      "undercover": "初次搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0003",
+      "level": "adult-plus",
+      "civilian": "初次对视",
+      "undercover": "初次耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0004",
+      "level": "adult-plus",
+      "civilian": "初次碰杯",
+      "undercover": "初次干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0005",
+      "level": "adult-plus",
+      "civilian": "初次微醺",
+      "undercover": "初次清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0006",
+      "level": "adult-plus",
+      "civilian": "初次靠肩",
+      "undercover": "初次贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0007",
+      "level": "adult-plus",
+      "civilian": "初次脸红",
+      "undercover": "初次心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0008",
+      "level": "adult-plus",
+      "civilian": "初次主动",
+      "undercover": "初次被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0009",
+      "level": "adult-plus",
+      "civilian": "初次暧昧",
+      "undercover": "初次直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0010",
+      "level": "adult-plus",
+      "civilian": "初次心动",
+      "undercover": "初次好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0011",
+      "level": "adult-plus",
+      "civilian": "初次约会",
+      "undercover": "初次散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0012",
+      "level": "adult-plus",
+      "civilian": "初次共舞",
+      "undercover": "初次合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0013",
+      "level": "adult-plus",
+      "civilian": "初次夸奖",
+      "undercover": "初次告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0014",
+      "level": "adult-plus",
+      "civilian": "初次试探",
+      "undercover": "初次确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0015",
+      "level": "adult-plus",
+      "civilian": "初次克制",
+      "undercover": "初次热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0016",
+      "level": "adult-plus",
+      "civilian": "初次眼神",
+      "undercover": "初次声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0017",
+      "level": "adult-plus",
+      "civilian": "初次香水",
+      "undercover": "初次体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0018",
+      "level": "adult-plus",
+      "civilian": "初次浪漫",
+      "undercover": "初次刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0019",
+      "level": "adult-plus",
+      "civilian": "初次手吻",
+      "undercover": "初次额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0020",
+      "level": "adult-plus",
+      "civilian": "初次浅抱",
+      "undercover": "初次紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0021",
+      "level": "adult-plus",
+      "civilian": "初次慢舞",
+      "undercover": "初次贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0022",
+      "level": "adult-plus",
+      "civilian": "初次低语",
+      "undercover": "初次耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0023",
+      "level": "adult-plus",
+      "civilian": "初次靠近",
+      "undercover": "初次后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0024",
+      "level": "adult-plus",
+      "civilian": "初次追问",
+      "undercover": "初次沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0025",
+      "level": "adult-plus",
+      "civilian": "初次邀约",
+      "undercover": "初次赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0026",
+      "level": "adult-plus",
+      "civilian": "深夜牵手",
+      "undercover": "深夜挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0027",
+      "level": "adult-plus",
+      "civilian": "深夜拥抱",
+      "undercover": "深夜搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0028",
+      "level": "adult-plus",
+      "civilian": "深夜对视",
+      "undercover": "深夜耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0029",
+      "level": "adult-plus",
+      "civilian": "深夜碰杯",
+      "undercover": "深夜干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0030",
+      "level": "adult-plus",
+      "civilian": "深夜微醺",
+      "undercover": "深夜清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0031",
+      "level": "adult-plus",
+      "civilian": "深夜靠肩",
+      "undercover": "深夜贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0032",
+      "level": "adult-plus",
+      "civilian": "深夜脸红",
+      "undercover": "深夜心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0033",
+      "level": "adult-plus",
+      "civilian": "深夜主动",
+      "undercover": "深夜被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0034",
+      "level": "adult-plus",
+      "civilian": "深夜暧昧",
+      "undercover": "深夜直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0035",
+      "level": "adult-plus",
+      "civilian": "深夜心动",
+      "undercover": "深夜好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0036",
+      "level": "adult-plus",
+      "civilian": "深夜约会",
+      "undercover": "深夜散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0037",
+      "level": "adult-plus",
+      "civilian": "深夜共舞",
+      "undercover": "深夜合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0038",
+      "level": "adult-plus",
+      "civilian": "深夜夸奖",
+      "undercover": "深夜告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0039",
+      "level": "adult-plus",
+      "civilian": "深夜试探",
+      "undercover": "深夜确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0040",
+      "level": "adult-plus",
+      "civilian": "深夜克制",
+      "undercover": "深夜热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0041",
+      "level": "adult-plus",
+      "civilian": "深夜眼神",
+      "undercover": "深夜声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0042",
+      "level": "adult-plus",
+      "civilian": "深夜香水",
+      "undercover": "深夜体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0043",
+      "level": "adult-plus",
+      "civilian": "深夜浪漫",
+      "undercover": "深夜刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0044",
+      "level": "adult-plus",
+      "civilian": "深夜手吻",
+      "undercover": "深夜额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0045",
+      "level": "adult-plus",
+      "civilian": "深夜浅抱",
+      "undercover": "深夜紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0046",
+      "level": "adult-plus",
+      "civilian": "深夜慢舞",
+      "undercover": "深夜贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0047",
+      "level": "adult-plus",
+      "civilian": "深夜低语",
+      "undercover": "深夜耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0048",
+      "level": "adult-plus",
+      "civilian": "深夜靠近",
+      "undercover": "深夜后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0049",
+      "level": "adult-plus",
+      "civilian": "深夜追问",
+      "undercover": "深夜沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0050",
+      "level": "adult-plus",
+      "civilian": "深夜邀约",
+      "undercover": "深夜赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0051",
+      "level": "adult-plus",
+      "civilian": "雨天牵手",
+      "undercover": "雨天挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0052",
+      "level": "adult-plus",
+      "civilian": "雨天拥抱",
+      "undercover": "雨天搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0053",
+      "level": "adult-plus",
+      "civilian": "雨天对视",
+      "undercover": "雨天耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0054",
+      "level": "adult-plus",
+      "civilian": "雨天碰杯",
+      "undercover": "雨天干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0055",
+      "level": "adult-plus",
+      "civilian": "雨天微醺",
+      "undercover": "雨天清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0056",
+      "level": "adult-plus",
+      "civilian": "雨天靠肩",
+      "undercover": "雨天贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0057",
+      "level": "adult-plus",
+      "civilian": "雨天脸红",
+      "undercover": "雨天心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0058",
+      "level": "adult-plus",
+      "civilian": "雨天主动",
+      "undercover": "雨天被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0059",
+      "level": "adult-plus",
+      "civilian": "雨天暧昧",
+      "undercover": "雨天直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0060",
+      "level": "adult-plus",
+      "civilian": "雨天心动",
+      "undercover": "雨天好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0061",
+      "level": "adult-plus",
+      "civilian": "雨天约会",
+      "undercover": "雨天散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0062",
+      "level": "adult-plus",
+      "civilian": "雨天共舞",
+      "undercover": "雨天合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0063",
+      "level": "adult-plus",
+      "civilian": "雨天夸奖",
+      "undercover": "雨天告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0064",
+      "level": "adult-plus",
+      "civilian": "雨天试探",
+      "undercover": "雨天确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0065",
+      "level": "adult-plus",
+      "civilian": "雨天克制",
+      "undercover": "雨天热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0066",
+      "level": "adult-plus",
+      "civilian": "雨天眼神",
+      "undercover": "雨天声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0067",
+      "level": "adult-plus",
+      "civilian": "雨天香水",
+      "undercover": "雨天体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0068",
+      "level": "adult-plus",
+      "civilian": "雨天浪漫",
+      "undercover": "雨天刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0069",
+      "level": "adult-plus",
+      "civilian": "雨天手吻",
+      "undercover": "雨天额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0070",
+      "level": "adult-plus",
+      "civilian": "雨天浅抱",
+      "undercover": "雨天紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0071",
+      "level": "adult-plus",
+      "civilian": "雨天慢舞",
+      "undercover": "雨天贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0072",
+      "level": "adult-plus",
+      "civilian": "雨天低语",
+      "undercover": "雨天耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0073",
+      "level": "adult-plus",
+      "civilian": "雨天靠近",
+      "undercover": "雨天后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0074",
+      "level": "adult-plus",
+      "civilian": "雨天追问",
+      "undercover": "雨天沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0075",
+      "level": "adult-plus",
+      "civilian": "雨天邀约",
+      "undercover": "雨天赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0076",
+      "level": "adult-plus",
+      "civilian": "派对牵手",
+      "undercover": "派对挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0077",
+      "level": "adult-plus",
+      "civilian": "派对拥抱",
+      "undercover": "派对搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0078",
+      "level": "adult-plus",
+      "civilian": "派对对视",
+      "undercover": "派对耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0079",
+      "level": "adult-plus",
+      "civilian": "派对碰杯",
+      "undercover": "派对干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0080",
+      "level": "adult-plus",
+      "civilian": "派对微醺",
+      "undercover": "派对清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0081",
+      "level": "adult-plus",
+      "civilian": "派对靠肩",
+      "undercover": "派对贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0082",
+      "level": "adult-plus",
+      "civilian": "派对脸红",
+      "undercover": "派对心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0083",
+      "level": "adult-plus",
+      "civilian": "派对主动",
+      "undercover": "派对被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0084",
+      "level": "adult-plus",
+      "civilian": "派对暧昧",
+      "undercover": "派对直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0085",
+      "level": "adult-plus",
+      "civilian": "派对心动",
+      "undercover": "派对好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0086",
+      "level": "adult-plus",
+      "civilian": "派对约会",
+      "undercover": "派对散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0087",
+      "level": "adult-plus",
+      "civilian": "派对共舞",
+      "undercover": "派对合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0088",
+      "level": "adult-plus",
+      "civilian": "派对夸奖",
+      "undercover": "派对告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0089",
+      "level": "adult-plus",
+      "civilian": "派对试探",
+      "undercover": "派对确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0090",
+      "level": "adult-plus",
+      "civilian": "派对克制",
+      "undercover": "派对热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0091",
+      "level": "adult-plus",
+      "civilian": "派对眼神",
+      "undercover": "派对声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0092",
+      "level": "adult-plus",
+      "civilian": "派对香水",
+      "undercover": "派对体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0093",
+      "level": "adult-plus",
+      "civilian": "派对浪漫",
+      "undercover": "派对刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0094",
+      "level": "adult-plus",
+      "civilian": "派对手吻",
+      "undercover": "派对额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0095",
+      "level": "adult-plus",
+      "civilian": "派对浅抱",
+      "undercover": "派对紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0096",
+      "level": "adult-plus",
+      "civilian": "派对慢舞",
+      "undercover": "派对贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0097",
+      "level": "adult-plus",
+      "civilian": "派对低语",
+      "undercover": "派对耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0098",
+      "level": "adult-plus",
+      "civilian": "派对靠近",
+      "undercover": "派对后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0099",
+      "level": "adult-plus",
+      "civilian": "派对追问",
+      "undercover": "派对沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0100",
+      "level": "adult-plus",
+      "civilian": "派对邀约",
+      "undercover": "派对赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0101",
+      "level": "adult-plus",
+      "civilian": "旅行牵手",
+      "undercover": "旅行挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0102",
+      "level": "adult-plus",
+      "civilian": "旅行拥抱",
+      "undercover": "旅行搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0103",
+      "level": "adult-plus",
+      "civilian": "旅行对视",
+      "undercover": "旅行耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0104",
+      "level": "adult-plus",
+      "civilian": "旅行碰杯",
+      "undercover": "旅行干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0105",
+      "level": "adult-plus",
+      "civilian": "旅行微醺",
+      "undercover": "旅行清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0106",
+      "level": "adult-plus",
+      "civilian": "旅行靠肩",
+      "undercover": "旅行贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0107",
+      "level": "adult-plus",
+      "civilian": "旅行脸红",
+      "undercover": "旅行心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0108",
+      "level": "adult-plus",
+      "civilian": "旅行主动",
+      "undercover": "旅行被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0109",
+      "level": "adult-plus",
+      "civilian": "旅行暧昧",
+      "undercover": "旅行直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0110",
+      "level": "adult-plus",
+      "civilian": "旅行心动",
+      "undercover": "旅行好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0111",
+      "level": "adult-plus",
+      "civilian": "旅行约会",
+      "undercover": "旅行散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0112",
+      "level": "adult-plus",
+      "civilian": "旅行共舞",
+      "undercover": "旅行合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0113",
+      "level": "adult-plus",
+      "civilian": "旅行夸奖",
+      "undercover": "旅行告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0114",
+      "level": "adult-plus",
+      "civilian": "旅行试探",
+      "undercover": "旅行确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0115",
+      "level": "adult-plus",
+      "civilian": "旅行克制",
+      "undercover": "旅行热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0116",
+      "level": "adult-plus",
+      "civilian": "旅行眼神",
+      "undercover": "旅行声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0117",
+      "level": "adult-plus",
+      "civilian": "旅行香水",
+      "undercover": "旅行体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0118",
+      "level": "adult-plus",
+      "civilian": "旅行浪漫",
+      "undercover": "旅行刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0119",
+      "level": "adult-plus",
+      "civilian": "旅行手吻",
+      "undercover": "旅行额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0120",
+      "level": "adult-plus",
+      "civilian": "旅行浅抱",
+      "undercover": "旅行紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0121",
+      "level": "adult-plus",
+      "civilian": "旅行慢舞",
+      "undercover": "旅行贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0122",
+      "level": "adult-plus",
+      "civilian": "旅行低语",
+      "undercover": "旅行耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0123",
+      "level": "adult-plus",
+      "civilian": "旅行靠近",
+      "undercover": "旅行后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0124",
+      "level": "adult-plus",
+      "civilian": "旅行追问",
+      "undercover": "旅行沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0125",
+      "level": "adult-plus",
+      "civilian": "旅行邀约",
+      "undercover": "旅行赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0126",
+      "level": "adult-plus",
+      "civilian": "电影牵手",
+      "undercover": "电影挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0127",
+      "level": "adult-plus",
+      "civilian": "电影拥抱",
+      "undercover": "电影搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0128",
+      "level": "adult-plus",
+      "civilian": "电影对视",
+      "undercover": "电影耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0129",
+      "level": "adult-plus",
+      "civilian": "电影碰杯",
+      "undercover": "电影干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0130",
+      "level": "adult-plus",
+      "civilian": "电影微醺",
+      "undercover": "电影清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0131",
+      "level": "adult-plus",
+      "civilian": "电影靠肩",
+      "undercover": "电影贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0132",
+      "level": "adult-plus",
+      "civilian": "电影脸红",
+      "undercover": "电影心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0133",
+      "level": "adult-plus",
+      "civilian": "电影主动",
+      "undercover": "电影被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0134",
+      "level": "adult-plus",
+      "civilian": "电影暧昧",
+      "undercover": "电影直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0135",
+      "level": "adult-plus",
+      "civilian": "电影心动",
+      "undercover": "电影好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0136",
+      "level": "adult-plus",
+      "civilian": "电影约会",
+      "undercover": "电影散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0137",
+      "level": "adult-plus",
+      "civilian": "电影共舞",
+      "undercover": "电影合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0138",
+      "level": "adult-plus",
+      "civilian": "电影夸奖",
+      "undercover": "电影告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0139",
+      "level": "adult-plus",
+      "civilian": "电影试探",
+      "undercover": "电影确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0140",
+      "level": "adult-plus",
+      "civilian": "电影克制",
+      "undercover": "电影热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0141",
+      "level": "adult-plus",
+      "civilian": "电影眼神",
+      "undercover": "电影声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0142",
+      "level": "adult-plus",
+      "civilian": "电影香水",
+      "undercover": "电影体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0143",
+      "level": "adult-plus",
+      "civilian": "电影浪漫",
+      "undercover": "电影刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0144",
+      "level": "adult-plus",
+      "civilian": "电影手吻",
+      "undercover": "电影额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0145",
+      "level": "adult-plus",
+      "civilian": "电影浅抱",
+      "undercover": "电影紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0146",
+      "level": "adult-plus",
+      "civilian": "电影慢舞",
+      "undercover": "电影贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0147",
+      "level": "adult-plus",
+      "civilian": "电影低语",
+      "undercover": "电影耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0148",
+      "level": "adult-plus",
+      "civilian": "电影靠近",
+      "undercover": "电影后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0149",
+      "level": "adult-plus",
+      "civilian": "电影追问",
+      "undercover": "电影沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0150",
+      "level": "adult-plus",
+      "civilian": "电影邀约",
+      "undercover": "电影赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0151",
+      "level": "adult-plus",
+      "civilian": "街角牵手",
+      "undercover": "街角挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0152",
+      "level": "adult-plus",
+      "civilian": "街角拥抱",
+      "undercover": "街角搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0153",
+      "level": "adult-plus",
+      "civilian": "街角对视",
+      "undercover": "街角耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0154",
+      "level": "adult-plus",
+      "civilian": "街角碰杯",
+      "undercover": "街角干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0155",
+      "level": "adult-plus",
+      "civilian": "街角微醺",
+      "undercover": "街角清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0156",
+      "level": "adult-plus",
+      "civilian": "街角靠肩",
+      "undercover": "街角贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0157",
+      "level": "adult-plus",
+      "civilian": "街角脸红",
+      "undercover": "街角心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0158",
+      "level": "adult-plus",
+      "civilian": "街角主动",
+      "undercover": "街角被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0159",
+      "level": "adult-plus",
+      "civilian": "街角暧昧",
+      "undercover": "街角直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0160",
+      "level": "adult-plus",
+      "civilian": "街角心动",
+      "undercover": "街角好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0161",
+      "level": "adult-plus",
+      "civilian": "街角约会",
+      "undercover": "街角散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0162",
+      "level": "adult-plus",
+      "civilian": "街角共舞",
+      "undercover": "街角合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0163",
+      "level": "adult-plus",
+      "civilian": "街角夸奖",
+      "undercover": "街角告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0164",
+      "level": "adult-plus",
+      "civilian": "街角试探",
+      "undercover": "街角确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0165",
+      "level": "adult-plus",
+      "civilian": "街角克制",
+      "undercover": "街角热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0166",
+      "level": "adult-plus",
+      "civilian": "街角眼神",
+      "undercover": "街角声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0167",
+      "level": "adult-plus",
+      "civilian": "街角香水",
+      "undercover": "街角体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0168",
+      "level": "adult-plus",
+      "civilian": "街角浪漫",
+      "undercover": "街角刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0169",
+      "level": "adult-plus",
+      "civilian": "街角手吻",
+      "undercover": "街角额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0170",
+      "level": "adult-plus",
+      "civilian": "街角浅抱",
+      "undercover": "街角紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0171",
+      "level": "adult-plus",
+      "civilian": "街角慢舞",
+      "undercover": "街角贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0172",
+      "level": "adult-plus",
+      "civilian": "街角低语",
+      "undercover": "街角耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0173",
+      "level": "adult-plus",
+      "civilian": "街角靠近",
+      "undercover": "街角后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0174",
+      "level": "adult-plus",
+      "civilian": "街角追问",
+      "undercover": "街角沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0175",
+      "level": "adult-plus",
+      "civilian": "街角邀约",
+      "undercover": "街角赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0176",
+      "level": "adult-plus",
+      "civilian": "海边牵手",
+      "undercover": "海边挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0177",
+      "level": "adult-plus",
+      "civilian": "海边拥抱",
+      "undercover": "海边搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0178",
+      "level": "adult-plus",
+      "civilian": "海边对视",
+      "undercover": "海边耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0179",
+      "level": "adult-plus",
+      "civilian": "海边碰杯",
+      "undercover": "海边干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0180",
+      "level": "adult-plus",
+      "civilian": "海边微醺",
+      "undercover": "海边清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0181",
+      "level": "adult-plus",
+      "civilian": "海边靠肩",
+      "undercover": "海边贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0182",
+      "level": "adult-plus",
+      "civilian": "海边脸红",
+      "undercover": "海边心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0183",
+      "level": "adult-plus",
+      "civilian": "海边主动",
+      "undercover": "海边被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0184",
+      "level": "adult-plus",
+      "civilian": "海边暧昧",
+      "undercover": "海边直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0185",
+      "level": "adult-plus",
+      "civilian": "海边心动",
+      "undercover": "海边好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0186",
+      "level": "adult-plus",
+      "civilian": "海边约会",
+      "undercover": "海边散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0187",
+      "level": "adult-plus",
+      "civilian": "海边共舞",
+      "undercover": "海边合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0188",
+      "level": "adult-plus",
+      "civilian": "海边夸奖",
+      "undercover": "海边告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0189",
+      "level": "adult-plus",
+      "civilian": "海边试探",
+      "undercover": "海边确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0190",
+      "level": "adult-plus",
+      "civilian": "海边克制",
+      "undercover": "海边热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0191",
+      "level": "adult-plus",
+      "civilian": "海边眼神",
+      "undercover": "海边声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0192",
+      "level": "adult-plus",
+      "civilian": "海边香水",
+      "undercover": "海边体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0193",
+      "level": "adult-plus",
+      "civilian": "海边浪漫",
+      "undercover": "海边刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0194",
+      "level": "adult-plus",
+      "civilian": "海边手吻",
+      "undercover": "海边额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0195",
+      "level": "adult-plus",
+      "civilian": "海边浅抱",
+      "undercover": "海边紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0196",
+      "level": "adult-plus",
+      "civilian": "海边慢舞",
+      "undercover": "海边贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0197",
+      "level": "adult-plus",
+      "civilian": "海边低语",
+      "undercover": "海边耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0198",
+      "level": "adult-plus",
+      "civilian": "海边靠近",
+      "undercover": "海边后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0199",
+      "level": "adult-plus",
+      "civilian": "海边追问",
+      "undercover": "海边沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0200",
+      "level": "adult-plus",
+      "civilian": "海边邀约",
+      "undercover": "海边赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0201",
+      "level": "adult-plus",
+      "civilian": "车内牵手",
+      "undercover": "车内挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0202",
+      "level": "adult-plus",
+      "civilian": "车内拥抱",
+      "undercover": "车内搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0203",
+      "level": "adult-plus",
+      "civilian": "车内对视",
+      "undercover": "车内耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0204",
+      "level": "adult-plus",
+      "civilian": "车内碰杯",
+      "undercover": "车内干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0205",
+      "level": "adult-plus",
+      "civilian": "车内微醺",
+      "undercover": "车内清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0206",
+      "level": "adult-plus",
+      "civilian": "车内靠肩",
+      "undercover": "车内贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0207",
+      "level": "adult-plus",
+      "civilian": "车内脸红",
+      "undercover": "车内心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0208",
+      "level": "adult-plus",
+      "civilian": "车内主动",
+      "undercover": "车内被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0209",
+      "level": "adult-plus",
+      "civilian": "车内暧昧",
+      "undercover": "车内直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0210",
+      "level": "adult-plus",
+      "civilian": "车内心动",
+      "undercover": "车内好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0211",
+      "level": "adult-plus",
+      "civilian": "车内约会",
+      "undercover": "车内散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0212",
+      "level": "adult-plus",
+      "civilian": "车内共舞",
+      "undercover": "车内合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0213",
+      "level": "adult-plus",
+      "civilian": "车内夸奖",
+      "undercover": "车内告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0214",
+      "level": "adult-plus",
+      "civilian": "车内试探",
+      "undercover": "车内确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0215",
+      "level": "adult-plus",
+      "civilian": "车内克制",
+      "undercover": "车内热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0216",
+      "level": "adult-plus",
+      "civilian": "车内眼神",
+      "undercover": "车内声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0217",
+      "level": "adult-plus",
+      "civilian": "车内香水",
+      "undercover": "车内体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0218",
+      "level": "adult-plus",
+      "civilian": "车内浪漫",
+      "undercover": "车内刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0219",
+      "level": "adult-plus",
+      "civilian": "车内手吻",
+      "undercover": "车内额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0220",
+      "level": "adult-plus",
+      "civilian": "车内浅抱",
+      "undercover": "车内紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0221",
+      "level": "adult-plus",
+      "civilian": "车内慢舞",
+      "undercover": "车内贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0222",
+      "level": "adult-plus",
+      "civilian": "车内低语",
+      "undercover": "车内耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0223",
+      "level": "adult-plus",
+      "civilian": "车内靠近",
+      "undercover": "车内后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0224",
+      "level": "adult-plus",
+      "civilian": "车内追问",
+      "undercover": "车内沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0225",
+      "level": "adult-plus",
+      "civilian": "车内邀约",
+      "undercover": "车内赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0226",
+      "level": "adult-plus",
+      "civilian": "微醺牵手",
+      "undercover": "微醺挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0227",
+      "level": "adult-plus",
+      "civilian": "微醺拥抱",
+      "undercover": "微醺搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0228",
+      "level": "adult-plus",
+      "civilian": "微醺对视",
+      "undercover": "微醺耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0229",
+      "level": "adult-plus",
+      "civilian": "微醺碰杯",
+      "undercover": "微醺干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0230",
+      "level": "adult-plus",
+      "civilian": "微醺微醺",
+      "undercover": "微醺清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0231",
+      "level": "adult-plus",
+      "civilian": "微醺靠肩",
+      "undercover": "微醺贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0232",
+      "level": "adult-plus",
+      "civilian": "微醺脸红",
+      "undercover": "微醺心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0233",
+      "level": "adult-plus",
+      "civilian": "微醺主动",
+      "undercover": "微醺被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0234",
+      "level": "adult-plus",
+      "civilian": "微醺暧昧",
+      "undercover": "微醺直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0235",
+      "level": "adult-plus",
+      "civilian": "微醺心动",
+      "undercover": "微醺好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0236",
+      "level": "adult-plus",
+      "civilian": "微醺约会",
+      "undercover": "微醺散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0237",
+      "level": "adult-plus",
+      "civilian": "微醺共舞",
+      "undercover": "微醺合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0238",
+      "level": "adult-plus",
+      "civilian": "微醺夸奖",
+      "undercover": "微醺告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0239",
+      "level": "adult-plus",
+      "civilian": "微醺试探",
+      "undercover": "微醺确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0240",
+      "level": "adult-plus",
+      "civilian": "微醺克制",
+      "undercover": "微醺热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0241",
+      "level": "adult-plus",
+      "civilian": "微醺眼神",
+      "undercover": "微醺声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0242",
+      "level": "adult-plus",
+      "civilian": "微醺香水",
+      "undercover": "微醺体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0243",
+      "level": "adult-plus",
+      "civilian": "微醺浪漫",
+      "undercover": "微醺刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0244",
+      "level": "adult-plus",
+      "civilian": "微醺手吻",
+      "undercover": "微醺额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0245",
+      "level": "adult-plus",
+      "civilian": "微醺浅抱",
+      "undercover": "微醺紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0246",
+      "level": "adult-plus",
+      "civilian": "微醺慢舞",
+      "undercover": "微醺贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0247",
+      "level": "adult-plus",
+      "civilian": "微醺低语",
+      "undercover": "微醺耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0248",
+      "level": "adult-plus",
+      "civilian": "微醺靠近",
+      "undercover": "微醺后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0249",
+      "level": "adult-plus",
+      "civilian": "微醺追问",
+      "undercover": "微醺沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0250",
+      "level": "adult-plus",
+      "civilian": "微醺邀约",
+      "undercover": "微醺赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0251",
+      "level": "adult-plus",
+      "civilian": "晚餐牵手",
+      "undercover": "晚餐挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0252",
+      "level": "adult-plus",
+      "civilian": "晚餐拥抱",
+      "undercover": "晚餐搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0253",
+      "level": "adult-plus",
+      "civilian": "晚餐对视",
+      "undercover": "晚餐耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0254",
+      "level": "adult-plus",
+      "civilian": "晚餐碰杯",
+      "undercover": "晚餐干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0255",
+      "level": "adult-plus",
+      "civilian": "晚餐微醺",
+      "undercover": "晚餐清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0256",
+      "level": "adult-plus",
+      "civilian": "晚餐靠肩",
+      "undercover": "晚餐贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0257",
+      "level": "adult-plus",
+      "civilian": "晚餐脸红",
+      "undercover": "晚餐心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0258",
+      "level": "adult-plus",
+      "civilian": "晚餐主动",
+      "undercover": "晚餐被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0259",
+      "level": "adult-plus",
+      "civilian": "晚餐暧昧",
+      "undercover": "晚餐直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0260",
+      "level": "adult-plus",
+      "civilian": "晚餐心动",
+      "undercover": "晚餐好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0261",
+      "level": "adult-plus",
+      "civilian": "晚餐约会",
+      "undercover": "晚餐散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0262",
+      "level": "adult-plus",
+      "civilian": "晚餐共舞",
+      "undercover": "晚餐合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0263",
+      "level": "adult-plus",
+      "civilian": "晚餐夸奖",
+      "undercover": "晚餐告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0264",
+      "level": "adult-plus",
+      "civilian": "晚餐试探",
+      "undercover": "晚餐确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0265",
+      "level": "adult-plus",
+      "civilian": "晚餐克制",
+      "undercover": "晚餐热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0266",
+      "level": "adult-plus",
+      "civilian": "晚餐眼神",
+      "undercover": "晚餐声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0267",
+      "level": "adult-plus",
+      "civilian": "晚餐香水",
+      "undercover": "晚餐体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0268",
+      "level": "adult-plus",
+      "civilian": "晚餐浪漫",
+      "undercover": "晚餐刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0269",
+      "level": "adult-plus",
+      "civilian": "晚餐手吻",
+      "undercover": "晚餐额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0270",
+      "level": "adult-plus",
+      "civilian": "晚餐浅抱",
+      "undercover": "晚餐紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0271",
+      "level": "adult-plus",
+      "civilian": "晚餐慢舞",
+      "undercover": "晚餐贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0272",
+      "level": "adult-plus",
+      "civilian": "晚餐低语",
+      "undercover": "晚餐耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0273",
+      "level": "adult-plus",
+      "civilian": "晚餐靠近",
+      "undercover": "晚餐后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0274",
+      "level": "adult-plus",
+      "civilian": "晚餐追问",
+      "undercover": "晚餐沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0275",
+      "level": "adult-plus",
+      "civilian": "晚餐邀约",
+      "undercover": "晚餐赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0276",
+      "level": "adult-plus",
+      "civilian": "约会牵手",
+      "undercover": "约会挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0277",
+      "level": "adult-plus",
+      "civilian": "约会拥抱",
+      "undercover": "约会搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0278",
+      "level": "adult-plus",
+      "civilian": "约会对视",
+      "undercover": "约会耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0279",
+      "level": "adult-plus",
+      "civilian": "约会碰杯",
+      "undercover": "约会干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0280",
+      "level": "adult-plus",
+      "civilian": "约会微醺",
+      "undercover": "约会清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0281",
+      "level": "adult-plus",
+      "civilian": "约会靠肩",
+      "undercover": "约会贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0282",
+      "level": "adult-plus",
+      "civilian": "约会脸红",
+      "undercover": "约会心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0283",
+      "level": "adult-plus",
+      "civilian": "约会主动",
+      "undercover": "约会被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0284",
+      "level": "adult-plus",
+      "civilian": "约会暧昧",
+      "undercover": "约会直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0285",
+      "level": "adult-plus",
+      "civilian": "约会心动",
+      "undercover": "约会好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0286",
+      "level": "adult-plus",
+      "civilian": "约会约会",
+      "undercover": "约会散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0287",
+      "level": "adult-plus",
+      "civilian": "约会共舞",
+      "undercover": "约会合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0288",
+      "level": "adult-plus",
+      "civilian": "约会夸奖",
+      "undercover": "约会告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0289",
+      "level": "adult-plus",
+      "civilian": "约会试探",
+      "undercover": "约会确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0290",
+      "level": "adult-plus",
+      "civilian": "约会克制",
+      "undercover": "约会热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0291",
+      "level": "adult-plus",
+      "civilian": "约会眼神",
+      "undercover": "约会声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0292",
+      "level": "adult-plus",
+      "civilian": "约会香水",
+      "undercover": "约会体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0293",
+      "level": "adult-plus",
+      "civilian": "约会浪漫",
+      "undercover": "约会刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0294",
+      "level": "adult-plus",
+      "civilian": "约会手吻",
+      "undercover": "约会额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0295",
+      "level": "adult-plus",
+      "civilian": "约会浅抱",
+      "undercover": "约会紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0296",
+      "level": "adult-plus",
+      "civilian": "约会慢舞",
+      "undercover": "约会贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0297",
+      "level": "adult-plus",
+      "civilian": "约会低语",
+      "undercover": "约会耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0298",
+      "level": "adult-plus",
+      "civilian": "约会靠近",
+      "undercover": "约会后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0299",
+      "level": "adult-plus",
+      "civilian": "约会追问",
+      "undercover": "约会沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0300",
+      "level": "adult-plus",
+      "civilian": "约会邀约",
+      "undercover": "约会赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0301",
+      "level": "adult-plus",
+      "civilian": "临别牵手",
+      "undercover": "临别挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0302",
+      "level": "adult-plus",
+      "civilian": "临别拥抱",
+      "undercover": "临别搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0303",
+      "level": "adult-plus",
+      "civilian": "临别对视",
+      "undercover": "临别耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0304",
+      "level": "adult-plus",
+      "civilian": "临别碰杯",
+      "undercover": "临别干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0305",
+      "level": "adult-plus",
+      "civilian": "临别微醺",
+      "undercover": "临别清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0306",
+      "level": "adult-plus",
+      "civilian": "临别靠肩",
+      "undercover": "临别贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0307",
+      "level": "adult-plus",
+      "civilian": "临别脸红",
+      "undercover": "临别心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0308",
+      "level": "adult-plus",
+      "civilian": "临别主动",
+      "undercover": "临别被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0309",
+      "level": "adult-plus",
+      "civilian": "临别暧昧",
+      "undercover": "临别直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0310",
+      "level": "adult-plus",
+      "civilian": "临别心动",
+      "undercover": "临别好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0311",
+      "level": "adult-plus",
+      "civilian": "临别约会",
+      "undercover": "临别散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0312",
+      "level": "adult-plus",
+      "civilian": "临别共舞",
+      "undercover": "临别合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0313",
+      "level": "adult-plus",
+      "civilian": "临别夸奖",
+      "undercover": "临别告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0314",
+      "level": "adult-plus",
+      "civilian": "临别试探",
+      "undercover": "临别确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0315",
+      "level": "adult-plus",
+      "civilian": "临别克制",
+      "undercover": "临别热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0316",
+      "level": "adult-plus",
+      "civilian": "临别眼神",
+      "undercover": "临别声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0317",
+      "level": "adult-plus",
+      "civilian": "临别香水",
+      "undercover": "临别体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0318",
+      "level": "adult-plus",
+      "civilian": "临别浪漫",
+      "undercover": "临别刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0319",
+      "level": "adult-plus",
+      "civilian": "临别手吻",
+      "undercover": "临别额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0320",
+      "level": "adult-plus",
+      "civilian": "临别浅抱",
+      "undercover": "临别紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0321",
+      "level": "adult-plus",
+      "civilian": "临别慢舞",
+      "undercover": "临别贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0322",
+      "level": "adult-plus",
+      "civilian": "临别低语",
+      "undercover": "临别耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0323",
+      "level": "adult-plus",
+      "civilian": "临别靠近",
+      "undercover": "临别后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0324",
+      "level": "adult-plus",
+      "civilian": "临别追问",
+      "undercover": "临别沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0325",
+      "level": "adult-plus",
+      "civilian": "临别邀约",
+      "undercover": "临别赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0326",
+      "level": "adult-plus",
+      "civilian": "重逢牵手",
+      "undercover": "重逢挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0327",
+      "level": "adult-plus",
+      "civilian": "重逢拥抱",
+      "undercover": "重逢搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0328",
+      "level": "adult-plus",
+      "civilian": "重逢对视",
+      "undercover": "重逢耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0329",
+      "level": "adult-plus",
+      "civilian": "重逢碰杯",
+      "undercover": "重逢干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0330",
+      "level": "adult-plus",
+      "civilian": "重逢微醺",
+      "undercover": "重逢清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0331",
+      "level": "adult-plus",
+      "civilian": "重逢靠肩",
+      "undercover": "重逢贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0332",
+      "level": "adult-plus",
+      "civilian": "重逢脸红",
+      "undercover": "重逢心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0333",
+      "level": "adult-plus",
+      "civilian": "重逢主动",
+      "undercover": "重逢被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0334",
+      "level": "adult-plus",
+      "civilian": "重逢暧昧",
+      "undercover": "重逢直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0335",
+      "level": "adult-plus",
+      "civilian": "重逢心动",
+      "undercover": "重逢好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0336",
+      "level": "adult-plus",
+      "civilian": "重逢约会",
+      "undercover": "重逢散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0337",
+      "level": "adult-plus",
+      "civilian": "重逢共舞",
+      "undercover": "重逢合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0338",
+      "level": "adult-plus",
+      "civilian": "重逢夸奖",
+      "undercover": "重逢告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0339",
+      "level": "adult-plus",
+      "civilian": "重逢试探",
+      "undercover": "重逢确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0340",
+      "level": "adult-plus",
+      "civilian": "重逢克制",
+      "undercover": "重逢热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0341",
+      "level": "adult-plus",
+      "civilian": "重逢眼神",
+      "undercover": "重逢声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0342",
+      "level": "adult-plus",
+      "civilian": "重逢香水",
+      "undercover": "重逢体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0343",
+      "level": "adult-plus",
+      "civilian": "重逢浪漫",
+      "undercover": "重逢刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0344",
+      "level": "adult-plus",
+      "civilian": "重逢手吻",
+      "undercover": "重逢额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0345",
+      "level": "adult-plus",
+      "civilian": "重逢浅抱",
+      "undercover": "重逢紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0346",
+      "level": "adult-plus",
+      "civilian": "重逢慢舞",
+      "undercover": "重逢贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0347",
+      "level": "adult-plus",
+      "civilian": "重逢低语",
+      "undercover": "重逢耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0348",
+      "level": "adult-plus",
+      "civilian": "重逢靠近",
+      "undercover": "重逢后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0349",
+      "level": "adult-plus",
+      "civilian": "重逢追问",
+      "undercover": "重逢沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0350",
+      "level": "adult-plus",
+      "civilian": "重逢邀约",
+      "undercover": "重逢赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0351",
+      "level": "adult-plus",
+      "civilian": "心动牵手",
+      "undercover": "心动挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0352",
+      "level": "adult-plus",
+      "civilian": "心动拥抱",
+      "undercover": "心动搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0353",
+      "level": "adult-plus",
+      "civilian": "心动对视",
+      "undercover": "心动耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0354",
+      "level": "adult-plus",
+      "civilian": "心动碰杯",
+      "undercover": "心动干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0355",
+      "level": "adult-plus",
+      "civilian": "心动微醺",
+      "undercover": "心动清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0356",
+      "level": "adult-plus",
+      "civilian": "心动靠肩",
+      "undercover": "心动贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0357",
+      "level": "adult-plus",
+      "civilian": "心动脸红",
+      "undercover": "心动心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0358",
+      "level": "adult-plus",
+      "civilian": "心动主动",
+      "undercover": "心动被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0359",
+      "level": "adult-plus",
+      "civilian": "心动暧昧",
+      "undercover": "心动直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0360",
+      "level": "adult-plus",
+      "civilian": "心动心动",
+      "undercover": "心动好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0361",
+      "level": "adult-plus",
+      "civilian": "心动约会",
+      "undercover": "心动散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0362",
+      "level": "adult-plus",
+      "civilian": "心动共舞",
+      "undercover": "心动合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0363",
+      "level": "adult-plus",
+      "civilian": "心动夸奖",
+      "undercover": "心动告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0364",
+      "level": "adult-plus",
+      "civilian": "心动试探",
+      "undercover": "心动确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0365",
+      "level": "adult-plus",
+      "civilian": "心动克制",
+      "undercover": "心动热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0366",
+      "level": "adult-plus",
+      "civilian": "心动眼神",
+      "undercover": "心动声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0367",
+      "level": "adult-plus",
+      "civilian": "心动香水",
+      "undercover": "心动体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0368",
+      "level": "adult-plus",
+      "civilian": "心动浪漫",
+      "undercover": "心动刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0369",
+      "level": "adult-plus",
+      "civilian": "心动手吻",
+      "undercover": "心动额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0370",
+      "level": "adult-plus",
+      "civilian": "心动浅抱",
+      "undercover": "心动紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0371",
+      "level": "adult-plus",
+      "civilian": "心动慢舞",
+      "undercover": "心动贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0372",
+      "level": "adult-plus",
+      "civilian": "心动低语",
+      "undercover": "心动耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0373",
+      "level": "adult-plus",
+      "civilian": "心动靠近",
+      "undercover": "心动后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0374",
+      "level": "adult-plus",
+      "civilian": "心动追问",
+      "undercover": "心动沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0375",
+      "level": "adult-plus",
+      "civilian": "心动邀约",
+      "undercover": "心动赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0376",
+      "level": "adult-plus",
+      "civilian": "秘密牵手",
+      "undercover": "秘密挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0377",
+      "level": "adult-plus",
+      "civilian": "秘密拥抱",
+      "undercover": "秘密搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0378",
+      "level": "adult-plus",
+      "civilian": "秘密对视",
+      "undercover": "秘密耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0379",
+      "level": "adult-plus",
+      "civilian": "秘密碰杯",
+      "undercover": "秘密干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0380",
+      "level": "adult-plus",
+      "civilian": "秘密微醺",
+      "undercover": "秘密清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0381",
+      "level": "adult-plus",
+      "civilian": "秘密靠肩",
+      "undercover": "秘密贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0382",
+      "level": "adult-plus",
+      "civilian": "秘密脸红",
+      "undercover": "秘密心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0383",
+      "level": "adult-plus",
+      "civilian": "秘密主动",
+      "undercover": "秘密被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0384",
+      "level": "adult-plus",
+      "civilian": "秘密暧昧",
+      "undercover": "秘密直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0385",
+      "level": "adult-plus",
+      "civilian": "秘密心动",
+      "undercover": "秘密好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0386",
+      "level": "adult-plus",
+      "civilian": "秘密约会",
+      "undercover": "秘密散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0387",
+      "level": "adult-plus",
+      "civilian": "秘密共舞",
+      "undercover": "秘密合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0388",
+      "level": "adult-plus",
+      "civilian": "秘密夸奖",
+      "undercover": "秘密告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0389",
+      "level": "adult-plus",
+      "civilian": "秘密试探",
+      "undercover": "秘密确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0390",
+      "level": "adult-plus",
+      "civilian": "秘密克制",
+      "undercover": "秘密热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0391",
+      "level": "adult-plus",
+      "civilian": "秘密眼神",
+      "undercover": "秘密声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0392",
+      "level": "adult-plus",
+      "civilian": "秘密香水",
+      "undercover": "秘密体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0393",
+      "level": "adult-plus",
+      "civilian": "秘密浪漫",
+      "undercover": "秘密刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0394",
+      "level": "adult-plus",
+      "civilian": "秘密手吻",
+      "undercover": "秘密额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0395",
+      "level": "adult-plus",
+      "civilian": "秘密浅抱",
+      "undercover": "秘密紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0396",
+      "level": "adult-plus",
+      "civilian": "秘密慢舞",
+      "undercover": "秘密贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0397",
+      "level": "adult-plus",
+      "civilian": "秘密低语",
+      "undercover": "秘密耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0398",
+      "level": "adult-plus",
+      "civilian": "秘密靠近",
+      "undercover": "秘密后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0399",
+      "level": "adult-plus",
+      "civilian": "秘密追问",
+      "undercover": "秘密沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0400",
+      "level": "adult-plus",
+      "civilian": "秘密邀约",
+      "undercover": "秘密赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0401",
+      "level": "adult-plus",
+      "civilian": "夏夜牵手",
+      "undercover": "夏夜挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0402",
+      "level": "adult-plus",
+      "civilian": "夏夜拥抱",
+      "undercover": "夏夜搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0403",
+      "level": "adult-plus",
+      "civilian": "夏夜对视",
+      "undercover": "夏夜耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0404",
+      "level": "adult-plus",
+      "civilian": "夏夜碰杯",
+      "undercover": "夏夜干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0405",
+      "level": "adult-plus",
+      "civilian": "夏夜微醺",
+      "undercover": "夏夜清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0406",
+      "level": "adult-plus",
+      "civilian": "夏夜靠肩",
+      "undercover": "夏夜贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0407",
+      "level": "adult-plus",
+      "civilian": "夏夜脸红",
+      "undercover": "夏夜心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0408",
+      "level": "adult-plus",
+      "civilian": "夏夜主动",
+      "undercover": "夏夜被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0409",
+      "level": "adult-plus",
+      "civilian": "夏夜暧昧",
+      "undercover": "夏夜直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0410",
+      "level": "adult-plus",
+      "civilian": "夏夜心动",
+      "undercover": "夏夜好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0411",
+      "level": "adult-plus",
+      "civilian": "夏夜约会",
+      "undercover": "夏夜散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0412",
+      "level": "adult-plus",
+      "civilian": "夏夜共舞",
+      "undercover": "夏夜合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0413",
+      "level": "adult-plus",
+      "civilian": "夏夜夸奖",
+      "undercover": "夏夜告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0414",
+      "level": "adult-plus",
+      "civilian": "夏夜试探",
+      "undercover": "夏夜确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0415",
+      "level": "adult-plus",
+      "civilian": "夏夜克制",
+      "undercover": "夏夜热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0416",
+      "level": "adult-plus",
+      "civilian": "夏夜眼神",
+      "undercover": "夏夜声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0417",
+      "level": "adult-plus",
+      "civilian": "夏夜香水",
+      "undercover": "夏夜体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0418",
+      "level": "adult-plus",
+      "civilian": "夏夜浪漫",
+      "undercover": "夏夜刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0419",
+      "level": "adult-plus",
+      "civilian": "夏夜手吻",
+      "undercover": "夏夜额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0420",
+      "level": "adult-plus",
+      "civilian": "夏夜浅抱",
+      "undercover": "夏夜紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0421",
+      "level": "adult-plus",
+      "civilian": "夏夜慢舞",
+      "undercover": "夏夜贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0422",
+      "level": "adult-plus",
+      "civilian": "夏夜低语",
+      "undercover": "夏夜耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0423",
+      "level": "adult-plus",
+      "civilian": "夏夜靠近",
+      "undercover": "夏夜后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0424",
+      "level": "adult-plus",
+      "civilian": "夏夜追问",
+      "undercover": "夏夜沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0425",
+      "level": "adult-plus",
+      "civilian": "夏夜邀约",
+      "undercover": "夏夜赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0426",
+      "level": "adult-plus",
+      "civilian": "冬日牵手",
+      "undercover": "冬日挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0427",
+      "level": "adult-plus",
+      "civilian": "冬日拥抱",
+      "undercover": "冬日搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0428",
+      "level": "adult-plus",
+      "civilian": "冬日对视",
+      "undercover": "冬日耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0429",
+      "level": "adult-plus",
+      "civilian": "冬日碰杯",
+      "undercover": "冬日干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0430",
+      "level": "adult-plus",
+      "civilian": "冬日微醺",
+      "undercover": "冬日清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0431",
+      "level": "adult-plus",
+      "civilian": "冬日靠肩",
+      "undercover": "冬日贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0432",
+      "level": "adult-plus",
+      "civilian": "冬日脸红",
+      "undercover": "冬日心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0433",
+      "level": "adult-plus",
+      "civilian": "冬日主动",
+      "undercover": "冬日被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0434",
+      "level": "adult-plus",
+      "civilian": "冬日暧昧",
+      "undercover": "冬日直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0435",
+      "level": "adult-plus",
+      "civilian": "冬日心动",
+      "undercover": "冬日好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0436",
+      "level": "adult-plus",
+      "civilian": "冬日约会",
+      "undercover": "冬日散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0437",
+      "level": "adult-plus",
+      "civilian": "冬日共舞",
+      "undercover": "冬日合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0438",
+      "level": "adult-plus",
+      "civilian": "冬日夸奖",
+      "undercover": "冬日告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0439",
+      "level": "adult-plus",
+      "civilian": "冬日试探",
+      "undercover": "冬日确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0440",
+      "level": "adult-plus",
+      "civilian": "冬日克制",
+      "undercover": "冬日热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0441",
+      "level": "adult-plus",
+      "civilian": "冬日眼神",
+      "undercover": "冬日声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0442",
+      "level": "adult-plus",
+      "civilian": "冬日香水",
+      "undercover": "冬日体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0443",
+      "level": "adult-plus",
+      "civilian": "冬日浪漫",
+      "undercover": "冬日刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0444",
+      "level": "adult-plus",
+      "civilian": "冬日手吻",
+      "undercover": "冬日额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0445",
+      "level": "adult-plus",
+      "civilian": "冬日浅抱",
+      "undercover": "冬日紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0446",
+      "level": "adult-plus",
+      "civilian": "冬日慢舞",
+      "undercover": "冬日贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0447",
+      "level": "adult-plus",
+      "civilian": "冬日低语",
+      "undercover": "冬日耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0448",
+      "level": "adult-plus",
+      "civilian": "冬日靠近",
+      "undercover": "冬日后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0449",
+      "level": "adult-plus",
+      "civilian": "冬日追问",
+      "undercover": "冬日沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0450",
+      "level": "adult-plus",
+      "civilian": "冬日邀约",
+      "undercover": "冬日赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0451",
+      "level": "adult-plus",
+      "civilian": "清晨牵手",
+      "undercover": "清晨挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0452",
+      "level": "adult-plus",
+      "civilian": "清晨拥抱",
+      "undercover": "清晨搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0453",
+      "level": "adult-plus",
+      "civilian": "清晨对视",
+      "undercover": "清晨耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0454",
+      "level": "adult-plus",
+      "civilian": "清晨碰杯",
+      "undercover": "清晨干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0455",
+      "level": "adult-plus",
+      "civilian": "清晨微醺",
+      "undercover": "清晨清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0456",
+      "level": "adult-plus",
+      "civilian": "清晨靠肩",
+      "undercover": "清晨贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0457",
+      "level": "adult-plus",
+      "civilian": "清晨脸红",
+      "undercover": "清晨心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0458",
+      "level": "adult-plus",
+      "civilian": "清晨主动",
+      "undercover": "清晨被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0459",
+      "level": "adult-plus",
+      "civilian": "清晨暧昧",
+      "undercover": "清晨直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0460",
+      "level": "adult-plus",
+      "civilian": "清晨心动",
+      "undercover": "清晨好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0461",
+      "level": "adult-plus",
+      "civilian": "清晨约会",
+      "undercover": "清晨散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0462",
+      "level": "adult-plus",
+      "civilian": "清晨共舞",
+      "undercover": "清晨合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0463",
+      "level": "adult-plus",
+      "civilian": "清晨夸奖",
+      "undercover": "清晨告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0464",
+      "level": "adult-plus",
+      "civilian": "清晨试探",
+      "undercover": "清晨确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0465",
+      "level": "adult-plus",
+      "civilian": "清晨克制",
+      "undercover": "清晨热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0466",
+      "level": "adult-plus",
+      "civilian": "清晨眼神",
+      "undercover": "清晨声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0467",
+      "level": "adult-plus",
+      "civilian": "清晨香水",
+      "undercover": "清晨体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0468",
+      "level": "adult-plus",
+      "civilian": "清晨浪漫",
+      "undercover": "清晨刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0469",
+      "level": "adult-plus",
+      "civilian": "清晨手吻",
+      "undercover": "清晨额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0470",
+      "level": "adult-plus",
+      "civilian": "清晨浅抱",
+      "undercover": "清晨紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0471",
+      "level": "adult-plus",
+      "civilian": "清晨慢舞",
+      "undercover": "清晨贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0472",
+      "level": "adult-plus",
+      "civilian": "清晨低语",
+      "undercover": "清晨耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0473",
+      "level": "adult-plus",
+      "civilian": "清晨靠近",
+      "undercover": "清晨后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0474",
+      "level": "adult-plus",
+      "civilian": "清晨追问",
+      "undercover": "清晨沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0475",
+      "level": "adult-plus",
+      "civilian": "清晨邀约",
+      "undercover": "清晨赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0476",
+      "level": "adult-plus",
+      "civilian": "午夜牵手",
+      "undercover": "午夜挽手",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0477",
+      "level": "adult-plus",
+      "civilian": "午夜拥抱",
+      "undercover": "午夜搂肩",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0478",
+      "level": "adult-plus",
+      "civilian": "午夜对视",
+      "undercover": "午夜耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0479",
+      "level": "adult-plus",
+      "civilian": "午夜碰杯",
+      "undercover": "午夜干杯",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0480",
+      "level": "adult-plus",
+      "civilian": "午夜微醺",
+      "undercover": "午夜清醒",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": true,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0481",
+      "level": "adult-plus",
+      "civilian": "午夜靠肩",
+      "undercover": "午夜贴近",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0482",
+      "level": "adult-plus",
+      "civilian": "午夜脸红",
+      "undercover": "午夜心跳",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0483",
+      "level": "adult-plus",
+      "civilian": "午夜主动",
+      "undercover": "午夜被动",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0484",
+      "level": "adult-plus",
+      "civilian": "午夜暧昧",
+      "undercover": "午夜直球",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0485",
+      "level": "adult-plus",
+      "civilian": "午夜心动",
+      "undercover": "午夜好感",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0486",
+      "level": "adult-plus",
+      "civilian": "午夜约会",
+      "undercover": "午夜散步",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0487",
+      "level": "adult-plus",
+      "civilian": "午夜共舞",
+      "undercover": "午夜合唱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0488",
+      "level": "adult-plus",
+      "civilian": "午夜夸奖",
+      "undercover": "午夜告白",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0489",
+      "level": "adult-plus",
+      "civilian": "午夜试探",
+      "undercover": "午夜确认",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0490",
+      "level": "adult-plus",
+      "civilian": "午夜克制",
+      "undercover": "午夜热烈",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0491",
+      "level": "adult-plus",
+      "civilian": "午夜眼神",
+      "undercover": "午夜声音",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0492",
+      "level": "adult-plus",
+      "civilian": "午夜香水",
+      "undercover": "午夜体温",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0493",
+      "level": "adult-plus",
+      "civilian": "午夜浪漫",
+      "undercover": "午夜刺激",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0494",
+      "level": "adult-plus",
+      "civilian": "午夜手吻",
+      "undercover": "午夜额吻",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0495",
+      "level": "adult-plus",
+      "civilian": "午夜浅抱",
+      "undercover": "午夜紧抱",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0496",
+      "level": "adult-plus",
+      "civilian": "午夜慢舞",
+      "undercover": "午夜贴舞",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0497",
+      "level": "adult-plus",
+      "civilian": "午夜低语",
+      "undercover": "午夜耳语",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0498",
+      "level": "adult-plus",
+      "civilian": "午夜靠近",
+      "undercover": "午夜后退",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0499",
+      "level": "adult-plus",
+      "civilian": "午夜追问",
+      "undercover": "午夜沉默",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    },
+    {
+      "id": "uc-adult-plus-0500",
+      "level": "adult-plus",
+      "civilian": "午夜邀约",
+      "undercover": "午夜赴约",
+      "theme": "亲密场景",
+      "consentRequired": false,
+      "requirements": {
+        "contact": false,
+        "contactLevel": 0,
+        "kissing": false,
+        "alcohol": false,
+        "pairConsent": false
+      }
+    }
+  ]
+}
