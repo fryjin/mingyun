@@ -1,0 +1,3724 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9-qb-2026.08",
+  "level": 3,
+  "levelLabel": "大胆",
+  "type": "dare",
+  "count": 250,
+  "items": [
+    {
+      "id": "d301",
+      "type": "dare",
+      "level": 3,
+      "text": "选择一位玩家，用三十秒认真说明你欣赏对方的地方。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d302",
+      "type": "dare",
+      "level": 3,
+      "text": "与一位自愿参加的玩家完成二十秒默契动作同步。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d303",
+      "type": "dare",
+      "level": 3,
+      "text": "让现场玩家各说一个词，组成一段即兴告白。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d304",
+      "type": "dare",
+      "level": 3,
+      "text": "选择一位玩家，互相说出对方给自己的第一印象。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d305",
+      "type": "dare",
+      "level": 3,
+      "text": "以“我一直没告诉大家”为开头，讲一件无伤大雅的小事。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d306",
+      "type": "dare",
+      "level": 3,
+      "text": "让一位玩家选择你的表演主题，即兴演三十秒。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d307",
+      "type": "dare",
+      "level": 3,
+      "text": "面对现场所有人，完成一段真诚的十秒感谢。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d308",
+      "type": "dare",
+      "level": 3,
+      "text": "任选一位玩家，给对方设计一句专属应援口号。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d309",
+      "type": "dare",
+      "level": 3,
+      "text": "用偶像剧主角的方式邀请一位玩家与你击掌。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d310",
+      "type": "dare",
+      "level": 3,
+      "text": "让大家投票选出你最适合的角色，并即兴表演。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d311",
+      "type": "dare",
+      "level": 3,
+      "text": "选择一位玩家，轮流说对方优点，先停顿超过三秒的人输。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d312",
+      "type": "dare",
+      "level": 3,
+      "text": "用三十秒讲述一次你真正感到骄傲的经历。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d313",
+      "type": "dare",
+      "level": 3,
+      "text": "让现场玩家替你设计一句个人宣言，并大声念出。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d314",
+      "type": "dare",
+      "level": 3,
+      "text": "选择一位玩家，合作完成一段十五秒即兴广告。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d315",
+      "type": "dare",
+      "level": 3,
+      "text": "认真看向镜头或大家，说一句你现在最需要听到的话。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d316",
+      "type": "dare",
+      "level": 3,
+      "text": "让大家指定一种情绪，你用这种情绪唱一句歌。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d317",
+      "type": "dare",
+      "level": 3,
+      "text": "选择一位玩家，互相为对方取一个只在今晚使用的称号。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d318",
+      "type": "dare",
+      "level": 3,
+      "text": "用发布会口吻宣布自己接下来一个月的小目标。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "v9-d3-1161",
+      "type": "dare",
+      "level": 3,
+      "text": "模拟一次“明知不合适仍然心动”，让大家判断你的角色是真诚还是嘴硬。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1162",
+      "type": "dare",
+      "level": 3,
+      "text": "假装你是关系节目嘉宾，回答：“长期暧昧不表态该不该被原谅？”",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1163",
+      "type": "dare",
+      "level": 3,
+      "text": "把“暧昧结束指南”介绍成今晚最值得参加的节目。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1164",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么独立比依赖更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1165",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位玩家，说出你认为对方在保持边界方面最可能隐藏的优点。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1166",
+      "type": "dare",
+      "level": 3,
+      "text": "把“关系降温后谈清楚”演成一段十秒电影预告。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1167",
+      "type": "dare",
+      "level": 3,
+      "text": "假装你是关系节目嘉宾，回答：“隐瞒重要事实该不该被原谅？”",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1168",
+      "type": "dare",
+      "level": 3,
+      "text": "为“关系修复课程”设计一个夸张标题和一句宣传语。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1169",
+      "type": "dare",
+      "level": 3,
+      "text": "让大家指定一种笨拙风格，你用它说一句虚构告白。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1170",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家和你背对背坐十秒，轮流回答：“谁更怕失去自由？”",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1171",
+      "type": "dare",
+      "level": 3,
+      "text": "表演十五秒“关系降温后谈清楚”的内心独白。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1172",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“关系中是否需要绝对坦白”做二十秒立场陈述，结束时必须给出一个底线。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1173",
+      "type": "dare",
+      "level": 3,
+      "text": "把“关系修复课程”介绍成今晚最值得参加的节目。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1174",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家与你进行十秒“决定保持距离”对话，不发生身体接触。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1175",
+      "type": "dare",
+      "level": 3,
+      "text": "由大家指定一位玩家，你要为对方设计一个“最适合解决误会的人”奖项并颁奖。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1176",
+      "type": "dare",
+      "level": 3,
+      "text": "表演十五秒“在争吵后先道歉”的内心独白。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1177",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话给正在经历“现实条件不合”的人一个大胆但不伤人的建议。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1178",
+      "type": "dare",
+      "level": 3,
+      "text": "为“暧昧结束指南”设计一个夸张标题和一句宣传语。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1179",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家与你进行十秒“误会后的和解”对话，不发生身体接触。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1180",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家和你背对背坐十秒，轮流回答：“谁更看重稳定？”",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1181",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话演出“发现对方隐瞒秘密”，但不能直接说“喜欢”或“离开”。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1182",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话给正在经历“异地犹豫”的人一个大胆但不伤人的建议。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1183",
+      "type": "dare",
+      "level": 3,
+      "text": "用十秒为“重新开始计划”录制一段开场旁白。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1184",
+      "type": "dare",
+      "level": 3,
+      "text": "让大家指定一种悬疑电影风格，你用它说一句虚构告白。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1185",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位玩家，说出你认为对方在照顾别人方面最可能隐藏的优点。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1186",
+      "type": "dare",
+      "level": 3,
+      "text": "把“发现自己吃醋”演成一段十秒电影预告。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1187",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“公开关系是否必要”做二十秒立场陈述，结束时必须给出一个底线。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1188",
+      "type": "dare",
+      "level": 3,
+      "text": "把“吃醋管理课程”介绍成今晚最值得参加的节目。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1189",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位自愿玩家，用不涉及外貌的方式完成一次真人秀采访式夸奖。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1190",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位玩家，说出你认为对方在主动道歉方面最可能隐藏的优点。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1191",
+      "type": "dare",
+      "level": 3,
+      "text": "把“被拒绝后装作轻松”演成一段十秒电影预告。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1192",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“异地是否值得坚持”做二十秒立场陈述，结束时必须给出一个底线。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1193",
+      "type": "dare",
+      "level": 3,
+      "text": "把“成年人约会节目”介绍成今晚最值得参加的节目。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1194",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么安全感比新鲜感更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1195",
+      "type": "dare",
+      "level": 3,
+      "text": "由大家指定一位玩家，你要为对方设计一个“最适合共同创业的人”奖项并颁奖。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1196",
+      "type": "dare",
+      "level": 3,
+      "text": "表演十五秒“想复合但不敢开口”的内心独白。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1197",
+      "type": "dare",
+      "level": 3,
+      "text": "假装你是关系节目嘉宾，回答：“把人当备选该不该被原谅？”",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1198",
+      "type": "dare",
+      "level": 3,
+      "text": "把“异地恋生存手册”介绍成今晚最值得参加的节目。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1199",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么直接表达比慢慢试探更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1200",
+      "type": "dare",
+      "level": 3,
+      "text": "由大家指定一位玩家，你要为对方设计一个“最适合主动道歉的人”奖项并颁奖。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1201",
+      "type": "dare",
+      "level": 3,
+      "text": "模拟一次“想复合但不敢开口”，让大家判断你的角色是真诚还是嘴硬。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1202",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“个人空间是否必须”做二十秒立场陈述，结束时必须给出一个底线。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1203",
+      "type": "dare",
+      "level": 3,
+      "text": "用十秒为“深夜关系播客”录制一段开场旁白。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1204",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么边界比亲密更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1205",
+      "type": "dare",
+      "level": 3,
+      "text": "由大家指定一位玩家，你要为对方设计一个“最适合制造惊喜的人”奖项并颁奖。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1206",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话演出“误会终于解开”，但不能直接说“喜欢”或“离开”。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1207",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“承诺是否必须公开”做二十秒立场陈述，结束时必须给出一个底线。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1208",
+      "type": "dare",
+      "level": 3,
+      "text": "为“边界沟通工作坊”设计一个夸张标题和一句宣传语。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1209",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么原谅比离开更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1210",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家和你背对背坐十秒，轮流回答：“谁更需要个人空间？”",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1211",
+      "type": "dare",
+      "level": 3,
+      "text": "表演十五秒“准备删除联系方式”的内心独白。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1212",
+      "type": "dare",
+      "level": 3,
+      "text": "假装你是关系节目嘉宾，回答：“消失后突然回来该不该被原谅？”",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1213",
+      "type": "dare",
+      "level": 3,
+      "text": "为“失恋恢复指南”设计一个夸张标题和一句宣传语。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1214",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么个人理想比关系稳定更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1215",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位玩家，说出你认为对方在接受拒绝方面最可能隐藏的优点。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1216",
+      "type": "dare",
+      "level": 3,
+      "text": "把“旧情人突然联系”演成一段十秒电影预告。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1217",
+      "type": "dare",
+      "level": 3,
+      "text": "假装你是关系节目嘉宾，回答：“未经允许查看隐私该不该被原谅？”",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1218",
+      "type": "dare",
+      "level": 3,
+      "text": "用十秒为“边界沟通工作坊”录制一段开场旁白。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1219",
+      "type": "dare",
+      "level": 3,
+      "text": "让大家指定一种纪录片风格，你用它说一句虚构告白。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1220",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位玩家，说出你认为对方在给人安全感方面最可能隐藏的优点。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1221",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话演出“关系降温后谈清楚”，但不能直接说“喜欢”或“离开”。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1222",
+      "type": "dare",
+      "level": 3,
+      "text": "假装你是关系节目嘉宾，回答：“公开他人秘密该不该被原谅？”",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1223",
+      "type": "dare",
+      "level": 3,
+      "text": "为“虚构恋爱电影”设计一个夸张标题和一句宣传语。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1224",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位自愿玩家，用不涉及外貌的方式完成一次电影旁白式夸奖。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1225",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家和你背对背坐十秒，轮流回答：“谁更容易口是心非？”",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1226",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话演出“发现自己吃醋”，但不能直接说“喜欢”或“离开”。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1227",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“复合是不是退步”做二十秒立场陈述，结束时必须给出一个底线。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1228",
+      "type": "dare",
+      "level": 3,
+      "text": "把“前任处理手册”介绍成今晚最值得参加的节目。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1229",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么浪漫比实用更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1230",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位玩家，说出你认为对方在面对离别方面最可能隐藏的优点。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1231",
+      "type": "dare",
+      "level": 3,
+      "text": "模拟一次“被拒绝后装作轻松”，让大家判断你的角色是真诚还是嘴硬。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1232",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“道歉能否修复信任”做二十秒立场陈述，结束时必须给出一个底线。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1233",
+      "type": "dare",
+      "level": 3,
+      "text": "把“失恋恢复指南”介绍成今晚最值得参加的节目。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1234",
+      "type": "dare",
+      "level": 3,
+      "text": "让大家指定一种成熟风格，你用它说一句虚构告白。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1235",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位玩家，说出你认为对方在亲密关系方面最可能隐藏的优点。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1236",
+      "type": "dare",
+      "level": 3,
+      "text": "表演十五秒“长期暧昧终于摊牌”的内心独白。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1237",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话给正在经历“被拒绝”的人一个大胆但不伤人的建议。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1238",
+      "type": "dare",
+      "level": 3,
+      "text": "用十秒为“成年人约会节目”录制一段开场旁白。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1239",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么坚持比及时止损更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1240",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位玩家，说出你认为对方在面对冲突方面最可能隐藏的优点。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1241",
+      "type": "dare",
+      "level": 3,
+      "text": "把“准备删除联系方式”演成一段十秒电影预告。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1242",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“分手后能否做朋友”做二十秒立场陈述，结束时必须给出一个底线。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1243",
+      "type": "dare",
+      "level": 3,
+      "text": "为“异地恋生存手册”设计一个夸张标题和一句宣传语。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1244",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位自愿玩家，用不涉及外貌的方式完成一次深夜电台式夸奖。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1245",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家和你背对背坐十秒，轮流回答：“谁更容易吃醋？”",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1246",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话演出“想复合但不敢开口”，但不能直接说“喜欢”或“离开”。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1247",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话给正在经历“关系降温”的人一个大胆但不伤人的建议。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1248",
+      "type": "dare",
+      "level": 3,
+      "text": "用十秒为“失恋恢复指南”录制一段开场旁白。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1249",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么共同目标比当下快乐更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1250",
+      "type": "dare",
+      "level": 3,
+      "text": "看着一位自愿玩家的眼睛五秒，然后用一个词形容当下感受。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1251",
+      "type": "dare",
+      "level": 3,
+      "text": "表演十五秒“不得不告别”的内心独白。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1252",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话给正在经历“朋友变恋人”的人一个大胆但不伤人的建议。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1253",
+      "type": "dare",
+      "level": 3,
+      "text": "用十秒为“吃醋管理课程”录制一段开场旁白。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1254",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位自愿玩家，用不涉及外貌的方式完成一次青春电影式夸奖。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1255",
+      "type": "dare",
+      "level": 3,
+      "text": "由大家指定一位玩家，你要为对方设计一个“最适合长期异地的人”奖项并颁奖。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1256",
+      "type": "dare",
+      "level": 3,
+      "text": "表演十五秒“准备告白却临时退缩”的内心独白。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1257",
+      "type": "dare",
+      "level": 3,
+      "text": "假装你是关系节目嘉宾，回答：“答应后又反悔该不该被原谅？”",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1258",
+      "type": "dare",
+      "level": 3,
+      "text": "用十秒为“前任处理手册”录制一段开场旁白。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1259",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家与你进行十秒“准备分别”对话，不发生身体接触。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1260",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位玩家，说出你认为对方在表达需求方面最可能隐藏的优点。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1261",
+      "type": "dare",
+      "level": 3,
+      "text": "把“误会终于解开”演成一段十秒电影预告。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1262",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话给正在经历“想复合”的人一个大胆但不伤人的建议。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1263",
+      "type": "dare",
+      "level": 3,
+      "text": "用十秒为“虚构恋爱电影”录制一段开场旁白。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1264",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么陪伴比个人空间更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1265",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家和你背对背坐十秒，轮流回答：“谁更容易先道歉？”",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1266",
+      "type": "dare",
+      "level": 3,
+      "text": "模拟一次“旧情人突然联系”，让大家判断你的角色是真诚还是嘴硬。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1267",
+      "type": "dare",
+      "level": 3,
+      "text": "假装你是关系节目嘉宾，回答：“用分手威胁对方该不该被原谅？”",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1268",
+      "type": "dare",
+      "level": 3,
+      "text": "用十秒为“告白训练营”录制一段开场旁白。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1269",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么公开关系比低调保护更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1270",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位玩家，说出你认为对方在处理嫉妒方面最可能隐藏的优点。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1271",
+      "type": "dare",
+      "level": 3,
+      "text": "模拟一次“准备告白却临时退缩”，让大家判断你的角色是真诚还是嘴硬。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1272",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话给正在经历“长期暧昧”的人一个大胆但不伤人的建议。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1273",
+      "type": "dare",
+      "level": 3,
+      "text": "把“边界沟通工作坊”介绍成今晚最值得参加的节目。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1274",
+      "type": "dare",
+      "level": 3,
+      "text": "让大家指定一种喜剧风格，你用它说一句虚构告白。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1275",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家和你背对背坐十秒，轮流回答：“谁更相信一见钟情？”",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1276",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话演出“明知不合适仍然心动”，但不能直接说“喜欢”或“离开”。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1277",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话给正在经历“失恋”的人一个大胆但不伤人的建议。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1278",
+      "type": "dare",
+      "level": 3,
+      "text": "为“深夜关系播客”设计一个夸张标题和一句宣传语。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1279",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家与你进行十秒“朋友突然告白”对话，不发生身体接触。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1280",
+      "type": "dare",
+      "level": 3,
+      "text": "由大家指定一位玩家，你要为对方设计一个“最适合认真恋爱的人”奖项并颁奖。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1281",
+      "type": "dare",
+      "level": 3,
+      "text": "表演十五秒“误会终于解开”的内心独白。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1282",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“朋友能否变恋人”做二十秒立场陈述，结束时必须给出一个底线。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1283",
+      "type": "dare",
+      "level": 3,
+      "text": "为“重新开始计划”设计一个夸张标题和一句宣传语。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1284",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位自愿玩家，用不涉及外貌的方式完成一次职场节目式夸奖。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1285",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位玩家，说出你认为对方在制造浪漫方面最可能隐藏的优点。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1286",
+      "type": "dare",
+      "level": 3,
+      "text": "表演十五秒“被拒绝后装作轻松”的内心独白。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1287",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“长期暧昧是否公平”做二十秒立场陈述，结束时必须给出一个底线。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1288",
+      "type": "dare",
+      "level": 3,
+      "text": "为“告白训练营”设计一个夸张标题和一句宣传语。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1289",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位自愿玩家，用不涉及外貌的方式完成一次复古爱情片式夸奖。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1290",
+      "type": "dare",
+      "level": 3,
+      "text": "由大家指定一位玩家，你要为对方设计一个“最适合陪人走出低谷的人”奖项并颁奖。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1291",
+      "type": "dare",
+      "level": 3,
+      "text": "模拟一次“分手后偶遇”，让大家判断你的角色是真诚还是嘴硬。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1292",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话给正在经历“必须告别”的人一个大胆但不伤人的建议。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1293",
+      "type": "dare",
+      "level": 3,
+      "text": "把“深夜关系播客”介绍成今晚最值得参加的节目。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1294",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么复合比重新开始更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1295",
+      "type": "dare",
+      "level": 3,
+      "text": "由大家指定一位玩家，你要为对方设计一个“最适合守住边界的人”奖项并颁奖。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1296",
+      "type": "dare",
+      "level": 3,
+      "text": "把“明知不合适仍然心动”演成一段十秒电影预告。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1297",
+      "type": "dare",
+      "level": 3,
+      "text": "假装你是关系节目嘉宾，回答：“故意让人吃醋该不该被原谅？”",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1298",
+      "type": "dare",
+      "level": 3,
+      "text": "为“吃醋管理课程”设计一个夸张标题和一句宣传语。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1299",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家与你进行十秒“关系降温谈判”对话，不发生身体接触。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1300",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家和你背对背坐十秒，轮流回答：“谁更可能先告白？”",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1301",
+      "type": "dare",
+      "level": 3,
+      "text": "模拟一次“准备删除联系方式”，让大家判断你的角色是真诚还是嘴硬。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1302",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话给正在经历“家人反对”的人一个大胆但不伤人的建议。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1303",
+      "type": "dare",
+      "level": 3,
+      "text": "把“告白训练营”介绍成今晚最值得参加的节目。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1304",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么稳定比心动更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1305",
+      "type": "dare",
+      "level": 3,
+      "text": "由大家指定一位玩家，你要为对方设计一个“最适合一起旅行的人”奖项并颁奖。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1306",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话演出“分手后偶遇”，但不能直接说“喜欢”或“离开”。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1307",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话给正在经历“单方面付出”的人一个大胆但不伤人的建议。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1308",
+      "type": "dare",
+      "level": 3,
+      "text": "用十秒为“暧昧结束指南”录制一段开场旁白。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1309",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位自愿玩家，用不涉及外貌的方式完成一次成年人喜剧式夸奖。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1310",
+      "type": "dare",
+      "level": 3,
+      "text": "由大家指定一位玩家，你要为对方设计一个“最适合处理危机的人”奖项并颁奖。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1311",
+      "type": "dare",
+      "level": 3,
+      "text": "模拟一次“长期暧昧终于摊牌”，让大家判断你的角色是真诚还是嘴硬。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1312",
+      "type": "dare",
+      "level": 3,
+      "text": "假装你是关系节目嘉宾，回答：“不断比较前任该不该被原谅？”",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1313",
+      "type": "dare",
+      "level": 3,
+      "text": "为“前任处理手册”设计一个夸张标题和一句宣传语。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1314",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么被理解比被选择更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1315",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家和你背对背坐十秒，轮流回答：“谁更会主动沟通？”",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1316",
+      "type": "dare",
+      "level": 3,
+      "text": "把“准备告白却临时退缩”演成一段十秒电影预告。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1317",
+      "type": "dare",
+      "level": 3,
+      "text": "假装你是关系节目嘉宾，回答：“反复失约该不该被原谅？”",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1318",
+      "type": "dare",
+      "level": 3,
+      "text": "用十秒为“关系修复课程”录制一段开场旁白。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1319",
+      "type": "dare",
+      "level": 3,
+      "text": "让大家指定一种深夜电台风格，你用它说一句虚构告白。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1320",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位玩家，说出你认为对方在承担承诺方面最可能隐藏的优点。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1321",
+      "type": "dare",
+      "level": 3,
+      "text": "表演十五秒“发现对方隐瞒秘密”的内心独白。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1322",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“冷静期是否有用”做二十秒立场陈述，结束时必须给出一个底线。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1323",
+      "type": "dare",
+      "level": 3,
+      "text": "用十秒为“异地恋生存手册”录制一段开场旁白。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1324",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家与你进行十秒“前任偶遇”对话，不发生身体接触。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1325",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家和你背对背坐十秒，轮流回答：“谁更擅长保守秘密？”",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1326",
+      "type": "dare",
+      "level": 3,
+      "text": "表演十五秒“旧情人突然联系”的内心独白。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1327",
+      "type": "dare",
+      "level": 3,
+      "text": "假装你是关系节目嘉宾，回答：“情绪冷处理该不该被原谅？”",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1328",
+      "type": "dare",
+      "level": 3,
+      "text": "为“成年人约会节目”设计一个夸张标题和一句宣传语。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1329",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么坦诚比体面更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1330",
+      "type": "dare",
+      "level": 3,
+      "text": "由大家指定一位玩家，你要为对方设计一个“最适合保守秘密的人”奖项并颁奖。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1331",
+      "type": "dare",
+      "level": 3,
+      "text": "把“长期暧昧终于摊牌”演成一段十秒电影预告。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1332",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“朋友意见是否重要”做二十秒立场陈述，结束时必须给出一个底线。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1333",
+      "type": "dare",
+      "level": 3,
+      "text": "把“虚构恋爱电影”介绍成今晚最值得参加的节目。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1334",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位自愿玩家，用不涉及外貌的方式完成一次颁奖典礼式夸奖。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1335",
+      "type": "dare",
+      "level": 3,
+      "text": "由大家指定一位玩家，你要为对方设计一个“最适合照顾宠物的人”奖项并颁奖。",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1336",
+      "type": "dare",
+      "level": 3,
+      "text": "模拟一次“发现自己吃醋”，让大家判断你的角色是真诚还是嘴硬。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1337",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“伴侣是否应共享密码”做二十秒立场陈述，结束时必须给出一个底线。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1338",
+      "type": "dare",
+      "level": 3,
+      "text": "把“重新开始计划”介绍成今晚最值得参加的节目。",
+      "theme": "创意挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "创意",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1339",
+      "type": "dare",
+      "level": 3,
+      "text": "让大家指定一种克制风格，你用它说一句虚构告白。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1340",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家和你背对背坐十秒，轮流回答：“谁更容易复合？”",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1341",
+      "type": "dare",
+      "level": 3,
+      "text": "模拟一次“不得不告别”，让大家判断你的角色是真诚还是嘴硬。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1342",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“前任是否能保持联系”做二十秒立场陈述，结束时必须给出一个底线。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1343",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家与你进行十秒“重新开始”对话，不发生身体接触。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1344",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家和你背对背坐十秒，轮流回答：“谁更擅长制造惊喜？”",
+      "theme": "现场聚焦",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "现场"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1345",
+      "type": "dare",
+      "level": 3,
+      "text": "表演十五秒“发现自己吃醋”的内心独白。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1346",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“吃醋是不是在乎”做二十秒立场陈述，结束时必须给出一个底线。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1347",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位自愿玩家，用不涉及外貌的方式完成一次重逢后式夸奖。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1348",
+      "type": "dare",
+      "level": 3,
+      "text": "把“分手后偶遇”演成一段十秒电影预告。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1349",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话给正在经历“信任破裂”的人一个大胆但不伤人的建议。",
+      "theme": "观点挑战",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1350",
+      "type": "dare",
+      "level": 3,
+      "text": "让大家指定一种复古风格，你用它说一句虚构告白。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1351",
+      "type": "dare",
+      "level": 3,
+      "text": "模拟一次“在争吵后先道歉”，让大家判断你的角色是真诚还是嘴硬。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1352",
+      "type": "dare",
+      "level": 3,
+      "text": "让大家指定一种青春电影风格，你用它说一句虚构告白。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1353",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话演出“旧情人突然联系”，但不能直接说“喜欢”或“离开”。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1354",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么行动比语言更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1355",
+      "type": "dare",
+      "level": 3,
+      "text": "表演十五秒“分手后偶遇”的内心独白。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1356",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位自愿玩家，用不涉及外貌的方式完成一次离别前式夸奖。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1357",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话演出“准备告白却临时退缩”，但不能直接说“喜欢”或“离开”。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1358",
+      "type": "dare",
+      "level": 3,
+      "text": "让大家指定一种嘴硬风格，你用它说一句虚构告白。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1359",
+      "type": "dare",
+      "level": 3,
+      "text": "模拟一次“发现对方隐瞒秘密”，让大家判断你的角色是真诚还是嘴硬。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1360",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么主动比等待更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1361",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话演出“决定保持距离”，但不能直接说“喜欢”或“离开”。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1362",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家与你进行十秒“秘密即将被发现”对话，不发生身体接触。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1363",
+      "type": "dare",
+      "level": 3,
+      "text": "模拟一次“关系降温后谈清楚”，让大家判断你的角色是真诚还是嘴硬。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1364",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么信任比确认更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1365",
+      "type": "dare",
+      "level": 3,
+      "text": "把“不得不告别”演成一段十秒电影预告。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1366",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家与你进行十秒“异地重逢”对话，不发生身体接触。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1367",
+      "type": "dare",
+      "level": 3,
+      "text": "把“决定保持距离”演成一段十秒电影预告。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1368",
+      "type": "dare",
+      "level": 3,
+      "text": "让大家指定一种热烈风格，你用它说一句虚构告白。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1369",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话演出“不得不告别”，但不能直接说“喜欢”或“离开”。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1370",
+      "type": "dare",
+      "level": 3,
+      "text": "让大家指定一种成年人风格，你用它说一句虚构告白。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1371",
+      "type": "dare",
+      "level": 3,
+      "text": "把“发现对方隐瞒秘密”演成一段十秒电影预告。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1372",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家与你进行十秒“第一次单独见面”对话，不发生身体接触。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1373",
+      "type": "dare",
+      "level": 3,
+      "text": "模拟一次“决定保持距离”，让大家判断你的角色是真诚还是嘴硬。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1374",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么自由比承诺更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1375",
+      "type": "dare",
+      "level": 3,
+      "text": "模拟一次“误会终于解开”，让大家判断你的角色是真诚还是嘴硬。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1376",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位自愿玩家，用不涉及外貌的方式完成一次认真告白式夸奖。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1377",
+      "type": "dare",
+      "level": 3,
+      "text": "表演十五秒“决定保持距离”的内心独白。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1378",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家与你进行十秒“共同旅行最后一晚”对话，不发生身体接触。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1379",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话演出“准备删除联系方式”，但不能直接说“喜欢”或“离开”。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1380",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家与你进行十秒“暧昧即将结束”对话，不发生身体接触。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1381",
+      "type": "dare",
+      "level": 3,
+      "text": "表演十五秒“明知不合适仍然心动”的内心独白。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1382",
+      "type": "dare",
+      "level": 3,
+      "text": "用最有说服力的语气解释：“为什么朋友意见比自己的感受更重要？”",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "观点"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1383",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话演出“被拒绝后装作轻松”，但不能直接说“喜欢”或“离开”。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1384",
+      "type": "dare",
+      "level": 3,
+      "text": "选一位自愿玩家，用不涉及外貌的方式完成一次悬疑电影式夸奖。",
+      "theme": "大胆表达",
+      "tags": [
+        "bold",
+        "dare",
+        "互动",
+        "大胆"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1385",
+      "type": "dare",
+      "level": 3,
+      "text": "把“想复合但不敢开口”演成一段十秒电影预告。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1386",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话演出“长期暧昧终于摊牌”，但不能直接说“喜欢”或“离开”。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1387",
+      "type": "dare",
+      "level": 3,
+      "text": "把“在争吵后先道歉”演成一段十秒电影预告。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1388",
+      "type": "dare",
+      "level": 3,
+      "text": "用一句话演出“在争吵后先道歉”，但不能直接说“喜欢”或“离开”。",
+      "theme": "关系表演",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1389",
+      "type": "dare",
+      "level": 3,
+      "text": "用被拒绝后装作轻松风格说一句虚构告白，然后立刻用另一种风格收回。",
+      "theme": "大胆补充",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "补充"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1390",
+      "type": "dare",
+      "level": 3,
+      "text": "用二十秒演出“误会终于解开”，但不能说出事件名称。",
+      "theme": "大胆补充",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "补充"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1391",
+      "type": "dare",
+      "level": 3,
+      "text": "围绕“想复合但不敢说”做一次十五秒立场陈述，并说出你的底线。",
+      "theme": "大胆补充",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "补充"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d3-1392",
+      "type": "dare",
+      "level": 3,
+      "text": "请一位自愿玩家与你完成“分开后偶遇”的十秒无接触对话。",
+      "theme": "大胆补充",
+      "tags": [
+        "bold",
+        "dare",
+        "大胆",
+        "补充"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    }
+  ]
+}

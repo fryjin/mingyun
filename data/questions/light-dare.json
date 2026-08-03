@@ -1,0 +1,3724 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9-qb-2026.08",
+  "level": 1,
+  "levelLabel": "轻松",
+  "type": "dare",
+  "count": 250,
+  "items": [
+    {
+      "id": "d101",
+      "type": "dare",
+      "level": 1,
+      "text": "用三种不同情绪说一遍自己的名字。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d102",
+      "type": "dare",
+      "level": 1,
+      "text": "模仿一种动物，直到有人猜中。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d103",
+      "type": "dare",
+      "level": 1,
+      "text": "用播音员语气介绍现场所有玩家。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d104",
+      "type": "dare",
+      "level": 1,
+      "text": "摆出一个夸张的杂志封面姿势，坚持十秒。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d105",
+      "type": "dare",
+      "level": 1,
+      "text": "用方言或自创口音说一句欢迎词。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d106",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内说出五种带颜色的东西。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d107",
+      "type": "dare",
+      "level": 1,
+      "text": "即兴表演十五秒无声电影。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d108",
+      "type": "dare",
+      "level": 1,
+      "text": "随机夸奖三位玩家，每人一句且不能重复。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d109",
+      "type": "dare",
+      "level": 1,
+      "text": "唱一小段你最熟悉的歌曲。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d110",
+      "type": "dare",
+      "level": 1,
+      "text": "用左手在空中写出自己的名字。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d111",
+      "type": "dare",
+      "level": 1,
+      "text": "模仿一个常见职业，让大家猜。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d112",
+      "type": "dare",
+      "level": 1,
+      "text": "一分钟内避免说“我”字。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d113",
+      "type": "dare",
+      "level": 1,
+      "text": "表演一个慢动作起床过程。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d114",
+      "type": "dare",
+      "level": 1,
+      "text": "用五个表情完成一段小剧情。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d115",
+      "type": "dare",
+      "level": 1,
+      "text": "把身边一件普通物品介绍成奢侈品。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d116",
+      "type": "dare",
+      "level": 1,
+      "text": "说一个冷笑话；没人笑也算完成。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d117",
+      "type": "dare",
+      "level": 1,
+      "text": "模仿现场一位玩家的标志性动作，保持友善。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d118",
+      "type": "dare",
+      "level": 1,
+      "text": "用广告配音方式推荐今晚的聚会。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "v9-d1-0233",
+      "type": "dare",
+      "level": 1,
+      "text": "邀请左边一位玩家和你完成一个同步击掌动作。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0234",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内说出三种能让房间变整洁的东西。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0235",
+      "type": "dare",
+      "level": 1,
+      "text": "把“今晚大家都要开心”用新闻主播风格说一遍。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0236",
+      "type": "dare",
+      "level": 1,
+      "text": "用三个词把一双拖鞋夸成全场最佳。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0237",
+      "type": "dare",
+      "level": 1,
+      "text": "闭眼三秒后，摆出一个代表偷偷摸摸的姿势。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0238",
+      "type": "dare",
+      "level": 1,
+      "text": "给右边一位玩家一个具体、不重复的夸奖。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0239",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句没有“我”字的话表达可以送人的东西。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0240",
+      "type": "dare",
+      "level": 1,
+      "text": "模仿美食博主刚刚发现一件惊喜时的反应。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0241",
+      "type": "dare",
+      "level": 1,
+      "text": "为一包纸巾设计一句不超过十二字的广告语。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0242",
+      "type": "dare",
+      "level": 1,
+      "text": "闭眼三秒后，摆出一个代表模特定格的姿势。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0243",
+      "type": "dare",
+      "level": 1,
+      "text": "给左边一位玩家一个具体、不重复的夸奖。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0244",
+      "type": "dare",
+      "level": 1,
+      "text": "连续说三遍“会发出声音的东西”，每遍换一种情绪。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0245",
+      "type": "dare",
+      "level": 1,
+      "text": "把“今晚大家都要开心”用纪录片旁白风格说一遍。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0246",
+      "type": "dare",
+      "level": 1,
+      "text": "给一双拖鞋取一个夸张但好记的新名字。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0247",
+      "type": "dare",
+      "level": 1,
+      "text": "保持认真思考姿势五秒，并说出一种喜欢的食物。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0248",
+      "type": "dare",
+      "level": 1,
+      "text": "选由大家指定的一位玩家，为对方设计一个友好称号。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0249",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内说出三种适合旅行的物品。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0250",
+      "type": "dare",
+      "level": 1,
+      "text": "模仿客服人员刚刚发现一件惊喜时的反应。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0251",
+      "type": "dare",
+      "level": 1,
+      "text": "给你的手机壳取一个夸张但好记的新名字。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0252",
+      "type": "dare",
+      "level": 1,
+      "text": "保持超级英雄姿势五秒，并说出一种喜欢的食物。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0253",
+      "type": "dare",
+      "level": 1,
+      "text": "给今天最早到场的一位玩家一个具体、不重复的夸奖。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0254",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内说出三种需要耐心的事情。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0255",
+      "type": "dare",
+      "level": 1,
+      "text": "模仿颁奖嘉宾刚刚发现一件惊喜时的反应。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0256",
+      "type": "dare",
+      "level": 1,
+      "text": "给今晚的聚会取一个夸张但好记的新名字。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0257",
+      "type": "dare",
+      "level": 1,
+      "text": "闭眼三秒后，摆出一个代表认真思考的姿势。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0258",
+      "type": "dare",
+      "level": 1,
+      "text": "对左边一位玩家说一句适合写在鼓励卡上的话。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0259",
+      "type": "dare",
+      "level": 1,
+      "text": "连续说三遍“蓝色的东西”，每遍换一种情绪。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0260",
+      "type": "dare",
+      "level": 1,
+      "text": "模仿动画角色刚刚发现一件惊喜时的反应。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0261",
+      "type": "dare",
+      "level": 1,
+      "text": "用三个词把一个空纸盒夸成全场最佳。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0262",
+      "type": "dare",
+      "level": 1,
+      "text": "不用站起来，用上半身演出胜利。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0263",
+      "type": "dare",
+      "level": 1,
+      "text": "邀请右边一位玩家和你完成一个同步击掌动作。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0264",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内说出三种适合下雨天做的事。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0265",
+      "type": "dare",
+      "level": 1,
+      "text": "把“今晚大家都要开心”用动画角色风格说一遍。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0266",
+      "type": "dare",
+      "level": 1,
+      "text": "用三个词把桌上的零食夸成全场最佳。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0267",
+      "type": "dare",
+      "level": 1,
+      "text": "保持打瞌睡姿势五秒，并说出一种喜欢的食物。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0268",
+      "type": "dare",
+      "level": 1,
+      "text": "选与你名字字数相同的一位玩家，为对方设计一个友好称号。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0269",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句没有“我”字的话表达会发出声音的东西。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0270",
+      "type": "dare",
+      "level": 1,
+      "text": "模仿体育解说刚刚发现一件惊喜时的反应。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0271",
+      "type": "dare",
+      "level": 1,
+      "text": "用三个词把今晚的聚会夸成全场最佳。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0272",
+      "type": "dare",
+      "level": 1,
+      "text": "闭眼三秒后，摆出一个代表超级英雄的姿势。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0273",
+      "type": "dare",
+      "level": 1,
+      "text": "给与你名字字数相同的一位玩家一个具体、不重复的夸奖。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0274",
+      "type": "dare",
+      "level": 1,
+      "text": "连续说三遍“适合周末的活动”，每遍换一种情绪。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0275",
+      "type": "dare",
+      "level": 1,
+      "text": "用天气预报员的语气介绍自己十秒。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0276",
+      "type": "dare",
+      "level": 1,
+      "text": "假装正在直播带货，用十秒介绍一个空纸盒。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0277",
+      "type": "dare",
+      "level": 1,
+      "text": "不用站起来，用上半身演出偷偷摸摸。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0278",
+      "type": "dare",
+      "level": 1,
+      "text": "选今天最早到场的一位玩家，为对方设计一个友好称号。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0279",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句没有“我”字的话表达适合旅行的物品。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0280",
+      "type": "dare",
+      "level": 1,
+      "text": "用体育解说的语气介绍自己十秒。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0281",
+      "type": "dare",
+      "level": 1,
+      "text": "给一盏灯取一个夸张但好记的新名字。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0282",
+      "type": "dare",
+      "level": 1,
+      "text": "闭眼三秒后，摆出一个代表起飞的姿势。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0283",
+      "type": "dare",
+      "level": 1,
+      "text": "邀请由大家指定的一位玩家和你完成一个同步击掌动作。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0284",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句没有“我”字的话表达适合下雨天做的事。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0285",
+      "type": "dare",
+      "level": 1,
+      "text": "把“今晚大家都要开心”用幼儿园老师风格说一遍。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0286",
+      "type": "dare",
+      "level": 1,
+      "text": "为一个空纸盒设计一句不超过十二字的广告语。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0287",
+      "type": "dare",
+      "level": 1,
+      "text": "闭眼三秒后，摆出一个代表开心庆祝的姿势。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0288",
+      "type": "dare",
+      "level": 1,
+      "text": "邀请与你名字字数相同的一位玩家和你完成一个同步击掌动作。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0289",
+      "type": "dare",
+      "level": 1,
+      "text": "连续说三遍“适合下雨天做的事”，每遍换一种情绪。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0290",
+      "type": "dare",
+      "level": 1,
+      "text": "用幼儿园老师的语气介绍自己十秒。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0291",
+      "type": "dare",
+      "level": 1,
+      "text": "假装正在直播带货，用十秒介绍一只普通水杯。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0292",
+      "type": "dare",
+      "level": 1,
+      "text": "保持模特定格姿势五秒，并说出一种喜欢的食物。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0293",
+      "type": "dare",
+      "level": 1,
+      "text": "选右边一位玩家，为对方设计一个友好称号。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0294",
+      "type": "dare",
+      "level": 1,
+      "text": "把“适合旅行的物品”倒过来慢慢读一遍，读错也算完成。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0295",
+      "type": "dare",
+      "level": 1,
+      "text": "用动作演出动画角色，让大家在十五秒内猜。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0296",
+      "type": "dare",
+      "level": 1,
+      "text": "用三个词把你的手机壳夸成全场最佳。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0297",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内完成三个不同的惊讶动作。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0298",
+      "type": "dare",
+      "level": 1,
+      "text": "给由大家指定的一位玩家一个具体、不重复的夸奖。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0299",
+      "type": "dare",
+      "level": 1,
+      "text": "把“会发出声音的东西”倒过来慢慢读一遍，读错也算完成。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0300",
+      "type": "dare",
+      "level": 1,
+      "text": "用动作演出纪录片旁白，让大家在十五秒内猜。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0301",
+      "type": "dare",
+      "level": 1,
+      "text": "给一个空纸盒取一个夸张但好记的新名字。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0302",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内完成三个不同的打瞌睡动作。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0303",
+      "type": "dare",
+      "level": 1,
+      "text": "邀请今天最早到场的一位玩家和你完成一个同步击掌动作。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0304",
+      "type": "dare",
+      "level": 1,
+      "text": "把“圆形的东西”倒过来慢慢读一遍，读错也算完成。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0305",
+      "type": "dare",
+      "level": 1,
+      "text": "用动作演出幼儿园老师，让大家在十五秒内猜。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0306",
+      "type": "dare",
+      "level": 1,
+      "text": "为你的手机壳设计一句不超过十二字的广告语。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0307",
+      "type": "dare",
+      "level": 1,
+      "text": "不用站起来，用上半身演出超级英雄。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0308",
+      "type": "dare",
+      "level": 1,
+      "text": "选左边一位玩家，为对方设计一个友好称号。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0309",
+      "type": "dare",
+      "level": 1,
+      "text": "连续说三遍“让人开心的小事”，每遍换一种情绪。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0310",
+      "type": "dare",
+      "level": 1,
+      "text": "把“今晚大家都要开心”用颁奖嘉宾风格说一遍。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0311",
+      "type": "dare",
+      "level": 1,
+      "text": "给一包纸巾取一个夸张但好记的新名字。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0312",
+      "type": "dare",
+      "level": 1,
+      "text": "保持发现宝藏姿势五秒，并说出一种喜欢的食物。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0313",
+      "type": "dare",
+      "level": 1,
+      "text": "对今天最早到场的一位玩家说一句适合写在鼓励卡上的话。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0314",
+      "type": "dare",
+      "level": 1,
+      "text": "把“适合下雨天做的事”倒过来慢慢读一遍，读错也算完成。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0315",
+      "type": "dare",
+      "level": 1,
+      "text": "用动作演出颁奖嘉宾，让大家在十五秒内猜。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0316",
+      "type": "dare",
+      "level": 1,
+      "text": "为一双拖鞋设计一句不超过十二字的广告语。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0317",
+      "type": "dare",
+      "level": 1,
+      "text": "不用站起来，用上半身演出认真思考。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0318",
+      "type": "dare",
+      "level": 1,
+      "text": "对与你名字字数相同的一位玩家说一句适合写在鼓励卡上的话。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0319",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句没有“我”字的话表达圆形的东西。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0320",
+      "type": "dare",
+      "level": 1,
+      "text": "用科幻电影机器人的语气介绍自己十秒。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0321",
+      "type": "dare",
+      "level": 1,
+      "text": "假装正在直播带货，用十秒介绍一把椅子。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0322",
+      "type": "dare",
+      "level": 1,
+      "text": "闭眼三秒后，摆出一个代表胜利的姿势。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0323",
+      "type": "dare",
+      "level": 1,
+      "text": "对由大家指定的一位玩家说一句适合写在鼓励卡上的话。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0324",
+      "type": "dare",
+      "level": 1,
+      "text": "连续说三遍“可以送人的东西”，每遍换一种情绪。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0325",
+      "type": "dare",
+      "level": 1,
+      "text": "模仿导游刚刚发现一件惊喜时的反应。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0326",
+      "type": "dare",
+      "level": 1,
+      "text": "为一盏灯设计一句不超过十二字的广告语。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0327",
+      "type": "dare",
+      "level": 1,
+      "text": "保持起飞姿势五秒，并说出一种喜欢的食物。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0328",
+      "type": "dare",
+      "level": 1,
+      "text": "对右边一位玩家说一句适合写在鼓励卡上的话。",
+      "theme": "友好互动",
+      "tags": [
+        "dare",
+        "light",
+        "互动",
+        "轻松"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0329",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句没有“我”字的话表达让人开心的小事。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0330",
+      "type": "dare",
+      "level": 1,
+      "text": "把“今晚大家都要开心”用魔术师风格说一遍。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0331",
+      "type": "dare",
+      "level": 1,
+      "text": "为一把椅子设计一句不超过十二字的广告语。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0332",
+      "type": "dare",
+      "level": 1,
+      "text": "闭眼三秒后，摆出一个代表惊讶的姿势。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0333",
+      "type": "dare",
+      "level": 1,
+      "text": "连续说三遍“适合旅行的物品”，每遍换一种情绪。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0334",
+      "type": "dare",
+      "level": 1,
+      "text": "用动画角色的语气介绍自己十秒。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0335",
+      "type": "dare",
+      "level": 1,
+      "text": "给一只普通水杯取一个夸张但好记的新名字。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0336",
+      "type": "dare",
+      "level": 1,
+      "text": "保持开心庆祝姿势五秒，并说出一种喜欢的食物。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0337",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句没有“我”字的话表达需要耐心的事情。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0338",
+      "type": "dare",
+      "level": 1,
+      "text": "用动作演出新闻主播，让大家在十五秒内猜。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0339",
+      "type": "dare",
+      "level": 1,
+      "text": "假装正在直播带货，用十秒介绍一盏灯。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0340",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内完成三个不同的起飞动作。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0341",
+      "type": "dare",
+      "level": 1,
+      "text": "连续说三遍“需要耐心的事情”，每遍换一种情绪。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0342",
+      "type": "dare",
+      "level": 1,
+      "text": "把“今晚大家都要开心”用体育解说风格说一遍。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0343",
+      "type": "dare",
+      "level": 1,
+      "text": "假装正在直播带货，用十秒介绍身边的抱枕。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0344",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内完成三个不同的开心庆祝动作。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0345",
+      "type": "dare",
+      "level": 1,
+      "text": "把“需要耐心的事情”倒过来慢慢读一遍，读错也算完成。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0346",
+      "type": "dare",
+      "level": 1,
+      "text": "用动作演出美食博主，让大家在十五秒内猜。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0347",
+      "type": "dare",
+      "level": 1,
+      "text": "用三个词把一盏灯夸成全场最佳。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0348",
+      "type": "dare",
+      "level": 1,
+      "text": "不用站起来，用上半身演出起飞。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0349",
+      "type": "dare",
+      "level": 1,
+      "text": "把“蓝色的东西”倒过来慢慢读一遍，读错也算完成。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0350",
+      "type": "dare",
+      "level": 1,
+      "text": "用魔术师的语气介绍自己十秒。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0351",
+      "type": "dare",
+      "level": 1,
+      "text": "用三个词把一只普通水杯夸成全场最佳。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0352",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内完成三个不同的认真思考动作。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0353",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内说出三种适合周末的活动。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0354",
+      "type": "dare",
+      "level": 1,
+      "text": "把“今晚大家都要开心”用美食博主风格说一遍。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0355",
+      "type": "dare",
+      "level": 1,
+      "text": "用三个词把一把椅子夸成全场最佳。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0356",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内完成三个不同的超级英雄动作。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0357",
+      "type": "dare",
+      "level": 1,
+      "text": "把“让人开心的小事”倒过来慢慢读一遍，读错也算完成。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0358",
+      "type": "dare",
+      "level": 1,
+      "text": "模仿新闻主播刚刚发现一件惊喜时的反应。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0359",
+      "type": "dare",
+      "level": 1,
+      "text": "为桌上的零食设计一句不超过十二字的广告语。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0360",
+      "type": "dare",
+      "level": 1,
+      "text": "不用站起来，用上半身演出模特定格。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0361",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句没有“我”字的话表达适合周末的活动。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0362",
+      "type": "dare",
+      "level": 1,
+      "text": "用新闻主播的语气介绍自己十秒。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0363",
+      "type": "dare",
+      "level": 1,
+      "text": "用三个词把一包纸巾夸成全场最佳。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0364",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内完成三个不同的偷偷摸摸动作。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0365",
+      "type": "dare",
+      "level": 1,
+      "text": "把“能让房间变整洁的东西”倒过来慢慢读一遍，读错也算完成。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0366",
+      "type": "dare",
+      "level": 1,
+      "text": "用客服人员的语气介绍自己十秒。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0367",
+      "type": "dare",
+      "level": 1,
+      "text": "假装正在直播带货，用十秒介绍桌上的零食。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0368",
+      "type": "dare",
+      "level": 1,
+      "text": "不用站起来，用上半身演出开心庆祝。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0369",
+      "type": "dare",
+      "level": 1,
+      "text": "连续说三遍“圆形的东西”，每遍换一种情绪。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0370",
+      "type": "dare",
+      "level": 1,
+      "text": "用颁奖嘉宾的语气介绍自己十秒。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0371",
+      "type": "dare",
+      "level": 1,
+      "text": "假装正在直播带货，用十秒介绍你的手机壳。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0372",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内完成三个不同的模特定格动作。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0373",
+      "type": "dare",
+      "level": 1,
+      "text": "把“适合周末的活动”倒过来慢慢读一遍，读错也算完成。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0374",
+      "type": "dare",
+      "level": 1,
+      "text": "用纪录片旁白的语气介绍自己十秒。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0375",
+      "type": "dare",
+      "level": 1,
+      "text": "给桌上的零食取一个夸张但好记的新名字。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0376",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内完成三个不同的胜利动作。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0377",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内说出三种蓝色的东西。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0378",
+      "type": "dare",
+      "level": 1,
+      "text": "模仿幼儿园老师刚刚发现一件惊喜时的反应。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0379",
+      "type": "dare",
+      "level": 1,
+      "text": "为身边的抱枕设计一句不超过十二字的广告语。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0380",
+      "type": "dare",
+      "level": 1,
+      "text": "保持胜利姿势五秒，并说出一种喜欢的食物。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0381",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句没有“我”字的话表达蓝色的东西。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0382",
+      "type": "dare",
+      "level": 1,
+      "text": "用动作演出导游，让大家在十五秒内猜。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0383",
+      "type": "dare",
+      "level": 1,
+      "text": "给身边的抱枕取一个夸张但好记的新名字。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0384",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内完成三个不同的发现宝藏动作。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0385",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句没有“我”字的话表达能让房间变整洁的东西。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0386",
+      "type": "dare",
+      "level": 1,
+      "text": "模仿天气预报员刚刚发现一件惊喜时的反应。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0387",
+      "type": "dare",
+      "level": 1,
+      "text": "假装正在直播带货，用十秒介绍一包纸巾。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0388",
+      "type": "dare",
+      "level": 1,
+      "text": "不用站起来，用上半身演出打瞌睡。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0389",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内说出三种让人开心的小事。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0390",
+      "type": "dare",
+      "level": 1,
+      "text": "把“今晚大家都要开心”用天气预报员风格说一遍。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0391",
+      "type": "dare",
+      "level": 1,
+      "text": "为一只普通水杯设计一句不超过十二字的广告语。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0392",
+      "type": "dare",
+      "level": 1,
+      "text": "不用站起来，用上半身演出发现宝藏。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0393",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内说出三种会发出声音的东西。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0394",
+      "type": "dare",
+      "level": 1,
+      "text": "模仿科幻电影机器人刚刚发现一件惊喜时的反应。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0395",
+      "type": "dare",
+      "level": 1,
+      "text": "用三个词把身边的抱枕夸成全场最佳。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0396",
+      "type": "dare",
+      "level": 1,
+      "text": "闭眼三秒后，摆出一个代表发现宝藏的姿势。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0397",
+      "type": "dare",
+      "level": 1,
+      "text": "连续说三遍“能让房间变整洁的东西”，每遍换一种情绪。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0398",
+      "type": "dare",
+      "level": 1,
+      "text": "用动作演出客服人员，让大家在十五秒内猜。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0399",
+      "type": "dare",
+      "level": 1,
+      "text": "假装正在直播带货，用十秒介绍今晚的聚会。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0400",
+      "type": "dare",
+      "level": 1,
+      "text": "不用站起来，用上半身演出惊讶。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0401",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内说出三种可以送人的东西。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0402",
+      "type": "dare",
+      "level": 1,
+      "text": "用导游的语气介绍自己十秒。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0403",
+      "type": "dare",
+      "level": 1,
+      "text": "假装正在直播带货，用十秒介绍一双拖鞋。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0404",
+      "type": "dare",
+      "level": 1,
+      "text": "保持惊讶姿势五秒，并说出一种喜欢的食物。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0405",
+      "type": "dare",
+      "level": 1,
+      "text": "把“可以送人的东西”倒过来慢慢读一遍，读错也算完成。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0406",
+      "type": "dare",
+      "level": 1,
+      "text": "用动作演出魔术师，让大家在十五秒内猜。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0407",
+      "type": "dare",
+      "level": 1,
+      "text": "为今晚的聚会设计一句不超过十二字的广告语。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0408",
+      "type": "dare",
+      "level": 1,
+      "text": "保持偷偷摸摸姿势五秒，并说出一种喜欢的食物。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0409",
+      "type": "dare",
+      "level": 1,
+      "text": "在十秒内说出三种圆形的东西。",
+      "theme": "语言小游戏",
+      "tags": [
+        "dare",
+        "light",
+        "语言",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0410",
+      "type": "dare",
+      "level": 1,
+      "text": "用美食博主的语气介绍自己十秒。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0411",
+      "type": "dare",
+      "level": 1,
+      "text": "给一把椅子取一个夸张但好记的新名字。",
+      "theme": "创意表达",
+      "tags": [
+        "dare",
+        "light",
+        "创意",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0412",
+      "type": "dare",
+      "level": 1,
+      "text": "闭眼三秒后，摆出一个代表打瞌睡的姿势。",
+      "theme": "动作挑战",
+      "tags": [
+        "dare",
+        "light",
+        "动作",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0413",
+      "type": "dare",
+      "level": 1,
+      "text": "用动作演出科幻电影机器人，让大家在十五秒内猜。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0414",
+      "type": "dare",
+      "level": 1,
+      "text": "模仿魔术师刚刚发现一件惊喜时的反应。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0415",
+      "type": "dare",
+      "level": 1,
+      "text": "把“今晚大家都要开心”用科幻电影机器人风格说一遍。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0416",
+      "type": "dare",
+      "level": 1,
+      "text": "用动作演出体育解说，让大家在十五秒内猜。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0417",
+      "type": "dare",
+      "level": 1,
+      "text": "把“今晚大家都要开心”用客服人员风格说一遍。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0418",
+      "type": "dare",
+      "level": 1,
+      "text": "模仿纪录片旁白刚刚发现一件惊喜时的反应。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0419",
+      "type": "dare",
+      "level": 1,
+      "text": "把“今晚大家都要开心”用导游风格说一遍。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0420",
+      "type": "dare",
+      "level": 1,
+      "text": "用动作演出天气预报员，让大家在十五秒内猜。",
+      "theme": "表演模仿",
+      "tags": [
+        "dare",
+        "light",
+        "表演",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0421",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句押韵的话形容找到丢失的东西。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0422",
+      "type": "dare",
+      "level": 1,
+      "text": "用宇航员的方式向大家推荐让房间更舒服的物品。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0423",
+      "type": "dare",
+      "level": 1,
+      "text": "在不离开座位的情况下，用三个动作表现探险家。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0424",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句押韵的话形容突然想起一件事。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0425",
+      "type": "dare",
+      "level": 1,
+      "text": "用侦探的方式向大家推荐甜味食物。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0426",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句押韵的话形容准备出发旅行。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0427",
+      "type": "dare",
+      "level": 1,
+      "text": "闭眼两秒后，摆出一个“完成困难任务”的表情。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0428",
+      "type": "dare",
+      "level": 1,
+      "text": "假装你正在侦探，用动作演出甜味食物。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0429",
+      "type": "dare",
+      "level": 1,
+      "text": "闭眼两秒后，摆出一个“收到好消息”的表情。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0430",
+      "type": "dare",
+      "level": 1,
+      "text": "在不离开座位的情况下，用三个动作表现电影导演。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0431",
+      "type": "dare",
+      "level": 1,
+      "text": "用电影导演的方式向大家推荐夏天常见的东西。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0432",
+      "type": "dare",
+      "level": 1,
+      "text": "用舞台主持人的方式向大家推荐夏天常见的东西。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0433",
+      "type": "dare",
+      "level": 1,
+      "text": "闭眼两秒后，摆出一个“发现惊喜”的表情。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0434",
+      "type": "dare",
+      "level": 1,
+      "text": "为诗人编一句适合旅行的东西风格口号，并大声说出来。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0435",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句押韵的话形容终于下班。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0436",
+      "type": "dare",
+      "level": 1,
+      "text": "用机场广播员的方式向大家推荐会发光的东西。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0437",
+      "type": "dare",
+      "level": 1,
+      "text": "为舞台主持人编一句能送人的小东西风格口号，并大声说出来。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0438",
+      "type": "dare",
+      "level": 1,
+      "text": "连续做出“看到喜欢的食物、紧张、惊讶”三种表情，每种保持两秒。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0439",
+      "type": "dare",
+      "level": 1,
+      "text": "在不离开座位的情况下，用三个动作表现机场广播员。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0440",
+      "type": "dare",
+      "level": 1,
+      "text": "连续做出“收到好消息、疑惑、困倦”三种表情，每种保持两秒。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0441",
+      "type": "dare",
+      "level": 1,
+      "text": "假装你正在电影导演，用动作演出需要耐心的事。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0442",
+      "type": "dare",
+      "level": 1,
+      "text": "用电影导演的方式向大家推荐圆形物品。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0443",
+      "type": "dare",
+      "level": 1,
+      "text": "用探险家的方式向大家推荐适合旅行的东西。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0444",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句押韵的话形容完成困难任务。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0445",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句押韵的话形容中了大奖。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0446",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句押韵的话形容发现惊喜。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0447",
+      "type": "dare",
+      "level": 1,
+      "text": "用动物园讲解员语气在十秒内说出三种需要耐心的事。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0448",
+      "type": "dare",
+      "level": 1,
+      "text": "为侦探编一句周末活动风格口号，并大声说出来。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0449",
+      "type": "dare",
+      "level": 1,
+      "text": "闭眼两秒后，摆出一个“中了大奖”的表情。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0450",
+      "type": "dare",
+      "level": 1,
+      "text": "用厨师语气在十秒内说出三种圆形物品。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0451",
+      "type": "dare",
+      "level": 1,
+      "text": "用舞台主持人语气在十秒内说出三种能送人的小东西。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0452",
+      "type": "dare",
+      "level": 1,
+      "text": "连续做出“突然想起一件事、放松、惊讶”三种表情，每种保持两秒。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0453",
+      "type": "dare",
+      "level": 1,
+      "text": "假装你正在舞台主持人，用动作演出能送人的小东西。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0454",
+      "type": "dare",
+      "level": 1,
+      "text": "假装你正在探险家，用动作演出周末活动。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0455",
+      "type": "dare",
+      "level": 1,
+      "text": "连续做出“突然想起一件事、开心、困倦”三种表情，每种保持两秒。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0456",
+      "type": "dare",
+      "level": 1,
+      "text": "假装你正在诗人，用动作演出让房间更舒服的物品。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0457",
+      "type": "dare",
+      "level": 1,
+      "text": "用一句押韵的话形容被朋友夸奖。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0458",
+      "type": "dare",
+      "level": 1,
+      "text": "连续做出“突然想起一件事、开心、惊讶”三种表情，每种保持两秒。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0459",
+      "type": "dare",
+      "level": 1,
+      "text": "为探险家编一句圆形物品风格口号，并大声说出来。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0460",
+      "type": "dare",
+      "level": 1,
+      "text": "在不离开座位的情况下，用三个动作表现诗人。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0461",
+      "type": "dare",
+      "level": 1,
+      "text": "用机场广播员的方式向大家推荐夏天常见的东西。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0462",
+      "type": "dare",
+      "level": 1,
+      "text": "用舞台主持人语气在十秒内说出三种周末活动。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0463",
+      "type": "dare",
+      "level": 1,
+      "text": "用游戏主播的方式向大家推荐周末活动。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d1-0464",
+      "type": "dare",
+      "level": 1,
+      "text": "闭眼两秒后，摆出一个“准备出发旅行”的表情。",
+      "theme": "轻松补充",
+      "tags": [
+        "dare",
+        "light",
+        "补充",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    }
+  ]
+}

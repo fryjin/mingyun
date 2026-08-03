@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9-qb-2026.08",
+  "generatedAt": "2026-08-03",
+  "description": "今晚谁遭殃 V9 共享真心话/大冒险惩罚题库。普通三档各 500 道，成人档 2000 道。",
+  "totals": {
+    "all": 3500,
+    "light": 500,
+    "standard": 500,
+    "bold": 500,
+    "adult": 2000,
+    "truth": 1750,
+    "dare": 1750
+  },
+  "files": [
+    {
+      "file": "data/questions/light-truth.json",
+      "level": 1,
+      "type": "truth",
+      "count": 250,
+      "sha256": "045278fba2f5fbec70a2cc96eeb92ecf0b5ba96b631540ca005b346bd8fa7bc5",
+      "bytes": 86224
+    },
+    {
+      "file": "data/questions/light-dare.json",
+      "level": 1,
+      "type": "dare",
+      "count": 250,
+      "sha256": "88e20d7b7795973deaec5c37e79de7e9199e23202405101987edd0870fbb5159",
+      "bytes": 85208
+    },
+    {
+      "file": "data/questions/standard-truth.json",
+      "level": 2,
+      "type": "truth",
+      "count": 250,
+      "sha256": "878d3d69379c60e66bf1cd7b9cf25ab7f5d93d749de6aa1641f1adceb0b2f89d",
+      "bytes": 88579
+    },
+    {
+      "file": "data/questions/standard-dare.json",
+      "level": 2,
+      "type": "dare",
+      "count": 250,
+      "sha256": "7fae847419ffab74e6f42e6e3e6fa02c710e4a0eca2334e6b46c8ce5a54b6b4a",
+      "bytes": 90413
+    },
+    {
+      "file": "data/questions/bold-truth.json",
+      "level": 3,
+      "type": "truth",
+      "count": 250,
+      "sha256": "09ae260f7f2d27c78df817226fb7afdda4697f1181d982e10f45aa6b5be8226b",
+      "bytes": 88977
+    },
+    {
+      "file": "data/questions/bold-dare.json",
+      "level": 3,
+      "type": "dare",
+      "count": 250,
+      "sha256": "fc192da79879067ec0d57ddc81e6cad1861c6de2b4698601fe47f383bb247f3f",
+      "bytes": 90439
+    },
+    {
+      "file": "data/questions/adult-truth.json",
+      "level": 4,
+      "type": "truth",
+      "count": 1000,
+      "sha256": "7213ffe9273383b6a9f54e370ef19f27beb300536a0e2c91d3481460cf0baf94",
+      "bytes": 332463
+    },
+    {
+      "file": "data/questions/adult-dare.json",
+      "level": 4,
+      "type": "dare",
+      "count": 1000,
+      "sha256": "aba6fd6d89679e8c738aa489293039a9de67eafbf6098918c2e87a43507734b7",
+      "bytes": 338493
+    }
+  ],
+  "loadingPolicy": {
+    "core": "按用户选择的档位与题型加载单个 JSON 文件",
+    "adult": "仅在完成 18+ 与自愿确认后加载 adult-truth.json / adult-dare.json",
+    "cache": "首次使用后由 Service Worker 缓存，不加入首屏预缓存"
+  }
+}

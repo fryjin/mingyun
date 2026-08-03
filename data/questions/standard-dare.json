@@ -1,0 +1,3724 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9-qb-2026.08",
+  "level": 2,
+  "levelLabel": "标准",
+  "type": "dare",
+  "count": 250,
+  "items": [
+    {
+      "id": "d201",
+      "type": "dare",
+      "level": 2,
+      "text": "选择一位玩家，与对方进行十五秒不笑对视。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d202",
+      "type": "dare",
+      "level": 2,
+      "text": "让大家给你三个关键词，并立即编成一句自我介绍。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d203",
+      "type": "dare",
+      "level": 2,
+      "text": "即兴跳舞二十秒，其他人负责打拍子。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d204",
+      "type": "dare",
+      "level": 2,
+      "text": "演一段偶像剧式告白，对象可以是一件物品。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d205",
+      "type": "dare",
+      "level": 2,
+      "text": "选择一位玩家，认真说出对方三个优点。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d206",
+      "type": "dare",
+      "level": 2,
+      "text": "用夸张情绪朗读屏幕上的这条惩罚。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d207",
+      "type": "dare",
+      "level": 2,
+      "text": "让现场玩家为你设计一个新昵称，本轮内使用。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d208",
+      "type": "dare",
+      "level": 2,
+      "text": "用三十秒表演“迟到后努力解释”的场景。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d209",
+      "type": "dare",
+      "level": 2,
+      "text": "任选两位玩家，为他们即兴主持一场颁奖礼。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d210",
+      "type": "dare",
+      "level": 2,
+      "text": "接受大家指定的一个安全自拍表情，坚持十秒。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d211",
+      "type": "dare",
+      "level": 2,
+      "text": "模仿一位大家都认识的影视角色，直到猜中。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d212",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句土味情话称赞右手边的玩家。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d213",
+      "type": "dare",
+      "level": 2,
+      "text": "用不同语气连续说三遍“这局不算”。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d214",
+      "type": "dare",
+      "level": 2,
+      "text": "让一位玩家给你出三个词，现场编成小故事。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d215",
+      "type": "dare",
+      "level": 2,
+      "text": "以天气预报的形式描述现场气氛。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d216",
+      "type": "dare",
+      "level": 2,
+      "text": "表演一段没有音乐的走秀。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d217",
+      "type": "dare",
+      "level": 2,
+      "text": "闭眼听三位玩家各说一句话，猜出是谁。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "d218",
+      "type": "dare",
+      "level": 2,
+      "text": "选择一位玩家，交换座位并模仿对方一分钟。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "dare"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "v9-d2-0697",
+      "type": "dare",
+      "level": 2,
+      "text": "模拟一次“把秘密说漏嘴”，最后必须用一句话圆场。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0698",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于迟到的即兴故事，必须出现“雨伞”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0699",
+      "type": "dare",
+      "level": 2,
+      "text": "选一位玩家，用三个具体事实说明对方为什么适合当队友。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0700",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样判断朋友是否真诚”，但不能使用“感觉”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0701",
+      "type": "dare",
+      "level": 2,
+      "text": "模拟一次“忘记别人名字”，最后必须用一句话圆场。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0702",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于保守秘密的即兴故事，必须出现“月亮”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0703",
+      "type": "dare",
+      "level": 2,
+      "text": "让大家指定一位玩家，你要为对方设计一句真人秀式出场介绍。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0704",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样判断朋友是否真诚”，但不能使用“问题”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0705",
+      "type": "dare",
+      "level": 2,
+      "text": "演出你在“夸错对象”时内心和表面完全不同的反应。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0706",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于误会的即兴故事，必须出现“电梯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0707",
+      "type": "dare",
+      "level": 2,
+      "text": "让大家指定一位玩家，你要为对方设计一句悬疑电影式出场介绍。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0708",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“如何请求帮助”，但不能使用“感觉”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0709",
+      "type": "dare",
+      "level": 2,
+      "text": "演出你在“手机突然外放”时内心和表面完全不同的反应。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0710",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于保守秘密的即兴故事，必须出现“耳机”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0711",
+      "type": "dare",
+      "level": 2,
+      "text": "让大家指定一位玩家，你要为对方设计一句体育解说式出场介绍。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0712",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样守住边界”，但不能使用“感觉”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0713",
+      "type": "dare",
+      "level": 2,
+      "text": "模拟一次“认错人”，最后必须用一句话圆场。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0714",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于误会的即兴故事，必须出现“一杯水”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0715",
+      "type": "dare",
+      "level": 2,
+      "text": "对一位自愿玩家完成一次关于“观察力”的具体夸奖，不评价身体。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0716",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样拒绝别人”，但不能使用“问题”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0717",
+      "type": "dare",
+      "level": 2,
+      "text": "用夸张方式演出“礼物送重了”，让大家猜发生了什么。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0718",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于网络社交的即兴故事，必须出现“便利店”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0719",
+      "type": "dare",
+      "level": 2,
+      "text": "请一位自愿玩家和你进行十秒“误会后和解”双人即兴对话。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0720",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“为什么要道歉”，但不能使用“自己”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0721",
+      "type": "dare",
+      "level": 2,
+      "text": "用夸张方式演出“笑场”，让大家猜发生了什么。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0722",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于第一印象的即兴故事，必须出现“耳机”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0723",
+      "type": "dare",
+      "level": 2,
+      "text": "让大家指定一位玩家，你要为对方设计一句颁奖典礼式出场介绍。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0724",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过八个字的话回答：“怎样处理误会？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0725",
+      "type": "dare",
+      "level": 2,
+      "text": "表演十秒“忘记别人名字以后努力装作没事”的样子。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0726",
+      "type": "dare",
+      "level": 2,
+      "text": "把“请求帮助”解释给一个完全没听说过的人，限时二十秒。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0727",
+      "type": "dare",
+      "level": 2,
+      "text": "对一位自愿玩家完成一次关于“边界感”的具体夸奖，不评价身体。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0728",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样处理误会”，但不能使用“问题”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0729",
+      "type": "dare",
+      "level": 2,
+      "text": "表演十秒“说话被全场听见以后努力装作没事”的样子。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0730",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于拖延的即兴故事，必须出现“雨伞”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0731",
+      "type": "dare",
+      "level": 2,
+      "text": "请一位自愿玩家和你进行十秒“一起迷路”双人即兴对话。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0732",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样处理误会”，但不能使用“因为”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0733",
+      "type": "dare",
+      "level": 2,
+      "text": "模拟一次“笑场”，最后必须用一句话圆场。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0734",
+      "type": "dare",
+      "level": 2,
+      "text": "围绕“社交尴尬”做一段十五秒立场陈述，中途不能说“嗯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0735",
+      "type": "dare",
+      "level": 2,
+      "text": "请一位自愿玩家和你进行十秒“互相推荐工作”双人即兴对话。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0736",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“什么是可靠”，但不能使用“应该”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0737",
+      "type": "dare",
+      "level": 2,
+      "text": "模拟一次“迟到半小时”，最后必须用一句话圆场。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0738",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于道歉的即兴故事，必须出现“一杯水”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0739",
+      "type": "dare",
+      "level": 2,
+      "text": "对一位自愿玩家完成一次关于“创造力”的具体夸奖，不评价身体。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0740",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“什么是可靠”，但不能使用“自己”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0741",
+      "type": "dare",
+      "level": 2,
+      "text": "演出你在“把秘密说漏嘴”时内心和表面完全不同的反应。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0742",
+      "type": "dare",
+      "level": 2,
+      "text": "把“错过机会”解释给一个完全没听说过的人，限时二十秒。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0743",
+      "type": "dare",
+      "level": 2,
+      "text": "请一位自愿玩家和你进行十秒“计划突然改变”双人即兴对话。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0744",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过十个字的话回答：“怎样拒绝别人？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0745",
+      "type": "dare",
+      "level": 2,
+      "text": "模拟一次“手机突然外放”，最后必须用一句话圆场。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0746",
+      "type": "dare",
+      "level": 2,
+      "text": "假装参加访谈，用十秒回答：“你怎样看待请求帮助？”",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0747",
+      "type": "dare",
+      "level": 2,
+      "text": "对一位自愿玩家完成一次关于“耐心”的具体夸奖，不评价身体。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0748",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样守住边界”，但不能使用“问题”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0749",
+      "type": "dare",
+      "level": 2,
+      "text": "表演十秒“把秘密说漏嘴以后努力装作没事”的样子。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0750",
+      "type": "dare",
+      "level": 2,
+      "text": "把“社交尴尬”解释给一个完全没听说过的人，限时二十秒。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0751",
+      "type": "dare",
+      "level": 2,
+      "text": "让大家指定一位玩家，你要为对方设计一句纪录片式出场介绍。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0752",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样判断朋友是否真诚”，但不能使用“关系”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0753",
+      "type": "dare",
+      "level": 2,
+      "text": "演出你在“说话被全场听见”时内心和表面完全不同的反应。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0754",
+      "type": "dare",
+      "level": 2,
+      "text": "围绕“第一印象”做一段十五秒立场陈述，中途不能说“嗯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0755",
+      "type": "dare",
+      "level": 2,
+      "text": "选一位玩家，用三个具体事实说明对方为什么遇事冷静。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0756",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“什么是成熟”，但不能使用“自己”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0757",
+      "type": "dare",
+      "level": 2,
+      "text": "模拟一次“说话被全场听见”，最后必须用一句话圆场。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0758",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于错过机会的即兴故事，必须出现“雨伞”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0759",
+      "type": "dare",
+      "level": 2,
+      "text": "对一位自愿玩家完成一次关于“表达方式”的具体夸奖，不评价身体。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0760",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“什么是可靠”，但不能使用“感觉”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0761",
+      "type": "dare",
+      "level": 2,
+      "text": "表演十秒“笑场以后努力装作没事”的样子。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0762",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于社交尴尬的即兴故事，必须出现“耳机”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0763",
+      "type": "dare",
+      "level": 2,
+      "text": "选一位玩家，用三个具体事实说明对方为什么善于倾听。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0764",
+      "type": "dare",
+      "level": 2,
+      "text": "连续回答三次“为什么要道歉”，每次必须给出不同理由。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0765",
+      "type": "dare",
+      "level": 2,
+      "text": "用夸张方式演出“被点名发言”，让大家猜发生了什么。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0766",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于错过机会的即兴故事，必须出现“月亮”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0767",
+      "type": "dare",
+      "level": 2,
+      "text": "让大家指定一位玩家，你要为对方设计一句热血动漫式出场介绍。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0768",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“什么是可靠”，但不能使用“别人”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0769",
+      "type": "dare",
+      "level": 2,
+      "text": "表演十秒“礼物送重了以后努力装作没事”的样子。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0770",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于请求帮助的即兴故事，必须出现“一杯水”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0771",
+      "type": "dare",
+      "level": 2,
+      "text": "选一位玩家，用三个具体事实说明对方为什么很会照顾气氛。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0772",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样拒绝别人”，但不能使用“关系”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0773",
+      "type": "dare",
+      "level": 2,
+      "text": "表演十秒“被点名发言以后努力装作没事”的样子。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0774",
+      "type": "dare",
+      "level": 2,
+      "text": "围绕“请求帮助”做一段十五秒立场陈述，中途不能说“嗯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0775",
+      "type": "dare",
+      "level": 2,
+      "text": "选一位玩家，用三个具体事实说明对方为什么很有行动力。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0776",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“如何请求帮助”，但不能使用“因为”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0777",
+      "type": "dare",
+      "level": 2,
+      "text": "演出你在“笑场”时内心和表面完全不同的反应。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0778",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于友情边界的即兴故事，必须出现“月亮”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0779",
+      "type": "dare",
+      "level": 2,
+      "text": "对一位自愿玩家完成一次关于“行动力”的具体夸奖，不评价身体。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0780",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“如何请求帮助”，但不能使用“应该”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0781",
+      "type": "dare",
+      "level": 2,
+      "text": "演出你在“被点名发言”时内心和表面完全不同的反应。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0782",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于社交尴尬的即兴故事，必须出现“月亮”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0783",
+      "type": "dare",
+      "level": 2,
+      "text": "让大家指定一位玩家，你要为对方设计一句新闻播报式出场介绍。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0784",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“如何请求帮助”，但不能使用“问题”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0785",
+      "type": "dare",
+      "level": 2,
+      "text": "表演十秒“发错消息以后努力装作没事”的样子。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0786",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于误会的即兴故事，必须出现“耳机”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0787",
+      "type": "dare",
+      "level": 2,
+      "text": "选一位玩家，用三个具体事实说明对方为什么适合旅行。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0788",
+      "type": "dare",
+      "level": 2,
+      "text": "用反问句表达你对“怎样处理误会”的真实看法。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0789",
+      "type": "dare",
+      "level": 2,
+      "text": "演出你在“认错人”时内心和表面完全不同的反应。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0790",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于保守秘密的即兴故事，必须出现“一杯水”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0791",
+      "type": "dare",
+      "level": 2,
+      "text": "让大家指定一位玩家，你要为对方设计一句职场节目式出场介绍。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0792",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样判断朋友是否真诚”，但不能使用“别人”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0793",
+      "type": "dare",
+      "level": 2,
+      "text": "表演十秒“夸错对象以后努力装作没事”的样子。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0794",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于错过机会的即兴故事，必须出现“一杯水”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0795",
+      "type": "dare",
+      "level": 2,
+      "text": "请一位自愿玩家和你进行十秒“临时组队”双人即兴对话。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0796",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样拒绝别人”，但不能使用“感觉”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0797",
+      "type": "dare",
+      "level": 2,
+      "text": "演出你在“走错房间”时内心和表面完全不同的反应。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0798",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于迟到的即兴故事，必须出现“电梯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0799",
+      "type": "dare",
+      "level": 2,
+      "text": "选一位玩家，用三个具体事实说明对方为什么值得信任。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0800",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样判断朋友是否真诚”，但不能使用“朋友”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0801",
+      "type": "dare",
+      "level": 2,
+      "text": "演出你在“礼物送重了”时内心和表面完全不同的反应。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0802",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于错过机会的即兴故事，必须出现“便利店”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0803",
+      "type": "dare",
+      "level": 2,
+      "text": "对一位自愿玩家完成一次关于“可靠感”的具体夸奖，不评价身体。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0804",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“什么是成熟”，但不能使用“感觉”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0805",
+      "type": "dare",
+      "level": 2,
+      "text": "表演十秒“迟到半小时以后努力装作没事”的样子。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0806",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于错过机会的即兴故事，必须出现“电梯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0807",
+      "type": "dare",
+      "level": 2,
+      "text": "对一位自愿玩家完成一次关于“幽默感”的具体夸奖，不评价身体。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0808",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“什么是可靠”，但不能使用“因为”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0809",
+      "type": "dare",
+      "level": 2,
+      "text": "用夸张方式演出“忘记别人名字”，让大家猜发生了什么。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0810",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于独处的即兴故事，必须出现“月亮”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0811",
+      "type": "dare",
+      "level": 2,
+      "text": "请一位自愿玩家和你进行十秒“共同完成任务”双人即兴对话。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0812",
+      "type": "dare",
+      "level": 2,
+      "text": "用反问句表达你对“什么是可靠”的真实看法。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0813",
+      "type": "dare",
+      "level": 2,
+      "text": "模拟一次“夸错对象”，最后必须用一句话圆场。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0814",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于独处的即兴故事，必须出现“雨伞”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0815",
+      "type": "dare",
+      "level": 2,
+      "text": "选一位玩家，用三个具体事实说明对方为什么有自己的原则。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0816",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样判断朋友是否真诚”，但不能使用“自己”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0817",
+      "type": "dare",
+      "level": 2,
+      "text": "用夸张方式演出“说话被全场听见”，让大家猜发生了什么。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0818",
+      "type": "dare",
+      "level": 2,
+      "text": "把“友情边界”解释给一个完全没听说过的人，限时二十秒。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0819",
+      "type": "dare",
+      "level": 2,
+      "text": "请一位自愿玩家和你进行十秒“一起处理突发情况”双人即兴对话。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0820",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“为什么要道歉”，但不能使用“问题”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0821",
+      "type": "dare",
+      "level": 2,
+      "text": "用夸张方式演出“手机突然外放”，让大家猜发生了什么。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0822",
+      "type": "dare",
+      "level": 2,
+      "text": "围绕“友情边界”做一段十五秒立场陈述，中途不能说“嗯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0823",
+      "type": "dare",
+      "level": 2,
+      "text": "请一位自愿玩家和你进行十秒“第一次见面”双人即兴对话。",
+      "theme": "社交挑战",
+      "tags": [
+        "dare",
+        "standard",
+        "互动",
+        "标准"
+      ],
+      "consentRequired": true,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0824",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样守住边界”，但不能使用“自己”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0825",
+      "type": "dare",
+      "level": 2,
+      "text": "演出你在“发错消息”时内心和表面完全不同的反应。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0826",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于友情边界的即兴故事，必须出现“一杯水”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0827",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“为什么要道歉”，但不能使用“别人”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0828",
+      "type": "dare",
+      "level": 2,
+      "text": "模拟一次“发错消息”，最后必须用一句话圆场。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0829",
+      "type": "dare",
+      "level": 2,
+      "text": "假装参加访谈，用十秒回答：“你怎样看待社交尴尬？”",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0830",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“什么是可靠”，但不能使用“关系”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0831",
+      "type": "dare",
+      "level": 2,
+      "text": "模拟一次“礼物送重了”，最后必须用一句话圆场。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0832",
+      "type": "dare",
+      "level": 2,
+      "text": "假装参加访谈，用十秒回答：“你怎样看待错过机会？”",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0833",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样守住边界”，但不能使用“应该”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0834",
+      "type": "dare",
+      "level": 2,
+      "text": "用夸张方式演出“迟到半小时”，让大家猜发生了什么。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0835",
+      "type": "dare",
+      "level": 2,
+      "text": "把“道歉”解释给一个完全没听说过的人，限时二十秒。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0836",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“为什么要道歉”，但不能使用“应该”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0837",
+      "type": "dare",
+      "level": 2,
+      "text": "用夸张方式演出“认错人”，让大家猜发生了什么。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0838",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于保守秘密的即兴故事，必须出现“便利店”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0839",
+      "type": "dare",
+      "level": 2,
+      "text": "连续回答三次“什么是成熟”，每次必须给出不同理由。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0840",
+      "type": "dare",
+      "level": 2,
+      "text": "表演十秒“认错人以后努力装作没事”的样子。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0841",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于请求帮助的即兴故事，必须出现“电梯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0842",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样拒绝别人”，但不能使用“别人”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0843",
+      "type": "dare",
+      "level": 2,
+      "text": "用夸张方式演出“发错消息”，让大家猜发生了什么。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0844",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于网络社交的即兴故事，必须出现“月亮”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0845",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过十个字的话回答：“为什么要道歉？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0846",
+      "type": "dare",
+      "level": 2,
+      "text": "用夸张方式演出“把秘密说漏嘴”，让大家猜发生了什么。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0847",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于友情边界的即兴故事，必须出现“电梯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0848",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样处理误会”，但不能使用“关系”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0849",
+      "type": "dare",
+      "level": 2,
+      "text": "模拟一次“走错房间”，最后必须用一句话圆场。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0850",
+      "type": "dare",
+      "level": 2,
+      "text": "围绕“迟到”做一段十五秒立场陈述，中途不能说“嗯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0851",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“如何请求帮助”，但不能使用“关系”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0852",
+      "type": "dare",
+      "level": 2,
+      "text": "用夸张方式演出“夸错对象”，让大家猜发生了什么。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0853",
+      "type": "dare",
+      "level": 2,
+      "text": "围绕“网络社交”做一段十五秒立场陈述，中途不能说“嗯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0854",
+      "type": "dare",
+      "level": 2,
+      "text": "用反问句表达你对“怎样守住边界”的真实看法。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0855",
+      "type": "dare",
+      "level": 2,
+      "text": "模拟一次“被点名发言”，最后必须用一句话圆场。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0856",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于迟到的即兴故事，必须出现“便利店”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0857",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“为什么要道歉”，但不能使用“关系”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0858",
+      "type": "dare",
+      "level": 2,
+      "text": "演出你在“忘记别人名字”时内心和表面完全不同的反应。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0859",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于拖延的即兴故事，必须出现“月亮”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0860",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过十二个字的话回答：“为什么要道歉？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0861",
+      "type": "dare",
+      "level": 2,
+      "text": "表演十秒“走错房间以后努力装作没事”的样子。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0862",
+      "type": "dare",
+      "level": 2,
+      "text": "围绕“道歉”做一段十五秒立场陈述，中途不能说“嗯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0863",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样守住边界”，但不能使用“关系”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0864",
+      "type": "dare",
+      "level": 2,
+      "text": "表演十秒“手机突然外放以后努力装作没事”的样子。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0865",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于请求帮助的即兴故事，必须出现“便利店”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0866",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过八个字的话回答：“什么是可靠？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0867",
+      "type": "dare",
+      "level": 2,
+      "text": "演出你在“迟到半小时”时内心和表面完全不同的反应。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0868",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于迟到的即兴故事，必须出现“一杯水”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0869",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样拒绝别人”，但不能使用“自己”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0870",
+      "type": "dare",
+      "level": 2,
+      "text": "用夸张方式演出“走错房间”，让大家猜发生了什么。",
+      "theme": "尴尬模拟",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表演"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0871",
+      "type": "dare",
+      "level": 2,
+      "text": "把“迟到”解释给一个完全没听说过的人，限时二十秒。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0872",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“什么是可靠”，但不能使用“朋友”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0873",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于友情边界的即兴故事，必须出现“便利店”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0874",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过八个字的话回答：“什么是成熟？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0875",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于道歉的即兴故事，必须出现“电梯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0876",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“如何请求帮助”，但不能使用“朋友”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0877",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于误会的即兴故事，必须出现“月亮”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0878",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过十个字的话回答：“什么是成熟？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0879",
+      "type": "dare",
+      "level": 2,
+      "text": "假装参加访谈，用十秒回答：“你怎样看待拖延？”",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0880",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过十二个字的话回答：“怎样判断朋友是否真诚？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0881",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于独处的即兴故事，必须出现“便利店”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0882",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样拒绝别人”，但不能使用“应该”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0883",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于拖延的即兴故事，必须出现“一杯水”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0884",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过十个字的话回答：“什么是可靠？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0885",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于第一印象的即兴故事，必须出现“电梯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0886",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过十二个字的话回答：“怎样处理误会？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0887",
+      "type": "dare",
+      "level": 2,
+      "text": "假装参加访谈，用十秒回答：“你怎样看待独处？”",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0888",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样拒绝别人”，但不能使用“朋友”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0889",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于拖延的即兴故事，必须出现“电梯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0890",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样处理误会”，但不能使用“应该”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0891",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于第一印象的即兴故事，必须出现“月亮”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0892",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过十个字的话回答：“怎样处理误会？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0893",
+      "type": "dare",
+      "level": 2,
+      "text": "假装参加访谈，用十秒回答：“你怎样看待误会？”",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0894",
+      "type": "dare",
+      "level": 2,
+      "text": "用反问句表达你对“为什么要道歉”的真实看法。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0895",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于道歉的即兴故事，必须出现“月亮”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0896",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过八个字的话回答：“怎样守住边界？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0897",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于网络社交的即兴故事，必须出现“电梯”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0898",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“什么是成熟”，但不能使用“应该”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0899",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于拖延的即兴故事，必须出现“耳机”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0900",
+      "type": "dare",
+      "level": 2,
+      "text": "用反问句表达你对“如何请求帮助”的真实看法。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0901",
+      "type": "dare",
+      "level": 2,
+      "text": "假装参加访谈，用十秒回答：“你怎样看待保守秘密？”",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0902",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“如何请求帮助”，但不能使用“别人”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0903",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于第一印象的即兴故事，必须出现“便利店”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0904",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过十二个字的话回答：“什么是成熟？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0905",
+      "type": "dare",
+      "level": 2,
+      "text": "把“拖延”解释给一个完全没听说过的人，限时二十秒。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0906",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过十个字的话回答：“怎样守住边界？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0907",
+      "type": "dare",
+      "level": 2,
+      "text": "把“独处”解释给一个完全没听说过的人，限时二十秒。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0908",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“如何请求帮助”，但不能使用“自己”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0909",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于误会的即兴故事，必须出现“雨伞”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0910",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过八个字的话回答：“怎样判断朋友是否真诚？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0911",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于请求帮助的即兴故事，必须出现“雨伞”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0912",
+      "type": "dare",
+      "level": 2,
+      "text": "用反问句表达你对“怎样判断朋友是否真诚”的真实看法。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0913",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于网络社交的即兴故事，必须出现“雨伞”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0914",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过十二个字的话回答：“什么是可靠？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0915",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于独处的即兴故事，必须出现“耳机”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0916",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“什么是成熟”，但不能使用“因为”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0917",
+      "type": "dare",
+      "level": 2,
+      "text": "假装参加访谈，用十秒回答：“你怎样看待迟到？”",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0918",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过十二个字的话回答：“怎样守住边界？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0919",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于请求帮助的即兴故事，必须出现“耳机”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0920",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“怎样守住边界”，但不能使用“因为”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0921",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于第一印象的即兴故事，必须出现“雨伞”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0922",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“为什么要道歉”，但不能使用“感觉”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0923",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于迟到的即兴故事，必须出现“月亮”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0924",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“什么是成熟”，但不能使用“别人”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0925",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于社交尴尬的即兴故事，必须出现“便利店”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0926",
+      "type": "dare",
+      "level": 2,
+      "text": "在二十秒内解释“为什么要道歉”，但不能使用“朋友”这个词。",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0927",
+      "type": "dare",
+      "level": 2,
+      "text": "用二十秒讲一个关于网络社交的即兴故事，必须出现“耳机”。",
+      "theme": "即兴表达",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "表达"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-d2-0928",
+      "type": "dare",
+      "level": 2,
+      "text": "用一句不超过十个字的话回答：“怎样判断朋友是否真诚？”",
+      "theme": "语言限制",
+      "tags": [
+        "dare",
+        "standard",
+        "标准",
+        "语言"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    }
+  ]
+}

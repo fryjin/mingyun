@@ -1,0 +1,3724 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9-qb-2026.08",
+  "level": 2,
+  "levelLabel": "标准",
+  "type": "truth",
+  "count": 250,
+  "items": [
+    {
+      "id": "t201",
+      "type": "truth",
+      "level": 2,
+      "text": "你最近一次假装没事，其实心里很在意的事情是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t202",
+      "type": "truth",
+      "level": 2,
+      "text": "你曾经对一个人的第一印象错得有多离谱？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t203",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改掉但一直没改掉的习惯是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t204",
+      "type": "truth",
+      "level": 2,
+      "text": "你做过最冲动的一次决定是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t205",
+      "type": "truth",
+      "level": 2,
+      "text": "你人生中最尴尬的一次公开场面是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t206",
+      "type": "truth",
+      "level": 2,
+      "text": "你最害怕被别人误解成怎样的人？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t207",
+      "type": "truth",
+      "level": 2,
+      "text": "现场谁最可能在关键时刻保持冷静？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t208",
+      "type": "truth",
+      "level": 2,
+      "text": "如果能删除一段记忆，你会删除哪一段？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t209",
+      "type": "truth",
+      "level": 2,
+      "text": "你最后悔没有及时说出口的一句话是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t210",
+      "type": "truth",
+      "level": 2,
+      "text": "你对朋友撒过最无伤大雅的谎是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t211",
+      "type": "truth",
+      "level": 2,
+      "text": "你最不能接受别人触碰你的哪条边界？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t212",
+      "type": "truth",
+      "level": 2,
+      "text": "你曾经为了融入群体做过什么违心的事？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t213",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次失败对你的影响最大？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t214",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为自己在人际关系里最大的弱点是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t215",
+      "type": "truth",
+      "level": 2,
+      "text": "你最近羡慕过谁？羡慕对方什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t216",
+      "type": "truth",
+      "level": 2,
+      "text": "现场谁最适合成为你的工作搭档？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t217",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须向现场一人道歉，你会选谁、为什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t218",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想证明给某个人看的一件事是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "standard",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "v9-t2-0465",
+      "type": "truth",
+      "level": 2,
+      "text": "关于迟到，你认为关系里最公平的处理方式是什么？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0466",
+      "type": "truth",
+      "level": 2,
+      "text": "别人对你处理请求帮助的评价，哪一句最准确？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0467",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次计划落空是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0468",
+      "type": "truth",
+      "level": 2,
+      "text": "你最近一次改变对某个人看法的原因是什么？",
+      "theme": "标准坦诚",
+      "tags": [
+        "standard",
+        "truth",
+        "坦诚",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0469",
+      "type": "truth",
+      "level": 2,
+      "text": "在原则和关系之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0470",
+      "type": "truth",
+      "level": 2,
+      "text": "关于占用私人时间，你认为关系里最公平的处理方式是什么？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0471",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理接受赞美的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0472",
+      "type": "truth",
+      "level": 2,
+      "text": "关于被拒绝，你现在最想提醒过去的自己什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0473",
+      "type": "truth",
+      "level": 2,
+      "text": "你最希望别人尊重你的哪一种生活选择？",
+      "theme": "标准坦诚",
+      "tags": [
+        "standard",
+        "truth",
+        "坦诚",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0474",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了梦想放弃一部分现实，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0475",
+      "type": "truth",
+      "level": 2,
+      "text": "你曾经因为占用私人时间和一个人变得疏远吗？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0476",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次关于接受赞美的经历，让你重新认识了自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0477",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次失败让你学会不要太在意别人的看法？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0478",
+      "type": "truth",
+      "level": 2,
+      "text": "你有没有维持过一段已经不舒服、但不敢结束的关系？",
+      "theme": "标准坦诚",
+      "tags": [
+        "standard",
+        "truth",
+        "坦诚",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0479",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了团队合作放弃一部分独立完成，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0480",
+      "type": "truth",
+      "level": 2,
+      "text": "你曾经因为送礼物和一个人变得疏远吗？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0481",
+      "type": "truth",
+      "level": 2,
+      "text": "你在情绪管理方面最容易高估自己，还是低估自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0482",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次改变习惯让你学会不要太在意别人的看法？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0483",
+      "type": "truth",
+      "level": 2,
+      "text": "你做决定时最容易被谁的意见影响？",
+      "theme": "标准坦诚",
+      "tags": [
+        "standard",
+        "truth",
+        "坦诚",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0484",
+      "type": "truth",
+      "level": 2,
+      "text": "在结果和过程之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0485",
+      "type": "truth",
+      "level": 2,
+      "text": "你曾经因为提出不同意见和一个人变得疏远吗？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0486",
+      "type": "truth",
+      "level": 2,
+      "text": "别人对你处理接受赞美的评价，哪一句最准确？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0487",
+      "type": "truth",
+      "level": 2,
+      "text": "关于接受帮助，你现在最想提醒过去的自己什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0488",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难承认自己在哪件事上判断错了？",
+      "theme": "标准坦诚",
+      "tags": [
+        "standard",
+        "truth",
+        "坦诚",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0489",
+      "type": "truth",
+      "level": 2,
+      "text": "在被认可和内心满足之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0490",
+      "type": "truth",
+      "level": 2,
+      "text": "当朋友在处理误会上让你不舒服时，你通常会直接沟通还是先观察？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0491",
+      "type": "truth",
+      "level": 2,
+      "text": "你在面对批评方面最容易高估自己，还是低估自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0492",
+      "type": "truth",
+      "level": 2,
+      "text": "关于计划落空，你现在最想提醒过去的自己什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0493",
+      "type": "truth",
+      "level": 2,
+      "text": "你最不希望别人替你做哪一种决定？",
+      "theme": "标准坦诚",
+      "tags": [
+        "standard",
+        "truth",
+        "坦诚",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0494",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了表达情绪放弃一部分保持冷静，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0495",
+      "type": "truth",
+      "level": 2,
+      "text": "你曾经因为处理误会和一个人变得疏远吗？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0496",
+      "type": "truth",
+      "level": 2,
+      "text": "你在做决定方面最容易高估自己，还是低估自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0497",
+      "type": "truth",
+      "level": 2,
+      "text": "关于结束合作，你现在和三年前最大的不同是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0498",
+      "type": "truth",
+      "level": 2,
+      "text": "你最近一次嘴上说“没关系”，心里其实很在意的事是什么？",
+      "theme": "标准坦诚",
+      "tags": [
+        "standard",
+        "truth",
+        "坦诚",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0499",
+      "type": "truth",
+      "level": 2,
+      "text": "在帮助别人和保护自己之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0500",
+      "type": "truth",
+      "level": 2,
+      "text": "关于开玩笑的尺度，你认为关系里最公平的处理方式是什么？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0501",
+      "type": "truth",
+      "level": 2,
+      "text": "别人对你处理管理金钱的评价，哪一句最准确？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0502",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次独自解决问题是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0503",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想向过去的哪一个自己道歉？",
+      "theme": "标准坦诚",
+      "tags": [
+        "standard",
+        "truth",
+        "坦诚",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0504",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为稳定关系和个人空间哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0505",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在保守秘密方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0506",
+      "type": "truth",
+      "level": 2,
+      "text": "你在表达需求方面最容易高估自己，还是低估自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0507",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次公开出错是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0508",
+      "type": "truth",
+      "level": 2,
+      "text": "你有没有因为怕麻烦别人而错过一次求助？",
+      "theme": "标准坦诚",
+      "tags": [
+        "standard",
+        "truth",
+        "坦诚",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0509",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了长期目标放弃一部分当下快乐，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0510",
+      "type": "truth",
+      "level": 2,
+      "text": "你曾经因为借钱和一个人变得疏远吗？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0511",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次关于平衡工作与生活的经历，让你重新认识了自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0512",
+      "type": "truth",
+      "level": 2,
+      "text": "关于改变习惯，你现在和三年前最大的不同是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0513",
+      "type": "truth",
+      "level": 2,
+      "text": "你最近一次真正改变主意，是被什么说服的？",
+      "theme": "标准坦诚",
+      "tags": [
+        "standard",
+        "truth",
+        "坦诚",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0514",
+      "type": "truth",
+      "level": 2,
+      "text": "在拥有更多和需要更少之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0515",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在迟到方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0516",
+      "type": "truth",
+      "level": 2,
+      "text": "别人对你处理面对批评的评价，哪一句最准确？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0517",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次承担责任让你学会不要太在意别人的看法？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0518",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了独立放弃一部分被照顾，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0519",
+      "type": "truth",
+      "level": 2,
+      "text": "关于提出不同意见，你认为关系里最公平的处理方式是什么？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0520",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理照顾自己的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0521",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次误会让你学会不要太在意别人的看法？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0522",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为勇敢和谨慎哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0523",
+      "type": "truth",
+      "level": 2,
+      "text": "你曾经因为表达嫉妒和一个人变得疏远吗？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0524",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次关于承认错误的经历，让你重新认识了自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0525",
+      "type": "truth",
+      "level": 2,
+      "text": "关于考试或面试失利，你现在最想提醒过去的自己什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0526",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为拥有更多和需要更少哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0527",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在讨论收入方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0528",
+      "type": "truth",
+      "level": 2,
+      "text": "别人对你处理拒绝别人的评价，哪一句最准确？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0529",
+      "type": "truth",
+      "level": 2,
+      "text": "关于独自解决问题，你现在和三年前最大的不同是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0530",
+      "type": "truth",
+      "level": 2,
+      "text": "在熟悉环境和新城市之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0531",
+      "type": "truth",
+      "level": 2,
+      "text": "关于回复消息，你认为关系里最公平的处理方式是什么？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0532",
+      "type": "truth",
+      "level": 2,
+      "text": "你在坚持计划方面最容易高估自己，还是低估自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0533",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次结束合作让你学会不要太在意别人的看法？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0534",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为安全感和新鲜感哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0535",
+      "type": "truth",
+      "level": 2,
+      "text": "你曾经因为请求帮忙和一个人变得疏远吗？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0536",
+      "type": "truth",
+      "level": 2,
+      "text": "别人对你处理照顾自己的评价，哪一句最准确？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0537",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次搬家让你学会不要太在意别人的看法？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0538",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了稳定关系放弃一部分个人空间，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0539",
+      "type": "truth",
+      "level": 2,
+      "text": "当朋友在借钱上让你不舒服时，你通常会直接沟通还是先观察？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0540",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理时间安排的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0541",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次第一次独自旅行是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0542",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了快速决定放弃一部分充分考虑，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0543",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在共同朋友方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0544",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次关于照顾自己的经历，让你重新认识了自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0545",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次友情变化让你学会不要太在意别人的看法？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0546",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为直接沟通和留出空间哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0547",
+      "type": "truth",
+      "level": 2,
+      "text": "你曾经因为讨论收入和一个人变得疏远吗？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0548",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次关于拒绝别人的经历，让你重新认识了自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0549",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次放弃一个目标是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0550",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了体面放弃一部分坦诚，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0551",
+      "type": "truth",
+      "level": 2,
+      "text": "当朋友在分享坏情绪上让你不舒服时，你通常会直接沟通还是先观察？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0552",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理面对冲突的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0553",
+      "type": "truth",
+      "level": 2,
+      "text": "关于放弃一个目标，你现在最想提醒过去的自己什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0554",
+      "type": "truth",
+      "level": 2,
+      "text": "在梦想和现实之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0555",
+      "type": "truth",
+      "level": 2,
+      "text": "关于保守秘密，你认为关系里最公平的处理方式是什么？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0556",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次关于情绪管理的经历，让你重新认识了自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0557",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次失败是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0558",
+      "type": "truth",
+      "level": 2,
+      "text": "在体面和坦诚之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0559",
+      "type": "truth",
+      "level": 2,
+      "text": "关于借钱，你认为关系里最公平的处理方式是什么？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0560",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次关于时间安排的经历，让你重新认识了自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0561",
+      "type": "truth",
+      "level": 2,
+      "text": "关于搬家，你现在最想提醒过去的自己什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0562",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了被认可放弃一部分内心满足，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0563",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在保持联系频率方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0564",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次关于坚持计划的经历，让你重新认识了自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0565",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次向别人道歉是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0566",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了熟悉环境放弃一部分新城市，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0567",
+      "type": "truth",
+      "level": 2,
+      "text": "当朋友在占用私人时间上让你不舒服时，你通常会直接沟通还是先观察？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0568",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理承担压力的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0569",
+      "type": "truth",
+      "level": 2,
+      "text": "关于友情变化，你现在最想提醒过去的自己什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0570",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为表达情绪和保持冷静哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0571",
+      "type": "truth",
+      "level": 2,
+      "text": "当朋友在公开评价你上让你不舒服时，你通常会直接沟通还是先观察？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0572",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理面对批评的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0573",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次向别人道歉让你学会不要太在意别人的看法？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0574",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为体面和坦诚哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0575",
+      "type": "truth",
+      "level": 2,
+      "text": "当朋友在临时爽约上让你不舒服时，你通常会直接沟通还是先观察？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0576",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次关于做决定的经历，让你重新认识了自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0577",
+      "type": "truth",
+      "level": 2,
+      "text": "关于向别人道歉，你现在和三年前最大的不同是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0578",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了公平放弃一部分人情，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0579",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在开玩笑的尺度方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0580",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次关于表达需求的经历，让你重新认识了自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0581",
+      "type": "truth",
+      "level": 2,
+      "text": "关于失败，你现在和三年前最大的不同是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0582",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为计划和即兴哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0583",
+      "type": "truth",
+      "level": 2,
+      "text": "当朋友在回复消息上让你不舒服时，你通常会直接沟通还是先观察？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0584",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理接受变化的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0585",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次友情变化是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0586",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了拥有更多放弃一部分需要更少，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0587",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在提出不同意见方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0588",
+      "type": "truth",
+      "level": 2,
+      "text": "你在请求帮助方面最容易高估自己，还是低估自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0589",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次接受帮助是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0590",
+      "type": "truth",
+      "level": 2,
+      "text": "在冒险和确定性之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0591",
+      "type": "truth",
+      "level": 2,
+      "text": "关于临时爽约，你认为关系里最公平的处理方式是什么？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0592",
+      "type": "truth",
+      "level": 2,
+      "text": "你在处理失望方面最容易高估自己，还是低估自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0593",
+      "type": "truth",
+      "level": 2,
+      "text": "关于接受帮助，你现在和三年前最大的不同是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0594",
+      "type": "truth",
+      "level": 2,
+      "text": "在公平和人情之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0595",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在分享坏情绪方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0596",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次关于面对批评的经历，让你重新认识了自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0597",
+      "type": "truth",
+      "level": 2,
+      "text": "关于做出艰难选择，你现在和三年前最大的不同是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0598",
+      "type": "truth",
+      "level": 2,
+      "text": "在广泛社交和少数知己之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0599",
+      "type": "truth",
+      "level": 2,
+      "text": "关于分配责任，你认为关系里最公平的处理方式是什么？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0600",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理请求帮助的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0601",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次失去机会让你学会不要太在意别人的看法？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0602",
+      "type": "truth",
+      "level": 2,
+      "text": "在直接沟通和留出空间之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0603",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在回复消息方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0604",
+      "type": "truth",
+      "level": 2,
+      "text": "别人对你处理接受变化的评价，哪一句最准确？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0605",
+      "type": "truth",
+      "level": 2,
+      "text": "关于重新开始，你现在和三年前最大的不同是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0606",
+      "type": "truth",
+      "level": 2,
+      "text": "在快速决定和充分考虑之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0607",
+      "type": "truth",
+      "level": 2,
+      "text": "你曾经因为分配责任和一个人变得疏远吗？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0608",
+      "type": "truth",
+      "level": 2,
+      "text": "你在平衡工作与生活方面最容易高估自己，还是低估自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0609",
+      "type": "truth",
+      "level": 2,
+      "text": "关于误会，你现在和三年前最大的不同是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0610",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了原则放弃一部分关系，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0611",
+      "type": "truth",
+      "level": 2,
+      "text": "当朋友在送礼物上让你不舒服时，你通常会直接沟通还是先观察？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0612",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理拒绝别人的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0613",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次改变习惯是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0614",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了计划放弃一部分即兴，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0615",
+      "type": "truth",
+      "level": 2,
+      "text": "关于规划旅行，你认为关系里最公平的处理方式是什么？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0616",
+      "type": "truth",
+      "level": 2,
+      "text": "别人对你处理承认错误的评价，哪一句最准确？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0617",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次搬家是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0618",
+      "type": "truth",
+      "level": 2,
+      "text": "在公开赞美和私下支持之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0619",
+      "type": "truth",
+      "level": 2,
+      "text": "你曾经因为迟到和一个人变得疏远吗？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0620",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理建立新关系的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0621",
+      "type": "truth",
+      "level": 2,
+      "text": "关于考试或面试失利，你现在和三年前最大的不同是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0622",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了结果放弃一部分过程，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0623",
+      "type": "truth",
+      "level": 2,
+      "text": "当朋友在迟到上让你不舒服时，你通常会直接沟通还是先观察？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0624",
+      "type": "truth",
+      "level": 2,
+      "text": "你在承担压力方面最容易高估自己，还是低估自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0625",
+      "type": "truth",
+      "level": 2,
+      "text": "关于友情变化，你现在和三年前最大的不同是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0626",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为金钱和时间哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0627",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在分配责任方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0628",
+      "type": "truth",
+      "level": 2,
+      "text": "别人对你处理公开发言的评价，哪一句最准确？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0629",
+      "type": "truth",
+      "level": 2,
+      "text": "关于离职或换环境，你现在最想提醒过去的自己什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0630",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了安全感放弃一部分新鲜感，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0631",
+      "type": "truth",
+      "level": 2,
+      "text": "当朋友在请求帮忙上让你不舒服时，你通常会直接沟通还是先观察？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0632",
+      "type": "truth",
+      "level": 2,
+      "text": "你在接受赞美方面最容易高估自己，还是低估自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0633",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次重新开始让你学会不要太在意别人的看法？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0634",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了勇敢放弃一部分谨慎，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0635",
+      "type": "truth",
+      "level": 2,
+      "text": "关于共同朋友，你认为关系里最公平的处理方式是什么？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0636",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次关于管理金钱的经历，让你重新认识了自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0637",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次重新开始是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0638",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为被理解和被尊重哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0639",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在道歉方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0640",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理管理金钱的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0641",
+      "type": "truth",
+      "level": 2,
+      "text": "关于失去机会，你现在最想提醒过去的自己什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0642",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为广泛社交和少数知己哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0643",
+      "type": "truth",
+      "level": 2,
+      "text": "当朋友在讨论收入上让你不舒服时，你通常会直接沟通还是先观察？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0644",
+      "type": "truth",
+      "level": 2,
+      "text": "别人对你处理保持专注的评价，哪一句最准确？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0645",
+      "type": "truth",
+      "level": 2,
+      "text": "关于结束合作，你现在最想提醒过去的自己什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0646",
+      "type": "truth",
+      "level": 2,
+      "text": "在安全感和新鲜感之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0647",
+      "type": "truth",
+      "level": 2,
+      "text": "你曾经因为道歉和一个人变得疏远吗？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0648",
+      "type": "truth",
+      "level": 2,
+      "text": "别人对你处理时间安排的评价，哪一句最准确？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0649",
+      "type": "truth",
+      "level": 2,
+      "text": "关于公开出错，你现在最想提醒过去的自己什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0650",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了高收入放弃一部分低压力，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0651",
+      "type": "truth",
+      "level": 2,
+      "text": "当朋友在规划旅行上让你不舒服时，你通常会直接沟通还是先观察？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0652",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理情绪管理的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0653",
+      "type": "truth",
+      "level": 2,
+      "text": "关于第一次独自旅行，你现在最想提醒过去的自己什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0654",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了事业机会放弃一部分陪伴，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0655",
+      "type": "truth",
+      "level": 2,
+      "text": "你曾经因为开玩笑的尺度和一个人变得疏远吗？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0656",
+      "type": "truth",
+      "level": 2,
+      "text": "别人对你处理情绪管理的评价，哪一句最准确？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0657",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次失去机会是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0658",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了冒险放弃一部分确定性，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0659",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在表达嫉妒方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0660",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次关于接受变化的经历，让你重新认识了自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0661",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次考试或面试失利是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0662",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为原则和关系哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0663",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在规划旅行方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0664",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次关于公开发言的经历，让你重新认识了自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0665",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次离职或换环境是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0666",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了金钱放弃一部分时间，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0667",
+      "type": "truth",
+      "level": 2,
+      "text": "关于公开评价你，你认为关系里最公平的处理方式是什么？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0668",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理平衡工作与生活的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0669",
+      "type": "truth",
+      "level": 2,
+      "text": "关于独自解决问题，你现在最想提醒过去的自己什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0670",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了稳定放弃一部分自由，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0671",
+      "type": "truth",
+      "level": 2,
+      "text": "你曾经因为分享坏情绪和一个人变得疏远吗？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0672",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理承认错误的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0673",
+      "type": "truth",
+      "level": 2,
+      "text": "你经历过最意外的一次误会是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0674",
+      "type": "truth",
+      "level": 2,
+      "text": "在被理解和被尊重之间，你现在更看重哪一个？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0675",
+      "type": "truth",
+      "level": 2,
+      "text": "当朋友在共同朋友上让你不舒服时，你通常会直接沟通还是先观察？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0676",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次关于保持专注的经历，让你重新认识了自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0677",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次接受帮助让你学会不要太在意别人的看法？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0678",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为效率和生活质量哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0679",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在临时爽约方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0680",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理表达需求的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0681",
+      "type": "truth",
+      "level": 2,
+      "text": "关于失去机会，你现在和三年前最大的不同是什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0682",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为熟悉环境和新城市哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0683",
+      "type": "truth",
+      "level": 2,
+      "text": "关于处理误会，你认为关系里最公平的处理方式是什么？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0684",
+      "type": "truth",
+      "level": 2,
+      "text": "你在时间安排方面最容易高估自己，还是低估自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0685",
+      "type": "truth",
+      "level": 2,
+      "text": "关于失败，你现在最想提醒过去的自己什么？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0686",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为坚持和及时止损哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0687",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在公开评价你方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0688",
+      "type": "truth",
+      "level": 2,
+      "text": "你在照顾自己方面最容易高估自己，还是低估自己？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0689",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次离职或换环境让你学会不要太在意别人的看法？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0690",
+      "type": "truth",
+      "level": 2,
+      "text": "如果必须为了帮助别人放弃一部分保护自己，你的底线在哪里？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0691",
+      "type": "truth",
+      "level": 2,
+      "text": "你最难接受朋友在占用私人时间方面怎样对待你？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0692",
+      "type": "truth",
+      "level": 2,
+      "text": "别人对你处理表达需求的评价，哪一句最准确？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0693",
+      "type": "truth",
+      "level": 2,
+      "text": "哪一次考试或面试失利让你学会不要太在意别人的看法？",
+      "theme": "成长经历",
+      "tags": [
+        "standard",
+        "truth",
+        "成长",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0694",
+      "type": "truth",
+      "level": 2,
+      "text": "你认为冒险和确定性哪一个更难长期维持？为什么？",
+      "theme": "价值选择",
+      "tags": [
+        "standard",
+        "truth",
+        "价值观",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0695",
+      "type": "truth",
+      "level": 2,
+      "text": "关于道歉，你认为关系里最公平的处理方式是什么？",
+      "theme": "人际关系",
+      "tags": [
+        "standard",
+        "truth",
+        "关系",
+        "标准"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t2-0696",
+      "type": "truth",
+      "level": 2,
+      "text": "你最想改善自己处理保持专注的哪一种方式？",
+      "theme": "自我认知",
+      "tags": [
+        "standard",
+        "truth",
+        "标准",
+        "自我认知"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    }
+  ]
+}

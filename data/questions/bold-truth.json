@@ -1,0 +1,3724 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9-qb-2026.08",
+  "level": 3,
+  "levelLabel": "大胆",
+  "type": "truth",
+  "count": 250,
+  "items": [
+    {
+      "id": "t301",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最接近你的理想型？可以只说特质。",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t302",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有喜欢过一个不该喜欢的人？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t303",
+      "type": "truth",
+      "level": 3,
+      "text": "你最近一次心动是什么时候、因为什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t304",
+      "type": "truth",
+      "level": 3,
+      "text": "你在感情中最容易重复犯什么错误？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t305",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有错过一个现在想来很可惜的人？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t306",
+      "type": "truth",
+      "level": 3,
+      "text": "你最怕伴侣发现自己的哪一面？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t307",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为嫉妒做过什么不太理智的事？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t308",
+      "type": "truth",
+      "level": 3,
+      "text": "如果可以匿名问前任一个问题，你会问什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t309",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有明知道没有结果却仍然坚持过的关系？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t310",
+      "type": "truth",
+      "level": 3,
+      "text": "你最难释怀的一次告别是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t311",
+      "type": "truth",
+      "level": 3,
+      "text": "你更害怕失去爱，还是失去自由？为什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t312",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经偷偷比较过自己和谁？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t313",
+      "type": "truth",
+      "level": 3,
+      "text": "你在亲密关系中最需要但最难开口的需求是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t314",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有故意冷落过一个其实很在意的人？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t315",
+      "type": "truth",
+      "level": 3,
+      "text": "你最希望现场哪位玩家进一步了解你？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t316",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为害怕失去而隐瞒过什么感受？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t317",
+      "type": "truth",
+      "level": 3,
+      "text": "你认为自己最难被爱的一面是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t318",
+      "type": "truth",
+      "level": 3,
+      "text": "你现在最想对某个人说、但一直没说的话是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "bold",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "v9-t3-0929",
+      "type": "truth",
+      "level": 3,
+      "text": "如果可以重来一次，你最想改变哪次关于开始异地的决定？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "遗憾"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0930",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为一段关系缺少边界而逐渐失望吗？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0931",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最可能让你在感到嫉妒时愿意说真话？为什么？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0932",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有因为害怕孤独而留在一段不适合的关系里？",
+      "theme": "大胆坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "坦白",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0933",
+      "type": "truth",
+      "level": 3,
+      "text": "如果对方要求你在照顾家人的责任和关系之间做选择，你会怎么做？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0934",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为不愿先低头错过一个可能喜欢你的人吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0935",
+      "type": "truth",
+      "level": 3,
+      "text": "你认为缺少个人空间的关系还能维持多久？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0936",
+      "type": "truth",
+      "level": 3,
+      "text": "如果现场有人对你产生好感，你最希望对方用“在合适时机明确表达”的方式表达？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0937",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有享受过别人喜欢你，却不打算回应？",
+      "theme": "大胆坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "坦白",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0938",
+      "type": "truth",
+      "level": 3,
+      "text": "关于独处时间，你的底线是否曾经因为一个人而改变？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0939",
+      "type": "truth",
+      "level": 3,
+      "text": "对方做出“公开支持你”时，你最容易突然心动吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0940",
+      "type": "truth",
+      "level": 3,
+      "text": "你在想要独处这件事上做过最不坦诚的选择是什么？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0941",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最可能让你在面对失去时愿意说真话？为什么？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0942",
+      "type": "truth",
+      "level": 3,
+      "text": "你最想让哪一段关系重新开始一次？",
+      "theme": "大胆坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "坦白",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0943",
+      "type": "truth",
+      "level": 3,
+      "text": "关于与潜在对象的距离，你的底线是否曾经因为一个人而改变？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0944",
+      "type": "truth",
+      "level": 3,
+      "text": "对方做出“幽默化解尴尬”时，你最容易突然心动吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0945",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有在喜欢一个人时故意隐藏真实感受？为什么？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0946",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最可能让你在需要做决定时愿意说真话？为什么？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0947",
+      "type": "truth",
+      "level": 3,
+      "text": "你现在最怕听到谁对你说哪一句话？",
+      "theme": "大胆坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "坦白",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0948",
+      "type": "truth",
+      "level": 3,
+      "text": "重要的人做出“在背后贬低你”时，你会把它视为背叛吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0949",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有把崇拜误认为爱情或喜欢？后来怎样发现的？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0950",
+      "type": "truth",
+      "level": 3,
+      "text": "关于想结束关系，你最害怕别人发现你的哪种想法？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0951",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最像会在关系中遇事逃避的人？可以只说特质。",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0952",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有把“为你好”当作控制别人的理由？",
+      "theme": "大胆坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "坦白",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0953",
+      "type": "truth",
+      "level": 3,
+      "text": "关于异地安排，你的底线是否曾经因为一个人而改变？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0954",
+      "type": "truth",
+      "level": 3,
+      "text": "对方做出“主动承担责任”时，你最容易突然心动吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0955",
+      "type": "truth",
+      "level": 3,
+      "text": "关于想重新开始，你最害怕别人发现你的哪种想法？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0956",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最可能让你在需要承认脆弱时愿意说真话？为什么？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0957",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经为了保住一段关系放弃过哪条原则？",
+      "theme": "大胆坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "坦白",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0958",
+      "type": "truth",
+      "level": 3,
+      "text": "你能接受重要的人在债务上对你有所保留吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0959",
+      "type": "truth",
+      "level": 3,
+      "text": "如果可以重来一次，你最想改变哪次关于重新联系的决定？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "遗憾"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0960",
+      "type": "truth",
+      "level": 3,
+      "text": "如果一段关系长期缺少承诺，你会努力修复还是离开？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0961",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最可能让你在情绪低落时愿意说真话？为什么？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0962",
+      "type": "truth",
+      "level": 3,
+      "text": "你最不愿承认自己还在意哪一个人或哪件事？",
+      "theme": "大胆坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "坦白",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0963",
+      "type": "truth",
+      "level": 3,
+      "text": "你能接受重要的人在与家人的矛盾上对你有所保留吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0964",
+      "type": "truth",
+      "level": 3,
+      "text": "对方做出“强烈反差感”时，你最容易突然心动吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0965",
+      "type": "truth",
+      "level": 3,
+      "text": "你认为缺少边界的关系还能维持多久？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0966",
+      "type": "truth",
+      "level": 3,
+      "text": "如果现场有人对你产生好感，你最希望对方用“先坦白自己的顾虑”的方式表达？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0967",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有在分开后故意展示自己过得很好？",
+      "theme": "大胆坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "坦白",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0968",
+      "type": "truth",
+      "level": 3,
+      "text": "你能接受重要的人在真实情绪上对你有所保留吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0969",
+      "type": "truth",
+      "level": 3,
+      "text": "如果可以重来一次，你最想改变哪次关于分手的决定？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "遗憾"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0970",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为一段关系缺少稳定回应而逐渐失望吗？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0971",
+      "type": "truth",
+      "level": 3,
+      "text": "如果必须与现场一位玩家一起经历长期异地，你会选谁？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0972",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有明知道对方会受伤，仍选择隐瞒一件重要的事？",
+      "theme": "大胆坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "坦白",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0973",
+      "type": "truth",
+      "level": 3,
+      "text": "关于共同财务，你的底线是否曾经因为一个人而改变？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0974",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为身份差异错过一个可能喜欢你的人吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0975",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有在想要独处时故意隐藏真实感受？为什么？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0976",
+      "type": "truth",
+      "level": 3,
+      "text": "如果现场有人对你产生好感，你最希望对方用“告诉你对方能接受被拒绝”的方式表达？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0977",
+      "type": "truth",
+      "level": 3,
+      "text": "你最难原谅自己在一段关系里做过的什么决定？",
+      "theme": "大胆坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "坦白",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0978",
+      "type": "truth",
+      "level": 3,
+      "text": "你能接受重要的人在未来城市上对你有所保留吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0979",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有把竞争欲误认为爱情或喜欢？后来怎样发现的？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0980",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为一段关系缺少尊重而逐渐失望吗？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0981",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最像会在关系中容易吃醋的人？可以只说特质。",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0982",
+      "type": "truth",
+      "level": 3,
+      "text": "重要的人做出“反复失约”时，你会把它视为背叛吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0983",
+      "type": "truth",
+      "level": 3,
+      "text": "如果可以重来一次，你最想改变哪次关于接受追求的决定？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "遗憾"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0984",
+      "type": "truth",
+      "level": 3,
+      "text": "如果一段关系长期缺少信任，你会努力修复还是离开？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0985",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最像会在关系中需要空间的人？可以只说特质。",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0986",
+      "type": "truth",
+      "level": 3,
+      "text": "你能接受重要的人在与前任的联系上对你有所保留吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0987",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有把习惯误认为爱情或喜欢？后来怎样发现的？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0988",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有在发生争吵时故意隐藏真实感受？为什么？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0989",
+      "type": "truth",
+      "level": 3,
+      "text": "如果必须与现场一位玩家一起经历照顾生病的朋友，你会选谁？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0990",
+      "type": "truth",
+      "level": 3,
+      "text": "关于工作与关系的优先级，你的底线是否曾经因为一个人而改变？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0991",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为顾虑朋友看法错过一个可能喜欢你的人吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0992",
+      "type": "truth",
+      "level": 3,
+      "text": "你在信任动摇这件事上做过最不坦诚的选择是什么？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0993",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最像会在关系中嘴硬心软的人？可以只说特质。",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0994",
+      "type": "truth",
+      "level": 3,
+      "text": "关于公开关系，你的底线是否曾经因为一个人而改变？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0995",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有把占有欲误认为爱情或喜欢？后来怎样发现的？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0996",
+      "type": "truth",
+      "level": 3,
+      "text": "如果一段关系长期缺少耐心，你会努力修复还是离开？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0997",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最像会在关系中过度付出的人？可以只说特质。",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0998",
+      "type": "truth",
+      "level": 3,
+      "text": "关于家庭介入程度，你的底线是否曾经因为一个人而改变？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-0999",
+      "type": "truth",
+      "level": 3,
+      "text": "对方做出“认真倾听”时，你最容易突然心动吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1000",
+      "type": "truth",
+      "level": 3,
+      "text": "你认为缺少沟通的关系还能维持多久？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1001",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最像会在关系中很快投入感情的人？可以只说特质。",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1002",
+      "type": "truth",
+      "level": 3,
+      "text": "如果对方要求你在个人兴趣和关系之间做选择，你会怎么做？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1003",
+      "type": "truth",
+      "level": 3,
+      "text": "如果可以重来一次，你最想改变哪次关于删除联系方式的决定？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "遗憾"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1004",
+      "type": "truth",
+      "level": 3,
+      "text": "你认为缺少尊重的关系还能维持多久？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1005",
+      "type": "truth",
+      "level": 3,
+      "text": "如果现场有人对你产生好感，你最希望对方用“先从朋友开始”的方式表达？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1006",
+      "type": "truth",
+      "level": 3,
+      "text": "关于争吵时的语言，你的底线是否曾经因为一个人而改变？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1007",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为上一段关系未结束错过一个可能喜欢你的人吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1008",
+      "type": "truth",
+      "level": 3,
+      "text": "你在对方道歉这件事上做过最不坦诚的选择是什么？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1009",
+      "type": "truth",
+      "level": 3,
+      "text": "如果现场有人对你产生好感，你最希望对方用“给你充分考虑时间”的方式表达？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1010",
+      "type": "truth",
+      "level": 3,
+      "text": "你能接受重要的人在社交账号上对你有所保留吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1011",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为自尊心错过一个可能喜欢你的人吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1012",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有在想结束关系时故意隐藏真实感受？为什么？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1013",
+      "type": "truth",
+      "level": 3,
+      "text": "如果现场有人对你产生好感，你最希望对方用“通过共同朋友试探”的方式表达？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1014",
+      "type": "truth",
+      "level": 3,
+      "text": "重要的人做出“替你做重大决定”时，你会把它视为背叛吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1015",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为误会太深错过一个可能喜欢你的人吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1016",
+      "type": "truth",
+      "level": 3,
+      "text": "关于确认关系，你最害怕别人发现你的哪种想法？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1017",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最可能让你在想逃避问题时愿意说真话？为什么？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1018",
+      "type": "truth",
+      "level": 3,
+      "text": "如果对方要求你在工作机会和关系之间做选择，你会怎么做？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1019",
+      "type": "truth",
+      "level": 3,
+      "text": "对方做出“稳定回应”时，你最容易突然心动吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1020",
+      "type": "truth",
+      "level": 3,
+      "text": "关于发生争吵，你最害怕别人发现你的哪种想法？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1021",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最像会在关系中长期记仇的人？可以只说特质。",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1022",
+      "type": "truth",
+      "level": 3,
+      "text": "如果对方要求你在出国机会和关系之间做选择，你会怎么做？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1023",
+      "type": "truth",
+      "level": 3,
+      "text": "对方做出“尊重你的拒绝”时，你最容易突然心动吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1024",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为一段关系缺少耐心而逐渐失望吗？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1025",
+      "type": "truth",
+      "level": 3,
+      "text": "如果必须与现场一位玩家一起经历面对舆论压力，你会选谁？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1026",
+      "type": "truth",
+      "level": 3,
+      "text": "关于手机隐私，你的底线是否曾经因为一个人而改变？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1027",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有把感动误认为爱情或喜欢？后来怎样发现的？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1028",
+      "type": "truth",
+      "level": 3,
+      "text": "你在喜欢一个人这件事上做过最不坦诚的选择是什么？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1029",
+      "type": "truth",
+      "level": 3,
+      "text": "如果必须与现场一位玩家一起经历参加重要比赛，你会选谁？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1030",
+      "type": "truth",
+      "level": 3,
+      "text": "如果对方要求你在经济安全和关系之间做选择，你会怎么做？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1031",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为时机不对错过一个可能喜欢你的人吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1032",
+      "type": "truth",
+      "level": 3,
+      "text": "如果一段关系长期缺少理解，你会努力修复还是离开？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1033",
+      "type": "truth",
+      "level": 3,
+      "text": "如果必须与现场一位玩家一起经历一起搬家，你会选谁？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1034",
+      "type": "truth",
+      "level": 3,
+      "text": "关于共同账号，你的底线是否曾经因为一个人而改变？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1035",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为工作压力错过一个可能喜欢你的人吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1036",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为一段关系缺少坦诚而逐渐失望吗？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1037",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最可能让你在被误解时愿意说真话？为什么？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1038",
+      "type": "truth",
+      "level": 3,
+      "text": "你能接受重要的人在财务状况上对你有所保留吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1039",
+      "type": "truth",
+      "level": 3,
+      "text": "对方做出“保护你的边界”时，你最容易突然心动吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1040",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为一段关系缺少行动而逐渐失望吗？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1041",
+      "type": "truth",
+      "level": 3,
+      "text": "如果必须与现场一位玩家一起经历共同创业，你会选谁？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1042",
+      "type": "truth",
+      "level": 3,
+      "text": "重要的人做出“向别人泄露争吵细节”时，你会把它视为背叛吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1043",
+      "type": "truth",
+      "level": 3,
+      "text": "如果可以重来一次，你最想改变哪次关于错过约会的决定？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "遗憾"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1044",
+      "type": "truth",
+      "level": 3,
+      "text": "你认为缺少热情的关系还能维持多久？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1045",
+      "type": "truth",
+      "level": 3,
+      "text": "如果必须与现场一位玩家一起经历完成高压项目，你会选谁？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1046",
+      "type": "truth",
+      "level": 3,
+      "text": "重要的人做出“把你当备选”时，你会把它视为背叛吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1047",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为担心失去朋友错过一个可能喜欢你的人吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1048",
+      "type": "truth",
+      "level": 3,
+      "text": "关于感到嫉妒，你最害怕别人发现你的哪种想法？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1049",
+      "type": "truth",
+      "level": 3,
+      "text": "如果必须与现场一位玩家一起经历被困陌生城市，你会选谁？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1050",
+      "type": "truth",
+      "level": 3,
+      "text": "如果对方要求你在独立生活和关系之间做选择，你会怎么做？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1051",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为不敢主动错过一个可能喜欢你的人吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1052",
+      "type": "truth",
+      "level": 3,
+      "text": "如果一段关系长期缺少沟通，你会努力修复还是离开？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1053",
+      "type": "truth",
+      "level": 3,
+      "text": "如果必须与现场一位玩家一起经历一周旅行，你会选谁？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1054",
+      "type": "truth",
+      "level": 3,
+      "text": "你能接受重要的人在过去的错误上对你有所保留吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1055",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有把拯救欲误认为爱情或喜欢？后来怎样发现的？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1056",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有在自己犯错时故意隐藏真实感受？为什么？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1057",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最像会在关系中隐藏不安的人？可以只说特质。",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1058",
+      "type": "truth",
+      "level": 3,
+      "text": "如果对方要求你在最好的朋友和关系之间做选择，你会怎么做？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1059",
+      "type": "truth",
+      "level": 3,
+      "text": "如果可以重来一次，你最想改变哪次关于拒绝复合的决定？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "遗憾"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1060",
+      "type": "truth",
+      "level": 3,
+      "text": "你认为缺少稳定回应的关系还能维持多久？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1061",
+      "type": "truth",
+      "level": 3,
+      "text": "如果必须与现场一位玩家一起经历创业失败，你会选谁？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1062",
+      "type": "truth",
+      "level": 3,
+      "text": "重要的人做出“查看你的私人信息”时，你会把它视为背叛吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1063",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有把内疚误认为爱情或喜欢？后来怎样发现的？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1064",
+      "type": "truth",
+      "level": 3,
+      "text": "你在需要被安慰这件事上做过最不坦诚的选择是什么？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1065",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最像会在关系中很会制造惊喜的人？可以只说特质。",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1066",
+      "type": "truth",
+      "level": 3,
+      "text": "重要的人做出“隐瞒重要联系”时，你会把它视为背叛吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1067",
+      "type": "truth",
+      "level": 3,
+      "text": "如果可以重来一次，你最想改变哪次关于告白的决定？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "遗憾"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1068",
+      "type": "truth",
+      "level": 3,
+      "text": "如果一段关系长期缺少尊重，你会努力修复还是离开？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1069",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最可能让你在做错事时愿意说真话？为什么？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1070",
+      "type": "truth",
+      "level": 3,
+      "text": "你能接受重要的人在朋友圈关系上对你有所保留吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1071",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有把同情误认为爱情或喜欢？后来怎样发现的？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1072",
+      "type": "truth",
+      "level": 3,
+      "text": "如果一段关系长期缺少热情，你会努力修复还是离开？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1073",
+      "type": "truth",
+      "level": 3,
+      "text": "如果现场有人对你产生好感，你最希望对方用“用行动证明”的方式表达？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1074",
+      "type": "truth",
+      "level": 3,
+      "text": "关于社交自由，你的底线是否曾经因为一个人而改变？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1075",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为家庭意见错过一个可能喜欢你的人吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1076",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为一段关系缺少信任而逐渐失望吗？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1077",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最可能让你在陷入纠结时愿意说真话？为什么？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1078",
+      "type": "truth",
+      "level": 3,
+      "text": "重要的人做出“在关键时刻逃避责任”时，你会把它视为背叛吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1079",
+      "type": "truth",
+      "level": 3,
+      "text": "如果可以重来一次，你最想改变哪次关于复合的决定？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "遗憾"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1080",
+      "type": "truth",
+      "level": 3,
+      "text": "你认为缺少共同目标的关系还能维持多久？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1081",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最像会在关系中习惯冷处理的人？可以只说特质。",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1082",
+      "type": "truth",
+      "level": 3,
+      "text": "你能接受重要的人在健康状况上对你有所保留吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1083",
+      "type": "truth",
+      "level": 3,
+      "text": "对方做出“坚定选择你”时，你最容易突然心动吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1084",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有在感到嫉妒时故意隐藏真实感受？为什么？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1085",
+      "type": "truth",
+      "level": 3,
+      "text": "如果现场有人对你产生好感，你最希望对方用“认真准备一次约会”的方式表达？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1086",
+      "type": "truth",
+      "level": 3,
+      "text": "你能接受重要的人在过去的感情上对你有所保留吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1087",
+      "type": "truth",
+      "level": 3,
+      "text": "对方做出“坦白脆弱”时，你最容易突然心动吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1088",
+      "type": "truth",
+      "level": 3,
+      "text": "如果一段关系长期缺少亲密感，你会努力修复还是离开？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1089",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最像会在关系中主动沟通的人？可以只说特质。",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1090",
+      "type": "truth",
+      "level": 3,
+      "text": "如果对方要求你在一段旧关系和关系之间做选择，你会怎么做？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1091",
+      "type": "truth",
+      "level": 3,
+      "text": "对方做出“记住细节”时，你最容易突然心动吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1092",
+      "type": "truth",
+      "level": 3,
+      "text": "关于准备告别，你最害怕别人发现你的哪种想法？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1093",
+      "type": "truth",
+      "level": 3,
+      "text": "如果必须与现场一位玩家一起经历处理家庭危机，你会选谁？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1094",
+      "type": "truth",
+      "level": 3,
+      "text": "关于生活规划，你的底线是否曾经因为一个人而改变？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1095",
+      "type": "truth",
+      "level": 3,
+      "text": "对方做出“果断行动”时，你最容易突然心动吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1096",
+      "type": "truth",
+      "level": 3,
+      "text": "关于信任动摇，你最害怕别人发现你的哪种想法？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1097",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最可能让你在信任动摇时愿意说真话？为什么？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1098",
+      "type": "truth",
+      "level": 3,
+      "text": "如果对方要求你在个人隐私和关系之间做选择，你会怎么做？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1099",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为现实条件错过一个可能喜欢你的人吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1100",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为一段关系缺少沟通而逐渐失望吗？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1101",
+      "type": "truth",
+      "level": 3,
+      "text": "如果现场有人对你产生好感，你最希望对方用“写一封信”的方式表达？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1102",
+      "type": "truth",
+      "level": 3,
+      "text": "重要的人做出“故意制造嫉妒”时，你会把它视为背叛吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1103",
+      "type": "truth",
+      "level": 3,
+      "text": "如果可以重来一次，你最想改变哪次关于见最后一面的决定？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "遗憾"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1104",
+      "type": "truth",
+      "level": 3,
+      "text": "如果一段关系长期缺少边界，你会努力修复还是离开？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1105",
+      "type": "truth",
+      "level": 3,
+      "text": "如果现场有人对你产生好感，你最希望对方用“约你单独见面”的方式表达？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1106",
+      "type": "truth",
+      "level": 3,
+      "text": "如果对方要求你在家庭意见和关系之间做选择，你会怎么做？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1107",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有把新鲜感误认为爱情或喜欢？后来怎样发现的？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1108",
+      "type": "truth",
+      "level": 3,
+      "text": "如果一段关系长期缺少共同目标，你会努力修复还是离开？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1109",
+      "type": "truth",
+      "level": 3,
+      "text": "如果现场有人对你产生好感，你最希望对方用“先询问你的感受”的方式表达？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1110",
+      "type": "truth",
+      "level": 3,
+      "text": "你能接受重要的人在职业计划上对你有所保留吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1111",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为不确定对方态度错过一个可能喜欢你的人吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1112",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为一段关系缺少个人空间而逐渐失望吗？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1113",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最可能让你在想重新开始时愿意说真话？为什么？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1114",
+      "type": "truth",
+      "level": 3,
+      "text": "重要的人做出“和你讨厌的人走得很近”时，你会把它视为背叛吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1115",
+      "type": "truth",
+      "level": 3,
+      "text": "对方做出“承认自己的错误”时，你最容易突然心动吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1116",
+      "type": "truth",
+      "level": 3,
+      "text": "你认为缺少承诺的关系还能维持多久？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1117",
+      "type": "truth",
+      "level": 3,
+      "text": "如果现场有人对你产生好感，你最希望对方用“直接说”的方式表达？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1118",
+      "type": "truth",
+      "level": 3,
+      "text": "如果对方要求你在长期计划和关系之间做选择，你会怎么做？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1119",
+      "type": "truth",
+      "level": 3,
+      "text": "对方做出“愿意谈未来”时，你最容易突然心动吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1120",
+      "type": "truth",
+      "level": 3,
+      "text": "你认为缺少行动的关系还能维持多久？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1121",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最像会在关系中害怕承诺的人？可以只说特质。",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1122",
+      "type": "truth",
+      "level": 3,
+      "text": "你能接受重要的人在家庭问题上对你有所保留吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1123",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为害怕被拒绝错过一个可能喜欢你的人吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1124",
+      "type": "truth",
+      "level": 3,
+      "text": "你认为缺少坦诚的关系还能维持多久？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1125",
+      "type": "truth",
+      "level": 3,
+      "text": "如果必须与现场一位玩家一起经历共同照顾宠物，你会选谁？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1126",
+      "type": "truth",
+      "level": 3,
+      "text": "你能接受重要的人在对婚姻的看法上对你有所保留吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1127",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有把不甘心误认为爱情或喜欢？后来怎样发现的？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1128",
+      "type": "truth",
+      "level": 3,
+      "text": "你认为缺少亲密感的关系还能维持多久？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1129",
+      "type": "truth",
+      "level": 3,
+      "text": "现场谁最可能让你在准备告别时愿意说真话？为什么？",
+      "theme": "现场选择",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "现场互动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1130",
+      "type": "truth",
+      "level": 3,
+      "text": "重要的人做出“用冷处理惩罚你”时，你会把它视为背叛吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1131",
+      "type": "truth",
+      "level": 3,
+      "text": "如果可以重来一次，你最想改变哪次关于公开关系的决定？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "遗憾"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1132",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为一段关系缺少共同目标而逐渐失望吗？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1133",
+      "type": "truth",
+      "level": 3,
+      "text": "关于朋友优先级，你的底线是否曾经因为一个人而改变？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1134",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有把胜负欲误认为爱情或喜欢？后来怎样发现的？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1135",
+      "type": "truth",
+      "level": 3,
+      "text": "你在被冷落这件事上做过最不坦诚的选择是什么？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1136",
+      "type": "truth",
+      "level": 3,
+      "text": "如果对方要求你在现有朋友圈和关系之间做选择，你会怎么做？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1137",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有把孤独误认为爱情或喜欢？后来怎样发现的？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1138",
+      "type": "truth",
+      "level": 3,
+      "text": "关于被冷落，你最害怕别人发现你的哪种想法？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1139",
+      "type": "truth",
+      "level": 3,
+      "text": "重要的人做出“长期忽视你的感受”时，你会把它视为背叛吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1140",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为距离问题错过一个可能喜欢你的人吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1141",
+      "type": "truth",
+      "level": 3,
+      "text": "你在面对前任这件事上做过最不坦诚的选择是什么？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1142",
+      "type": "truth",
+      "level": 3,
+      "text": "如果对方要求你在个人理想和关系之间做选择，你会怎么做？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1143",
+      "type": "truth",
+      "level": 3,
+      "text": "对方做出“在你低落时陪伴”时，你最容易突然心动吗？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1144",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有在确认关系时故意隐藏真实感受？为什么？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1145",
+      "type": "truth",
+      "level": 3,
+      "text": "关于前任联系，你的底线是否曾经因为一个人而改变？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1146",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有把被需要误认为爱情或喜欢？后来怎样发现的？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1147",
+      "type": "truth",
+      "level": 3,
+      "text": "你曾经因为一段关系缺少理解而逐渐失望吗？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1148",
+      "type": "truth",
+      "level": 3,
+      "text": "如果对方要求你在生活城市和关系之间做选择，你会怎么做？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1149",
+      "type": "truth",
+      "level": 3,
+      "text": "如果可以重来一次，你最想改变哪次关于搬去同一城市的决定？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "遗憾"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1150",
+      "type": "truth",
+      "level": 3,
+      "text": "你在等待承诺这件事上做过最不坦诚的选择是什么？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1151",
+      "type": "truth",
+      "level": 3,
+      "text": "重要的人做出“否认已经答应的事”时，你会把它视为背叛吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1152",
+      "type": "truth",
+      "level": 3,
+      "text": "如果可以重来一次，你最想改变哪次关于告诉朋友的决定？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "遗憾"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1153",
+      "type": "truth",
+      "level": 3,
+      "text": "你认为缺少理解的关系还能维持多久？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1154",
+      "type": "truth",
+      "level": 3,
+      "text": "关于共享定位，你的底线是否曾经因为一个人而改变？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1155",
+      "type": "truth",
+      "level": 3,
+      "text": "如果可以重来一次，你最想改变哪次关于结束暧昧的决定？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "遗憾"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1156",
+      "type": "truth",
+      "level": 3,
+      "text": "关于对方道歉，你最害怕别人发现你的哪种想法？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1157",
+      "type": "truth",
+      "level": 3,
+      "text": "重要的人做出“长期说一套做一套”时，你会把它视为背叛吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1158",
+      "type": "truth",
+      "level": 3,
+      "text": "你有没有把依赖误认为爱情或喜欢？后来怎样发现的？",
+      "theme": "心动与遗憾",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "心动"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1159",
+      "type": "truth",
+      "level": 3,
+      "text": "你认为缺少信任的关系还能维持多久？",
+      "theme": "关系坦白",
+      "tags": [
+        "bold",
+        "truth",
+        "关系",
+        "大胆"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t3-1160",
+      "type": "truth",
+      "level": 3,
+      "text": "重要的人做出“公开你的秘密”时，你会把它视为背叛吗？",
+      "theme": "边界与信任",
+      "tags": [
+        "bold",
+        "truth",
+        "大胆",
+        "边界"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    }
+  ]
+}

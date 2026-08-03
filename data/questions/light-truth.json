@@ -1,0 +1,3712 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9-qb-2026.08",
+  "level": 1,
+  "levelLabel": "轻松",
+  "type": "truth",
+  "count": 250,
+  "items": [
+    {
+      "id": "t101",
+      "type": "truth",
+      "level": 1,
+      "text": "今天发生过最让你开心的一件小事是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t102",
+      "type": "truth",
+      "level": 1,
+      "text": "你最想立刻学会的一项技能是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t103",
+      "type": "truth",
+      "level": 1,
+      "text": "最近反复听的一首歌是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t104",
+      "type": "truth",
+      "level": 1,
+      "text": "如果明天不用工作，你会怎样安排一天？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t105",
+      "type": "truth",
+      "level": 1,
+      "text": "你小时候最相信、现在觉得最好笑的事情是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t106",
+      "type": "truth",
+      "level": 1,
+      "text": "你最满意自己身上的哪个优点？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t107",
+      "type": "truth",
+      "level": 1,
+      "text": "现场谁最适合一起旅行？为什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t108",
+      "type": "truth",
+      "level": 1,
+      "text": "你手机里使用时间最长的应用是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t109",
+      "type": "truth",
+      "level": 1,
+      "text": "你最想重新体验一次的快乐记忆是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t110",
+      "type": "truth",
+      "level": 1,
+      "text": "如果能养一种不受现实限制的宠物，你会选什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t111",
+      "type": "truth",
+      "level": 1,
+      "text": "你最喜欢别人怎样称赞你？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t112",
+      "type": "truth",
+      "level": 1,
+      "text": "你做过最有仪式感的一件事是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t113",
+      "type": "truth",
+      "level": 1,
+      "text": "最近一次让你笑到停不下来是因为什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t114",
+      "type": "truth",
+      "level": 1,
+      "text": "你最离不开的一件日常用品是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t115",
+      "type": "truth",
+      "level": 1,
+      "text": "如果能立即去一个城市住一个月，你会去哪？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t116",
+      "type": "truth",
+      "level": 1,
+      "text": "你觉得自己最像哪种动物？为什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t117",
+      "type": "truth",
+      "level": 1,
+      "text": "你最想保留到老年的一个习惯是什么？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "t118",
+      "type": "truth",
+      "level": 1,
+      "text": "现场谁的穿搭最符合你的审美？",
+      "source": "v8",
+      "theme": "历史题库",
+      "tags": [
+        "light",
+        "truth"
+      ],
+      "consentRequired": false
+    },
+    {
+      "id": "v9-t1-0001",
+      "type": "truth",
+      "level": 1,
+      "text": "你理想中的做饭是什么样？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0002",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种乐观？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0003",
+      "type": "truth",
+      "level": 1,
+      "text": "如果明天醒来就掌握一种摄影能力，你希望具体是什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0004",
+      "type": "truth",
+      "level": 1,
+      "text": "你最喜欢自己名字里的哪个字或声音？",
+      "theme": "轻松表达",
+      "tags": [
+        "light",
+        "truth",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0005",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以重播一次关于被人认真夸奖的记忆，你会选哪一次？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0006",
+      "type": "truth",
+      "level": 1,
+      "text": "关于朋友聚会，你最想尝试的一个新变化是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0007",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种松弛感？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0008",
+      "type": "truth",
+      "level": 1,
+      "text": "如果能把一种生活技能提升到专业水平，你会选哪一种？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0009",
+      "type": "truth",
+      "level": 1,
+      "text": "用三个不重复的词描述你今天的状态。",
+      "theme": "轻松表达",
+      "tags": [
+        "light",
+        "truth",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0010",
+      "type": "truth",
+      "level": 1,
+      "text": "关于拍到满意的照片，你最想感谢当时的谁？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0011",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和独处时间有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0012",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的观察力时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0013",
+      "type": "truth",
+      "level": 1,
+      "text": "如果今天可以暂停所有责任去练习社交能力，你会怎么安排？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0014",
+      "type": "truth",
+      "level": 1,
+      "text": "如果今天是一种颜色，会是什么颜色？",
+      "theme": "轻松表达",
+      "tags": [
+        "light",
+        "truth",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0015",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以重播一次关于突然放假的一天的记忆，你会选哪一次？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0016",
+      "type": "truth",
+      "level": 1,
+      "text": "关于临时放假，你最想尝试的一个新变化是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0017",
+      "type": "truth",
+      "level": 1,
+      "text": "你最欣赏朋友身上的哪种守时？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0018",
+      "type": "truth",
+      "level": 1,
+      "text": "如果明天醒来就掌握一种动物沟通能力，你希望具体是什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0019",
+      "type": "truth",
+      "level": 1,
+      "text": "你最喜欢和朋友一起完成哪类事情？",
+      "theme": "轻松表达",
+      "tags": [
+        "light",
+        "truth",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0020",
+      "type": "truth",
+      "level": 1,
+      "text": "你印象最深的一次朋友聚会发生在哪里？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0021",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和朋友聚会有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0022",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的行动力时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0023",
+      "type": "truth",
+      "level": 1,
+      "text": "如果明天醒来就掌握一种生活技能，你希望具体是什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0024",
+      "type": "truth",
+      "level": 1,
+      "text": "你最近一次主动夸奖别人是什么时候？",
+      "theme": "轻松表达",
+      "tags": [
+        "light",
+        "truth",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0025",
+      "type": "truth",
+      "level": 1,
+      "text": "你印象最深的一次收到意外礼物发生在哪里？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0026",
+      "type": "truth",
+      "level": 1,
+      "text": "关于节日，你最想尝试的一个新变化是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0027",
+      "type": "truth",
+      "level": 1,
+      "text": "你最欣赏朋友身上的哪种松弛感？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0028",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和快速入睡能力有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0029",
+      "type": "truth",
+      "level": 1,
+      "text": "你最喜欢别人用什么方式邀请你参加活动？",
+      "theme": "轻松表达",
+      "tags": [
+        "light",
+        "truth",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0030",
+      "type": "truth",
+      "level": 1,
+      "text": "你印象最深的一次独自解决一个问题发生在哪里？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0031",
+      "type": "truth",
+      "level": 1,
+      "text": "关于独处时间，你最想尝试的一个新变化是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0032",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种好奇心？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0033",
+      "type": "truth",
+      "level": 1,
+      "text": "如果明天醒来就掌握一种舞台技能，你希望具体是什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0034",
+      "type": "truth",
+      "level": 1,
+      "text": "你最近最想推荐给大家的一样东西是什么？",
+      "theme": "轻松表达",
+      "tags": [
+        "light",
+        "truth",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0035",
+      "type": "truth",
+      "level": 1,
+      "text": "关于完成一个小目标，你最想感谢当时的谁？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0036",
+      "type": "truth",
+      "level": 1,
+      "text": "你理想中的临时放假是什么样？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0037",
+      "type": "truth",
+      "level": 1,
+      "text": "你最欣赏朋友身上的哪种照顾气氛的能力？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0038",
+      "type": "truth",
+      "level": 1,
+      "text": "如果能把一种绘画能力提升到专业水平，你会选哪一种？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0039",
+      "type": "truth",
+      "level": 1,
+      "text": "你最想收到哪种不贵但很用心的礼物？",
+      "theme": "轻松表达",
+      "tags": [
+        "light",
+        "truth",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0040",
+      "type": "truth",
+      "level": 1,
+      "text": "你印象最深的一次认识新朋友发生在哪里？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0041",
+      "type": "truth",
+      "level": 1,
+      "text": "你理想中的运动是什么样？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0042",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种幽默感？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0043",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和旅行方式有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0044",
+      "type": "truth",
+      "level": 1,
+      "text": "你最想把哪一种小快乐变成每周固定安排？",
+      "theme": "轻松表达",
+      "tags": [
+        "light",
+        "truth",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0045",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以重播一次关于吃到特别好吃的东西的记忆，你会选哪一次？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0046",
+      "type": "truth",
+      "level": 1,
+      "text": "你理想中的节日是什么样？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0047",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种观察力？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0048",
+      "type": "truth",
+      "level": 1,
+      "text": "如果明天醒来就掌握一种绘画能力，你希望具体是什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0049",
+      "type": "truth",
+      "level": 1,
+      "text": "你觉得自己最像哪一种甜品或饮料？",
+      "theme": "轻松表达",
+      "tags": [
+        "light",
+        "truth",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0050",
+      "type": "truth",
+      "level": 1,
+      "text": "关于被人认真夸奖，你最想感谢当时的谁？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0051",
+      "type": "truth",
+      "level": 1,
+      "text": "关于周末安排，你最想尝试的一个新变化是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0052",
+      "type": "truth",
+      "level": 1,
+      "text": "现场谁最可能在计划突然变化时第一个站出来？为什么？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0053",
+      "type": "truth",
+      "level": 1,
+      "text": "如果明天醒来就掌握一种语言，你希望具体是什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0054",
+      "type": "truth",
+      "level": 1,
+      "text": "你手机相册里最多的是哪一类照片？",
+      "theme": "轻松表达",
+      "tags": [
+        "light",
+        "truth",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0055",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以重播一次关于被陌生人帮助的记忆，你会选哪一次？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0056",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和听歌习惯有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0057",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的表达能力时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0058",
+      "type": "truth",
+      "level": 1,
+      "text": "如果今天可以暂停所有责任去练习创作能力，你会怎么安排？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0059",
+      "type": "truth",
+      "level": 1,
+      "text": "你觉得自己最适合哪一种天气？",
+      "theme": "轻松表达",
+      "tags": [
+        "light",
+        "truth",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0060",
+      "type": "truth",
+      "level": 1,
+      "text": "过去一年里，哪一次朋友聚会最让你开心？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0061",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和周末安排有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0062",
+      "type": "truth",
+      "level": 1,
+      "text": "你最欣赏朋友身上的哪种乐观？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0063",
+      "type": "truth",
+      "level": 1,
+      "text": "如果明天醒来就掌握一种记忆力，你希望具体是什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0064",
+      "type": "truth",
+      "level": 1,
+      "text": "过去一年里，哪一次收到意外礼物最让你开心？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0065",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和居家休息有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0066",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的照顾气氛的能力时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0067",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和整理能力有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0068",
+      "type": "truth",
+      "level": 1,
+      "text": "关于临时旅行，你最想感谢当时的谁？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0069",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和旅行计划有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0070",
+      "type": "truth",
+      "level": 1,
+      "text": "你最欣赏朋友身上的哪种观察力？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0071",
+      "type": "truth",
+      "level": 1,
+      "text": "如果今天可以暂停所有责任去练习动物沟通能力，你会怎么安排？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0072",
+      "type": "truth",
+      "level": 1,
+      "text": "关于看完一场演出，你最想感谢当时的谁？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0073",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和收纳有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0074",
+      "type": "truth",
+      "level": 1,
+      "text": "现场谁最可能在大家陷入冷场时第一个站出来？为什么？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0075",
+      "type": "truth",
+      "level": 1,
+      "text": "如果今天可以暂停所有责任去练习手艺，你会怎么安排？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0076",
+      "type": "truth",
+      "level": 1,
+      "text": "过去一年里，哪一次完成一次整理最让你开心？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0077",
+      "type": "truth",
+      "level": 1,
+      "text": "你理想中的旅行计划是什么样？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0078",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种倾听能力？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0079",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和超能力有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0080",
+      "type": "truth",
+      "level": 1,
+      "text": "过去一年里，哪一次完成一个小目标最让你开心？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0081",
+      "type": "truth",
+      "level": 1,
+      "text": "你在临时放假上最有仪式感的做法是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0082",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种创造力？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0083",
+      "type": "truth",
+      "level": 1,
+      "text": "如果能把一种语言提升到专业水平，你会选哪一种？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0084",
+      "type": "truth",
+      "level": 1,
+      "text": "你印象最深的一次吃到特别好吃的东西发生在哪里？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0085",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和拍照有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0086",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的耐心时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0087",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和讲故事能力有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0088",
+      "type": "truth",
+      "level": 1,
+      "text": "关于吃到特别好吃的东西，你最想感谢当时的谁？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0089",
+      "type": "truth",
+      "level": 1,
+      "text": "你理想中的起床后的十分钟是什么样？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0090",
+      "type": "truth",
+      "level": 1,
+      "text": "你最欣赏朋友身上的哪种可靠感？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0091",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和生活技能有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0092",
+      "type": "truth",
+      "level": 1,
+      "text": "你印象最深的一次看完一场演出发生在哪里？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0093",
+      "type": "truth",
+      "level": 1,
+      "text": "你在收纳上最有仪式感的做法是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0094",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的守时时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0095",
+      "type": "truth",
+      "level": 1,
+      "text": "如果能把一种户外活动提升到专业水平，你会选哪一种？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0096",
+      "type": "truth",
+      "level": 1,
+      "text": "你印象最深的一次下班后的夜晚发生在哪里？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0097",
+      "type": "truth",
+      "level": 1,
+      "text": "你在独处时间上最有仪式感的做法是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0098",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的好奇心时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0099",
+      "type": "truth",
+      "level": 1,
+      "text": "如果今天可以暂停所有责任去练习生活技能，你会怎么安排？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0100",
+      "type": "truth",
+      "level": 1,
+      "text": "关于帮助别人，你最想感谢当时的谁？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0101",
+      "type": "truth",
+      "level": 1,
+      "text": "你在居家休息上最有仪式感的做法是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0102",
+      "type": "truth",
+      "level": 1,
+      "text": "你最欣赏朋友身上的哪种真诚？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0103",
+      "type": "truth",
+      "level": 1,
+      "text": "如果今天可以暂停所有责任去练习烹饪能力，你会怎么安排？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0104",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以重播一次关于下班后的夜晚的记忆，你会选哪一次？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0105",
+      "type": "truth",
+      "level": 1,
+      "text": "关于拍照，你最想尝试的一个新变化是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0106",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的幽默感时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0107",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和创作能力有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0108",
+      "type": "truth",
+      "level": 1,
+      "text": "过去一年里，哪一次和家人相处最让你开心？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0109",
+      "type": "truth",
+      "level": 1,
+      "text": "你理想中的购物是什么样？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0110",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的边界感时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0111",
+      "type": "truth",
+      "level": 1,
+      "text": "如果能把一种社交能力提升到专业水平，你会选哪一种？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0112",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以重播一次关于收到意外礼物的记忆，你会选哪一次？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0113",
+      "type": "truth",
+      "level": 1,
+      "text": "你理想中的下雨天是什么样？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0114",
+      "type": "truth",
+      "level": 1,
+      "text": "你最欣赏朋友身上的哪种创造力？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0115",
+      "type": "truth",
+      "level": 1,
+      "text": "如果明天醒来就掌握一种讲故事能力，你希望具体是什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0116",
+      "type": "truth",
+      "level": 1,
+      "text": "关于买到期待很久的东西，你最想感谢当时的谁？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0117",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和下雨天有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0118",
+      "type": "truth",
+      "level": 1,
+      "text": "现场谁最可能在有人需要帮助时第一个站出来？为什么？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0119",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和方向感有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0120",
+      "type": "truth",
+      "level": 1,
+      "text": "关于被陌生人帮助，你最想感谢当时的谁？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0121",
+      "type": "truth",
+      "level": 1,
+      "text": "你理想中的拍照是什么样？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0122",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种边界感？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0123",
+      "type": "truth",
+      "level": 1,
+      "text": "如果明天醒来就掌握一种乐器，你希望具体是什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0124",
+      "type": "truth",
+      "level": 1,
+      "text": "你印象最深的一次和家人相处发生在哪里？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0125",
+      "type": "truth",
+      "level": 1,
+      "text": "你在购物上最有仪式感的做法是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0126",
+      "type": "truth",
+      "level": 1,
+      "text": "现场谁最可能在有人情绪低落时第一个站出来？为什么？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0127",
+      "type": "truth",
+      "level": 1,
+      "text": "如果今天可以暂停所有责任去练习绘画能力，你会怎么安排？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0128",
+      "type": "truth",
+      "level": 1,
+      "text": "过去一年里，哪一次认识新朋友最让你开心？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0129",
+      "type": "truth",
+      "level": 1,
+      "text": "你在旅行计划上最有仪式感的做法是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0130",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种照顾气氛的能力？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0131",
+      "type": "truth",
+      "level": 1,
+      "text": "如果能把一种烹饪能力提升到专业水平，你会选哪一种？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0132",
+      "type": "truth",
+      "level": 1,
+      "text": "过去一年里，哪一次下班后的夜晚最让你开心？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0133",
+      "type": "truth",
+      "level": 1,
+      "text": "你在朋友聚会上最有仪式感的做法是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0134",
+      "type": "truth",
+      "level": 1,
+      "text": "现场谁最可能在需要组织活动时第一个站出来？为什么？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0135",
+      "type": "truth",
+      "level": 1,
+      "text": "如果能把一种摄影能力提升到专业水平，你会选哪一种？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0136",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以重播一次关于完成一个小目标的记忆，你会选哪一次？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0137",
+      "type": "truth",
+      "level": 1,
+      "text": "你理想中的居家休息是什么样？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0138",
+      "type": "truth",
+      "level": 1,
+      "text": "现场谁最可能在大家意见不一致时第一个站出来？为什么？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0139",
+      "type": "truth",
+      "level": 1,
+      "text": "如果今天可以暂停所有责任去练习记忆力，你会怎么安排？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0140",
+      "type": "truth",
+      "level": 1,
+      "text": "关于认识新朋友，你最想感谢当时的谁？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0141",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和做饭有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0142",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的创造力时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0143",
+      "type": "truth",
+      "level": 1,
+      "text": "如果今天可以暂停所有责任去练习语言，你会怎么安排？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0144",
+      "type": "truth",
+      "level": 1,
+      "text": "你印象最深的一次突然放假的一天发生在哪里？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0145",
+      "type": "truth",
+      "level": 1,
+      "text": "你在节日上最有仪式感的做法是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0146",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的可靠感时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0147",
+      "type": "truth",
+      "level": 1,
+      "text": "如果能把一种创作能力提升到专业水平，你会选哪一种？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0148",
+      "type": "truth",
+      "level": 1,
+      "text": "关于收到意外礼物，你最想感谢当时的谁？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0149",
+      "type": "truth",
+      "level": 1,
+      "text": "关于睡前时间，你最想尝试的一个新变化是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0150",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的倾听能力时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0151",
+      "type": "truth",
+      "level": 1,
+      "text": "如果能把一种方向感提升到专业水平，你会选哪一种？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0152",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以重播一次关于独自解决一个问题的记忆，你会选哪一次？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0153",
+      "type": "truth",
+      "level": 1,
+      "text": "你在看电影上最有仪式感的做法是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0154",
+      "type": "truth",
+      "level": 1,
+      "text": "你最欣赏朋友身上的哪种耐心？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0155",
+      "type": "truth",
+      "level": 1,
+      "text": "如果今天可以暂停所有责任去练习乐器，你会怎么安排？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0156",
+      "type": "truth",
+      "level": 1,
+      "text": "关于第一次尝试新事物，你最想感谢当时的谁？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0157",
+      "type": "truth",
+      "level": 1,
+      "text": "关于生日，你最想尝试的一个新变化是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0158",
+      "type": "truth",
+      "level": 1,
+      "text": "你最欣赏朋友身上的哪种表达能力？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0159",
+      "type": "truth",
+      "level": 1,
+      "text": "如果明天醒来就掌握一种旅行方式，你希望具体是什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0160",
+      "type": "truth",
+      "level": 1,
+      "text": "你印象最深的一次帮助别人发生在哪里？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0161",
+      "type": "truth",
+      "level": 1,
+      "text": "你理想中的睡前时间是什么样？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0162",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的松弛感时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0163",
+      "type": "truth",
+      "level": 1,
+      "text": "如果明天醒来就掌握一种方向感，你希望具体是什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0164",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以重播一次关于帮助别人的记忆，你会选哪一次？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0165",
+      "type": "truth",
+      "level": 1,
+      "text": "你在运动上最有仪式感的做法是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0166",
+      "type": "truth",
+      "level": 1,
+      "text": "你最欣赏朋友身上的哪种幽默感？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0167",
+      "type": "truth",
+      "level": 1,
+      "text": "如果能把一种整理能力提升到专业水平，你会选哪一种？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0168",
+      "type": "truth",
+      "level": 1,
+      "text": "你印象最深的一次被陌生人帮助发生在哪里？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0169",
+      "type": "truth",
+      "level": 1,
+      "text": "你理想中的看电影是什么样？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0170",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种真诚？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0171",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和运动有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0172",
+      "type": "truth",
+      "level": 1,
+      "text": "关于独自解决一个问题，你最想感谢当时的谁？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0173",
+      "type": "truth",
+      "level": 1,
+      "text": "你理想中的夏天是什么样？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0174",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种细心？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0175",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和摄影能力有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0176",
+      "type": "truth",
+      "level": 1,
+      "text": "过去一年里，哪一次看到漂亮风景最让你开心？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0177",
+      "type": "truth",
+      "level": 1,
+      "text": "你在做饭上最有仪式感的做法是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0178",
+      "type": "truth",
+      "level": 1,
+      "text": "你最欣赏朋友身上的哪种细心？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0179",
+      "type": "truth",
+      "level": 1,
+      "text": "如果能把一种乐器提升到专业水平，你会选哪一种？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0180",
+      "type": "truth",
+      "level": 1,
+      "text": "关于生日，你最想感谢当时的谁？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0181",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和睡前时间有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0182",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种行动力？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0183",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和记忆力有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0184",
+      "type": "truth",
+      "level": 1,
+      "text": "过去一年里，哪一次第一次尝试新事物最让你开心？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0185",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和临时放假有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0186",
+      "type": "truth",
+      "level": 1,
+      "text": "现场谁最可能在需要做决定时第一个站出来？为什么？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0187",
+      "type": "truth",
+      "level": 1,
+      "text": "如果明天醒来就掌握一种整理能力，你希望具体是什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0188",
+      "type": "truth",
+      "level": 1,
+      "text": "过去一年里，哪一次拍到满意的照片最让你开心？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0189",
+      "type": "truth",
+      "level": 1,
+      "text": "关于短途出行，你最想尝试的一个新变化是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0190",
+      "type": "truth",
+      "level": 1,
+      "text": "你最欣赏朋友身上的哪种好奇心？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0191",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和手艺有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0192",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以重播一次关于临时旅行的记忆，你会选哪一次？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0193",
+      "type": "truth",
+      "level": 1,
+      "text": "关于购物，你最想尝试的一个新变化是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0194",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的真诚时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0195",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和户外活动有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0196",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以重播一次关于第一次尝试新事物的记忆，你会选哪一次？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0197",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和逛街有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0198",
+      "type": "truth",
+      "level": 1,
+      "text": "你最欣赏朋友身上的哪种行动力？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0199",
+      "type": "truth",
+      "level": 1,
+      "text": "如果明天醒来就掌握一种社交能力，你希望具体是什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0200",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以重播一次关于完成一次整理的记忆，你会选哪一次？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0201",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和起床后的十分钟有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0202",
+      "type": "truth",
+      "level": 1,
+      "text": "你最欣赏朋友身上的哪种边界感？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0203",
+      "type": "truth",
+      "level": 1,
+      "text": "如果能把一种讲故事能力提升到专业水平，你会选哪一种？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0204",
+      "type": "truth",
+      "level": 1,
+      "text": "过去一年里，哪一次被陌生人帮助最让你开心？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0205",
+      "type": "truth",
+      "level": 1,
+      "text": "关于起床后的十分钟，你最想尝试的一个新变化是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0206",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的细心时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0207",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和烹饪能力有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0208",
+      "type": "truth",
+      "level": 1,
+      "text": "你印象最深的一次生日发生在哪里？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0209",
+      "type": "truth",
+      "level": 1,
+      "text": "关于早餐，你最想尝试的一个新变化是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0210",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种守时？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0211",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和动物沟通能力有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0212",
+      "type": "truth",
+      "level": 1,
+      "text": "过去一年里，哪一次吃到特别好吃的东西最让你开心？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0213",
+      "type": "truth",
+      "level": 1,
+      "text": "关于听歌习惯，你最想尝试的一个新变化是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0214",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种表达能力？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0215",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以免费体验一次和社交能力有关的项目，你会选什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0216",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以重播一次关于和家人相处的记忆，你会选哪一次？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0217",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和冬天有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0218",
+      "type": "truth",
+      "level": 1,
+      "text": "现场谁最可能在遇到突发状况时第一个站出来？为什么？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0219",
+      "type": "truth",
+      "level": 1,
+      "text": "如果明天醒来就掌握一种户外活动，你希望具体是什么？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0220",
+      "type": "truth",
+      "level": 1,
+      "text": "你印象最深的一次拍到满意的照片发生在哪里？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0221",
+      "type": "truth",
+      "level": 1,
+      "text": "关于运动，你最想尝试的一个新变化是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0222",
+      "type": "truth",
+      "level": 1,
+      "text": "别人表现出很强的乐观时，你会觉得加分吗？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0223",
+      "type": "truth",
+      "level": 1,
+      "text": "如果今天可以暂停所有责任去练习超能力，你会怎么安排？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0224",
+      "type": "truth",
+      "level": 1,
+      "text": "如果可以重播一次关于拍到满意的照片的记忆，你会选哪一次？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0225",
+      "type": "truth",
+      "level": 1,
+      "text": "如果只能保留一个和运动有关的习惯，你会保留什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0226",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种可靠感？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0227",
+      "type": "truth",
+      "level": 1,
+      "text": "如果能把一种运动提升到专业水平，你会选哪一种？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0228",
+      "type": "truth",
+      "level": 1,
+      "text": "你印象最深的一次买到期待很久的东西发生在哪里？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0229",
+      "type": "truth",
+      "level": 1,
+      "text": "你在拍照上最有仪式感的做法是什么？",
+      "theme": "日常偏好",
+      "tags": [
+        "light",
+        "truth",
+        "偏好",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0230",
+      "type": "truth",
+      "level": 1,
+      "text": "你希望别人记住你的哪一种耐心？",
+      "theme": "社交观察",
+      "tags": [
+        "light",
+        "truth",
+        "社交",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0231",
+      "type": "truth",
+      "level": 1,
+      "text": "如果今天可以暂停所有责任去练习旅行方式，你会怎么安排？",
+      "theme": "想象选择",
+      "tags": [
+        "light",
+        "truth",
+        "想象",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    },
+    {
+      "id": "v9-t1-0232",
+      "type": "truth",
+      "level": 1,
+      "text": "过去一年里，哪一次突然放假的一天最让你开心？",
+      "theme": "快乐记忆",
+      "tags": [
+        "light",
+        "truth",
+        "回忆",
+        "轻松"
+      ],
+      "consentRequired": false,
+      "source": "v9-expansion"
+    }
+  ]
+}
