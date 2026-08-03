@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.1-2026.08",
+  "bankVersion": "v9.1.1-2026.08",
   "generatedAt": "2026-08-03",
   "totalEnabledSpecialized": 2500,
   "files": [
@@ -118,8 +118,8 @@
       "level": "adult",
       "type": "word-pair",
       "count": 260,
-      "sha256": "0e03d9164910de96b4dfd1e8a2df286b6214f33cc94539e482775138ed6be226",
-      "bytes": 57649
+      "sha256": "f8b3d39bbcc8bc4ee7520a00f613cd67978cf3b814551011ab251b7c539baafe",
+      "bytes": 59232
     },
     {
       "file": "data/games/undercover-bold.json",
@@ -127,8 +127,8 @@
       "level": "bold",
       "type": "word-pair",
       "count": 80,
-      "sha256": "053325ab9482f4d6a220e86bb4b7ef89ec8de47893039c0425fd6e4d66c0e3c2",
-      "bytes": 15331
+      "sha256": "1a0c342de5a0709e2dd319237d99f32d93b2401b7891bb25b1ba8051a8ea3479",
+      "bytes": 15138
     },
     {
       "file": "data/games/undercover-light.json",
@@ -136,8 +136,8 @@
       "level": "light",
       "type": "word-pair",
       "count": 80,
-      "sha256": "7a9709174c7b60a77c6dbb27d12845d3a694ddb09d49fe981180a39f30778985",
-      "bytes": 15444
+      "sha256": "8bdbd86f7dfeb7e0648744f8b3105c6198b9c02df8fa160cdb4b15d9a9552b56",
+      "bytes": 14897
     },
     {
       "file": "data/games/undercover-standard.json",
@@ -145,8 +145,8 @@
       "level": "standard",
       "type": "word-pair",
       "count": 80,
-      "sha256": "184de6f819d7d1b25bf04722932a129415822de74086da39d75c1fdb4d6db333",
-      "bytes": 15951
+      "sha256": "6c948d35de0b51fc29a0552329032eaf30854b2dffe3fd780eb615fd286a177e",
+      "bytes": 15320
     },
     {
       "file": "data/games/would-rather-adult.json",
@@ -187,6 +187,7 @@
   ],
   "notes": {
     "hotPotato": "纯传递玩法，不加载专用任务库",
-    "sharedPunishments": 3500
+    "sharedPunishments": 3500,
+    "undercover": "词库已重审，移除机械前缀组合；玩家只查看词，不显示身份。"
   }
 }

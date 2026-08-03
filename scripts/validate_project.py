@@ -40,9 +40,21 @@ for entry in special_manifest['files']:
 if len(special)!=2500: fail(f'专用内容总量应为2500，实际{len(special)}')
 for game in ['most-likely','would-rather','five-second','king','undercover']:
     if game_counts.get(game)!=500: fail(f'{game} 应为500，实际{game_counts.get(game)}')
+# V9.1.1 interaction and content regression checks
+wr=(ROOT/'src/games/would-rather.js').read_text(encoding='utf-8')
+if 'data-value="random"' in wr or 'data-value="discuss"' in wr: fail('二选一仍包含多余结算规则')
+hp=(ROOT/'src/games/hot-potato.js').read_text(encoding='utf-8')
+if 'data-value="random"' in hp: fail('炸弹传递仍包含随机方向')
+if '当前持有者</span><h2>' in hp: fail('炸弹传递仍显示具体持有者')
+uc=(ROOT/'src/games/undercover.js').read_text(encoding='utf-8')
+if '你的身份' in uc or 'role-name' in uc: fail('谁是卧底私密页仍显示身份')
+for item in special:
+    if item.get('id','').startswith('uc-'):
+        joined=item.get('civilian','')+'|'+item.get('undercover','')
+        if any(bad in joined for bad in ['日常温柔','旅行温柔','深夜的深夜']): fail(f'谁是卧底包含机械组合：{item["id"]}')
 sw=(ROOT/'sw.js').read_text(encoding='utf-8')
-if 'party-game-v9.1.0' not in sw: fail('Service Worker 缓存版本不正确')
-report={'version':'v9.1','sharedQuestions':len(shared),'specializedContent':len(special),'enabledContentTotal':len(shared)+len(special),'gameCounts':game_counts,'errors':errors,'status':'PASS' if not errors else 'FAIL'}
+if 'party-game-v9.1.1' not in sw: fail('Service Worker 缓存版本不正确')
+report={'version':'v9.1.1','sharedQuestions':len(shared),'specializedContent':len(special),'enabledContentTotal':len(shared)+len(special),'gameCounts':game_counts,'errors':errors,'status':'PASS' if not errors else 'FAIL'}
 (ROOT/'validation-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
 print(json.dumps(report,ensure_ascii=False,indent=2))
 sys.exit(1 if errors else 0)

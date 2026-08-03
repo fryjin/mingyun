@@ -1,0 +1,75 @@
+{
+  "viewport": [
+    "390x844",
+    "360x800"
+  ],
+  "checks": [
+    {
+      "name": "大厅8种游戏",
+      "status": "PASS",
+      "detail": "8"
+    },
+    {
+      "name": "二选一只保留少数派/多数派",
+      "status": "PASS",
+      "detail": "['少数派', '多数派']"
+    },
+    {
+      "name": "国王单按钮抽任务与号码",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "国王任务与号码同屏",
+      "status": "PASS",
+      "detail": "本轮任务\n2号\n4号\n\n2号和4号交换一个真实但温和的建议。\n\n涉及互动时，先确认所有相关玩家都愿意参与。\n\n国王直接喊号，对应玩家自行响应。\n\n完成本轮\n跳过本轮"
+    },
+    {
+      "name": "390px发言时限单行",
+      "status": "PASS",
+      "detail": "[{'x': 22, 'y': 630, 'width': 66.796875, 'height': 29}, {'x': 91.796875, 'y': 630, 'width': 66.796875, 'height': 29}, {'x': 161.59375, 'y': 630, 'width': 66.796875, 'height': 29}, {'x': 231.390625, 'y': 630, 'width': 66.796875, 'height': 29}, {'x': 301.1875, 'y': 630, 'width': 66.8125, 'height': 29}]"
+    },
+    {
+      "name": "谁是卧底仅显示词",
+      "status": "PASS",
+      "detail": "薯宝 的词\n经验\n我记住了"
+    },
+    {
+      "name": "炸弹方向无随机选项",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "炸弹不跟踪持有者",
+      "status": "PASS",
+      "detail": "继续传递\n别让它停下来\n\n按顺时针传递，爆炸前不会显示剩余时间。\n\n请递交手机，不要抛掷。"
+    },
+    {
+      "name": "骰子3D动画运行",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "转盘RAF旋转运行",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "指针基础居中变换保留",
+      "status": "PASS",
+      "detail": "{'before': 'matrix(1, 0, 0, 1, -13, 0)', 'after': 'matrix(1, 0, 0, 1, -13, 0)'}"
+    },
+    {
+      "name": "360px无横向溢出",
+      "status": "PASS",
+      "detail": "[360, 360]"
+    },
+    {
+      "name": "360px发言时限单行",
+      "status": "PASS",
+      "detail": "[{'x': 22, 'y': 588, 'width': 60.796875, 'height': 27}, {'x': 85.796875, 'y': 588, 'width': 60.796875, 'height': 27}, {'x': 149.59375, 'y': 588, 'width': 60.796875, 'height': 27}, {'x': 213.390625, 'y': 588, 'width': 60.796875, 'height': 27}, {'x': 277.1875, 'y': 588, 'width': 60.796875, 'height': 27}]"
+    }
+  ],
+  "browserErrors": [],
+  "status": "PASS"
+}

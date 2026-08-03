@@ -7,6 +7,9 @@ import { renderPlayers } from './modules/players.js';
 import { openGameSheet } from './modules/game-sheet.js';
 import { openSettings } from './modules/settings.js';
 import { confirmDialog, closeOverlay, toast } from './modules/overlay.js';
+import { warmMotionEngine } from './core/motion.js';
+
+warmMotionEngine();
 
 const view=document.querySelector('#appView');
 const back=document.querySelector('#backButton');
@@ -62,4 +65,4 @@ function showUpdate(registration){
   const banner=document.querySelector('#updateBanner');banner.hidden=false;
   document.querySelector('#applyUpdate').onclick=()=>{registration.waiting?.postMessage({type:'SKIP_WAITING'});location.reload()};
 }
-navigator.serviceWorker?.addEventListener('controllerchange',()=>console.info('V9.1 service worker active'));
+navigator.serviceWorker?.addEventListener('controllerchange',()=>console.info('V9.1.1 service worker active'));

@@ -1,7 +1,7 @@
-const VERSION='party-game-v9.1.0';
+const VERSION='party-game-v9.1.1';
 const SHELL=[
   './','./index.html','./manifest.webmanifest','./styles/app.css','./styles/games.css',
-  './src/main.js','./src/core/utils.js','./src/core/store.js','./src/modules/overlay.js',
+  './src/main.js','./src/core/utils.js','./src/core/store.js','./src/core/motion.js','./src/modules/overlay.js',
   './src/modules/lobby.js','./src/modules/players.js','./src/modules/game-sheet.js','./src/modules/settings.js','./src/modules/questions.js',
   './src/games/registry.js','./src/games/index.js','./src/games/shared.js','./src/games/dice.js','./src/games/wheel.js',
   './src/games/most-likely.js','./src/games/would-rather.js','./src/games/five-second.js','./src/games/hot-potato.js','./src/games/king.js','./src/games/undercover.js',
