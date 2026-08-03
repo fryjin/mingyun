@@ -1,50 +1,128 @@
 <!doctype html>
 <html lang="zh-CN">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <meta name="theme-color" content="#0a0911">
-  <meta name="color-scheme" content="dark">
-  <meta name="description" content="适合朋友聚会的骰子与俄罗斯转盘真心话大冒险游戏。">
-  <title>今晚谁遭殃 · Party Game</title>
-  <link rel="manifest" href="./manifest.webmanifest">
-  <link rel="icon" href="./icons/icon-192.png" sizes="192x192">
-  <link rel="apple-touch-icon" href="./icons/icon-180.png">
-  <link rel="preload" href="./app.css" as="style">
-  <link rel="preload" href="./app.js" as="script">
-  <link rel="stylesheet" href="./app.css">
-  <script src="./app.js" defer></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#090a10" />
+  <title>今晚谁遭殃 · v9 交互原型</title>
+  <style>
+    :root{
+      --bg:#08090d;--panel:#12141c;--panel2:#171a24;--line:rgba(255,255,255,.09);--muted:#9ba0b3;--text:#f7f8ff;
+      --brand:#8b5cf6;--brand2:#ec4899;--ok:#34d399;--warn:#f59e0b;--danger:#fb7185;--cyan:#22d3ee;
+      --radius:22px;--shadow:0 22px 65px rgba(0,0,0,.38);
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;min-height:100%;background:radial-gradient(circle at 20% -10%,rgba(139,92,246,.24),transparent 34%),radial-gradient(circle at 110% 20%,rgba(236,72,153,.17),transparent 32%),var(--bg);color:var(--text);font-family:Inter,"PingFang SC","Microsoft YaHei",system-ui,sans-serif}
+    button,input{font:inherit}
+    button{color:inherit}
+    .app{max-width:430px;margin:0 auto;min-height:100dvh;padding:calc(14px + env(safe-area-inset-top)) 16px calc(94px + env(safe-area-inset-bottom));position:relative;overflow:hidden}
+    .topbar{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px}
+    .brand{display:flex;gap:11px;align-items:center}
+    .brandmark{width:38px;height:38px;border-radius:13px;background:linear-gradient(135deg,var(--brand),var(--brand2));display:grid;place-items:center;box-shadow:0 10px 24px rgba(139,92,246,.28)}
+    .brandmark svg{width:22px;height:22px}
+    .brand h1{font-size:18px;line-height:1.1;margin:0}.brand p{font-size:11px;color:var(--muted);margin:4px 0 0}
+    .iconbtn{width:40px;height:40px;border:1px solid var(--line);background:rgba(255,255,255,.045);border-radius:14px;display:grid;place-items:center;cursor:pointer}
+    .iconbtn:active,.game-card:active,.primary:active{transform:scale(.975)}
+    .room{background:linear-gradient(145deg,rgba(255,255,255,.075),rgba(255,255,255,.025));border:1px solid var(--line);border-radius:var(--radius);padding:15px;box-shadow:var(--shadow);position:relative;overflow:hidden}
+    .room:after{content:"";position:absolute;right:-28px;top:-35px;width:120px;height:120px;background:radial-gradient(circle,rgba(139,92,246,.32),transparent 65%);pointer-events:none}
+    .room-head{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}.eyebrow{font-size:11px;color:#c7c9d7;letter-spacing:.08em;text-transform:uppercase}
+    .room h2{font-size:19px;margin:5px 0 3px}.room-meta{font-size:12px;color:var(--muted)}
+    .mini-link{border:0;background:transparent;color:#c4b5fd;font-size:12px;padding:2px 0;cursor:pointer}
+    .players{display:flex;align-items:center;margin-top:14px}.avatar{width:38px;height:38px;border-radius:50%;border:3px solid #141620;margin-left:-8px;display:grid;place-items:center;font-size:12px;font-weight:750;background:linear-gradient(145deg,#334155,#111827)}.avatar:first-child{margin-left:0}.avatar:nth-child(2){background:linear-gradient(145deg,#7c3aed,#312e81)}.avatar:nth-child(3){background:linear-gradient(145deg,#db2777,#831843)}.avatar:nth-child(4){background:linear-gradient(145deg,#0891b2,#164e63)}.avatar.more{background:#222634;color:#c6cad8}
+    .status-chip{margin-left:auto;border:1px solid rgba(52,211,153,.25);background:rgba(52,211,153,.08);color:#83f3c7;padding:7px 10px;border-radius:999px;font-size:11px}
+    .section-head{display:flex;justify-content:space-between;align-items:end;margin:22px 2px 12px}.section-head h3{margin:0;font-size:17px}.section-head span{font-size:11px;color:var(--muted)}
+    .hero{border:1px solid rgba(251,113,133,.22);background:linear-gradient(135deg,rgba(251,113,133,.19),rgba(124,58,237,.17));border-radius:24px;padding:18px;min-height:158px;position:relative;overflow:hidden;cursor:pointer}
+    .hero .orb{position:absolute;width:150px;height:150px;border-radius:50%;right:-24px;bottom:-46px;background:radial-gradient(circle at 35% 30%,#ffcf6d,#f97316 36%,#be123c 68%,transparent 69%);filter:saturate(.95);box-shadow:0 0 60px rgba(249,115,22,.22)}
+    .hero-badge{display:inline-flex;align-items:center;gap:6px;padding:6px 9px;border-radius:999px;background:rgba(0,0,0,.2);font-size:11px;color:#ffe5cb}.hero h3{font-size:23px;margin:13px 0 7px}.hero p{font-size:12px;line-height:1.6;color:#e6dfef;max-width:230px;margin:0}.hero .cta{position:absolute;left:18px;bottom:17px;font-size:12px;font-weight:700;color:#fff}
+    .filters{display:flex;gap:8px;overflow:auto;scrollbar-width:none;margin:18px -16px 0;padding:0 16px}.filters::-webkit-scrollbar{display:none}.filter{white-space:nowrap;border:1px solid var(--line);background:#12141b;color:#aeb2c2;border-radius:999px;padding:8px 12px;font-size:12px;cursor:pointer}.filter.active{background:#f4f0ff;color:#191324;border-color:#fff}
+    .grid{display:grid;grid-template-columns:1fr 1fr;gap:11px;margin-top:13px}
+    .game-card{min-height:160px;border-radius:21px;padding:14px;border:1px solid var(--line);background:linear-gradient(145deg,rgba(255,255,255,.064),rgba(255,255,255,.025));position:relative;overflow:hidden;cursor:pointer;transition:transform .14s ease,border-color .2s ease}
+    .game-card:hover{border-color:rgba(255,255,255,.2)}
+    .game-card .glow{position:absolute;width:95px;height:95px;border-radius:50%;right:-25px;top:-28px;background:radial-gradient(circle,var(--accent),transparent 66%);opacity:.28}
+    .game-icon{width:42px;height:42px;border-radius:14px;display:grid;place-items:center;background:color-mix(in srgb,var(--accent) 18%,transparent);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);margin-bottom:14px}.game-icon svg{width:23px;height:23px;stroke:var(--accent)}
+    .game-title{font-size:16px;font-weight:760;margin:0 0 5px}.game-desc{font-size:11px;color:var(--muted);line-height:1.45;margin:0 0 14px}.tags{position:absolute;left:14px;bottom:12px;display:flex;gap:5px;flex-wrap:wrap}.tag{font-size:9px;border:1px solid var(--line);background:rgba(0,0,0,.14);padding:4px 6px;border-radius:999px;color:#c4c7d4}.tag.adult{color:#fecdd3;border-color:rgba(251,113,133,.25)}
+    .bottomnav{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:min(430px,100%);padding:10px 18px calc(10px + env(safe-area-inset-bottom));background:linear-gradient(to top,#090a0f 72%,rgba(9,10,15,.88));border-top:1px solid var(--line);display:grid;grid-template-columns:repeat(3,1fr);z-index:20}.navitem{border:0;background:transparent;color:#74798d;font-size:10px;display:grid;gap:4px;place-items:center;cursor:pointer}.navitem svg{width:20px;height:20px}.navitem.active{color:#f2ecff}
+    .sheet-backdrop,.page-backdrop,.dialog-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.62);backdrop-filter:blur(5px);z-index:50;opacity:0;pointer-events:none;transition:opacity .2s ease}.sheet-backdrop.show,.page-backdrop.show,.dialog-backdrop.show{opacity:1;pointer-events:auto}
+    .sheet{position:absolute;left:50%;bottom:0;transform:translate(-50%,105%);width:min(430px,100%);max-height:89dvh;overflow:auto;background:#11131a;border-radius:28px 28px 0 0;border:1px solid var(--line);padding:10px 18px calc(24px + env(safe-area-inset-bottom));transition:transform .28s cubic-bezier(.2,.78,.24,1);box-shadow:0 -30px 70px rgba(0,0,0,.5)}.sheet-backdrop.show .sheet{transform:translate(-50%,0)}
+    .handle{width:40px;height:4px;background:#3a3d49;border-radius:99px;margin:2px auto 18px}.sheet-titlebar{display:flex;gap:12px;align-items:center}.sheet-titlebar .game-icon{margin:0;width:50px;height:50px}.sheet h2{margin:0 0 4px;font-size:21px}.sheet-sub{font-size:11px;color:var(--muted)}.sheet-copy{font-size:13px;line-height:1.65;color:#c8cbda;margin:16px 0}.rulebox{background:#191c25;border:1px solid var(--line);border-radius:17px;padding:13px;margin-bottom:14px}.rulebox h4{margin:0 0 9px;font-size:12px}.rule-row{display:flex;justify-content:space-between;gap:12px;font-size:12px;color:#aeb3c4;margin-top:7px}.rule-row strong{color:#eef0f8;font-weight:650;text-align:right}
+    .settings-title{font-size:12px;margin:18px 0 9px;color:#d6d9e6}.setting{border-top:1px solid var(--line);padding:13px 0}.setting:first-of-type{border-top:0}.setting-head{display:flex;align-items:center;justify-content:space-between;font-size:13px}.segmented{display:flex;background:#1a1d27;padding:3px;border-radius:12px;margin-top:10px}.segmented button{flex:1;border:0;background:transparent;color:#8f95a8;padding:8px 4px;border-radius:9px;font-size:11px;cursor:pointer}.segmented button.active{background:#303443;color:#fff}.stepper{display:flex;align-items:center;gap:7px}.stepper button{width:32px;height:32px;border-radius:10px;border:1px solid var(--line);background:#20232e}.stepper input{width:58px;text-align:center;background:#0f1117;border:1px solid var(--line);color:#fff;border-radius:10px;padding:7px 3px}.preset{display:flex;gap:7px;margin-top:9px}.preset button{flex:1;border:1px solid var(--line);background:#1a1d27;color:#aeb2c1;padding:8px 4px;border-radius:10px;font-size:11px}.preset button.active{background:rgba(139,92,246,.18);border-color:rgba(139,92,246,.4);color:#ddd4ff}
+    .primary{width:100%;border:0;border-radius:16px;padding:14px;background:linear-gradient(135deg,var(--brand),var(--brand2));font-weight:800;margin-top:14px;cursor:pointer;box-shadow:0 12px 30px rgba(139,92,246,.22)}
+    .page{position:absolute;inset:0;background:#0a0b10;transform:translateX(105%);transition:transform .3s cubic-bezier(.2,.75,.2,1);overflow:auto;padding:calc(14px + env(safe-area-inset-top)) 16px calc(30px + env(safe-area-inset-bottom));}.page-backdrop.show .page{transform:translateX(0)}
+    .pagebar{display:flex;align-items:center;gap:12px;position:sticky;top:-14px;background:rgba(10,11,16,.92);backdrop-filter:blur(10px);padding:14px 0 12px;z-index:2}.pagebar h2{font-size:19px;margin:0}.back{width:38px;height:38px;border-radius:13px;border:1px solid var(--line);background:#151821;display:grid;place-items:center}
+    .count-panel{border:1px solid var(--line);background:#12141b;border-radius:20px;padding:15px;margin-top:10px}.count-head{display:flex;justify-content:space-between;align-items:center}.count-head strong{font-size:14px}.count-head span{font-size:11px;color:var(--muted)}.count-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:7px;margin-top:12px}.count-grid button{aspect-ratio:1;border-radius:11px;border:1px solid var(--line);background:#191c25;color:#969bad;font-size:12px}.count-grid button.active{background:#ede9fe;color:#24183c;border-color:#fff;font-weight:800}
+    .player-list{margin-top:18px}.player-row{display:grid;grid-template-columns:34px 1fr 32px;gap:9px;align-items:center;border-bottom:1px solid var(--line);padding:11px 0}.player-row .avatar{margin:0;width:34px;height:34px;border:0}.player-row input{width:100%;background:#151821;color:#fff;border:1px solid var(--line);border-radius:12px;padding:10px 11px;outline:0}.player-row input:focus{border-color:#8b5cf6}.drag{color:#656a7b;text-align:center}.page-actions{display:flex;gap:8px;margin-top:16px}.secondary{flex:1;border:1px solid var(--line);background:#151821;border-radius:13px;padding:11px;color:#bec2d0}.save{flex:1.35;border:0;background:#eee9ff;color:#241a3a;border-radius:13px;padding:11px;font-weight:800}
+    .dialog{position:absolute;left:50%;top:50%;width:min(360px,calc(100% - 30px));transform:translate(-50%,-45%) scale(.96);background:#141720;border:1px solid var(--line);border-radius:24px;padding:20px;opacity:0;transition:.2s ease}.dialog-backdrop.show .dialog{transform:translate(-50%,-50%) scale(1);opacity:1}.dialog h3{margin:0 0 7px}.dialog p{font-size:12px;color:var(--muted);line-height:1.6}.dialog .primary{margin-top:8px}.close-secondary{width:100%;border:0;background:transparent;color:#9499aa;padding:12px;margin-top:4px}
+    .prototype-note{position:fixed;right:12px;top:12px;z-index:100;background:#f8fafc;color:#111827;border-radius:999px;padding:6px 9px;font-size:9px;font-weight:800;box-shadow:0 6px 20px rgba(0,0,0,.25)}
+    @media(min-width:800px){body{padding:24px}.app{border:1px solid var(--line);border-radius:32px;min-height:calc(100dvh - 48px);box-shadow:0 35px 90px rgba(0,0,0,.5)}.bottomnav{bottom:24px;border-radius:0 0 32px 32px}.sheet,.page{bottom:24px}.prototype-note{right:30px;top:30px}}
+    @media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+  </style>
 </head>
 <body>
-  <main class="app-shell">
-    <div class="ambient ambient-one" aria-hidden="true"></div>
-    <div class="ambient ambient-two" aria-hidden="true"></div>
-    <div class="noise" aria-hidden="true"></div>
-
-    <header class="app-header">
-      <button id="backButton" class="icon-button back-button" type="button" aria-label="返回" hidden>
-        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg>
-      </button>
-      <div class="header-brand" aria-label="Party Lab">
-        <span class="brand-dot"></span>
-        <span>PARTY LAB</span>
+  <span class="prototype-note">V9 UX PROTOTYPE</span>
+  <main class="app" id="app">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brandmark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><path d="M5 7h14M8 4v6m8-6v6M5 13h5v6H5zM14 13h5v6h-5z"/></svg></div>
+        <div><h1>今晚谁遭殃</h1><p>一部手机，玩完整场派对</p></div>
       </div>
-      <div class="header-actions">
-        <span id="networkBadge" class="network-badge" aria-live="polite">在线</span>
-        <button id="installButton" class="icon-button" type="button" aria-label="安装到设备" title="安装到设备" hidden>
-          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0 4-4m-4 4-4-4M5 19h14"/></svg>
-        </button>
-        <button id="soundButton" class="icon-button" type="button" aria-label="关闭音效与触感" title="音效与触感">
-          <svg class="sound-on" viewBox="0 0 24 24" aria-hidden="true"><path d="M11 5 6.5 9H3v6h3.5l4.5 4V5Zm4.5 4.2a4 4 0 0 1 0 5.6M18 6.5a8 8 0 0 1 0 11"/></svg>
-          <svg class="sound-off" viewBox="0 0 24 24" aria-hidden="true"><path d="M11 5 6.5 9H3v6h3.5l4.5 4V5Zm5 5 5 5m0-5-5 5"/></svg>
-        </button>
-      </div>
+      <button class="iconbtn" aria-label="设置"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .34 1.88l.06.06-2.12 2.12-.06-.06a1.7 1.7 0 0 0-1.88-.34 1.7 1.7 0 0 0-1.03 1.56V20h-3v-.08a1.7 1.7 0 0 0-1.03-1.56 1.7 1.7 0 0 0-1.88.34l-.06.06-2.12-2.12.06-.06A1.7 1.7 0 0 0 7 14.7a1.7 1.7 0 0 0-1.56-1.03H5v-3h.08A1.7 1.7 0 0 0 6.64 9.6a1.7 1.7 0 0 0-.34-1.88l-.06-.06 2.12-2.12.06.06a1.7 1.7 0 0 0 1.88.34A1.7 1.7 0 0 0 11.33 4.4V4h3v.08a1.7 1.7 0 0 0 1.03 1.56 1.7 1.7 0 0 0 1.88-.34l.06-.06 2.12 2.12-.06.06a1.7 1.7 0 0 0-.34 1.88 1.7 1.7 0 0 0 1.56 1.03H21v3h-.08A1.7 1.7 0 0 0 19.4 15z"/></svg></button>
     </header>
 
-    <section id="view" class="screen" aria-live="off"></section>
-    <div id="toast" class="toast" role="status" aria-live="polite"></div>
-    <div id="liveRegion" class="sr-only" aria-live="assertive"></div>
+    <section class="room">
+      <div class="room-head"><div><div class="eyebrow">当前派对房间</div><h2>周末放松局</h2><div class="room-meta">6 位玩家 · 标准尺度 · 音效开启</div></div><button class="mini-link" data-open-players>管理玩家 ›</button></div>
+      <div class="players"><span class="avatar">薯</span><span class="avatar">林</span><span class="avatar">杰</span><span class="avatar">M</span><span class="avatar more">+2</span><span class="status-chip">已就绪</span></div>
+    </section>
+
+    <div class="section-head"><h3>本场推荐</h3><span>根据 6 人局推荐</span></div>
+    <section class="hero" data-game="hot-potato">
+      <span class="hero-badge">🔥 快速热场</span><h3>炸弹传递</h3><p>回答完成就把手机交给下一位。炸弹随时可能引爆，拿着手机的人接受惩罚。</p><span class="cta">查看玩法 →</span><div class="orb"></div>
+    </section>
+
+    <div class="filters" id="filters"><button class="filter active" data-filter="all">全部 8</button><button class="filter" data-filter="random">随机</button><button class="filter" data-filter="vote">投票</button><button class="filter" data-filter="challenge">挑战</button><button class="filter" data-filter="deduction">推理</button><button class="filter" data-filter="adult">成人支持</button></div>
+    <section class="grid" id="gameGrid"></section>
   </main>
-  <noscript>需要开启 JavaScript 才能运行本游戏。</noscript>
+
+  <nav class="bottomnav"><button class="navitem active"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 11 12 4l9 7v9H3z"/></svg>游戏大厅</button><button class="navitem" data-open-players><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/></svg>玩家</button><button class="navitem"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .34 1.88l-2.12 2.12a1.7 1.7 0 0 0-1.88-.34A1.7 1.7 0 0 0 14.7 20h-5.4a1.7 1.7 0 0 0-1.03-1.56 1.7 1.7 0 0 0-1.88.34l-2.12-2.12A1.7 1.7 0 0 0 4.6 15a1.7 1.7 0 0 0-1.56-1.03V9.3A1.7 1.7 0 0 0 4.6 8.27a1.7 1.7 0 0 0-.34-1.88l2.12-2.12a1.7 1.7 0 0 0 1.88.34A1.7 1.7 0 0 0 9.3 3h5.4a1.7 1.7 0 0 0 1.03 1.56 1.7 1.7 0 0 0 1.88-.34l2.12 2.12a1.7 1.7 0 0 0-.34 1.88A1.7 1.7 0 0 0 21 9.3v5.4A1.7 1.7 0 0 0 19.4 15z"/></svg>设置</button></nav>
+
+  <div class="sheet-backdrop" id="sheetBackdrop"><section class="sheet" role="dialog" aria-modal="true"><div class="handle"></div><div id="sheetContent"></div></section></div>
+
+  <div class="page-backdrop" id="playerPage"><section class="page"><header class="pagebar"><button class="back" data-close-players>←</button><div><h2>玩家管理</h2><div class="sheet-sub">本场所有游戏共用这份名单</div></div></header><section class="count-panel"><div class="count-head"><strong>参与人数</strong><span>支持 2–12 人，含单数</span></div><div class="count-grid" id="countGrid"></div></section><div class="section-head"><h3>玩家名称</h3><span>可拖动调整顺序</span></div><section class="player-list" id="playerList"></section><div class="page-actions"><button class="secondary" id="randomNames">随机昵称</button><button class="save" data-close-players>保存本场玩家</button></div></section></div>
+
+  <div class="dialog-backdrop" id="dialog"><section class="dialog"><h3>原型流程已完成</h3><p id="dialogText">该按钮在正式开发阶段会进入具体游戏舞台。本轮只确认信息架构、视觉层级与设置交互，不迁移 v8 游戏代码。</p><button class="primary" data-close-dialog>返回游戏大厅</button><button class="close-secondary" data-close-dialog>继续查看设置</button></section></div>
+
+<script>
+const icons={dice:'<svg viewBox="0 0 24 24" fill="none" stroke-width="1.8"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="8" cy="8" r="1" fill="currentColor"/><circle cx="16" cy="16" r="1" fill="currentColor"/><circle cx="12" cy="12" r="1" fill="currentColor"/></svg>',wheel:'<svg viewBox="0 0 24 24" fill="none" stroke-width="1.8"><circle cx="12" cy="12" r="8"/><path d="M12 4v16M4 12h16M6.3 6.3l11.4 11.4M17.7 6.3 6.3 17.7"/></svg>',vote:'<svg viewBox="0 0 24 24" fill="none" stroke-width="1.8"><path d="m9 11 2 2 4-5"/><path d="M5 4h14v16H5z"/></svg>',split:'<svg viewBox="0 0 24 24" fill="none" stroke-width="1.8"><path d="M12 3v18M3 12h18"/><path d="m8 8-4 4 4 4M16 8l4 4-4 4"/></svg>',timer:'<svg viewBox="0 0 24 24" fill="none" stroke-width="1.8"><circle cx="12" cy="13" r="8"/><path d="M9 2h6M12 13l3-3"/></svg>',bomb:'<svg viewBox="0 0 24 24" fill="none" stroke-width="1.8"><circle cx="10" cy="14" r="7"/><path d="m15 8 2-2 2 2M18 6c0-2 2-3 3-3"/></svg>',mask:'<svg viewBox="0 0 24 24" fill="none" stroke-width="1.8"><path d="M4 6c5-2 11-2 16 0v7c0 5-4 8-8 8s-8-3-8-8z"/><path d="M7 11h3M14 11h3"/></svg>',crown:'<svg viewBox="0 0 24 24" fill="none" stroke-width="1.8"><path d="m3 7 4 4 5-7 5 7 4-4-2 12H5z"/></svg>'};
+const games=[
+{id:'dice',title:'命运骰局',desc:'轮流投骰，最大或最小点数者接受惩罚。',players:'2–12人',type:'random',adult:true,color:'#a78bfa',icon:'dice',time:'1–3 分钟',rules:'玩家依次投骰，全部完成后按设定规则自动判定输家。',settings:['输家规则','惩罚尺度']},
+{id:'wheel',title:'命运转盘',desc:'转盘随机锁定一位玩家，直接揭晓本轮输家。',players:'2–12人',type:'random',adult:true,color:'#f472b6',icon:'wheel',time:'30 秒',rules:'所有玩家均分转盘扇区，转动停止后指针所在玩家接受惩罚。',settings:['转盘圈数','惩罚尺度']},
+{id:'most-likely',title:'谁最可能',desc:'全员同时指人，得票最多者接受惩罚。',players:'3–12人',type:'vote',adult:true,color:'#22d3ee',icon:'vote',time:'30–60 秒',rules:'读出题目后所有人同时指出最符合的人，由主持人在手机上登记最高票。',settings:['并列规则','题目尺度']},
+{id:'would-rather',title:'二选一',desc:'站队 A 或 B，少数派、随机方或指定玩家解释。',players:'2–12人',type:'vote',adult:true,color:'#60a5fa',icon:'split',time:'30–90 秒',rules:'所有玩家选择两个选项之一，系统根据规则从少数派或指定阵营中选人。',settings:['结算规则','题目尺度']},
+{id:'five-second',title:'五秒挑战',desc:'倒计时内完成题目，时长可自由设置。',players:'2–12人',type:'challenge',adult:true,color:'#fbbf24',icon:'timer',time:'3–60 秒',rules:'当前玩家在设定时间内完成挑战，由其他玩家判断成功或失败。',settings:['挑战时长','题目尺度']},
+{id:'hot-potato',title:'炸弹传递',desc:'回答后传递手机，倒计时结束时持有者输。',players:'3–12人',type:'challenge',adult:true,color:'#fb7185',icon:'bomb',time:'1–3 分钟',rules:'炸弹在不可见时间内引爆。回答问题后点击传递并把手机交给下一人。',settings:['引爆区间','传递方向','题目尺度']},
+{id:'undercover',title:'谁是卧底',desc:'依次查看身份、轮流描述、投票找出卧底。',players:'4–12人',type:'deduction',adult:false,color:'#34d399',icon:'mask',time:'8–20 分钟',rules:'平民获得相同词语，卧底获得相近词或空白。经过描述与投票找出卧底。',settings:['卧底人数','空白牌','回合上限']},
+{id:'king',title:'国王游戏',desc:'随机抽取国王和号码，由国王发布本轮指令。',players:'3–12人',type:'random',adult:true,color:'#f59e0b',icon:'crown',time:'2–5 分钟',rules:'每位玩家获得隐藏号码，其中一人成为国王。国王指定号码完成任务。',settings:['指令来源','题目尺度','跳过规则']}
+];
+let selectedGame=null,playerCount=6; const names=['薯宝','小林','阿杰','Miya','小北','七七','小周','阿宁','星野','阿树','栗子','可可'];
+const grid=document.querySelector('#gameGrid');
+function renderGames(filter='all'){
+ grid.innerHTML=''; games.filter(g=>filter==='all'||g.type===filter||(filter==='adult'&&g.adult)).forEach(g=>{
+ const el=document.createElement('article');el.className='game-card';el.dataset.game=g.id;el.style.setProperty('--accent',g.color);el.innerHTML=`<span class="glow"></span><div class="game-icon">${icons[g.icon]}</div><h4 class="game-title">${g.title}</h4><p class="game-desc">${g.desc}</p><div class="tags"><span class="tag">${g.players}</span><span class="tag">${g.type==='deduction'?'推理':g.type==='challenge'?'挑战':g.type==='vote'?'投票':'随机'}</span>${g.adult?'<span class="tag adult">18+</span>':''}</div>`;grid.appendChild(el)
+ })
+}
+renderGames();
+function openSheet(id){const g=games.find(x=>x.id===id);if(!g)return;selectedGame=g;const special=g.id==='five-second'?`<div class="setting"><div class="setting-head"><span>挑战时长</span><div class="stepper"><button id="minusTime">−</button><input id="timeInput" type="number" min="3" max="60" value="5"><button id="plusTime">＋</button></div></div><div class="preset"><button data-time="5" class="active">5 秒</button><button data-time="10">10 秒</button><button data-time="15">15 秒</button><button data-time="30">30 秒</button></div></div>`:g.id==='hot-potato'?`<div class="setting"><div class="setting-head"><span>随机引爆区间</span><strong>25–75 秒</strong></div><div class="preset"><button class="active">短局</button><button>标准</button><button>长局</button></div></div>`:g.id==='undercover'?`<div class="setting"><div class="setting-head"><span>卧底人数</span><div class="stepper"><button>−</button><input value="1"><button>＋</button></div></div></div>`:'';
+ document.querySelector('#sheetContent').innerHTML=`<div class="sheet-titlebar"><div class="game-icon" style="--accent:${g.color};color:${g.color}">${icons[g.icon]}</div><div><h2>${g.title}</h2><div class="sheet-sub">${g.players} · ${g.time}${g.adult?' · 支持成人档':''}</div></div></div><p class="sheet-copy">${g.rules}</p><div class="rulebox"><h4>本场规则</h4><div class="rule-row"><span>当前玩家</span><strong>${playerCount} 人 · 已配置</strong></div><div class="rule-row"><span>手机使用方式</span><strong>${g.id==='undercover'||g.id==='hot-potato'?'需要轮流传递':'主持人操作即可'}</strong></div><div class="rule-row"><span>主要结果</span><strong>${g.id==='undercover'?'阵营胜负':'选出本轮惩罚玩家'}</strong></div></div><div class="settings-title">游戏设置</div>${special}<div class="setting"><div class="setting-head"><span>${g.id==='undercover'?'词库难度':'内容尺度'}</span><strong>${g.id==='undercover'?'标准':'标准'}</strong></div><div class="segmented"><button>轻松</button><button class="active">标准</button><button>大胆</button>${g.adult?'<button>18+</button>':''}</div></div><button class="primary" id="prototypeStart">开始 ${g.title}</button>`;
+ document.querySelector('#sheetBackdrop').classList.add('show');
+ setupSheetEvents();
+}
+function setupSheetEvents(){const input=document.querySelector('#timeInput');if(input){document.querySelector('#minusTime').onclick=()=>input.value=Math.max(3,+input.value-1);document.querySelector('#plusTime').onclick=()=>input.value=Math.min(60,+input.value+1);document.querySelectorAll('[data-time]').forEach(b=>b.onclick=()=>{document.querySelectorAll('[data-time]').forEach(x=>x.classList.remove('active'));b.classList.add('active');input.value=b.dataset.time})}document.querySelectorAll('.segmented button,.preset button').forEach(b=>b.addEventListener('click',()=>{if(b.parentElement.classList.contains('segmented')){b.parentElement.querySelectorAll('button').forEach(x=>x.classList.remove('active'));b.classList.add('active')}}));document.querySelector('#prototypeStart').onclick=()=>{document.querySelector('#dialogText').textContent=`“${selectedGame.title}”将在正式开发阶段进入独立游戏舞台。当前原型已验证玩家复用、详情抽屉和专属设置流程。`;document.querySelector('#dialog').classList.add('show')}}
+function closeSheet(){document.querySelector('#sheetBackdrop').classList.remove('show')}
+document.addEventListener('click',e=>{const game=e.target.closest('[data-game]');if(game)openSheet(game.dataset.game);if(e.target===document.querySelector('#sheetBackdrop'))closeSheet();if(e.target.closest('[data-open-players]'))document.querySelector('#playerPage').classList.add('show');if(e.target.closest('[data-close-players]'))document.querySelector('#playerPage').classList.remove('show');if(e.target.closest('[data-close-dialog]'))document.querySelector('#dialog').classList.remove('show')});
+document.querySelectorAll('.filter').forEach(b=>b.onclick=()=>{document.querySelectorAll('.filter').forEach(x=>x.classList.remove('active'));b.classList.add('active');renderGames(b.dataset.filter)});
+function renderCount(){const c=document.querySelector('#countGrid');c.innerHTML='';for(let i=2;i<=12;i++){const b=document.createElement('button');b.textContent=i;b.className=i===playerCount?'active':'';b.onclick=()=>{playerCount=i;renderCount();renderPlayers()};c.appendChild(b)}}
+function renderPlayers(){const list=document.querySelector('#playerList');list.innerHTML='';for(let i=0;i<playerCount;i++){const row=document.createElement('div');row.className='player-row';row.innerHTML=`<span class="avatar">${(names[i]||'玩').slice(0,1)}</span><input maxlength="12" value="${names[i]||`玩家${i+1}`}" aria-label="玩家${i+1}名称"><span class="drag">⠿</span>`;list.appendChild(row)}}
+renderCount();renderPlayers();
+document.querySelector('#randomNames').onclick=()=>{const pool=['雪糕','阿蓝','柚子','丸子','Nova','豆包','鹿鸣','Kiki','山茶','海盐','阿满','十九'];document.querySelectorAll('.player-row input').forEach((x,i)=>x.value=pool[(i+Math.floor(Math.random()*pool.length))%pool.length])};
+</script>
 </body>
 </html>
