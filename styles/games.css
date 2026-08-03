@@ -125,3 +125,101 @@
 }
 .game-unavailable h2{font-size:20px;margin:0 0 8px}
 .game-unavailable p{font-size:11.5px;line-height:1.65;color:var(--muted);margin:0 0 16px}
+
+/* V9.2 shared game surfaces */
+.prompt-card{
+  position:relative;overflow:hidden;border:1px solid var(--line);border-radius:21px;
+  min-height:142px;padding:17px 16px;margin-bottom:14px;
+  display:flex;flex-direction:column;justify-content:center;
+  background:linear-gradient(145deg,rgba(255,255,255,.065),rgba(255,255,255,.025))
+}
+.prompt-card::after{content:"";position:absolute;width:130px;height:130px;right:-55px;top:-58px;border-radius:50%;opacity:.22;background:var(--prompt-color,#8b5cf6);filter:blur(10px)}
+.prompt-card.cyan{--prompt-color:#22d3ee}.prompt-card.blue{--prompt-color:#60a5fa}.prompt-card.amber{--prompt-color:#fbbf24}.prompt-card.red{--prompt-color:#fb7185}
+.prompt-card.loading{opacity:.72}
+.prompt-label{position:relative;z-index:1;color:#b7bccd;font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:10px}
+.prompt-card p{position:relative;z-index:1;font-size:18px;line-height:1.58;font-weight:720;margin:0;color:#f8f9fd}
+.game-instruction,.safety-note{font-size:10px;line-height:1.55;color:var(--muted);text-align:center;margin:0 0 11px}
+.game-action-grid{display:grid;grid-template-columns:1fr 1.15fr;gap:8px;margin-top:13px}
+.game-action-grid .primary-button,.game-action-grid .secondary-button{min-height:46px}
+.game-result-card{
+  border:1px solid rgba(139,92,246,.3);border-radius:22px;padding:19px 16px;text-align:center;
+  background:radial-gradient(circle at 50% 0,rgba(139,92,246,.2),transparent 48%),#151821;margin:13px 0
+}
+.game-result-card.danger{border-color:rgba(251,113,133,.36);background:radial-gradient(circle at 50% 0,rgba(251,113,133,.2),transparent 50%),#151821}
+.game-result-card small{display:block;color:#b8bdcd;font-size:9.5px;letter-spacing:.08em}
+.game-result-card h2{font-size:25px;line-height:1.3;margin:7px 0 5px;overflow-wrap:anywhere}
+.game-result-card p{font-size:10.5px;line-height:1.55;color:var(--muted);margin:0}
+.inline-text-button{border:0;background:transparent;color:#a9aec0;font-size:10px;padding:9px;cursor:pointer}
+
+/* 谁最可能 */
+.vote-player-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.vote-player-card{
+  min-width:0;border:1px solid var(--line);border-radius:17px;background:#141720;padding:11px;
+  display:grid;grid-template-columns:32px minmax(0,1fr);grid-template-rows:auto auto;column-gap:8px;align-items:center
+}
+.vote-player-card.selected{border-color:rgba(34,211,238,.48);background:rgba(34,211,238,.08)}
+.vote-player-card .avatar{grid-row:1/3;margin:0;width:32px;height:32px;border:0}
+.vote-player-card>strong{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:11px}
+.vote-counter{display:grid;grid-template-columns:25px 1fr 25px;align-items:center;gap:4px;margin-top:5px}
+.vote-counter button{width:25px;height:25px;border:1px solid var(--line);border-radius:8px;background:#20232e;cursor:pointer}
+.vote-counter b{text-align:center;font-size:14px}
+
+/* 二选一 */
+.choice-board{position:relative;display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-bottom:14px}
+.choice-option{min-width:0;min-height:168px;border:1px solid var(--line);border-radius:20px;padding:14px 12px;display:flex;flex-direction:column;align-items:center;text-align:center;justify-content:center}
+.choice-option.option-a{background:linear-gradient(160deg,rgba(59,130,246,.2),rgba(24,29,43,.72));border-color:rgba(96,165,250,.3)}
+.choice-option.option-b{background:linear-gradient(160deg,rgba(249,115,22,.18),rgba(43,28,24,.72));border-color:rgba(251,146,60,.3)}
+.choice-option>span{display:grid;place-items:center;width:31px;height:31px;border-radius:10px;background:rgba(255,255,255,.1);font-weight:900;font-size:12px}
+.choice-option p{font-size:13px;line-height:1.5;font-weight:720;margin:11px 0;overflow-wrap:anywhere}
+.choice-option strong{font-size:10px;color:#c8ccda}
+.choice-versus{position:absolute;z-index:2;left:50%;top:50%;transform:translate(-50%,-50%);width:34px;height:34px;border-radius:50%;display:grid;place-items:center;background:#0e1016;border:1px solid var(--line-strong);font-size:8px;font-weight:900;color:#c6cada}
+.choice-turn-card{border:1px solid var(--line);border-radius:21px;background:#151821;padding:16px;text-align:center}
+.choice-turn-card>span{font-size:9.5px;color:var(--muted)}
+.choice-turn-card h2{font-size:20px;margin:5px 0 3px}.choice-turn-card>p{font-size:10px;color:var(--muted);margin:0 0 12px}
+.choice-buttons{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.choice-buttons button{min-width:0;border:1px solid var(--line);border-radius:15px;background:#1b1f2a;padding:11px 8px;cursor:pointer}
+.choice-buttons button:first-child{border-color:rgba(96,165,250,.35);background:rgba(59,130,246,.1)}
+.choice-buttons button:last-child{border-color:rgba(251,146,60,.35);background:rgba(249,115,22,.09)}
+.choice-buttons b{display:block;font-size:12px;margin-bottom:5px}.choice-buttons span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden;font-size:10px;line-height:1.42;color:#d5d8e2}
+.choice-progress{display:flex;gap:5px;justify-content:center;margin-top:12px}.choice-progress span{width:8px;height:8px;border-radius:50%;background:#2a2e3a}.choice-progress span.done{background:#60a5fa}.choice-progress span.current{box-shadow:0 0 0 3px rgba(96,165,250,.18);background:#c7dcff}
+.choice-team-summary{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:10px 0}
+.choice-team-summary>div{min-width:0;border:1px solid var(--line);border-radius:14px;background:#151821;padding:10px}
+.choice-team-summary b{display:block;font-size:10.5px}.choice-team-summary span{display:block;margin-top:5px;color:var(--muted);font-size:9px;line-height:1.45;overflow-wrap:anywhere}
+
+/* 五秒挑战 */
+.player-track.compact{margin-bottom:10px}
+.timer-ready-card{height:190px;display:flex;flex-direction:column;align-items:center;justify-content:center;border:1px solid var(--line);border-radius:23px;background:radial-gradient(circle,rgba(251,191,36,.15),transparent 44%),#141720}
+.timer-ready-card span{font-size:10px;color:var(--muted)}.timer-ready-card strong{font-size:68px;line-height:1;margin-top:9px}.timer-ready-card small{font-size:11px;color:#fcd879;margin-top:2px}
+.timer-primary{margin-top:12px}
+.countdown-stage{min-height:236px;border:1px solid var(--line);border-radius:24px;background:#141720;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:16px}
+.countdown-ring{--timer-progress:1;width:160px;height:160px;border-radius:50%;display:grid;place-items:center;position:relative;background:conic-gradient(#fbbf24 calc(var(--timer-progress)*1turn),#282c38 0);box-shadow:0 0 calc(12px + (1 - var(--timer-progress))*35px) rgba(251,113,133,.18)}
+.countdown-ring::before{content:"";position:absolute;inset:10px;border-radius:50%;background:#11141c;border:1px solid rgba(255,255,255,.07)}
+.countdown-ring strong,.countdown-ring small{position:relative;z-index:1}.countdown-ring strong{font-size:55px;line-height:1}.countdown-ring small{position:absolute;bottom:38px;font-size:9px;color:var(--muted)}
+.countdown-stage p{font-size:10px;color:var(--muted);margin:14px 0 0}
+.judge-card{border:1px solid rgba(251,191,36,.3);border-radius:23px;background:radial-gradient(circle at 50% 0,rgba(251,191,36,.16),transparent 46%),#151821;padding:22px 15px;text-align:center}
+.judge-card small{font-size:10px;color:#fcd879}.judge-card h2{font-size:21px;margin:7px 0 4px}.judge-card p{font-size:10px;color:var(--muted);line-height:1.5;margin:0}
+.judge-actions{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:16px}.judge-actions button{border-radius:14px;padding:13px 8px;font-weight:800;cursor:pointer}.judge-actions .success{border:1px solid rgba(52,211,153,.35);background:rgba(52,211,153,.11);color:#9af2d2}.judge-actions .fail{border:1px solid rgba(251,113,133,.35);background:rgba(251,113,133,.11);color:#fec4ce}
+
+/* 炸弹传递 */
+.bomb-stage{position:relative;min-height:310px;border:1px solid var(--line);border-radius:25px;background:radial-gradient(circle at 50% 35%,rgba(251,113,133,.14),transparent 42%),#11141b;overflow:hidden;display:flex;flex-direction:column;align-items:center;justify-content:center;margin-bottom:13px}
+.bomb-aura{position:absolute;width:210px;height:210px;border-radius:50%;background:rgba(251,113,133,.12);filter:blur(28px)}
+.bomb-core{--bomb-progress:0;position:relative;z-index:1;width:145px;height:145px;border-radius:50%;display:grid;place-items:center;background:radial-gradient(circle at 32% 28%,#667085,#202530 30%,#080a0e 68%);border:7px solid #303541;box-shadow:0 20px 40px rgba(0,0,0,.46),0 0 calc(12px + var(--bomb-progress)*48px) rgba(251,113,133,calc(.12 + var(--bomb-progress)*.35));transform:scale(calc(1 + var(--bomb-progress)*.045));transition:box-shadow .18s linear}
+.bomb-stage.running .bomb-core{animation:bomb-heartbeat calc(.92s - var(--bomb-progress)*.48s) ease-in-out infinite}
+.bomb-stage.exploded .bomb-core{background:radial-gradient(circle,#fff4ca 0,#ffb347 20%,#fb7185 48%,#411827 72%);animation:bomb-explode .5s ease both}
+@keyframes bomb-heartbeat{50%{transform:scale(calc(1.035 + var(--bomb-progress)*.05))}}
+@keyframes bomb-explode{40%{transform:scale(1.3)}100%{transform:scale(1.05)}}
+.bomb-fuse{position:absolute;right:11px;top:-31px;width:48px;height:46px;border-top:7px solid #8e6a45;border-radius:50%;transform:rotate(18deg)}
+.bomb-fuse::after{content:"";position:absolute;right:-4px;top:-7px;width:14px;height:14px;border-radius:50%;background:#ffd166;box-shadow:0 0 16px #ff7b00}
+.bomb-shine{position:absolute;width:38px;height:24px;border-radius:50%;left:24px;top:24px;background:rgba(255,255,255,.1);transform:rotate(-25deg)}
+.bomb-core strong{font-size:15px;letter-spacing:.12em;color:#f5f7fb}
+.bomb-holder{position:relative;z-index:1;text-align:center;margin-top:16px;padding:0 14px}.bomb-holder small{font-size:9.5px;color:#b9bdca}.bomb-holder h2{font-size:23px;margin:5px 0 3px}.bomb-holder p{font-size:10px;color:var(--muted);line-height:1.45;margin:0}
+.bomb-primary{margin-top:12px;background:linear-gradient(135deg,#ef4444,#f97316)}
+
+@media(max-width:359px){
+  .prompt-card p{font-size:16px}
+  .vote-player-grid{gap:6px}
+  .vote-player-card{padding:9px;grid-template-columns:28px minmax(0,1fr)}
+  .vote-player-card .avatar{width:28px;height:28px}
+  .choice-option{min-height:154px;padding:12px 9px}.choice-option p{font-size:12px}
+  .bomb-stage{min-height:292px}
+}

@@ -1,0 +1,148 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "generatedAt": "2026-08-03",
+  "description": "V9.2 四种派对游戏的首批专用题库。",
+  "totals": {
+    "all": 288,
+    "most-likely": 72,
+    "would-rather": 72,
+    "five-second": 72,
+    "hot-potato": 72
+  },
+  "files": [
+    {
+      "file": "data/games/most-likely/light.json",
+      "gameId": "most-likely",
+      "level": 1,
+      "count": 18,
+      "sha256": "cf5cfcfc1e9a0836d96eadcc2755d467a46626eb72aa2590f3a2d8eb43dc555f",
+      "bytes": 2241
+    },
+    {
+      "file": "data/games/most-likely/standard.json",
+      "gameId": "most-likely",
+      "level": 2,
+      "count": 18,
+      "sha256": "c41f20103f111d9c66649c593133ac3ce8505c267ecc2939836f9b73d6b6fdfd",
+      "bytes": 2331
+    },
+    {
+      "file": "data/games/most-likely/bold.json",
+      "gameId": "most-likely",
+      "level": 3,
+      "count": 18,
+      "sha256": "bceb932a25ddf8254a034fd78255f680b9e98d81c99f0d40580f9535ff703e4b",
+      "bytes": 2267
+    },
+    {
+      "file": "data/games/most-likely/adult.json",
+      "gameId": "most-likely",
+      "level": 4,
+      "count": 18,
+      "sha256": "e8b518353d439d5e52f85939c2ca2c6bbcbc0ff635c81f9a50e8f082ad5deb3f",
+      "bytes": 2445
+    },
+    {
+      "file": "data/games/would-rather/light.json",
+      "gameId": "would-rather",
+      "level": 1,
+      "count": 18,
+      "sha256": "4434f7c6ac5e3e3ecb008c428bbcabe8ef2b3a38ec9e48d12d954e2e37dc03b0",
+      "bytes": 2635
+    },
+    {
+      "file": "data/games/would-rather/standard.json",
+      "gameId": "would-rather",
+      "level": 2,
+      "count": 18,
+      "sha256": "b9d15afcaa88b49ee3a94039f8f860c4ad06811f39ebadaabe79c590263d2057",
+      "bytes": 2854
+    },
+    {
+      "file": "data/games/would-rather/bold.json",
+      "gameId": "would-rather",
+      "level": 3,
+      "count": 18,
+      "sha256": "098dff4a15bc630c2db72bc9730704438be5e621442c3010208e85e8e0dc761a",
+      "bytes": 2853
+    },
+    {
+      "file": "data/games/would-rather/adult.json",
+      "gameId": "would-rather",
+      "level": 4,
+      "count": 18,
+      "sha256": "866baae69bfd4fa6106697275ac2c72abf7c9643ed7938f98e46199f2b049c90",
+      "bytes": 3052
+    },
+    {
+      "file": "data/games/five-second/light.json",
+      "gameId": "five-second",
+      "level": 1,
+      "count": 18,
+      "sha256": "2ca5929441d09f81b36f023e03ed9c61ddf36d05bcd675eb347a8f74e6b46696",
+      "bytes": 2058
+    },
+    {
+      "file": "data/games/five-second/standard.json",
+      "gameId": "five-second",
+      "level": 2,
+      "count": 18,
+      "sha256": "64210a430a4422ffa7d8e7303febf885d23aa3aed6ffc31a48f664d8ae9de195",
+      "bytes": 2292
+    },
+    {
+      "file": "data/games/five-second/bold.json",
+      "gameId": "five-second",
+      "level": 3,
+      "count": 18,
+      "sha256": "417d57d5ac7342ba629ac972d286023ed9f334b6a162b94d6426d7314cbd05d0",
+      "bytes": 2291
+    },
+    {
+      "file": "data/games/five-second/adult.json",
+      "gameId": "five-second",
+      "level": 4,
+      "count": 18,
+      "sha256": "4cc9287526a17bb5ed54aed729316b52d792a6b3cbea9196b03a1ce2120d404f",
+      "bytes": 2382
+    },
+    {
+      "file": "data/games/hot-potato/light.json",
+      "gameId": "hot-potato",
+      "level": 1,
+      "count": 18,
+      "sha256": "a78d4d12f07b2006a6f597262c7e02089383c19bb032ad2358358c4032017c08",
+      "bytes": 2072
+    },
+    {
+      "file": "data/games/hot-potato/standard.json",
+      "gameId": "hot-potato",
+      "level": 2,
+      "count": 18,
+      "sha256": "7bd817d036bafe33f591d4b578e97094b74794867edc33262b109294671a94ac",
+      "bytes": 2261
+    },
+    {
+      "file": "data/games/hot-potato/bold.json",
+      "gameId": "hot-potato",
+      "level": 3,
+      "count": 18,
+      "sha256": "d04f1c95372fb719ba579cdacad815c98213ca6bd5768c3a4cbbc908b0bd1361",
+      "bytes": 2218
+    },
+    {
+      "file": "data/games/hot-potato/adult.json",
+      "gameId": "hot-potato",
+      "level": 4,
+      "count": 18,
+      "sha256": "712c08c6de0f472d1ae50afdb227d32ca7ebb427440f1fda7523a4917f64879b",
+      "bytes": 2381
+    }
+  ],
+  "loadingPolicy": {
+    "core": "进入对应游戏并选择尺度后，仅加载该游戏当前档位 JSON",
+    "adult": "仅在会话内完成 18+ 确认后加载",
+    "cache": "首次使用后由 Service Worker 运行时缓存"
+  }
+}

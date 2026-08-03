@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "most-likely",
+  "level": 2,
+  "levelKey": "standard",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-most-likely-standard-001",
+      "text": "谁最可能嘴上说没事，实际最在意？"
+    },
+    {
+      "id": "v92-most-likely-standard-002",
+      "text": "谁最可能在吵架后第一个主动和好？"
+    },
+    {
+      "id": "v92-most-likely-standard-003",
+      "text": "谁最可能为了朋友临时改变计划？"
+    },
+    {
+      "id": "v92-most-likely-standard-004",
+      "text": "谁最可能偷偷观察群里每个人的情绪？"
+    },
+    {
+      "id": "v92-most-likely-standard-005",
+      "text": "谁最可能把喜欢一个人的迹象藏得最好？"
+    },
+    {
+      "id": "v92-most-likely-standard-006",
+      "text": "谁最可能做决定时纠结最久？"
+    },
+    {
+      "id": "v92-most-likely-standard-007",
+      "text": "谁最可能在压力大时假装很轻松？"
+    },
+    {
+      "id": "v92-most-likely-standard-008",
+      "text": "谁最可能替别人保守秘密最久？"
+    },
+    {
+      "id": "v92-most-likely-standard-009",
+      "text": "谁最可能在关系里最需要安全感？"
+    },
+    {
+      "id": "v92-most-likely-standard-010",
+      "text": "谁最可能对一句无心的话记很久？"
+    },
+    {
+      "id": "v92-most-likely-standard-011",
+      "text": "谁最可能突然退出社交去独处？"
+    },
+    {
+      "id": "v92-most-likely-standard-012",
+      "text": "谁最可能在朋友失落时最会安慰人？"
+    },
+    {
+      "id": "v92-most-likely-standard-013",
+      "text": "谁最可能在重要场合突然紧张？"
+    },
+    {
+      "id": "v92-most-likely-standard-014",
+      "text": "谁最可能看起来理性，其实最感性？"
+    },
+    {
+      "id": "v92-most-likely-standard-015",
+      "text": "谁最可能为了喜欢的事坚持很多年？"
+    },
+    {
+      "id": "v92-most-likely-standard-016",
+      "text": "谁最可能主动结束一段不合适的关系？"
+    },
+    {
+      "id": "v92-most-likely-standard-017",
+      "text": "谁最可能在聚会结束后复盘每段对话？"
+    },
+    {
+      "id": "v92-most-likely-standard-018",
+      "text": "谁最可能被大家误解成高冷？"
+    }
+  ]
+}

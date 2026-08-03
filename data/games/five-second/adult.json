@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "five-second",
+  "level": 4,
+  "levelKey": "adult",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-five-second-adult-001",
+      "text": "说出三个你认为有吸引力的成年人特质。"
+    },
+    {
+      "id": "v92-five-second-adult-002",
+      "text": "说出三种会让成年人约会气氛升温的细节。"
+    },
+    {
+      "id": "v92-five-second-adult-003",
+      "text": "说出三个你在亲密关系里最重视的边界。"
+    },
+    {
+      "id": "v92-five-second-adult-004",
+      "text": "说出三种你愿意接受的浪漫主动方式。"
+    },
+    {
+      "id": "v92-five-second-adult-005",
+      "text": "说出三个你认为接吻默契的重要因素。"
+    },
+    {
+      "id": "v92-five-second-adult-006",
+      "text": "说出三种亲密关系中需要明确同意的情况。"
+    },
+    {
+      "id": "v92-five-second-adult-007",
+      "text": "说出三个会让你产生强烈吸引力的细节。"
+    },
+    {
+      "id": "v92-five-second-adult-008",
+      "text": "说出三种你喜欢的成年人约会氛围。"
+    },
+    {
+      "id": "v92-five-second-adult-009",
+      "text": "说出三个你希望伴侣主动询问的问题。"
+    },
+    {
+      "id": "v92-five-second-adult-010",
+      "text": "说出三种你认为安全感强的亲密表达。"
+    },
+    {
+      "id": "v92-five-second-adult-011",
+      "text": "说出三个成年人关系中不能忽略的沟通点。"
+    },
+    {
+      "id": "v92-five-second-adult-012",
+      "text": "说出三种你愿意尝试的浪漫场景。"
+    },
+    {
+      "id": "v92-five-second-adult-013",
+      "text": "说出三个你不接受的亲密关系行为。"
+    },
+    {
+      "id": "v92-five-second-adult-014",
+      "text": "说出三种你更喜欢主动表达需求的方式。"
+    },
+    {
+      "id": "v92-five-second-adult-015",
+      "text": "说出三个让你觉得对方很尊重你的细节。"
+    },
+    {
+      "id": "v92-five-second-adult-016",
+      "text": "说出三种适合亲密关系后的放松方式。"
+    },
+    {
+      "id": "v92-five-second-adult-017",
+      "text": "说出三个你认为成熟的成人关系观念。"
+    },
+    {
+      "id": "v92-five-second-adult-018",
+      "text": "说出三种你会用来确认对方感受的话。"
+    }
+  ]
+}

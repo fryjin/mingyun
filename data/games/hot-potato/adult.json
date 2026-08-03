@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "hot-potato",
+  "level": 4,
+  "levelKey": "adult",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-hot-potato-adult-001",
+      "text": "说出一个你在成年人约会中最看重的边界。"
+    },
+    {
+      "id": "v92-hot-potato-adult-002",
+      "text": "用一句不冒犯的话表达对某人的吸引力。"
+    },
+    {
+      "id": "v92-hot-potato-adult-003",
+      "text": "说出一种你喜欢的浪漫亲密氛围。"
+    },
+    {
+      "id": "v92-hot-potato-adult-004",
+      "text": "分享一个你认为很有张力的约会细节。"
+    },
+    {
+      "id": "v92-hot-potato-adult-005",
+      "text": "说出一种你希望伴侣主动确认同意的情况。"
+    },
+    {
+      "id": "v92-hot-potato-adult-006",
+      "text": "用一句话表达“我需要慢一点”。"
+    },
+    {
+      "id": "v92-hot-potato-adult-007",
+      "text": "说出一个你认为成熟的亲密沟通方式。"
+    },
+    {
+      "id": "v92-hot-potato-adult-008",
+      "text": "分享一种会让你产生安全感的身体距离。"
+    },
+    {
+      "id": "v92-hot-potato-adult-009",
+      "text": "说出一个你在成人关系里绝不妥协的原则。"
+    },
+    {
+      "id": "v92-hot-potato-adult-010",
+      "text": "用一句话邀请对方进行一次浪漫约会。"
+    },
+    {
+      "id": "v92-hot-potato-adult-011",
+      "text": "说出一种你喜欢的接吻前氛围。"
+    },
+    {
+      "id": "v92-hot-potato-adult-012",
+      "text": "分享一个你认为很重要的事后沟通问题。"
+    },
+    {
+      "id": "v92-hot-potato-adult-013",
+      "text": "说出一种你愿意主动表达的亲密需求。"
+    },
+    {
+      "id": "v92-hot-potato-adult-014",
+      "text": "用一句话确认对方是否愿意继续靠近。"
+    },
+    {
+      "id": "v92-hot-potato-adult-015",
+      "text": "说出一个你认为有吸引力的声音或眼神细节。"
+    },
+    {
+      "id": "v92-hot-potato-adult-016",
+      "text": "分享一种你愿意尝试的成年人浪漫场景。"
+    },
+    {
+      "id": "v92-hot-potato-adult-017",
+      "text": "说出一种你会用来保护双方隐私的做法。"
+    },
+    {
+      "id": "v92-hot-potato-adult-018",
+      "text": "用一句话表达“我很喜欢，但我需要先确认边界”。"
+    }
+  ]
+}

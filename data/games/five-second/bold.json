@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "five-second",
+  "level": 3,
+  "levelKey": "bold",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-five-second-bold-001",
+      "text": "说出三个你曾经冲动做过的决定。"
+    },
+    {
+      "id": "v92-five-second-bold-002",
+      "text": "说出三种你吃醋时可能出现的表现。"
+    },
+    {
+      "id": "v92-five-second-bold-003",
+      "text": "说出三个你最不想被前任问的问题。"
+    },
+    {
+      "id": "v92-five-second-bold-004",
+      "text": "说出三种会让你立刻失去兴趣的行为。"
+    },
+    {
+      "id": "v92-five-second-bold-005",
+      "text": "说出三个你可能偷偷关注的人。"
+    },
+    {
+      "id": "v92-five-second-bold-006",
+      "text": "说出三种你在暧昧中会释放的信号。"
+    },
+    {
+      "id": "v92-five-second-bold-007",
+      "text": "说出三个你最想删除的尴尬瞬间。"
+    },
+    {
+      "id": "v92-five-second-bold-008",
+      "text": "说出三种让你决定结束关系的原因。"
+    },
+    {
+      "id": "v92-five-second-bold-009",
+      "text": "说出三个你曾经嘴硬不承认的感受。"
+    },
+    {
+      "id": "v92-five-second-bold-010",
+      "text": "说出三种你会主动道歉的情况。"
+    },
+    {
+      "id": "v92-five-second-bold-011",
+      "text": "说出三个你最怕在聚会里被问的问题。"
+    },
+    {
+      "id": "v92-five-second-bold-012",
+      "text": "说出三种你可能重新联系旧识的原因。"
+    },
+    {
+      "id": "v92-five-second-bold-013",
+      "text": "说出三个你认为最难隐藏的情绪。"
+    },
+    {
+      "id": "v92-five-second-bold-014",
+      "text": "说出三种会让你心动但不敢靠近的类型。"
+    },
+    {
+      "id": "v92-five-second-bold-015",
+      "text": "说出三个你后悔没有说出口的话题。"
+    },
+    {
+      "id": "v92-five-second-bold-016",
+      "text": "说出三种你愿意为喜欢的人改变的习惯。"
+    },
+    {
+      "id": "v92-five-second-bold-017",
+      "text": "说出三个你最容易误解别人的场景。"
+    },
+    {
+      "id": "v92-five-second-bold-018",
+      "text": "说出三种让你想立刻离开约会的行为。"
+    }
+  ]
+}

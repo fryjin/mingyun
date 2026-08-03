@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "would-rather",
+  "level": 3,
+  "levelKey": "bold",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-would-rather-bold-001",
+      "optionA": "让前任看到你现在的生活",
+      "optionB": "彻底看不到前任任何消息"
+    },
+    {
+      "id": "v92-would-rather-bold-002",
+      "optionA": "主动联系曾经错过的人",
+      "optionB": "永远不再打扰对方"
+    },
+    {
+      "id": "v92-would-rather-bold-003",
+      "optionA": "公开一段尴尬聊天记录",
+      "optionB": "现场讲一个最丢脸的经历"
+    },
+    {
+      "id": "v92-would-rather-bold-004",
+      "optionA": "和喜欢的人做普通朋友",
+      "optionB": "冒险表白可能失去对方"
+    },
+    {
+      "id": "v92-would-rather-bold-005",
+      "optionA": "知道伴侣所有过去",
+      "optionB": "完全不追问伴侣过去"
+    },
+    {
+      "id": "v92-would-rather-bold-006",
+      "optionA": "接受一次没有结果的心动",
+      "optionB": "拒绝开始以免受伤"
+    },
+    {
+      "id": "v92-would-rather-bold-007",
+      "optionA": "在关系中先道歉",
+      "optionB": "坚持等对方先低头"
+    },
+    {
+      "id": "v92-would-rather-bold-008",
+      "optionA": "被误会但不解释",
+      "optionB": "解释却可能越描越黑"
+    },
+    {
+      "id": "v92-would-rather-bold-009",
+      "optionA": "承认自己吃醋",
+      "optionB": "假装完全不在意"
+    },
+    {
+      "id": "v92-would-rather-bold-010",
+      "optionA": "和前任重新尝试一次",
+      "optionB": "彻底关闭复合可能"
+    },
+    {
+      "id": "v92-would-rather-bold-011",
+      "optionA": "在朋友面前被拒绝",
+      "optionB": "私下被已读不回"
+    },
+    {
+      "id": "v92-would-rather-bold-012",
+      "optionA": "选择强烈但短暂的爱情",
+      "optionB": "选择平稳但长久的陪伴"
+    },
+    {
+      "id": "v92-would-rather-bold-013",
+      "optionA": "说出一个隐藏很久的秘密",
+      "optionB": "回答一个大家指定的问题"
+    },
+    {
+      "id": "v92-would-rather-bold-014",
+      "optionA": "被喜欢的人看穿心思",
+      "optionB": "永远猜不透对方心思"
+    },
+    {
+      "id": "v92-would-rather-bold-015",
+      "optionA": "拥有完美初恋",
+      "optionB": "拥有成熟的最后一段感情"
+    },
+    {
+      "id": "v92-would-rather-bold-016",
+      "optionA": "为爱换城市",
+      "optionB": "为事业结束异地关系"
+    },
+    {
+      "id": "v92-would-rather-bold-017",
+      "optionA": "知道谁曾暗恋过你",
+      "optionB": "让暗恋过的人知道你的心意"
+    },
+    {
+      "id": "v92-would-rather-bold-018",
+      "optionA": "和最懂你的人分开",
+      "optionB": "和不太懂你但很爱你的人在一起"
+    }
+  ]
+}

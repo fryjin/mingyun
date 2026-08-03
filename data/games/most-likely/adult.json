@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "most-likely",
+  "level": 4,
+  "levelKey": "adult",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-most-likely-adult-001",
+      "text": "谁最可能在成年人约会中主动制造暧昧气氛？"
+    },
+    {
+      "id": "v92-most-likely-adult-002",
+      "text": "谁最可能对有强烈吸引力的人迅速心动？"
+    },
+    {
+      "id": "v92-most-likely-adult-003",
+      "text": "谁最可能更偏爱充满张力的亲密关系？"
+    },
+    {
+      "id": "v92-most-likely-adult-004",
+      "text": "谁最可能在确认关系前就表现出明显占有欲？"
+    },
+    {
+      "id": "v92-most-likely-adult-005",
+      "text": "谁最可能主动讨论亲密关系中的边界和偏好？"
+    },
+    {
+      "id": "v92-most-likely-adult-006",
+      "text": "谁最可能把一次浪漫约会策划得很有仪式感？"
+    },
+    {
+      "id": "v92-most-likely-adult-007",
+      "text": "谁最可能被声音、眼神或气味迅速吸引？"
+    },
+    {
+      "id": "v92-most-likely-adult-008",
+      "text": "谁最可能接受成年人之间大胆但自愿的约会提议？"
+    },
+    {
+      "id": "v92-most-likely-adult-009",
+      "text": "谁最可能在亲密关系里更主动表达需求？"
+    },
+    {
+      "id": "v92-most-likely-adult-010",
+      "text": "谁最可能把暧昧维持很久却不先确定关系？"
+    },
+    {
+      "id": "v92-most-likely-adult-011",
+      "text": "谁最可能对角色扮演类约会最有兴趣？"
+    },
+    {
+      "id": "v92-most-likely-adult-012",
+      "text": "谁最可能最重视亲密关系后的拥抱与沟通？"
+    },
+    {
+      "id": "v92-most-likely-adult-013",
+      "text": "谁最可能在成年人关系中最强调隐私？"
+    },
+    {
+      "id": "v92-most-likely-adult-014",
+      "text": "谁最可能因为身体吸引力开始一段约会？"
+    },
+    {
+      "id": "v92-most-likely-adult-015",
+      "text": "谁最可能愿意尝试从未体验过的浪漫场景？"
+    },
+    {
+      "id": "v92-most-likely-adult-016",
+      "text": "谁最可能在亲密关系里最会营造安全感？"
+    },
+    {
+      "id": "v92-most-likely-adult-017",
+      "text": "谁最可能坦率说出自己的成人关系底线？"
+    },
+    {
+      "id": "v92-most-likely-adult-018",
+      "text": "谁最可能把一次接吻的细节记很久？"
+    }
+  ]
+}

@@ -8,6 +8,7 @@ import {
   createPunishmentPresenter
 } from './modules/games.js';
 import { QuestionLoader } from './modules/questions.js';
+import { GameContentLoader } from './modules/game-content.js';
 
 const appView = document.querySelector('#appView');
 const overlayRoot = document.querySelector('#overlayRoot');
@@ -17,6 +18,7 @@ const toast = document.querySelector('#toast');
 
 const store = createPlayerStore();
 const questionLoader = new QuestionLoader();
+const gameContentLoader = new GameContentLoader();
 const feedback = createFeedback(store);
 const punishment = createPunishmentPresenter({
   root:overlayRoot,
@@ -91,6 +93,7 @@ function startGame(game, config) {
     store,
     config,
     loader:questionLoader,
+    content:gameContentLoader,
     feedback,
     punishment,
     showToast
@@ -191,7 +194,11 @@ if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
 }
 
 questionLoader.loadManifest().catch((error) => {
-  console.warn('题库清单预热失败，将在首次使用时重试。', error);
+  console.warn('共享惩罚题库清单预热失败，将在首次使用时重试。', error);
+});
+
+gameContentLoader.loadManifest().catch((error) => {
+  console.warn('玩法专用题库清单预热失败，将在首次使用时重试。', error);
 });
 
 renderCurrent();

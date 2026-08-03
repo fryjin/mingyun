@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "would-rather",
+  "level": 1,
+  "levelKey": "light",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-would-rather-light-001",
+      "optionA": "永远只能吃甜食",
+      "optionB": "永远只能吃咸食"
+    },
+    {
+      "id": "v92-would-rather-light-002",
+      "optionA": "每天早起一小时",
+      "optionB": "每天晚睡一小时"
+    },
+    {
+      "id": "v92-would-rather-light-003",
+      "optionA": "拥有瞬间整理房间的能力",
+      "optionB": "拥有瞬间做完饭的能力"
+    },
+    {
+      "id": "v92-would-rather-light-004",
+      "optionA": "只能看喜剧电影",
+      "optionB": "只能看悬疑电影"
+    },
+    {
+      "id": "v92-would-rather-light-005",
+      "optionA": "旅行永远不迷路",
+      "optionB": "旅行永远不用排队"
+    },
+    {
+      "id": "v92-would-rather-light-006",
+      "optionA": "拥有一只会说话的猫",
+      "optionB": "拥有一只会说话的狗"
+    },
+    {
+      "id": "v92-would-rather-light-007",
+      "optionA": "一年不喝奶茶",
+      "optionB": "一年不吃炸物"
+    },
+    {
+      "id": "v92-would-rather-light-008",
+      "optionA": "手机永远满电",
+      "optionB": "网络永远满格"
+    },
+    {
+      "id": "v92-would-rather-light-009",
+      "optionA": "每周多一天假",
+      "optionB": "每天少工作两小时"
+    },
+    {
+      "id": "v92-would-rather-light-010",
+      "optionA": "只能听旧歌",
+      "optionB": "只能听新歌"
+    },
+    {
+      "id": "v92-would-rather-light-011",
+      "optionA": "住在海边",
+      "optionB": "住在山里"
+    },
+    {
+      "id": "v92-would-rather-light-012",
+      "optionA": "随时能睡着",
+      "optionB": "随时能保持清醒"
+    },
+    {
+      "id": "v92-would-rather-light-013",
+      "optionA": "拥有无限零食",
+      "optionB": "拥有无限饮料"
+    },
+    {
+      "id": "v92-would-rather-light-014",
+      "optionA": "每次拍照都好看",
+      "optionB": "每次唱歌都好听"
+    },
+    {
+      "id": "v92-would-rather-light-015",
+      "optionA": "会十种语言",
+      "optionB": "会十种乐器"
+    },
+    {
+      "id": "v92-would-rather-light-016",
+      "optionA": "永远记得名字",
+      "optionB": "永远记得路线"
+    },
+    {
+      "id": "v92-would-rather-light-017",
+      "optionA": "聚会永远第一个到",
+      "optionB": "聚会永远最后一个走"
+    },
+    {
+      "id": "v92-would-rather-light-018",
+      "optionA": "获得一次免费环球旅行",
+      "optionB": "获得一年免费外卖"
+    }
+  ]
+}

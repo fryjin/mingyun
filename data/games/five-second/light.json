@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "five-second",
+  "level": 1,
+  "levelKey": "light",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-five-second-light-001",
+      "text": "说出三种红色的食物。"
+    },
+    {
+      "id": "v92-five-second-light-002",
+      "text": "说出三个带“水”的词。"
+    },
+    {
+      "id": "v92-five-second-light-003",
+      "text": "说出三种可以放进冰箱的东西。"
+    },
+    {
+      "id": "v92-five-second-light-004",
+      "text": "说出三个常见的手机应用。"
+    },
+    {
+      "id": "v92-five-second-light-005",
+      "text": "说出三种你喜欢的零食。"
+    },
+    {
+      "id": "v92-five-second-light-006",
+      "text": "说出三个两字昵称。"
+    },
+    {
+      "id": "v92-five-second-light-007",
+      "text": "说出三种交通工具。"
+    },
+    {
+      "id": "v92-five-second-light-008",
+      "text": "说出三件下雨天会用到的东西。"
+    },
+    {
+      "id": "v92-five-second-light-009",
+      "text": "说出三个可以在家完成的运动。"
+    },
+    {
+      "id": "v92-five-second-light-010",
+      "text": "说出三种圆形物品。"
+    },
+    {
+      "id": "v92-five-second-light-011",
+      "text": "说出三个周末可以做的活动。"
+    },
+    {
+      "id": "v92-five-second-light-012",
+      "text": "说出三种常见饮料。"
+    },
+    {
+      "id": "v92-five-second-light-013",
+      "text": "说出三个让人开心的小事。"
+    },
+    {
+      "id": "v92-five-second-light-014",
+      "text": "说出三种蓝色物品。"
+    },
+    {
+      "id": "v92-five-second-light-015",
+      "text": "说出三个你会带去旅行的东西。"
+    },
+    {
+      "id": "v92-five-second-light-016",
+      "text": "说出三种早餐食物。"
+    },
+    {
+      "id": "v92-five-second-light-017",
+      "text": "说出三个常见表情包情绪。"
+    },
+    {
+      "id": "v92-five-second-light-018",
+      "text": "说出三种适合送朋友的小礼物。"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "most-likely",
+  "level": 1,
+  "levelKey": "light",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-most-likely-light-001",
+      "text": "谁最可能出门前找不到自己的手机？"
+    },
+    {
+      "id": "v92-most-likely-light-002",
+      "text": "谁最可能在群聊里最先回复消息？"
+    },
+    {
+      "id": "v92-most-likely-light-003",
+      "text": "谁最可能临时决定来一场旅行？"
+    },
+    {
+      "id": "v92-most-likely-light-004",
+      "text": "谁最可能把零食藏起来慢慢吃？"
+    },
+    {
+      "id": "v92-most-likely-light-005",
+      "text": "谁最可能记住所有人的生日？"
+    },
+    {
+      "id": "v92-most-likely-light-006",
+      "text": "谁最可能在聚会里负责活跃气氛？"
+    },
+    {
+      "id": "v92-most-likely-light-007",
+      "text": "谁最可能看到可爱动物就走不动路？"
+    },
+    {
+      "id": "v92-most-likely-light-008",
+      "text": "谁最可能把一首歌循环播放一整天？"
+    },
+    {
+      "id": "v92-most-likely-light-009",
+      "text": "谁最可能在电影院里最先哭？"
+    },
+    {
+      "id": "v92-most-likely-light-010",
+      "text": "谁最可能因为赖床错过早餐？"
+    },
+    {
+      "id": "v92-most-likely-light-011",
+      "text": "谁最可能拥有最多奇怪但实用的小物件？"
+    },
+    {
+      "id": "v92-most-likely-light-012",
+      "text": "谁最可能在陌生城市里最快找到方向？"
+    },
+    {
+      "id": "v92-most-likely-light-013",
+      "text": "谁最可能主动帮大家拍合照？"
+    },
+    {
+      "id": "v92-most-likely-light-014",
+      "text": "谁最可能忘记自己刚才要说什么？"
+    },
+    {
+      "id": "v92-most-likely-light-015",
+      "text": "谁最可能突然开始整理房间？"
+    },
+    {
+      "id": "v92-most-likely-light-016",
+      "text": "谁最可能把普通小事讲得特别有趣？"
+    },
+    {
+      "id": "v92-most-likely-light-017",
+      "text": "谁最可能成为大家的临时客服？"
+    },
+    {
+      "id": "v92-most-likely-light-018",
+      "text": "谁最可能在游戏里认真研究规则？"
+    }
+  ]
+}

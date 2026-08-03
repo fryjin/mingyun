@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "would-rather",
+  "level": 4,
+  "levelKey": "adult",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-would-rather-adult-001",
+      "optionA": "选择浪漫而缓慢的成年人约会",
+      "optionB": "选择直接而充满火花的成年人约会"
+    },
+    {
+      "id": "v92-would-rather-adult-002",
+      "optionA": "在亲密关系中由你主动",
+      "optionB": "由对方主动但随时尊重你的边界"
+    },
+    {
+      "id": "v92-would-rather-adult-003",
+      "optionA": "更重视身体吸引力",
+      "optionB": "更重视情绪安全感"
+    },
+    {
+      "id": "v92-would-rather-adult-004",
+      "optionA": "在约会前讨论清楚边界",
+      "optionB": "让氛围自然发展但随时确认同意"
+    },
+    {
+      "id": "v92-would-rather-adult-005",
+      "optionA": "一次非常大胆的浪漫旅行",
+      "optionB": "许多次温柔稳定的日常约会"
+    },
+    {
+      "id": "v92-would-rather-adult-006",
+      "optionA": "更喜欢亲密后的长时间拥抱",
+      "optionB": "更喜欢亲密后的安静独处"
+    },
+    {
+      "id": "v92-would-rather-adult-007",
+      "optionA": "尝试双方都好奇的新体验",
+      "optionB": "坚持最熟悉且安心的相处方式"
+    },
+    {
+      "id": "v92-would-rather-adult-008",
+      "optionA": "被对方直接表达渴望",
+      "optionB": "被对方细致表达珍惜"
+    },
+    {
+      "id": "v92-would-rather-adult-009",
+      "optionA": "保留成年人关系的神秘感",
+      "optionB": "对彼此偏好完全坦诚"
+    },
+    {
+      "id": "v92-would-rather-adult-010",
+      "optionA": "在私密场景里更会说情话",
+      "optionB": "在日常生活里更会表达爱意"
+    },
+    {
+      "id": "v92-would-rather-adult-011",
+      "optionA": "接受一次精心安排的惊喜约会",
+      "optionB": "共同计划每个约会细节"
+    },
+    {
+      "id": "v92-would-rather-adult-012",
+      "optionA": "更喜欢强烈眼神交流",
+      "optionB": "更喜欢温柔身体距离"
+    },
+    {
+      "id": "v92-would-rather-adult-013",
+      "optionA": "由你提出暂停和确认",
+      "optionB": "由对方主动询问你的感受"
+    },
+    {
+      "id": "v92-would-rather-adult-014",
+      "optionA": "成年人关系中保持独立空间",
+      "optionB": "尽可能共享生活细节"
+    },
+    {
+      "id": "v92-would-rather-adult-015",
+      "optionA": "只和熟悉的人发展亲密关系",
+      "optionB": "愿意和新认识但信任的人约会"
+    },
+    {
+      "id": "v92-would-rather-adult-016",
+      "optionA": "更看重接吻默契",
+      "optionB": "更看重沟通默契"
+    },
+    {
+      "id": "v92-would-rather-adult-017",
+      "optionA": "一次难忘但短暂的激情",
+      "optionB": "一段长期稳定的亲密关系"
+    },
+    {
+      "id": "v92-would-rather-adult-018",
+      "optionA": "坦率谈论成人关系需求",
+      "optionB": "通过行动慢慢让对方理解"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "five-second",
+  "level": 2,
+  "levelKey": "standard",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-five-second-standard-001",
+      "text": "说出三个你欣赏朋友的特点。"
+    },
+    {
+      "id": "v92-five-second-standard-002",
+      "text": "说出三个拒绝邀约但不伤人的理由。"
+    },
+    {
+      "id": "v92-five-second-standard-003",
+      "text": "说出三种缓解压力的方法。"
+    },
+    {
+      "id": "v92-five-second-standard-004",
+      "text": "说出三个你认为重要的相处原则。"
+    },
+    {
+      "id": "v92-five-second-standard-005",
+      "text": "说出三个能让你立刻心情变好的场景。"
+    },
+    {
+      "id": "v92-five-second-standard-006",
+      "text": "说出三种判断一个人可靠的方式。"
+    },
+    {
+      "id": "v92-five-second-standard-007",
+      "text": "说出三个你愿意长期坚持的习惯。"
+    },
+    {
+      "id": "v92-five-second-standard-008",
+      "text": "说出三个不看手机也能做的活动。"
+    },
+    {
+      "id": "v92-five-second-standard-009",
+      "text": "说出三种适合和朋友一起完成的挑战。"
+    },
+    {
+      "id": "v92-five-second-standard-010",
+      "text": "说出三个你希望别人记住你的特点。"
+    },
+    {
+      "id": "v92-five-second-standard-011",
+      "text": "说出三种有效的道歉方式。"
+    },
+    {
+      "id": "v92-five-second-standard-012",
+      "text": "说出三个你最难拒绝的请求。"
+    },
+    {
+      "id": "v92-five-second-standard-013",
+      "text": "说出三种让关系变亲近的行动。"
+    },
+    {
+      "id": "v92-five-second-standard-014",
+      "text": "说出三个你会为朋友保守的秘密类型。"
+    },
+    {
+      "id": "v92-five-second-standard-015",
+      "text": "说出三种结束尴尬对话的方法。"
+    },
+    {
+      "id": "v92-five-second-standard-016",
+      "text": "说出三个你做决定时最看重的因素。"
+    },
+    {
+      "id": "v92-five-second-standard-017",
+      "text": "说出三种你认为成熟的表现。"
+    },
+    {
+      "id": "v92-five-second-standard-018",
+      "text": "说出三个让聚会不冷场的话题。"
+    }
+  ]
+}

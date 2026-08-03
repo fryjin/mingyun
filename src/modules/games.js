@@ -1,4 +1,8 @@
 import { ICONS } from './lobby.js';
+import { mountMostLikely } from '../games/most-likely.js';
+import { mountWouldRather } from '../games/would-rather.js';
+import { mountFiveSecond } from '../games/five-second.js';
+import { mountHotPotato } from '../games/hot-potato.js';
 
 const COLORS = ['#ff667f','#7d62f4','#2dc7a6','#f2ae45','#4d9de0','#da67cf','#8bc34a','#ff8a55','#6f7bf7','#f25f9d','#44b7c8','#c48bff'];
 const LEVEL_LABELS = { 1:'轻松', 2:'标准', 3:'大胆', 4:'成人刺激' };
@@ -464,26 +468,30 @@ registerGame(createWheelPlugin());
 registerGame(placeholderPlugin({
   id:'most-likely',title:'谁最可能',description:'全员同时指人，得票最多者接受惩罚。',
   playersLabel:'3–12人',minPlayers:3,maxPlayers:12,timeLabel:'30–60 秒',icon:'vote',color:'#22d3ee',
-  supportsAdult:true,rules:'读出题目后所有人同时指出最符合的人，由主持人在手机上登记结果。',
-  defaultConfig:{ tieRule:'random' }
+  supportsAdult:true,implemented:true,resultMode:'得票最高者接受惩罚',
+  rules:'读出题目后所有人同时指出最符合的人，由主持人在手机上登记票数并完成结算。',
+  defaultConfig:{ tieRule:'random' },mount:mountMostLikely
 }));
 registerGame(placeholderPlugin({
   id:'would-rather',title:'二选一',description:'站队 A 或 B，再按规则决定本轮玩家。',
   playersLabel:'2–12人',minPlayers:2,maxPlayers:12,timeLabel:'30–90 秒',icon:'split',color:'#60a5fa',
-  supportsAdult:true,rules:'所有玩家在两个选项中选择其一，系统按少数派、多数派或解释模式结算。',
-  defaultConfig:{ settleRule:'minority' }
+  supportsAdult:true,implemented:true,resultMode:'阵营结算或随机解释',
+  rules:'所有玩家依次选择 A 或 B，系统按少数派、多数派或随机解释模式完成本轮结算。',
+  defaultConfig:{ settleRule:'minority' },mount:mountWouldRather
 }));
 registerGame(placeholderPlugin({
   id:'five-second',title:'五秒挑战',description:'倒计时内完成题目，时间可自由设置。',
   playersLabel:'2–12人',minPlayers:2,maxPlayers:12,timeLabel:'3–60 秒',icon:'timer',color:'#fbbf24',
-  supportsAdult:true,rules:'当前玩家在设定时间内完成挑战，由其他玩家判断成功或失败。',
-  defaultConfig:{ seconds:5 }
+  supportsAdult:true,implemented:true,resultMode:'挑战失败者接受惩罚',
+  rules:'当前玩家在设定时间内完成挑战，由其他玩家判断成功或失败；时长支持 3–60 秒。',
+  defaultConfig:{ seconds:5 },mount:mountFiveSecond
 }));
 registerGame(placeholderPlugin({
   id:'hot-potato',title:'炸弹传递',description:'回答后传递手机，引爆时持有者接受惩罚。',
   playersLabel:'3–12人',minPlayers:3,maxPlayers:12,timeLabel:'1–3 分钟',icon:'bomb',color:'#fb7185',
-  supportsAdult:true,phoneMode:'需要轮流传递',rules:'炸弹会在不可见的随机时间引爆。回答后点击传递并把手机交给下一位；不要抛掷手机。',
-  defaultConfig:{ duration:'standard', direction:'clockwise' }
+  supportsAdult:true,implemented:true,phoneMode:'需要轮流传递',resultMode:'引爆时持有者接受惩罚',
+  rules:'炸弹会在不可见的随机时间引爆。完成任务后点击传递并把手机交给下一位；请勿抛掷手机。',
+  defaultConfig:{ duration:'standard', direction:'clockwise' },mount:mountHotPotato
 }));
 registerGame(placeholderPlugin({
   id:'undercover',title:'谁是卧底',description:'查看身份、轮流描述、投票找出卧底。',

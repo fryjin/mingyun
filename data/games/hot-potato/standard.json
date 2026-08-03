@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "hot-potato",
+  "level": 2,
+  "levelKey": "standard",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-hot-potato-standard-001",
+      "text": "说出你最近最想完成的一件事。"
+    },
+    {
+      "id": "v92-hot-potato-standard-002",
+      "text": "夸奖右边玩家一个具体优点。"
+    },
+    {
+      "id": "v92-hot-potato-standard-003",
+      "text": "用一句话描述你的理想周末。"
+    },
+    {
+      "id": "v92-hot-potato-standard-004",
+      "text": "说出一种你压力大时的反应。"
+    },
+    {
+      "id": "v92-hot-potato-standard-005",
+      "text": "分享一个最近让你开心的小事。"
+    },
+    {
+      "id": "v92-hot-potato-standard-006",
+      "text": "说出一个你希望改掉的习惯。"
+    },
+    {
+      "id": "v92-hot-potato-standard-007",
+      "text": "用一句话解释你为什么来参加这场聚会。"
+    },
+    {
+      "id": "v92-hot-potato-standard-008",
+      "text": "说出一个你最信任朋友的特点。"
+    },
+    {
+      "id": "v92-hot-potato-standard-009",
+      "text": "分享一次你主动帮助别人的经历。"
+    },
+    {
+      "id": "v92-hot-potato-standard-010",
+      "text": "说出一个你很少对别人提起的爱好。"
+    },
+    {
+      "id": "v92-hot-potato-standard-011",
+      "text": "用一句话向下一位玩家提出旅行邀请。"
+    },
+    {
+      "id": "v92-hot-potato-standard-012",
+      "text": "说出一种你认为有效的道歉方式。"
+    },
+    {
+      "id": "v92-hot-potato-standard-013",
+      "text": "分享一个你近期做出的正确决定。"
+    },
+    {
+      "id": "v92-hot-potato-standard-014",
+      "text": "说出一个你希望收到的礼物。"
+    },
+    {
+      "id": "v92-hot-potato-standard-015",
+      "text": "用一句话描述你小时候的性格。"
+    },
+    {
+      "id": "v92-hot-potato-standard-016",
+      "text": "说出一个你愿意重复很多次的体验。"
+    },
+    {
+      "id": "v92-hot-potato-standard-017",
+      "text": "分享一句你最近记住的话。"
+    },
+    {
+      "id": "v92-hot-potato-standard-018",
+      "text": "说出一个能让你迅速放松的地方。"
+    }
+  ]
+}

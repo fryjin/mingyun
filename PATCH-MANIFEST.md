@@ -1,48 +1,46 @@
-# V9.1 补丁清单
+# V9.2 功能补丁清单
 
-## 迁移目标
+## 目标
 
-将 V9 单 HTML 原型拆分为四个正式模块：
+在已经部署 V9.1 的仓库上新增四种正式可玩模式：
 
-1. 游戏大厅：`src/modules/lobby.js`
-2. 玩家系统：`src/modules/players.js`
-3. 游戏插件：`src/modules/games.js`
-4. 题库加载器：`src/modules/questions.js`
+1. 谁最可能
+2. 二选一
+3. 五秒挑战（3–60 秒自由设置）
+4. 炸弹传递
 
-应用入口与生命周期由 `src/main.js` 统一编排。
+## 覆盖文件
 
-## 已迁移为可玩状态
+```text
+index.html
+README.md
+src/main.js
+src/modules/games.js
+styles/games.css
+sw.js
+```
 
-- 命运骰局
-- 命运转盘
+## 新增文件
 
-## 已注册但暂未实现玩法逻辑
+```text
+src/modules/game-content.js
+src/games/shared.js
+src/games/most-likely.js
+src/games/would-rather.js
+src/games/five-second.js
+src/games/hot-potato.js
+GAME-CONTENT-SCHEMA.md
+data/games/manifest.json
+data/games/most-likely/*.json
+data/games/would-rather/*.json
+data/games/five-second/*.json
+data/games/hot-potato/*.json
+```
 
-- 二选一
-- 国王游戏
-- 五秒挑战
-- 谁是卧底
-- 谁最可能
-- 炸弹传递
+## 不包含
 
-这些玩法的大厅卡片、详情抽屉和专属设置已经接入，点击开始时会提示后续版本开发。
+本补丁不重复携带：
 
-## 题库策略
-
-- 不在首屏加载完整题库。
-- 根据档位与题型加载单个 JSON。
-- 成人题库仅在选择 18+ 后请求。
-- 最近 24 道题进入排除队列，降低连续重复。
-- 已请求题库由 Service Worker 运行时缓存。
-
-## UI 验收反馈落实
-
-- 删除推荐卡片。
-- 删除游戏分类标签。
-- 删除底部导航。
-- 游戏按中文拼音排序。
-- 名称限制为 4 个字符。
-- 新增临时离场。
-- 删除拖动排序。
-- 修复炸弹传递时长选项。
-- 统一字号、行高、卡片间距和两行截断。
+- `data/questions/` 下的 3500 道共享惩罚题库
+- 未修改的玩家系统、大厅模块、通用样式和图标
+- 国王游戏与谁是卧底的正式逻辑

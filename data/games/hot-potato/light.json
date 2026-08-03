@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "hot-potato",
+  "level": 1,
+  "levelKey": "light",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-hot-potato-light-001",
+      "text": "说出一种你今天吃过的东西。"
+    },
+    {
+      "id": "v92-hot-potato-light-002",
+      "text": "模仿一种动物叫声后再传递。"
+    },
+    {
+      "id": "v92-hot-potato-light-003",
+      "text": "说出在场任意一位玩家的优点。"
+    },
+    {
+      "id": "v92-hot-potato-light-004",
+      "text": "用三个字形容现在的心情。"
+    },
+    {
+      "id": "v92-hot-potato-light-005",
+      "text": "快速说出两种水果。"
+    },
+    {
+      "id": "v92-hot-potato-light-006",
+      "text": "做一个夸张的胜利表情。"
+    },
+    {
+      "id": "v92-hot-potato-light-007",
+      "text": "说出一部最近看过的影视作品。"
+    },
+    {
+      "id": "v92-hot-potato-light-008",
+      "text": "用一句话推荐你喜欢的食物。"
+    },
+    {
+      "id": "v92-hot-potato-light-009",
+      "text": "快速说出两个城市名。"
+    },
+    {
+      "id": "v92-hot-potato-light-010",
+      "text": "给下一位玩家起一个临时昵称。"
+    },
+    {
+      "id": "v92-hot-potato-light-011",
+      "text": "说出一种你不会拒绝的零食。"
+    },
+    {
+      "id": "v92-hot-potato-light-012",
+      "text": "用手势比出一个爱心。"
+    },
+    {
+      "id": "v92-hot-potato-light-013",
+      "text": "说出一个你常用的表情包。"
+    },
+    {
+      "id": "v92-hot-potato-light-014",
+      "text": "模仿一次手机铃声。"
+    },
+    {
+      "id": "v92-hot-potato-light-015",
+      "text": "说出一种适合聚会的饮料。"
+    },
+    {
+      "id": "v92-hot-potato-light-016",
+      "text": "用一句话描述今天的天气。"
+    },
+    {
+      "id": "v92-hot-potato-light-017",
+      "text": "说出一个你最近学会的小知识。"
+    },
+    {
+      "id": "v92-hot-potato-light-018",
+      "text": "对大家说一句简短祝福。"
+    }
+  ]
+}

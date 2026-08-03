@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "hot-potato",
+  "level": 3,
+  "levelKey": "bold",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-hot-potato-bold-001",
+      "text": "说出一个你曾经后悔发出的消息。"
+    },
+    {
+      "id": "v92-hot-potato-bold-002",
+      "text": "用一句话描述你吃醋时的样子。"
+    },
+    {
+      "id": "v92-hot-potato-bold-003",
+      "text": "说出一种会让你约会立刻下头的行为。"
+    },
+    {
+      "id": "v92-hot-potato-bold-004",
+      "text": "分享一个你曾经误会别人的瞬间。"
+    },
+    {
+      "id": "v92-hot-potato-bold-005",
+      "text": "说出一个你最难承认的缺点。"
+    },
+    {
+      "id": "v92-hot-potato-bold-006",
+      "text": "用一句话模拟向喜欢的人表白。"
+    },
+    {
+      "id": "v92-hot-potato-bold-007",
+      "text": "说出一种你在关系里会逃避的问题。"
+    },
+    {
+      "id": "v92-hot-potato-bold-008",
+      "text": "分享一个你嘴硬但其实很在意的场景。"
+    },
+    {
+      "id": "v92-hot-potato-bold-009",
+      "text": "说出一个你想重新联系的人类型。"
+    },
+    {
+      "id": "v92-hot-potato-bold-010",
+      "text": "用一句话回答“你为什么还单身”。"
+    },
+    {
+      "id": "v92-hot-potato-bold-011",
+      "text": "说出一个你会偷偷观察的细节。"
+    },
+    {
+      "id": "v92-hot-potato-bold-012",
+      "text": "分享一次你冲动做决定的经历。"
+    },
+    {
+      "id": "v92-hot-potato-bold-013",
+      "text": "说出一种你无法接受的暧昧行为。"
+    },
+    {
+      "id": "v92-hot-potato-bold-014",
+      "text": "用一句话拒绝一个不合适的约会。"
+    },
+    {
+      "id": "v92-hot-potato-bold-015",
+      "text": "说出一个你最怕别人看穿的情绪。"
+    },
+    {
+      "id": "v92-hot-potato-bold-016",
+      "text": "分享一个你曾经错过的机会。"
+    },
+    {
+      "id": "v92-hot-potato-bold-017",
+      "text": "说出一种会让你主动靠近别人的特质。"
+    },
+    {
+      "id": "v92-hot-potato-bold-018",
+      "text": "用一句话评价你自己的恋爱脑程度。"
+    }
+  ]
+}

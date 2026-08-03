@@ -1,5 +1,6 @@
-const CACHE_VERSION = 'mingyun-v9.1-shell-1';
-const QUESTION_CACHE = 'mingyun-v9.1-questions-1';
+const CACHE_VERSION = 'mingyun-v9.2-shell-1';
+const QUESTION_CACHE = 'mingyun-v9.2-questions-1';
+const GAME_CONTENT_CACHE = 'mingyun-v9.2-game-content-1';
 
 const APP_SHELL = [
   './',
@@ -12,7 +13,14 @@ const APP_SHELL = [
   './src/modules/lobby.js',
   './src/modules/players.js',
   './src/modules/games.js',
-  './src/modules/questions.js'
+  './src/modules/questions.js',
+  './src/modules/game-content.js',
+  './src/games/shared.js',
+  './src/games/most-likely.js',
+  './src/games/would-rather.js',
+  './src/games/five-second.js',
+  './src/games/hot-potato.js',
+  './data/games/manifest.json'
 ];
 
 self.addEventListener('install', (event) => {
@@ -24,11 +32,11 @@ self.addEventListener('install', (event) => {
 });
 
 self.addEventListener('activate', (event) => {
+  const activeCaches = new Set([CACHE_VERSION, QUESTION_CACHE, GAME_CONTENT_CACHE]);
   event.waitUntil(
     Promise.all([
       caches.keys().then((keys) => Promise.all(
-        keys.filter((key) => key !== CACHE_VERSION && key !== QUESTION_CACHE)
-          .map((key) => caches.delete(key))
+        keys.filter((key) => !activeCaches.has(key)).map((key) => caches.delete(key))
       )),
       self.clients.claim()
     ])
@@ -43,6 +51,11 @@ self.addEventListener('fetch', (event) => {
 
   if (url.pathname.includes('/data/questions/')) {
     event.respondWith(staleWhileRevalidate(request, QUESTION_CACHE));
+    return;
+  }
+
+  if (url.pathname.includes('/data/games/')) {
+    event.respondWith(staleWhileRevalidate(request, GAME_CONTENT_CACHE));
     return;
   }
 
@@ -77,7 +90,7 @@ async function staleWhileRevalidate(request, cacheName) {
   }
 
   const response = await network;
-  return response || new Response('Question bank unavailable', { status:503 });
+  return response || new Response('Content bank unavailable', { status:503 });
 }
 
 async function networkFirst(request, cacheName, fallbackUrl) {

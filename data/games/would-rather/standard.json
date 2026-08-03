@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "would-rather",
+  "level": 2,
+  "levelKey": "standard",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-would-rather-standard-001",
+      "optionA": "知道别人对你的真实评价",
+      "optionB": "让别人永远不知道你真实想法"
+    },
+    {
+      "id": "v92-would-rather-standard-002",
+      "optionA": "拥有很多普通朋友",
+      "optionB": "拥有两个绝对可靠的朋友"
+    },
+    {
+      "id": "v92-would-rather-standard-003",
+      "optionA": "被喜欢的人主动表白",
+      "optionB": "由你主动向喜欢的人表白"
+    },
+    {
+      "id": "v92-would-rather-standard-004",
+      "optionA": "永远不再后悔",
+      "optionB": "永远不再焦虑"
+    },
+    {
+      "id": "v92-would-rather-standard-005",
+      "optionA": "做稳定但无聊的工作",
+      "optionB": "做喜欢但不稳定的工作"
+    },
+    {
+      "id": "v92-would-rather-standard-006",
+      "optionA": "能看见未来一年",
+      "optionB": "能重来过去一年"
+    },
+    {
+      "id": "v92-would-rather-standard-007",
+      "optionA": "吵架时立刻说清楚",
+      "optionB": "冷静一天后再沟通"
+    },
+    {
+      "id": "v92-would-rather-standard-008",
+      "optionA": "永远说真话",
+      "optionB": "永远能识破谎言"
+    },
+    {
+      "id": "v92-would-rather-standard-009",
+      "optionA": "和伴侣兴趣完全相同",
+      "optionB": "和伴侣性格完全互补"
+    },
+    {
+      "id": "v92-would-rather-standard-010",
+      "optionA": "获得别人认可",
+      "optionB": "获得自己真正满意"
+    },
+    {
+      "id": "v92-would-rather-standard-011",
+      "optionA": "保持一段远距离关系",
+      "optionB": "结束但保留美好回忆"
+    },
+    {
+      "id": "v92-would-rather-standard-012",
+      "optionA": "被所有人喜欢",
+      "optionB": "被重要的人真正理解"
+    },
+    {
+      "id": "v92-would-rather-standard-013",
+      "optionA": "忘记一段难过经历",
+      "optionB": "保留经历但不再痛苦"
+    },
+    {
+      "id": "v92-would-rather-standard-014",
+      "optionA": "先拥有事业成功",
+      "optionB": "先拥有稳定关系"
+    },
+    {
+      "id": "v92-would-rather-standard-015",
+      "optionA": "知道朋友隐藏的秘密",
+      "optionB": "让朋友知道你的秘密"
+    },
+    {
+      "id": "v92-would-rather-standard-016",
+      "optionA": "永远不会被拒绝",
+      "optionB": "永远不害怕被拒绝"
+    },
+    {
+      "id": "v92-would-rather-standard-017",
+      "optionA": "一次解决所有现实问题",
+      "optionB": "一次解决所有情绪问题"
+    },
+    {
+      "id": "v92-would-rather-standard-018",
+      "optionA": "和过去的自己对话",
+      "optionB": "和未来的自己对话"
+    }
+  ]
+}

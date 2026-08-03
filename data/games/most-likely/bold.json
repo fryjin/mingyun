@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.2-games-2026.08",
+  "gameId": "most-likely",
+  "level": 3,
+  "levelKey": "bold",
+  "count": 18,
+  "items": [
+    {
+      "id": "v92-most-likely-bold-001",
+      "text": "谁最可能喝多后说出不该说的秘密？"
+    },
+    {
+      "id": "v92-most-likely-bold-002",
+      "text": "谁最可能偷偷看前任的社交动态？"
+    },
+    {
+      "id": "v92-most-likely-bold-003",
+      "text": "谁最可能在暧昧中先忍不住表白？"
+    },
+    {
+      "id": "v92-most-likely-bold-004",
+      "text": "谁最可能嘴硬但吃醋最明显？"
+    },
+    {
+      "id": "v92-most-likely-bold-005",
+      "text": "谁最可能突然和一个认识不久的人约会？"
+    },
+    {
+      "id": "v92-most-likely-bold-006",
+      "text": "谁最可能为了面子假装自己很懂？"
+    },
+    {
+      "id": "v92-most-likely-bold-007",
+      "text": "谁最可能在感情里反复试探对方？"
+    },
+    {
+      "id": "v92-most-likely-bold-008",
+      "text": "谁最可能删除消息后又后悔？"
+    },
+    {
+      "id": "v92-most-likely-bold-009",
+      "text": "谁最可能在聚会结束后收到最多私聊？"
+    },
+    {
+      "id": "v92-most-likely-bold-010",
+      "text": "谁最可能和朋友喜欢上同一个人？"
+    },
+    {
+      "id": "v92-most-likely-bold-011",
+      "text": "谁最可能因为冲动做出重大决定？"
+    },
+    {
+      "id": "v92-most-likely-bold-012",
+      "text": "谁最可能在恋爱中占有欲最强？"
+    },
+    {
+      "id": "v92-most-likely-bold-013",
+      "text": "谁最可能把尴尬往事藏得最深？"
+    },
+    {
+      "id": "v92-most-likely-bold-014",
+      "text": "谁最可能表面无所谓，回家后想一整晚？"
+    },
+    {
+      "id": "v92-most-likely-bold-015",
+      "text": "谁最可能重新联系多年没见的人？"
+    },
+    {
+      "id": "v92-most-likely-bold-016",
+      "text": "谁最可能在关系中先提出冷静一段时间？"
+    },
+    {
+      "id": "v92-most-likely-bold-017",
+      "text": "谁最可能因为一句夸奖记住对方很久？"
+    },
+    {
+      "id": "v92-most-likely-bold-018",
+      "text": "谁最可能拥有大家完全想不到的另一面？"
+    }
+  ]
+}
