@@ -1,15 +1,14 @@
 {
-  "version": "V9.1.2.1",
-  "status": "PASS",
-  "checks": {
-    "wheelFileExists": true,
-    "serviceWorkerExists": true,
-    "spindleHasNoText": true,
-    "cacheVersion": "party-game-v9.1.2.1"
-  },
-  "errors": [],
-  "sha256": {
-    "src/games/wheel.js": "d452ab7ac008ca680acf7a917f8491c541c09ab1aec8a74d6315aca642365e0d",
-    "sw.js": "24b459cc86406d6eb5d06f69ddd0aa6ebaef4b8c817c8888a3abb3d3a22b4cac"
-  }
+  "version": "v9.1.3",
+  "base": "v9.1.2 or v9.1.2.1",
+  "newContent": 2000,
+  "adultPlusTruth": 500,
+  "adultPlusDare": 500,
+  "adultPlusKing": 1000,
+  "projectContentAfterUpgrade": 8000,
+  "jsSyntax": "PASS",
+  "dataValidation": "PASS",
+  "safetyPhraseScan": "PASS",
+  "browserAutomation": "NOT_RUN",
+  "status": "PASS"
 }

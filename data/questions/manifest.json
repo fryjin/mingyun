@@ -1,16 +1,17 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9-qb-2026.08",
+  "bankVersion": "v9.1.3-2026.08",
   "generatedAt": "2026-08-03",
-  "description": "今晚谁遭殃 V9 共享真心话/大冒险惩罚题库。普通三档各 500 道，成人档 2000 道。",
+  "description": "共享真心话/大冒险题库：新增成人进阶档，共4500道。",
   "totals": {
-    "all": 3500,
+    "all": 4500,
     "light": 500,
     "standard": 500,
     "bold": 500,
     "adult": 2000,
-    "truth": 1750,
-    "dare": 1750
+    "adultPlus": 1000,
+    "truth": 2250,
+    "dare": 2250
   },
   "files": [
     {
@@ -76,11 +77,30 @@
       "count": 1000,
       "sha256": "aba6fd6d89679e8c738aa489293039a9de67eafbf6098918c2e87a43507734b7",
       "bytes": 338493
+    },
+    {
+      "file": "data/questions/adult-plus-truth.json",
+      "level": 5,
+      "levelKey": "adult-plus",
+      "type": "truth",
+      "count": 500,
+      "sha256": "40c18a013ef86ce26b0c87bc411260d0b43357007a2d2ebfd206bee0e4c08cee",
+      "bytes": 343691
+    },
+    {
+      "file": "data/questions/adult-plus-dare.json",
+      "level": 5,
+      "levelKey": "adult-plus",
+      "type": "dare",
+      "count": 500,
+      "sha256": "d0f2d56d3560d174893ed945c28347aff8998e48f50bdef4af309f4b74229641",
+      "bytes": 362749
     }
   ],
   "loadingPolicy": {
-    "core": "按用户选择的档位与题型加载单个 JSON 文件",
-    "adult": "仅在完成 18+ 与自愿确认后加载 adult-truth.json / adult-dare.json",
-    "cache": "首次使用后由 Service Worker 缓存，不加入首屏预缓存"
+    "core": "按档位与题型加载单个 JSON",
+    "adult": "完成18+自愿确认后加载",
+    "adultPlus": "仅在成人进阶确认及边界筛选后加载",
+    "cache": "首次使用后由Service Worker运行时缓存"
   }
 }

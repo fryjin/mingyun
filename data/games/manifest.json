@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.1.2-2026.08",
+  "bankVersion": "v9.1.3-2026.08",
   "generatedAt": "2026-08-03",
-  "totalEnabledSpecialized": 2500,
+  "totalEnabledSpecialized": 3500,
   "files": [
     {
       "file": "data/games/five-second-adult.json",
@@ -183,12 +183,21 @@
       "count": 18,
       "sha256": "5f7f3f5cf364e26205fb6965a012b3977ca47eaf69ab4dfb54e4b1820a10ef14",
       "bytes": 4743
+    },
+    {
+      "file": "data/games/king-adult-plus.json",
+      "game": "king",
+      "level": "adult-plus",
+      "type": "instruction",
+      "count": 1000,
+      "sha256": "a6c14f9a918777cdbb2d19911a941fee115be65d3098b6c3dac67b649e783467",
+      "bytes": 644489
     }
   ],
   "notes": {
     "hotPotato": "纯传递玩法，不加载专用任务库",
-    "sharedPunishments": 3500,
-    "wouldRather": "每条内容包含具体情境，并提供方向相反的 A/B 选择。",
-    "undercover": "全部为 1–4 字短词，仅显示词语，不显示玩家身份。"
+    "sharedPunishments": 4500,
+    "king": "原500条基础指令 + 1000条成人进阶指令",
+    "adultPlus": "只对命运骰局、命运转盘共享惩罚和国王游戏开放。"
   }
 }

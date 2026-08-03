@@ -35,7 +35,7 @@ function load() {
   } catch { return structuredClone(fallback); }
 }
 let state = load();
-export const session = { adultAccepted:false, gameCleanup:null };
+export const session = { adultAccepted:false, adultPlusAccepted:false, gameCleanup:null };
 function persist() {
   const { route, ...persistable } = state;
   storage.setItem(STORAGE_KEY, JSON.stringify(persistable));

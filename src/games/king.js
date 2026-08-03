@@ -1,5 +1,5 @@
 import { registerGame } from './registry.js';
-import { drawGame } from '../modules/questions.js';
+import { adultPlusFilterKey, allowedByAdultPlus, drawGame } from '../modules/questions.js';
 import { escapeHtml, shuffle, pick } from '../core/utils.js';
 import { bindExit, passScreen, stageHeader } from './shared.js';
 
@@ -37,17 +37,29 @@ const plugin={
     const revealKing=()=>{
       king=pick(ctx.players);
       root.innerHTML=`${stageHeader(plugin.title,`第 ${round} 轮`)}<section class="game-stage centered king-reveal"><span class="eyebrow">本轮国王</span><div class="crown-mark">♛</div><h2>${escapeHtml(king.name)}</h2><button class="button primary full" data-task>抽取任务与号码</button></section>`;
-      bindExit(root,ctx);root.querySelector('[data-task]').onclick=revealTask;
+      bindExit(root,ctx);root.querySelector('[data-task]').onclick=()=>revealTask();
     };
+    const formatInstruction=text=>text.replace(/\{target(\d+)\}/g,(_,number)=>`${targetNumbers[Number(number)-1]}号`);
+    const requirementTags=item=>{const r=item?.requirements||{},tags=[];if(r.kissing)tags.push('亲吻互动');else if(r.contact)tags.push(Number(r.contactLevel||1)>=2?'亲密接触':'轻接触');if(r.alcohol)tags.push('酒水可选');if(r.pairConsent)tags.push('逐题同意');return tags};
     const revealTask=async()=>{
-      const maxTargets=Math.max(1,ctx.players.length-1);
-      try{instruction=await drawGame('king',ctx.settings.level,item=>item.targetCount<=maxTargets)}catch(error){root.innerHTML=`${stageHeader(plugin.title)}<section class="game-stage centered"><p>${escapeHtml(error.message)}</p><button class="button secondary full" data-back>返回大厅</button></section>`;bindExit(root,ctx);root.querySelector('[data-back]').onclick=ctx.goLobby;return}
+      const maxTargets=Math.max(1,ctx.players.length-1); const prefs=ctx.settings.adultPlus||{};
+      try{
+        instruction=await drawGame('king',ctx.settings.level,item=>item.targetCount<=maxTargets&&(ctx.settings.level!=='adult-plus'||allowedByAdultPlus(item,prefs)),ctx.settings.level==='adult-plus'?adultPlusFilterKey(prefs):'all');
+      }catch(error){root.innerHTML=`${stageHeader(plugin.title)}<section class="game-stage centered"><p>${escapeHtml(error.message)}</p><button class="button secondary full" data-back>返回大厅</button></section>`;bindExit(root,ctx);root.querySelector('[data-back]').onclick=ctx.goLobby;return}
       const kingNumber=assignment.get(king.id);
       const available=[...assignment.values()].filter(number=>instruction.allowKingAsTarget||number!==kingNumber);
       targetNumbers=shuffle(available).slice(0,instruction.targetCount);
-      const display=instruction.instruction.replace(/\{target(\d+)\}/g,(_,number)=>`${targetNumbers[Number(number)-1]}号`);
-      root.innerHTML=`${stageHeader(plugin.title,`第 ${round} 轮 · ${escapeHtml(king.name)} 是国王`)}<section class="game-stage centered"><span class="eyebrow">本轮任务</span><div class="target-numbers">${targetNumbers.map(number=>`<span>${number}号</span>`).join('')}</div><p class="feature-question compact">${escapeHtml(display)}</p>${instruction.consentRequired?'<p class="consent-note">涉及互动时，先确认所有相关玩家都愿意参与。</p>':''}<p>国王直接喊号，对应玩家自行响应。</p><button class="button primary full" data-complete>完成本轮</button><button class="button ghost full" data-skip>跳过本轮</button></section>`;
-      bindExit(root,ctx);root.querySelector('[data-complete]').onclick=roundComplete;root.querySelector('[data-skip]').onclick=roundComplete;
+      renderTask(false);
+    };
+    const renderTask=(accepted=false,alternative='')=>{
+      const display=formatInstruction(alternative||instruction.instruction); const tags=requirementTags(instruction); const needsGate=!accepted&&instruction.consentRequired&&tags.length;
+      root.innerHTML=`${stageHeader(plugin.title,`第 ${round} 轮 · ${escapeHtml(king.name)} 是国王`)}<section class="game-stage centered"><span class="eyebrow">本轮任务${ctx.settings.level==='adult-plus'?' · 成人进阶':''}</span><div class="target-numbers">${targetNumbers.map(number=>`<span>${number}号</span>`).join('')}</div>${tags.length?`<div class="requirement-tags">${tags.map(tag=>`<span>${escapeHtml(tag)}</span>`).join('')}</div>`:''}<p class="feature-question compact">${escapeHtml(display)}</p>${needsGate?'<section class="consent-gate"><strong>执行玩家逐一确认</strong><p>所有相关玩家明确同意后再开始。拒绝、替代或换题都不会产生额外惩罚。</p></section>':instruction.consentRequired?'<p class="consent-note">所有执行玩家仍可随时停止。</p>':''}<p>国王直接喊号，对应玩家自行响应。</p>${needsGate?'<button class="button primary full" data-agree>所有执行玩家都同意</button>':''}${needsGate&&instruction.alternatives?.length?'<button class="button secondary full" data-alt>使用替代指令</button>':''}<button class="button ghost full" data-change>换一条指令</button>${needsGate?'':'<button class="button primary full" data-complete>完成本轮</button>'}<button class="button ghost full" data-skip>跳过本轮</button></section>`;
+      bindExit(root,ctx);
+      root.querySelector('[data-agree]')?.addEventListener('click',()=>renderTask(true));
+      root.querySelector('[data-alt]')?.addEventListener('click',()=>renderTask(true,instruction.alternatives[0]));
+      root.querySelector('[data-change]').onclick=()=>revealTask();
+      root.querySelector('[data-complete]')?.addEventListener('click',roundComplete);
+      root.querySelector('[data-skip]').onclick=roundComplete;
     };
     const roundComplete=()=>{
       root.innerHTML=`${stageHeader(plugin.title,`第 ${round} 轮完成`)}<section class="game-stage centered"><span class="eyebrow">本轮结束</span><h2>国王：${escapeHtml(king.name)}</h2><p class="result-callout">执行号码：${targetNumbers.map(number=>`${number}号`).join('、')||'已跳过'}</p><button class="button primary full" data-next>重新洗牌，下一轮</button><button class="button secondary full" data-exit-round>结束游戏</button></section>`;

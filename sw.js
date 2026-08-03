@@ -1,6 +1,6 @@
-const VERSION='party-game-v9.1.2.1';
+const VERSION='party-game-v9.1.3';
 const SHELL=[
-  './','./index.html','./manifest.webmanifest','./styles/app.css','./styles/games.css',
+  './','./index.html','./manifest.webmanifest','./styles/app.css','./styles/games.css','./styles/adult-plus.css',
   './src/main.js','./src/core/utils.js','./src/core/store.js','./src/core/motion.js','./src/modules/overlay.js',
   './src/modules/lobby.js','./src/modules/players.js','./src/modules/game-sheet.js','./src/modules/settings.js','./src/modules/questions.js',
   './src/games/registry.js','./src/games/index.js','./src/games/shared.js','./src/games/dice.js','./src/games/wheel.js',

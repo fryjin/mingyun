@@ -5,7 +5,8 @@ const sharedFiles = {
   light:{truth:'light-truth.json',dare:'light-dare.json'},
   standard:{truth:'standard-truth.json',dare:'standard-dare.json'},
   bold:{truth:'bold-truth.json',dare:'bold-dare.json'},
-  adult:{truth:'adult-truth.json',dare:'adult-dare.json'}
+  adult:{truth:'adult-truth.json',dare:'adult-dare.json'},
+  'adult-plus':{truth:'adult-plus-truth.json',dare:'adult-plus-dare.json'}
 };
 async function fetchBank(path) {
   if (cache.has(path)) return cache.get(path);
@@ -21,18 +22,31 @@ function nextFromPool(key, items) {
   if (!pool?.length) { pool=shuffle(items.map((_,i)=>i)); pools.set(key,pool); }
   return items[pool.pop()];
 }
-export async function drawShared(level='standard', type='truth') {
+export function adultPlusFilterKey(preferences={}) {
+  return ['contact',preferences.contact!==false?'1':'0','level',Number(preferences.contactLevel||1),'kiss',preferences.kissing?'1':'0','alcohol',preferences.alcohol?'1':'0'].join(':');
+}
+export function allowedByAdultPlus(item, preferences={}) {
+  const requirements=item?.requirements||{};
+  if (requirements.contact && preferences.contact===false) return false;
+  if (requirements.contact && Number(requirements.contactLevel||1)>Number(preferences.contactLevel||1)) return false;
+  if (requirements.kissing && !preferences.kissing) return false;
+  if (requirements.alcohol && !preferences.alcohol) return false;
+  return true;
+}
+export async function drawShared(level='standard', type='truth', predicate=()=>true, poolKey='all') {
   const file=sharedFiles[level]?.[type] || sharedFiles.standard.truth;
   const path=`./data/questions/${file}`;
   const bank=await fetchBank(path);
-  return nextFromPool(`shared:${level}:${type}`,bank.items);
+  const eligible=bank.items.filter(predicate);
+  if (!eligible.length) throw new Error('当前边界设置下没有可用题目');
+  return nextFromPool(`shared:${level}:${type}:${poolKey}:${eligible.length}`,eligible);
 }
-export async function drawGame(gameId, level='standard', predicate=()=>true) {
+export async function drawGame(gameId, level='standard', predicate=()=>true, poolKey='all') {
   const path=`./data/games/${gameId}-${level}.json`;
   const bank=await fetchBank(path);
   const eligible=bank.items.filter(predicate);
   if (!eligible.length) throw new Error('当前设置下没有可用内容');
-  return nextFromPool(`game:${gameId}:${level}:${eligible.length}`,eligible);
+  return nextFromPool(`game:${gameId}:${level}:${poolKey}:${eligible.length}`,eligible);
 }
 export function clearAdultCache() {
   [...cache.keys()].filter(key=>key.includes('adult')).forEach(key=>cache.delete(key));

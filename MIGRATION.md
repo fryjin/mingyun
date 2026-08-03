@@ -1,40 +1,45 @@
-# V9.1.2 → V9.1.2.1 升级说明
+# V9.1.2／V9.1.2.1 → V9.1.3 迁移说明
 
-## 补丁范围
+## 覆盖部署
 
-本补丁只调整“命运转盘”的中心视觉：
+1. 备份当前仓库。
+2. 解压本升级包。
+3. 将包内全部文件按原目录覆盖到仓库根目录。
+4. **不要删除**包内未包含的旧题库、图标和其他游戏模块。
+5. 等待 GitHub Pages 部署完成。
+6. 手机端刷新两次；仍显示旧版时清除站点数据或注销旧 Service Worker。
 
-- 删除中心轴帽中的“命”字。
-- 保留现有赌场轮盘结构、金属渐变、高光、立体阴影和中心轴。
-- 中心区域改为无文字的纯金属圆形轴帽。
-- 不修改轮盘随机算法、白球运动、RAF 动画、音效、震动、结果判定或题库。
-- Service Worker 缓存键升级为 `party-game-v9.1.2.1`，确保部署后能获取新版插件。
-
-## 覆盖文件
-
-将补丁包中的下列文件覆盖到 GitHub 仓库根目录的同名位置：
+## 新增文件
 
 ```text
-src/games/wheel.js
-sw.js
+styles/adult-plus.css
+data/questions/adult-plus-truth.json
+data/questions/adult-plus-dare.json
+data/games/king-adult-plus.json
 ```
 
-其他文件均无需覆盖。
-
-## 部署步骤
-
-1. 备份当前 V9.1.2 仓库。
-2. 解压本补丁包。
-3. 将 `src/games/wheel.js` 和 `sw.js` 上传并覆盖仓库中的同名文件。
-4. 等待 GitHub Pages 部署完成。
-5. 手机端刷新两次。
-6. 若仍显示旧中心文字，清除该站点缓存或注销旧 Service Worker 后重新打开。
-
-## 回退方式
-
-恢复 V9.1.2 中的以下两个文件即可：
+## 关键覆盖文件
 
 ```text
+index.html
+src/core/store.js
+src/modules/questions.js
+src/modules/game-sheet.js
+src/games/shared.js
+src/games/king.js
 src/games/wheel.js
 sw.js
+data/questions/manifest.json
+data/games/manifest.json
+scripts/validate_project.py
 ```
+
+`src/games/wheel.js` 包含 V9.1.2.1 的纯金属中心轴帽修正，因此本包可直接覆盖 V9.1.2 或 V9.1.2.1。
+
+## 缓存版本
+
+```text
+party-game-v9.1.3
+```
+
+新数据不会加入首屏预缓存，仅在用户选择成人进阶并实际抽题时加载。
