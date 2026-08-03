@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#090a10">
   <meta name="color-scheme" content="dark">
   <meta name="description" content="今晚谁遭殃：一部手机，多人共玩的离线派对游戏合集。">
-  <title>今晚谁遭殃 · Midnight Game Hall · V9.2.2</title>
+  <title>今晚谁遭殃 · Midnight Game Hall · V9.2.3</title>
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="icon" href="./icons/icon-192.png" sizes="192x192">
   <link rel="apple-touch-icon" href="./icons/icon-180.png">
@@ -15,10 +15,10 @@
   <link rel="stylesheet" href="./styles/games.css">
   <link rel="stylesheet" href="./styles/adult-plus.css">
   <link rel="stylesheet" href="./styles/ui-refresh.css">
-  <link rel="stylesheet" href="./styles/midnight-game-hall.css?v=9.2.2">
+  <link rel="stylesheet" href="./styles/midnight-game-hall.css?v=9.2.3">
   <script type="module">
     (async () => {
-      const BUILD = 'v9.2.2-logic-lock';
+      const BUILD = 'v9.2.3-design-system-ui-only';
       try {
         const previous = localStorage.getItem('mingyun-build');
         if (previous !== BUILD && 'caches' in window) {
@@ -43,7 +43,7 @@
       <button id="settingsButton" class="icon-button" type="button" aria-label="全局设置"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .34 1.88l-2.12 2.12a1.7 1.7 0 0 0-1.88-.34A1.7 1.7 0 0 0 14.7 20h-5.4a1.7 1.7 0 0 0-1.03-1.56 1.7 1.7 0 0 0-1.88.34l-2.12-2.12A1.7 1.7 0 0 0 4.6 15a1.7 1.7 0 0 0-1.56-1.03V9.3A1.7 1.7 0 0 0 4.6 8.27a1.7 1.7 0 0 0-.34-1.88l2.12-2.12a1.7 1.7 0 0 0 1.88.34A1.7 1.7 0 0 0 9.3 3h5.4a1.7 1.7 0 0 0 1.03 1.56 1.7 1.7 0 0 0 1.88-.34l2.12 2.12a1.7 1.7 0 0 0-.34 1.88A1.7 1.7 0 0 0 21 9.3v5.4A1.7 1.7 0 0 0 19.4 15z"/></svg></button>
     </header>
     <main id="appView" class="app-view"></main><div id="overlayRoot"></div>
-    <div id="updateBanner" class="update-banner" hidden><span>新版本已准备好</span><button type="button" id="applyUpdate">完成本局后更新</button></div>
+    <div id="updateBanner" class="update-banner" hidden><span>新版本已准备好</span><button type="button" id="applyUpdate">立即更新</button></div>
     <div id="toast" class="toast" role="status" aria-live="polite"></div><div id="liveRegion" class="sr-only" aria-live="assertive"></div>
   </div><noscript>需要开启 JavaScript 才能运行本游戏。</noscript>
 </body>

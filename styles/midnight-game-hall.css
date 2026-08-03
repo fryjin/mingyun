@@ -200,3 +200,247 @@ body::before{content:"";position:fixed;inset:0;background-image:url('../assets/m
   .brand-copy strong{font-size:14px}
   .brand-copy small{font-size:9px}
 }
+
+/* ========================================================================== 
+   V9.2.3 — Midnight Game Hall design-system consolidation
+   UI only. No game flow, question bank, scoring or settlement rules changed.
+   ========================================================================== */
+:root{
+  --bg:#0a0b10;
+  --bg-soft:#0e1016;
+  --surface-1:#14151c;
+  --surface-2:#191a22;
+  --surface-3:#20212b;
+  --line:rgba(231,220,196,.11);
+  --line-strong:rgba(231,220,196,.22);
+  --text:#f4f0e8;
+  --muted:#aaa6b0;
+  --muted-soft:#7f7c86;
+  --gold:#c6a46a;
+  --gold-strong:#d7ba82;
+  --gold-soft:#ecd9b2;
+  --wine:#8e3043;
+  --wine-strong:#aa3b52;
+  --violet:#625071;
+  --semantic-blue:#6484ad;
+  --semantic-amber:#a56e43;
+  --semantic-green:#4f8f7c;
+  --shadow-lg:0 22px 56px rgba(0,0,0,.34);
+  --shadow-md:0 10px 28px rgba(0,0,0,.24);
+}
+html,body{background:var(--bg);color:var(--text)}
+body{background-image:radial-gradient(circle at 50% -8%,rgba(98,71,115,.18),transparent 34%),linear-gradient(180deg,#090a0f 0%,#0d0f15 100%)}
+body::before{background-size:420px 420px;opacity:.07;mix-blend-mode:normal}
+
+/* Header: full brand in lobby, compact functional header inside subpages/games. */
+.app-header{
+  grid-template-columns:44px minmax(0,1fr) 44px;
+  gap:10px;
+  min-height:78px;
+  padding:calc(9px + env(safe-area-inset-top)) 16px 8px;
+  background:linear-gradient(to bottom,rgba(8,9,13,.98),rgba(8,9,13,.9),rgba(8,9,13,.55));
+  border-bottom:1px solid rgba(255,255,255,.025);
+  backdrop-filter:blur(12px);
+}
+#backButton{grid-column:1;grid-row:1}
+#brandButton{grid-column:2;grid-row:1}
+#settingsButton{grid-column:3;grid-row:1}
+#backButton[hidden],#settingsButton[hidden]{display:grid!important;visibility:hidden;pointer-events:none}
+.icon-button,.sheet-close{
+  width:44px;height:44px;border-radius:14px;
+  background:#171820;border:1px solid var(--line);
+  color:#ddd6c9;box-shadow:none;
+}
+.brand-button{
+  height:58px;padding:7px 10px;border-radius:18px;
+  grid-template-columns:40px minmax(0,1fr);gap:10px;
+  background:#15161d;border:1px solid var(--line);
+  box-shadow:none;
+}
+.brand-button::after{display:none}
+.brand-button .brand-mark{
+  width:40px;height:40px;min-width:40px;min-height:40px;border-radius:13px;
+  background:rgba(255,255,255,.025);border:1px solid rgba(215,186,130,.14);
+}
+.brand-button .brand-mark img{width:28px;height:28px}
+.brand-copy{min-width:0;display:grid;align-content:center;overflow:hidden}
+.brand-copy strong{font-size:16px;line-height:1.25;color:#f1e6d2;letter-spacing:0}
+.brand-copy small{font-size:10px;color:#aaa4a1;margin-top:3px}
+.brand-copy strong,.brand-copy small{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.brand-button.compact{height:46px;grid-template-columns:32px minmax(0,1fr);padding:6px 9px;border-radius:15px}
+.brand-button.compact .brand-mark{width:32px;height:32px;min-width:32px;min-height:32px;border-radius:10px}
+.brand-button.compact .brand-mark img{width:23px;height:23px}
+.brand-button.compact .brand-copy strong{font-size:14px;text-align:center}
+.brand-button.compact .brand-copy small{display:none}
+.app-header:has(.brand-button.compact){min-height:64px;padding-top:calc(7px + env(safe-area-inset-top));padding-bottom:7px}
+
+/* Global rhythm and typography. */
+.app-shell{max-width:460px}
+.app-view{padding:8px 16px calc(36px + var(--safe-bottom))}
+.eyebrow{font-size:9px;letter-spacing:.13em;color:#bfa77e}
+.lobby-section .section-title .eyebrow,
+.page-head .eyebrow,
+.sheet-header .eyebrow,
+.stage-header .eyebrow{display:none}
+.section-title{margin-bottom:14px;align-items:center}
+.section-title h2{font-size:20px;color:#f5f1e8;letter-spacing:-.02em}
+.section-title>span{font-size:11px;color:var(--muted-soft)}
+
+/* Lobby: retain one branded room surface, simplify all game cards. */
+.room-summary-card{
+  padding:18px;border-radius:22px;background:#14151c;border:1px solid var(--line);
+  box-shadow:var(--shadow-md);
+}
+.room-summary-card::before{background-size:112% auto;opacity:.12}
+.room-summary-card::after{display:none}
+.room-summary-card h1{font-size:23px;margin-top:6px;color:#f7f1e7}
+.room-subcopy{max-width:32ch;color:#aaa5ad;font-size:11px;line-height:1.55}
+.room-manage{min-height:40px;padding:0 11px;border-radius:12px;background:#1a1b23;border:1px solid var(--line);color:#ded4c1;font-size:12px}
+.room-summary-chips{gap:6px;margin-top:12px}
+.room-summary-chips span{padding:5px 8px;border-radius:999px;background:#101116;border-color:rgba(231,220,196,.08);color:#bdb5a8;font-size:9px}
+.room-players{gap:0;margin-top:14px}
+.room-players .avatar{margin-left:-7px;box-shadow:none;border:2px solid #14151c}
+.room-players .avatar:first-child{margin-left:0}
+.ready-chip{margin-left:auto;padding:7px 10px;background:rgba(142,48,67,.12);border-color:rgba(174,59,82,.18);color:#dfc9c9}
+.lobby-section{margin-top:24px}
+.game-grid{gap:10px}
+.game-card{
+  min-height:150px;padding:14px;border-radius:18px;
+  background:#15161d;border:1px solid rgba(231,220,196,.09);
+  box-shadow:0 8px 22px rgba(0,0,0,.2);
+}
+.game-card::before{
+  display:block;content:"";position:absolute;left:14px;right:14px;top:0;width:auto;height:1px;
+  background:linear-gradient(90deg,transparent,color-mix(in srgb,var(--accent) 45%,var(--gold) 55%),transparent);
+  opacity:.42;
+}
+.game-card::after{display:none}
+.game-card .game-glow{width:58px;height:58px;right:-12px;top:-14px;inset:auto -12px auto auto;opacity:.08;filter:blur(12px)}
+.game-card-top{width:100%;display:flex;align-items:flex-start;justify-content:space-between}
+.game-icon{
+  width:38px;height:38px;border-radius:12px;
+  background:color-mix(in srgb,var(--accent) 9%,#181920 91%);
+  border-color:color-mix(in srgb,var(--accent) 25%,transparent);
+  color:color-mix(in srgb,var(--accent) 55%,#f0e6d6 45%);
+  box-shadow:none;
+}
+.game-index{font-size:9px;color:#686670;letter-spacing:.12em}
+.game-card strong{margin-top:13px;font-size:16px;color:#f3efe7}
+.game-card p{margin:5px 0 12px;font-size:10.5px;line-height:1.55;color:#a8a4ae;-webkit-line-clamp:2}
+.game-room-label{display:none!important}
+.game-card-footer{margin-top:auto}
+.game-meta{font-size:9px;color:#a99e8b}
+.advanced-chip{padding:4px 6px;border-radius:999px;background:rgba(142,48,67,.12);border:1px solid rgba(174,59,82,.18);color:#d8b9bf;font-size:8px}
+
+/* Functional surfaces: less atmosphere, clearer hierarchy. */
+.panel,.players-editor,.room-card,.bottom-sheet,.modal-card,.game-stage,.private-stage{
+  background:#15161d;border-color:var(--line);box-shadow:var(--shadow-md);backdrop-filter:none;
+}
+.panel,.players-editor{border-radius:20px}
+.page-head{padding-top:4px;margin-bottom:12px}
+.page-head h1{font-size:22px;color:#f4f0e8}
+.page-head p{font-size:11px;color:#9f9ba4}
+.count-button,.away-button,.segmented button,.preset-row button,.preset-cards button,.player-choice-grid button,.private-choice button{
+  background:#1a1b23;border-color:rgba(231,220,196,.1);color:#e8e2d7;
+}
+.count-button.active,.segmented button.active,.preset-row button.active,.preset-cards button.active{
+  background:rgba(198,164,106,.14);border-color:rgba(198,164,106,.35);color:#f1e2c3;box-shadow:none;
+}
+.player-row{border-bottom-color:rgba(255,255,255,.045)}
+.player-row input{background:#101116;border-color:rgba(255,255,255,.07);color:#f1ede6}
+.sticky-actions{background:linear-gradient(to top,#0a0b10 78%,rgba(10,11,16,.9),transparent)}
+
+/* Buttons: one brand action color; game accents remain secondary. */
+.button{border-radius:14px;letter-spacing:0;box-shadow:none}
+.button.primary{
+  background:linear-gradient(180deg,var(--gold-strong),#b99054);
+  color:#1b1710;border:1px solid rgba(255,245,220,.15);
+  box-shadow:0 9px 20px rgba(104,74,31,.18);
+}
+.button.secondary{background:#1a1b23;border:1px solid var(--line);color:#e5dfd4}
+.button.ghost{background:transparent;border:1px solid rgba(231,220,196,.08);color:#aaa5ae}
+.button.danger{background:linear-gradient(180deg,var(--wine-strong),#7b2839);color:#fff1f3;border-color:rgba(255,210,218,.08)}
+.button.success{background:linear-gradient(180deg,#5b9a87,#3c7464);color:#effcf7}
+
+/* Sheets and settings: reduce ornament and English decoration. */
+.bottom-sheet,.modal-card{border-radius:24px 24px 0 0}
+.modal-card{border-radius:20px}
+.bottom-sheet::before,.modal-card::before{display:none}
+.sheet-handle{width:34px;background:#55515a;opacity:.72}
+.sheet-body{padding-top:18px}
+.sheet-header h2{font-size:21px;color:#f4efe6}
+.sheet-header p,.sheet-copy,.rule-card,.setting-label small,.setting-row p,.modal-copy{color:#a8a3ad}
+.rule-card{border-radius:16px;background:#181920;border-color:rgba(231,220,196,.08)}
+.rule-card h3{font-size:13px;margin-bottom:8px;color:#eee8dd}
+.settings-heading{font-size:11px;letter-spacing:.08em;text-transform:none;color:#b9a27d}
+.level-card{min-height:60px;border-radius:15px;background:#191a22}
+.level-card.active{background:rgba(198,164,106,.12);border-color:rgba(198,164,106,.34)}
+.level-card.advanced{background:rgba(89,33,48,.28);border-color:rgba(174,59,82,.14)}
+.level-card.advanced.active{background:rgba(116,39,57,.38);border-color:rgba(187,77,98,.28)}
+.adult-plus-panel{border-radius:17px;background:rgba(87,31,47,.22);border-color:rgba(176,73,95,.17)}
+.sheet-inline-confirm{background:rgba(95,65,31,.18);border-color:rgba(198,164,106,.24)}
+.sheet-action-bar{background:linear-gradient(to top,#15161d 82%,rgba(21,22,29,.96));border-top-color:rgba(255,255,255,.05)}
+
+/* Game header: functional title hierarchy, no duplicate brand banner effect. */
+.stage-header{
+  top:64px;padding:8px 0 10px;margin-bottom:10px;
+  background:linear-gradient(to bottom,rgba(10,11,16,.98),rgba(10,11,16,.9),rgba(10,11,16,.56));
+  backdrop-filter:blur(10px);
+}
+.stage-header::before{display:none}
+.stage-header h1{font-size:21px;margin:2px 0 1px;color:#f4efe6}
+.stage-header p{font-size:10px;color:#9d98a2}
+.game-stage,.private-stage{border-radius:20px;box-shadow:var(--shadow-md)}
+.game-stage::before,.private-stage::before{display:none}
+.game-stage h2,.private-stage h2,.choice-question,.private-choice-question{color:#f4efe6}
+.feature-question,.private-question,.question-text{color:#efe9de}
+.privacy-icon{color:#b59a71;font-size:36px}
+
+/* Interaction-specific visual grammar. */
+.player-choice-grid button,.choice-card{border-radius:14px}
+.vote-bar{background:#25262f}
+.vote-bar i{background:linear-gradient(90deg,#9a8054,var(--gold-strong))}
+.choice-preview article,.private-choice button,.reveal-columns article{background:#181920;border-color:var(--line)}
+.choice-preview article:first-child,.private-choice button:first-child,.reveal-columns article:first-child{
+  background:rgba(63,86,117,.22);border-color:rgba(100,132,173,.34)
+}
+.choice-preview article:last-child,.private-choice button:last-child,.reveal-columns article:last-child{
+  background:rgba(112,72,42,.22);border-color:rgba(165,110,67,.34)
+}
+.choice-preview article:first-child small,.private-choice button:first-child small,.reveal-columns article:first-child small{color:#9cb6d8}
+.choice-preview article:last-child small,.private-choice button:last-child small,.reveal-columns article:last-child small{color:#d5a77e}
+.result-callout{border-radius:14px;background:rgba(198,164,106,.08);border-color:rgba(198,164,106,.16);color:#ead9b8!important}
+.countdown-ring{border-color:rgba(198,164,106,.26);box-shadow:inset 0 0 34px rgba(198,164,106,.08),0 0 28px rgba(198,164,106,.06)}
+.score-strip b,.result-number{color:#d8b779}
+.target-numbers span{background:rgba(198,164,106,.1);border-color:rgba(198,164,106,.28);color:#ead2a5}
+.speech-timer{border-color:rgba(79,143,124,.24);color:#7eb39f}
+.requirement-tags span{background:rgba(198,164,106,.08);border-color:rgba(198,164,106,.17);color:#d9c5a1}
+.consent-gate{border-radius:15px;background:rgba(108,69,27,.12);border-color:rgba(198,164,106,.2)}
+
+/* Keep roulette distinctive without reintroducing casino-red dominance. */
+.casino-felt::before{background:radial-gradient(circle at center,rgba(91,61,45,.12),transparent 46%)}
+.casino-wheel-assembly{filter:drop-shadow(0 20px 28px rgba(0,0,0,.32))}
+.casino-wood-rim{background:linear-gradient(145deg,#262128,#141419)}
+.casino-gold-rim{background:linear-gradient(145deg,#d3b77f,#8f7045)}
+.casino-wheel-disc{border-color:#b99861}
+.casino-pocket-label.selected b{background:rgba(198,164,106,.2);border-color:rgba(222,200,157,.32)}
+
+/* Update feedback. */
+.update-banner{background:#181920;border-color:var(--line);box-shadow:var(--shadow-md)}
+.update-banner button{background:var(--gold-strong);color:#1a1710}
+.toast{background:#181920;border-color:var(--line);color:#eee7dc}
+
+@media(max-width:360px){
+  .app-header{grid-template-columns:40px minmax(0,1fr) 40px;gap:8px;padding-left:12px;padding-right:12px}
+  .brand-button{height:54px;grid-template-columns:36px minmax(0,1fr);padding:6px 8px}
+  .brand-button .brand-mark{width:36px;height:36px;min-width:36px;min-height:36px}
+  .brand-button .brand-mark img{width:25px;height:25px}
+  .brand-copy strong{font-size:14px}.brand-copy small{font-size:9px}
+  .brand-button.compact{height:44px;grid-template-columns:30px minmax(0,1fr)}
+  .brand-button.compact .brand-mark{width:30px;height:30px;min-width:30px;min-height:30px}
+  .app-view{padding-left:12px;padding-right:12px}
+  .room-summary-card{padding:16px}.game-grid{gap:8px}.game-card{min-height:146px;padding:12px}
+  .game-card strong{font-size:15px}.game-card p{font-size:10px}
+  .stage-header h1{font-size:20px}
+}
+@media(prefers-reduced-motion:reduce){body::before{display:none}.game-card::before{opacity:.24}}

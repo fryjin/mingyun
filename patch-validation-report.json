@@ -1,7 +1,20 @@
 {
-  "version": "v9.2.0",
-  "theme": "Midnight Game Hall",
-  "new_assets": 5,
-  "modified_files": 14,
-  "service_worker": "party-game-v9.2.0"
+  "version": "v9.2.3",
+  "patch_type": "ui-only",
+  "logic_baseline": "v9.2.2-logic-lock",
+  "runtime_files": [
+    "index.html",
+    "sw.js",
+    "styles/midnight-game-hall.css"
+  ],
+  "contains_game_plugins": false,
+  "contains_question_banks": false,
+  "contains_state_or_scoring_logic": false,
+  "checks": {
+    "sw_syntax": true,
+    "inline_module_syntax": true,
+    "css_brace_balance": true,
+    "runtime_allowlist": true,
+    "version_alignment": true
+  }
 }
