@@ -7,8 +7,8 @@ import { bindExit, stageHeader } from './shared.js';
 const plugin={
   id:'i-did-it',title:'我居然做过',sortOrder:6.5,icon:'did',color:'#d28f72',minPlayers:2,maxPlayers:12,supportsAdult:true,
   estimatedTime:'5–15 分钟',shortDescription:'少见经历筛选，最后一人免罚。',
-  description:'做过题目经历的人保留手指，没做过的人放下一根。最后留下的一位玩家免罚，其余玩家逐人接受惩罚。',
-  phoneMode:'全员共看并点击头像',resultMode:'最后一人免罚，其余全部受罚',defaultSettings:{fingers:5,level:'standard'},
+  description:'没做过题目经历的人点击自己的名字并放下一根手指，做过的人保留。最后留下的一位玩家免罚，其余玩家逐人接受惩罚。',
+  phoneMode:'全员共看，没做过的人点击',resultMode:'最后一人免罚，其余全部受罚',defaultSettings:{fingers:5,level:'standard'},
   renderSetup(settings){return `<div class="setting-block"><div class="setting-label"><span>初始手指数</span><small>决定本局长度</small></div><div class="segmented" data-fingers><button type="button" data-segment data-value="5" class="${Number(settings.fingers)!==10?'active':''}">5 指快局</button><button type="button" data-segment data-value="10" class="${Number(settings.fingers)===10?'active':''}">10 指完整局</button></div></div>`},
   readSetup(sheet){return {fingers:Number(sheet.querySelector('[data-fingers] .active')?.dataset.value||5)}},
   async mount(root,ctx){
@@ -21,7 +21,11 @@ const plugin={
     let loading=false;
 
     const survivors=()=>ctx.players.filter(player=>!eliminated.has(player.id));
-    const fingersMarks=count=>Array.from({length:initialFingers},(_,index)=>`<i class="${index<count?'on':''}"></i>`).join('');
+    const fingersMarks=(count,pending=false)=>Array.from({length:initialFingers},(_,index)=>{
+      const active=index<count;
+      const isPending=pending&&index===count-1;
+      return `<i class="${active?'on':''}${isPending?' pending':''}"></i>`;
+    }).join('');
 
     const drawQuestion=async()=>{
       if(loading)return;
@@ -44,13 +48,17 @@ const plugin={
 
     const renderQuestion=()=>{
       const alive=survivors();
+      const confirmLabel=selected.size?`确认：${selected.size} 人放下一指`:'确认：所有人都做过';
       root.innerHTML=`${stageHeader(plugin.title,`${initialFingers} 指局 · 第 ${questionNumber} 题`)}
         <section class="game-stage idi-stage">
           <div class="idi-question-card"><span>我居然做过——</span><h2>${escapeHtml(question.text)}</h2><small>${question.rarity==='very-rare'?'极少见经历':question.rarity==='rare'?'少见经历':'不常见经历'}</small></div>
-          <p class="idi-help">做过的人点击自己的头像。未选择的存活玩家确认后放下一根手指。</p>
-          <div class="idi-player-grid">${alive.map(player=>`<button type="button" class="idi-player" data-player="${player.id}" aria-pressed="${selected.has(player.id)}"><span class="idi-player-name">${escapeHtml(player.name)}</span><span class="idi-fingers">${fingersMarks(fingers.get(player.id))}</span><b>${selected.has(player.id)?'我做过':'没做过'}</b></button>`).join('')}</div>
+          <p class="idi-help">没做过的人点击自己的名字，确认后放下一根手指；做过的人不用操作。</p>
+          <div class="idi-player-grid">${alive.map(player=>{
+            const pending=selected.has(player.id);
+            return `<button type="button" class="idi-player" data-player="${player.id}" aria-pressed="${pending}"><span class="idi-player-name">${escapeHtml(player.name)}</span><span class="idi-fingers">${fingersMarks(fingers.get(player.id),pending)}</span><b>${pending?'没做过 · 放下一指':'我做过 · 保留'}</b></button>`;
+          }).join('')}</div>
           ${eliminated.size?`<section class="idi-eliminated"><strong>已淘汰</strong><div>${ctx.players.filter(player=>eliminated.has(player.id)).map(player=>`<span>${escapeHtml(player.name)}</span>`).join('')}</div></section>`:''}
-          <div class="dual-actions"><button class="button secondary full" data-change>换一题</button><button class="button primary full" data-confirm>确认本题</button></div>
+          <div class="dual-actions"><button class="button secondary full" data-change>换一题</button><button class="button primary full" data-confirm>${confirmLabel}</button></div>
         </section>`;
       bindExit(root,ctx);
       root.querySelectorAll('[data-player]').forEach(button=>button.onclick=()=>{
@@ -65,10 +73,10 @@ const plugin={
     const confirmQuestion=async()=>{
       const before=survivors();
       root.querySelectorAll('button').forEach(button=>button.disabled=true);
-      before.filter(player=>!selected.has(player.id)).forEach(player=>root.querySelector(`[data-player="${player.id}"]`)?.classList.add('losing-finger'));
+      before.filter(player=>selected.has(player.id)).forEach(player=>root.querySelector(`[data-player="${player.id}"]`)?.classList.add('losing-finger'));
       await wait(prefersReducedMotion()?40:360);
-      const did=before.filter(player=>selected.has(player.id));
-      const didNot=before.filter(player=>!selected.has(player.id));
+      const didNot=before.filter(player=>selected.has(player.id));
+      const did=before.filter(player=>!selected.has(player.id));
       const newlyEliminated=[];
       didNot.forEach(player=>{
         const next=Math.max(0,(fingers.get(player.id)||0)-1);
@@ -81,7 +89,7 @@ const plugin={
         const winner=before[randomInt(0,before.length-1)];
         renderFinish(winner,true);return;
       }
-      root.innerHTML=`${stageHeader(plugin.title,`第 ${questionNumber} 题结果`)}<section class="game-stage centered idi-result"><span class="eyebrow">本题经历</span><h2>${escapeHtml(question.text)}</h2><div class="idi-result-row"><span>做过并保留</span><strong>${did.length?did.map(player=>escapeHtml(player.name)).join('、'):'无人'}</strong></div><div class="idi-result-row"><span>没做过，放下一指</span><strong>${didNot.length?didNot.map(player=>escapeHtml(player.name)).join('、'):'无人'}</strong></div>${newlyEliminated.length?`<p class="result-callout">本题淘汰：${newlyEliminated.map(player=>escapeHtml(player.name)).join('、')}</p>`:''}<button class="button primary full" data-next>下一题</button></section>`;
+      root.innerHTML=`${stageHeader(plugin.title,`第 ${questionNumber} 题结果`)}<section class="game-stage centered idi-result"><span class="eyebrow">本题经历</span><h2>${escapeHtml(question.text)}</h2><div class="idi-result-row"><span>没做过，放下一指</span><strong>${didNot.length?didNot.map(player=>escapeHtml(player.name)).join('、'):'无人'}</strong></div><div class="idi-result-row"><span>做过并保留</span><strong>${did.length?did.map(player=>escapeHtml(player.name)).join('、'):'无人'}</strong></div>${newlyEliminated.length?`<p class="result-callout">本题淘汰：${newlyEliminated.map(player=>escapeHtml(player.name)).join('、')}</p>`:''}<button class="button primary full" data-next>下一题</button></section>`;
       bindExit(root,ctx);root.querySelector('[data-next]').onclick=drawQuestion;
     };
 

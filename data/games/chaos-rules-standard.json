@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.3.0-2026.08",
+  "bankVersion": "v9.3.1-2026.08",
   "game": "chaos-rules",
   "level": "standard",
   "levelLabel": "标准",
@@ -11,10 +11,14 @@
       "id": "cr-s-instant-01",
       "level": "standard",
       "type": "instant",
-      "instruction": "用方言完成下一段发言",
+      "instruction": "用方言完成一句自我介绍",
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -25,6 +29,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -35,16 +42,24 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
       "id": "cr-s-instant-04",
       "level": "standard",
       "type": "instant",
-      "instruction": "让全场给你取新昵称",
+      "instruction": "立刻给自己取一个新昵称",
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -55,6 +70,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -65,6 +83,10 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -75,6 +97,11 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
@@ -85,6 +112,10 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -95,6 +126,10 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -105,16 +140,23 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
       "id": "cr-s-instant-11",
       "level": "standard",
       "type": "instant",
-      "instruction": "一分钟内夸三位玩家",
+      "instruction": "夸三位不同玩家",
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -125,6 +167,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -260,123 +305,175 @@
       ]
     },
     {
-      "id": "cr-s-global-01",
+      "id": "cr-s-event-01",
       "level": "standard",
-      "type": "global",
-      "instruction": "同时指向最可能迟到的人",
+      "type": "event",
+      "instruction": "指向你认为最可能迟到的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-s-global-02",
+      "id": "cr-s-event-02",
       "level": "standard",
-      "type": "global",
-      "instruction": "同时指向最会保守秘密的人",
+      "type": "event",
+      "instruction": "指向你认为最会保守秘密的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-s-global-03",
+      "id": "cr-s-event-03",
       "level": "standard",
-      "type": "global",
-      "instruction": "最后说出城市名的人记失误",
+      "type": "event",
+      "instruction": "说出三个不同城市",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-s-global-04",
+      "id": "cr-s-event-04",
       "level": "standard",
-      "type": "global",
-      "instruction": "三秒内说出不同颜色",
+      "type": "event",
+      "instruction": "说出三种不同颜色",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-s-global-05",
+      "id": "cr-s-event-05",
       "level": "standard",
-      "type": "global",
-      "instruction": "最后摆出剪刀手的人记失误",
+      "type": "event",
+      "instruction": "摆出剪刀手并说一句口号",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-s-global-06",
+      "id": "cr-s-event-06",
       "level": "standard",
-      "type": "global",
-      "instruction": "同时指向最会装镇定的人",
+      "type": "event",
+      "instruction": "指向你认为最会装镇定的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-s-global-07",
+      "id": "cr-s-event-07",
       "level": "standard",
-      "type": "global",
-      "instruction": "每人说一个不重复的水果",
+      "type": "event",
+      "instruction": "说出三个不重复的水果",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-s-global-08",
+      "id": "cr-s-event-08",
       "level": "standard",
-      "type": "global",
-      "instruction": "最后找到蓝色物品的人记失误",
+      "type": "event",
+      "instruction": "找到并指出一件蓝色物品",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-s-global-09",
+      "id": "cr-s-event-09",
       "level": "standard",
-      "type": "global",
-      "instruction": "同时模仿同一种动物",
+      "type": "event",
+      "instruction": "模仿一种动物让大家猜",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-s-global-10",
+      "id": "cr-s-event-10",
       "level": "standard",
-      "type": "global",
-      "instruction": "最后说出电影名的人记失误",
+      "type": "event",
+      "instruction": "说出三部电影名",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
-      "id": "cr-s-global-11",
+      "id": "cr-s-event-11",
       "level": "standard",
-      "type": "global",
-      "instruction": "同时指向最可能迷路的人",
+      "type": "event",
+      "instruction": "指向你认为最可能迷路的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-s-global-12",
+      "id": "cr-s-event-12",
       "level": "standard",
-      "type": "global",
-      "instruction": "三秒内做出不同表情",
+      "type": "event",
+      "instruction": "连续做出三个不同表情",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {

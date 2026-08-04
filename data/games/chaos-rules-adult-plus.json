@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.3.0-2026.08",
+  "bankVersion": "v9.3.1-2026.08",
   "game": "chaos-rules",
   "level": "adult-plus",
   "levelLabel": "成人进阶",
@@ -11,7 +11,7 @@
       "id": "cr-ap-instant-01",
       "level": "adult-plus",
       "type": "instant",
-      "instruction": "与自愿玩家牵手对视十秒",
+      "instruction": "与自愿玩家牵手对视",
       "requirements": {
         "contact": true,
         "contactLevel": 1,
@@ -23,13 +23,17 @@
       ],
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
       "id": "cr-ap-instant-02",
       "level": "adult-plus",
       "type": "instant",
-      "instruction": "拥抱一位自愿玩家五秒",
+      "instruction": "拥抱一位自愿玩家",
       "requirements": {
         "contact": true,
         "contactLevel": 1,
@@ -41,6 +45,10 @@
       ],
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -59,6 +67,10 @@
       ],
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -78,13 +90,17 @@
       ],
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
       "id": "cr-ap-instant-05",
       "level": "adult-plus",
       "type": "instant",
-      "instruction": "与自愿玩家共舞十五秒",
+      "instruction": "与自愿玩家共舞",
       "requirements": {
         "contact": true,
         "contactLevel": 2,
@@ -96,13 +112,16 @@
       ],
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
       "id": "cr-ap-instant-06",
       "level": "adult-plus",
       "type": "instant",
-      "instruction": "让自愿玩家靠肩十秒",
+      "instruction": "让自愿玩家靠肩",
       "requirements": {
         "contact": true,
         "contactLevel": 2,
@@ -114,6 +133,10 @@
       ],
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -132,6 +155,10 @@
       ],
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -151,6 +178,10 @@
       ],
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -167,6 +198,9 @@
       ],
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -183,6 +217,9 @@
       ],
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -201,13 +238,17 @@
       ],
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
       "id": "cr-ap-instant-12",
       "level": "adult-plus",
       "type": "instant",
-      "instruction": "与自愿玩家完成十秒亲密对视",
+      "instruction": "与自愿玩家完成亲密对视",
       "requirements": {
         "pairConsent": true
       },
@@ -217,6 +258,10 @@
       ],
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -352,123 +397,178 @@
       ]
     },
     {
-      "id": "cr-ap-global-01",
+      "id": "cr-ap-event-01",
       "level": "adult-plus",
-      "type": "global",
-      "instruction": "所有人同时指向最会主动亲吻的人",
+      "type": "event",
+      "instruction": "指向最会主动亲吻的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-ap-global-02",
+      "id": "cr-ap-event-02",
       "level": "adult-plus",
-      "type": "global",
-      "instruction": "所有人同时选择拥抱或牵手",
+      "type": "event",
+      "instruction": "立刻选择：拥抱或牵手",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-ap-global-03",
+      "id": "cr-ap-event-03",
       "level": "adult-plus",
-      "type": "global",
-      "instruction": "最后说出亲密边界的人记失误",
+      "type": "event",
+      "instruction": "说出一个亲密边界",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-ap-global-04",
+      "id": "cr-ap-event-04",
       "level": "adult-plus",
-      "type": "global",
-      "instruction": "同时指向最会制造亲密气氛的人",
+      "type": "event",
+      "instruction": "指向最会制造亲密气氛的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-ap-global-05",
+      "id": "cr-ap-event-05",
       "level": "adult-plus",
-      "type": "global",
-      "instruction": "每人说一个必须先确认的边界",
+      "type": "event",
+      "instruction": "说出一件必须先确认的亲密行为",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-ap-global-06",
+      "id": "cr-ap-event-06",
       "level": "adult-plus",
-      "type": "global",
-      "instruction": "最后承认酒后冲动的人记失误",
+      "type": "event",
+      "instruction": "承认一次酒后冲动决定",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
-      "id": "cr-ap-global-07",
+      "id": "cr-ap-event-07",
       "level": "adult-plus",
-      "type": "global",
-      "instruction": "同时指向最可能秘密约会的人",
+      "type": "event",
+      "instruction": "指向最可能秘密约会的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-ap-global-08",
+      "id": "cr-ap-event-08",
       "level": "adult-plus",
-      "type": "global",
-      "instruction": "三秒内选择亲吻或拥抱",
+      "type": "event",
+      "instruction": "立刻选择：亲吻或拥抱",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-ap-global-09",
+      "id": "cr-ap-event-09",
       "level": "adult-plus",
-      "type": "global",
-      "instruction": "同时指向最会拒绝不适任务的人",
+      "type": "event",
+      "instruction": "指向最会明确拒绝不适任务的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-ap-global-10",
+      "id": "cr-ap-event-10",
       "level": "adult-plus",
-      "type": "global",
-      "instruction": "每人说一个成人关系底线",
+      "type": "event",
+      "instruction": "说出一个成人关系底线",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-ap-global-11",
+      "id": "cr-ap-event-11",
       "level": "adult-plus",
-      "type": "global",
-      "instruction": "最后说出安全词的人记失误",
+      "type": "event",
+      "instruction": "说出一个安全词",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-ap-global-12",
+      "id": "cr-ap-event-12",
       "level": "adult-plus",
-      "type": "global",
-      "instruction": "同时指向最会保持边界的人",
+      "type": "event",
+      "instruction": "指向最会保持边界的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {

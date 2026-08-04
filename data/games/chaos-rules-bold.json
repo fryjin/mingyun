@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.3.0-2026.08",
+  "bankVersion": "v9.3.1-2026.08",
   "game": "chaos-rules",
   "level": "bold",
   "levelLabel": "大胆",
@@ -15,6 +15,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -25,6 +28,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -35,6 +41,10 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -45,6 +55,10 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -55,6 +69,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -65,6 +82,11 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
@@ -75,6 +97,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -85,6 +110,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -95,6 +123,10 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -105,6 +137,10 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -115,6 +151,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -125,6 +164,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -260,123 +302,177 @@
       ]
     },
     {
-      "id": "cr-b-global-01",
+      "id": "cr-b-event-01",
       "level": "bold",
-      "type": "global",
-      "instruction": "同时指向最会暗恋的人",
+      "type": "event",
+      "instruction": "指向你认为最会暗恋的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-b-global-02",
+      "id": "cr-b-event-02",
       "level": "bold",
-      "type": "global",
-      "instruction": "同时指向最可能吃回头草的人",
+      "type": "event",
+      "instruction": "指向最可能吃回头草的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-b-global-03",
+      "id": "cr-b-event-03",
       "level": "bold",
-      "type": "global",
-      "instruction": "最后说出前任优点的人记失误",
+      "type": "event",
+      "instruction": "说出前任的一个优点",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-b-global-04",
+      "id": "cr-b-event-04",
       "level": "bold",
-      "type": "global",
-      "instruction": "同时指向最会欲擒故纵的人",
+      "type": "event",
+      "instruction": "指向你认为最会欲擒故纵的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-b-global-05",
+      "id": "cr-b-event-05",
       "level": "bold",
-      "type": "global",
-      "instruction": "三秒内说出理想型关键词",
+      "type": "event",
+      "instruction": "说出三个理想型关键词",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-b-global-06",
+      "id": "cr-b-event-06",
       "level": "bold",
-      "type": "global",
-      "instruction": "最后承认吃过醋的人记失误",
+      "type": "event",
+      "instruction": "承认最近一次吃醋原因",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
-      "id": "cr-b-global-07",
+      "id": "cr-b-event-07",
       "level": "bold",
-      "type": "global",
-      "instruction": "同时指向最容易心软的人",
+      "type": "event",
+      "instruction": "指向你认为最容易心软的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-b-global-08",
+      "id": "cr-b-event-08",
       "level": "bold",
-      "type": "global",
-      "instruction": "每人说一个约会雷点",
+      "type": "event",
+      "instruction": "说出一个约会雷点",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-b-global-09",
+      "id": "cr-b-event-09",
       "level": "bold",
-      "type": "global",
-      "instruction": "最后说出暧昧对象特征的人记失误",
+      "type": "event",
+      "instruction": "说出暧昧对象的一个特征",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-b-global-10",
+      "id": "cr-b-event-10",
       "level": "bold",
-      "type": "global",
-      "instruction": "同时指向最会隐藏心动的人",
+      "type": "event",
+      "instruction": "指向你认为最会隐藏心动的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-b-global-11",
+      "id": "cr-b-event-11",
       "level": "bold",
-      "type": "global",
-      "instruction": "三秒内选择主动或被动",
+      "type": "event",
+      "instruction": "立刻选择：主动或被动",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-b-global-12",
+      "id": "cr-b-event-12",
       "level": "bold",
-      "type": "global",
-      "instruction": "同时指向最可能复合的人",
+      "type": "event",
+      "instruction": "指向最可能和前任复合的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.3.0-2026.08",
+  "bankVersion": "v9.3.1-2026.08",
   "game": "chaos-rules",
   "level": "adult",
   "levelLabel": "成人",
@@ -15,6 +15,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -25,6 +28,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -35,6 +41,10 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -45,6 +55,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -55,6 +68,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -65,6 +81,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -75,6 +94,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -85,6 +107,10 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -95,6 +121,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -105,6 +134,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -115,6 +147,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -125,6 +160,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -260,123 +298,177 @@
       ]
     },
     {
-      "id": "cr-a-global-01",
+      "id": "cr-a-event-01",
       "level": "adult",
-      "type": "global",
-      "instruction": "同时指向最可能酒后联系前任的人",
+      "type": "event",
+      "instruction": "指向最可能酒后联系前任的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-global-02",
+      "id": "cr-a-event-02",
       "level": "adult",
-      "type": "global",
-      "instruction": "同时指向最会隐藏亲密关系的人",
+      "type": "event",
+      "instruction": "指向最会隐藏亲密关系的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-global-03",
+      "id": "cr-a-event-03",
       "level": "adult",
-      "type": "global",
-      "instruction": "最后说出约会雷点的人记失误",
+      "type": "event",
+      "instruction": "说出一个约会雷点",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-global-04",
+      "id": "cr-a-event-04",
       "level": "adult",
-      "type": "global",
-      "instruction": "同时指向最容易冲动接吻的人",
+      "type": "event",
+      "instruction": "指向最容易冲动接吻的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-global-05",
+      "id": "cr-a-event-05",
       "level": "adult",
-      "type": "global",
-      "instruction": "每人说一个成人关系边界",
+      "type": "event",
+      "instruction": "说出一个亲密关系边界",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-global-06",
+      "id": "cr-a-event-06",
       "level": "adult",
-      "type": "global",
-      "instruction": "最后承认复合过的人记失误",
+      "type": "event",
+      "instruction": "说出一次复合的真实原因",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
-      "id": "cr-a-global-07",
+      "id": "cr-a-event-07",
       "level": "adult",
-      "type": "global",
-      "instruction": "同时指向最会制造暧昧的人",
+      "type": "event",
+      "instruction": "指向最会制造暧昧的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-global-08",
+      "id": "cr-a-event-08",
       "level": "adult",
-      "type": "global",
-      "instruction": "三秒内选择公开或地下",
+      "type": "event",
+      "instruction": "立刻选择：公开关系或地下关系",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-global-09",
+      "id": "cr-a-event-09",
       "level": "adult",
-      "type": "global",
-      "instruction": "同时指向最可能临时留宿的人",
+      "type": "event",
+      "instruction": "指向最可能临时留宿的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-global-10",
+      "id": "cr-a-event-10",
       "level": "adult",
-      "type": "global",
-      "instruction": "最后说出一次心动地点的人记失误",
+      "type": "event",
+      "instruction": "说出一个曾经心动的地点",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-global-11",
+      "id": "cr-a-event-11",
       "level": "adult",
-      "type": "global",
-      "instruction": "同时指向最会吃回头草的人",
+      "type": "event",
+      "instruction": "指向最会吃回头草的人",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-global-12",
+      "id": "cr-a-event-12",
       "level": "adult",
-      "type": "global",
-      "instruction": "每人说一个绝不接受的越界",
+      "type": "event",
+      "instruction": "说出一个绝不接受的越界",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {

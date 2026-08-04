@@ -1,4 +1,4 @@
-/* V9.3.0 — four-game expansion. Scoped to idi-, ttol-, chaos- and ladder-. */
+/* V9.3.1 — three-game interaction fix. Fate ladder styles remain unchanged. */
 
 /* 我居然做过 */
 .idi-stage{display:flex;flex-direction:column;gap:16px}
@@ -159,4 +159,61 @@
 }
 @media(prefers-reduced-motion:reduce){
   .idi-player.losing-finger,.idi-fingers i,.ttol-verdict,.ladder-runes button.safe,.ladder-runes button.fall,.ladder-fall-mark{transition:none;animation:none!important}
+}
+
+/* V9.3.1 — 我居然做过：没做过的人主动放下一指 */
+.idi-player[aria-pressed="true"]{background:rgba(142,48,67,.13);border-color:rgba(174,59,82,.34);box-shadow:inset 0 0 0 1px rgba(174,59,82,.06)}
+.idi-player[aria-pressed="true"]>b{color:#dba0ab}
+.idi-fingers i.pending{background:rgba(174,59,82,.24);border-color:rgba(210,117,135,.34);transform:rotate(18deg) translateY(4px);opacity:.58}
+
+/* V9.3.1 — 两个真相一个谎言：输入讲述合并、一次锁定谎言、原页逐条揭秘 */
+.ttol-composer-stage{display:flex;flex-direction:column;gap:12px}
+.ttol-composer-stage>p{margin:0!important}
+.ttol-composer-stage form{display:grid;gap:11px;margin-top:4px}
+.ttol-composer-stage label{display:grid;gap:6px;text-align:left}
+.ttol-composer-stage label span{color:#a7a2ab;font-size:10px}
+.ttol-composer-stage input{width:100%;height:48px;padding:0 14px;border:1px solid rgba(231,220,196,.11);border-radius:14px;background:#101116;color:#f4efe7;font:inherit;outline:none}
+.ttol-composer-stage input:focus{border-color:rgba(100,132,173,.55);box-shadow:0 0 0 3px rgba(100,132,173,.1)}
+.ttol-answer-stage{align-items:stretch}
+.ttol-reveal-board{display:grid;gap:10px;margin:4px 0 8px}
+.ttol-reveal-card{display:grid;grid-template-columns:38px minmax(0,1fr) auto;align-items:center;gap:10px;min-height:62px;padding:12px;border:1px solid rgba(231,220,196,.09);border-radius:15px;background:#181920;color:#eee7dd;text-align:left}
+button.ttol-reveal-card{width:100%;font:inherit}
+.ttol-reveal-card>span{width:34px;height:34px;border-radius:11px;display:grid;place-items:center;background:rgba(100,132,173,.12);color:#9fb7d4;font-size:10px;font-weight:900}
+.ttol-reveal-card>strong{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:14px}
+.ttol-reveal-card>b{color:#86828b;font-size:9px}
+.ttol-reveal-card.pending:active{transform:scale(.985)}
+.ttol-reveal-card.truth{background:rgba(79,143,124,.12);border-color:rgba(79,143,124,.27)}
+.ttol-reveal-card.truth>b{color:#87baa9}
+.ttol-reveal-card.lie{background:rgba(142,48,67,.13);border-color:rgba(174,59,82,.27)}
+.ttol-reveal-card.lie>b{color:#dc9daa}
+.ttol-inline-votes,.ttol-inline-results{grid-column:1/-1;margin-top:3px;padding:10px 11px;border-radius:12px;background:rgba(8,9,13,.32);border:1px solid rgba(255,255,255,.045)}
+.ttol-inline-votes>span,.ttol-inline-results span,.ttol-round-summary span{display:block;margin-bottom:5px;color:#97929c;font-size:9px}
+.ttol-inline-votes>strong,.ttol-inline-results strong,.ttol-round-summary strong{display:block;color:#eee8df;font-size:11px;line-height:1.55}
+.ttol-inline-votes>small{display:block;margin-top:5px;color:#b78a94;font-size:8px}
+.ttol-inline-results{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.ttol-inline-results>div:first-child{padding-right:8px;border-right:1px solid rgba(255,255,255,.06)}
+.ttol-round-summary{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-top:2px}
+.ttol-round-summary>div{padding:12px;border:1px solid var(--line);border-radius:14px;background:#181920}
+.ttol-round-summary>div:first-child{border-color:rgba(79,143,124,.22);background:rgba(79,143,124,.08)}
+.ttol-round-summary>div:last-child{border-color:rgba(174,59,82,.2);background:rgba(142,48,67,.08)}
+
+/* V9.3.1 — 混乱法则：个人事件与可选倒计时 */
+.chaos-task-note{margin:0 auto 14px!important;max-width:290px;color:#908991!important;font-size:10px!important}
+.chaos-timer-stage{gap:13px}
+.chaos-timer-stage>h2{max-width:14em}
+.chaos-countdown{width:148px;height:148px;border-radius:50%;display:grid;place-items:center;align-content:center;margin:10px 0 4px;border:9px solid rgba(178,120,142,.16);background:radial-gradient(circle,rgba(178,120,142,.14),rgba(16,17,22,.82) 68%);box-shadow:inset 0 0 38px rgba(178,120,142,.08),0 0 34px rgba(178,120,142,.08)}
+.chaos-countdown strong{font-size:62px;line-height:.95;color:#e2c8d1}
+.chaos-countdown span{margin-top:6px;color:#8f838b;font-size:10px}
+.chaos-countdown.expired{border-color:rgba(174,59,82,.28);background:radial-gradient(circle,rgba(142,48,67,.18),rgba(16,17,22,.84) 68%)}
+.chaos-countdown.expired strong{color:#df9daa}
+.chaos-timer-stage>[data-timer-note]{margin:0!important}
+
+@media(max-width:360px){
+  .ttol-inline-results,.ttol-round-summary{grid-template-columns:1fr}
+  .ttol-inline-results>div:first-child{padding-right:0;padding-bottom:8px;border-right:0;border-bottom:1px solid rgba(255,255,255,.06)}
+  .chaos-countdown{width:132px;height:132px}.chaos-countdown strong{font-size:54px}
+}
+
+@media(prefers-reduced-motion:reduce){
+  .idi-fingers i.pending,.ttol-reveal-card.pending{transition:none!important}
 }

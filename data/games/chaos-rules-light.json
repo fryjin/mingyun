@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.3.0-2026.08",
+  "bankVersion": "v9.3.1-2026.08",
   "game": "chaos-rules",
   "level": "light",
   "levelLabel": "轻松",
@@ -11,10 +11,14 @@
       "id": "cr-l-instant-01",
       "level": "light",
       "type": "instant",
-      "instruction": "模仿一种动物十秒",
+      "instruction": "模仿一种动物",
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -25,16 +29,24 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
       "id": "cr-l-instant-03",
       "level": "light",
       "type": "instant",
-      "instruction": "无音乐跳舞十五秒",
+      "instruction": "无音乐跳舞",
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -45,6 +57,10 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -55,6 +71,9 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        10
       ]
     },
     {
@@ -65,6 +84,10 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -75,6 +98,10 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -85,6 +112,10 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -95,6 +126,11 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
@@ -105,6 +141,11 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
@@ -115,6 +156,10 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -125,6 +170,10 @@
       "requirements": {},
       "tags": [
         "instant"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
@@ -260,123 +309,180 @@
       ]
     },
     {
-      "id": "cr-l-global-01",
+      "id": "cr-l-event-01",
       "level": "light",
-      "type": "global",
-      "instruction": "最后举手的人记失误",
+      "type": "event",
+      "instruction": "举起左手并说出自己的名字",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-l-global-02",
+      "id": "cr-l-event-02",
       "level": "light",
-      "type": "global",
-      "instruction": "三秒内一起指向门口",
+      "type": "event",
+      "instruction": "指向房间入口",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-l-global-03",
+      "id": "cr-l-event-03",
       "level": "light",
-      "type": "global",
-      "instruction": "最后摸到桌面的人记失误",
+      "type": "event",
+      "instruction": "摸到桌面再说“完成”",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-l-global-04",
+      "id": "cr-l-event-04",
       "level": "light",
-      "type": "global",
-      "instruction": "所有人同时做胜利动作",
+      "type": "event",
+      "instruction": "做一个夸张的胜利动作",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-l-global-05",
+      "id": "cr-l-event-05",
       "level": "light",
-      "type": "global",
-      "instruction": "三秒内一起站直",
+      "type": "event",
+      "instruction": "站直并双手叉腰",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-l-global-06",
+      "id": "cr-l-event-06",
       "level": "light",
-      "type": "global",
-      "instruction": "最后闭眼的人记失误",
+      "type": "event",
+      "instruction": "闭眼后准确指向门口",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-l-global-07",
+      "id": "cr-l-event-07",
       "level": "light",
-      "type": "global",
-      "instruction": "所有人同时说一个水果",
+      "type": "event",
+      "instruction": "说出三个不同水果",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-l-global-08",
+      "id": "cr-l-event-08",
       "level": "light",
-      "type": "global",
-      "instruction": "最后伸出左手的人记失误",
+      "type": "event",
+      "instruction": "伸出左手并单脚站立",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-l-global-09",
+      "id": "cr-l-event-09",
       "level": "light",
-      "type": "global",
-      "instruction": "全员一起模仿猫叫",
+      "type": "event",
+      "instruction": "模仿猫叫并配一个动作",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-l-global-10",
+      "id": "cr-l-event-10",
       "level": "light",
-      "type": "global",
-      "instruction": "三秒内一起看向主持人",
+      "type": "event",
+      "instruction": "看向主持人并叫出名字",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
-      "id": "cr-l-global-11",
+      "id": "cr-l-event-11",
       "level": "light",
-      "type": "global",
-      "instruction": "最后双手合十的人记失误",
+      "type": "event",
+      "instruction": "双手合十并说一句祝福",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-l-global-12",
+      "id": "cr-l-event-12",
       "level": "light",
-      "type": "global",
-      "instruction": "所有人同时说自己的名字",
+      "type": "event",
+      "instruction": "快速说出自己的全名",
       "requirements": {},
       "tags": [
-        "global"
+        "event"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
       ]
     },
     {
