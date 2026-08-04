@@ -3,22 +3,22 @@ import { escapeHtml, shuffle, tone, vibrate, wait } from '../core/utils.js';
 import { bindExit, stageHeader } from './shared.js';
 
 const WORLD_WIDTH = 1000;
-const BLOCK_WIDTH = 580;
-const BASE_WIDTH = 680;
+const BLOCK_WIDTH = 500;
+const BASE_WIDTH = 640;
 const MIN_OVERLAP_RATIO = 0.20;
 const PERFECT_RATIO = 0.03;
 const DANGER_CLEARANCE_RATIO = 0.22;
 const OFFSET_CLEARANCE_RATIO = 0.48;
-const MAX_VISIBLE_BLOCKS = 9;
-const BLOCK_STEP = 25;
+const MAX_VISIBLE_BLOCKS = 8;
+const BLOCK_STEP = 38;
 const BASE_BOTTOM = 22;
-const DROP_DISTANCE = 72;
+const DROP_DISTANCE = 88;
 
 function speedFor(height) {
-  if (height < 5) return 280;
-  if (height < 10) return 291;
-  if (height < 15) return 302;
-  return 314;
+  if (height < 4) return 320;
+  if (height < 8) return 360;
+  if (height < 12) return 415;
+  return 470;
 }
 
 function safetyMarginRatio(height) {
@@ -205,14 +205,14 @@ const plugin = {
         const world = root.querySelector('[data-stack-world]');
         if (!arena || !world) return;
         const visibleCount = Math.min(tower.length, MAX_VISIBLE_BLOCKS);
-        const rawHeight = BASE_BOTTOM + visibleCount * BLOCK_STEP + (includeMoving ? DROP_DISTANCE + 28 : 30);
+        const rawHeight = BASE_BOTTOM + visibleCount * BLOCK_STEP + (includeMoving ? DROP_DISTANCE + 40 : 42);
         const available = Math.max(220, arena.clientHeight - 30);
         let scale = Math.min(1, available / rawHeight);
-        if (height() > 5) {
-          scale = Math.min(scale, 1 - Math.min(0.28, (height() - 5) * 0.025));
-        }
+        if (height() >= 12) scale = Math.min(scale, 0.72);
+        else if (height() >= 8) scale = Math.min(scale, 0.82);
+        else if (height() >= 5) scale = Math.min(scale, 0.92);
         scale = Math.max(0.68, scale);
-        const shift = height() > 5 ? Math.min(18, (height() - 5) * 1.5) : 0;
+        const shift = height() > 4 ? Math.min(28, (height() - 4) * 2.2) : 0;
         world.style.setProperty('--camera-scale', scale.toFixed(3));
         world.style.setProperty('--camera-shift', `${shift}px`);
       });

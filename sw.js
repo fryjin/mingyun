@@ -1,6 +1,6 @@
-const VERSION='party-game-v9.3.5-stack-balance-engine';
+const VERSION='party-game-v9.3.6-stack-visual-speed-tuning';
 const SHELL=[
-  './','./index.html','./manifest.webmanifest','./styles/app.css','./styles/games.css','./styles/adult-plus.css','./styles/ui-refresh.css','./styles/midnight-game-hall.css?v=9.2.3','./styles/fate-wheel-v9.2.4.css?v=9.2.4','./styles/game-expansion-v9.3.css?v=9.3.1','./styles/fate-stack-v9.3.5.css?v=9.3.5','./styles/game-rules-v9.3.3.css?v=9.3.3',
+  './','./index.html','./manifest.webmanifest','./styles/app.css','./styles/games.css','./styles/adult-plus.css','./styles/ui-refresh.css','./styles/midnight-game-hall.css?v=9.2.3','./styles/fate-wheel-v9.2.4.css?v=9.2.4','./styles/game-expansion-v9.3.css?v=9.3.1','./styles/fate-stack-v9.3.6.css?v=9.3.6','./styles/game-rules-v9.3.3.css?v=9.3.3',
   './src/main.js','./src/core/utils.js','./src/core/store.js','./src/core/motion.js','./src/modules/overlay.js',
   './src/modules/lobby.js','./src/modules/players.js','./src/modules/game-sheet.js','./src/modules/settings.js','./src/modules/questions.js',
   './src/games/registry.js','./src/games/index.js','./src/games/shared.js','./src/games/dice.js','./src/games/wheel.js',
