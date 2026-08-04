@@ -1,4 +1,4 @@
-const VERSION='party-game-v9.3.3-rules-and-stack-flow';
+const VERSION='party-game-v9.3.4-chaos-rights-simplification';
 const SHELL=[
   './','./index.html','./manifest.webmanifest','./styles/app.css','./styles/games.css','./styles/adult-plus.css','./styles/ui-refresh.css','./styles/midnight-game-hall.css?v=9.2.3','./styles/fate-wheel-v9.2.4.css?v=9.2.4','./styles/game-expansion-v9.3.css?v=9.3.1','./styles/fate-stack-v9.3.3.css?v=9.3.3','./styles/game-rules-v9.3.3.css?v=9.3.3',
   './src/main.js','./src/core/utils.js','./src/core/store.js','./src/core/motion.js','./src/modules/overlay.js',

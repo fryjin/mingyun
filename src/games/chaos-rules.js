@@ -5,31 +5,13 @@ import { bindExit, stageHeader } from './shared.js';
 
 const RIGHT_LIMIT = 2;
 const ACTIVE_RULE_LIMIT = 3;
-const RIGHT_IDS = ['shield', 'retry', 'transfer', 'rule-immunity', 'cancel-rule', 'choose-next'];
+const RIGHT_IDS = ['shield', 'cancel-rule', 'transfer'];
 const RIGHTS = {
   shield: {
     id: 'shield',
-    name: '免失误护盾',
+    name: '护盾',
     timing: '自己即将增加失误时',
-    description: '取消本次失误。挑战失败和法则违规都可以使用。'
-  },
-  retry: {
-    id: 'retry',
-    name: '重试一次',
-    timing: '个人挑战失败后、记录失误前',
-    description: '使用相同时间重新执行同一挑战一次。'
-  },
-  transfer: {
-    id: 'transfer',
-    name: '转移挑战',
-    timing: '自己的个人挑战开始前',
-    description: '指定一位明确同意的玩家代替执行；失败由代替者增加失误。'
-  },
-  'rule-immunity': {
-    id: 'rule-immunity',
-    name: '规则豁免',
-    timing: '自己被记录违反持续法则时',
-    description: '取消本次法则违规，不增加失误。'
+    description: '抵消本次 1 次失误。个人挑战失败和违反持续法则时都可以使用。'
   },
   'cancel-rule': {
     id: 'cancel-rule',
@@ -37,11 +19,11 @@ const RIGHTS = {
     timing: '自己的回合开始或结束时',
     description: '选择并立即移除一条当前生效的持续法则。'
   },
-  'choose-next': {
-    id: 'choose-next',
-    name: '指定下一位',
-    timing: '自己的回合完成后',
-    description: '从其他玩家中指定下一位抽取者；之后恢复原顺序。'
+  transfer: {
+    id: 'transfer',
+    name: '转移挑战',
+    timing: '自己的个人挑战开始前',
+    description: '指定一位明确同意的玩家代替执行；挑战结果由代替者承担。'
   }
 };
 
@@ -79,7 +61,7 @@ const plugin = {
   supportsAdult: true,
   estimatedTime: '10–25 分钟',
   shortDescription: '挑战、法则和权利持续叠加，先失误到上限的人遭殃。',
-  description: '玩家轮流抽取个人挑战、持续法则或个人权利。挑战失败或违反法则会增加失误；权利会保存到个人权利栏，并在明确时机主动使用。',
+  description: '玩家轮流抽取个人挑战、持续法则或个人权利。个人权利只包含护盾、废除法则和转移挑战，并会在对应时机主动提示。',
   phoneMode: '按玩家顺序轮流共用',
   resultMode: '首位达到失误上限者受罚',
   defaultSettings: { mistakeLimit: 3, challengeSeconds: 5, level: 'standard' },
@@ -105,8 +87,6 @@ const plugin = {
     let currentItem = null;
     let currentOverride = '';
     let challengePlayer = null;
-    let retryUsed = false;
-    let forcedNextId = null;
     let loading = false;
     let countdownId = null;
     let phase = 'turn';
@@ -172,8 +152,7 @@ const plugin = {
       clearCountdown();
       phase = 'turn';
       challengePlayer = null;
-      retryUsed = false;
-      root.innerHTML = `${stageHeader(plugin.title, `个人挑战 ${challengeSeconds} 秒 · 失误上限 ${limit}`)}<section class="game-stage chaos-stage">${statusHtml()}${activeRulesHtml()}<div class="chaos-turn-card"><span class="eyebrow">轮到</span><h2>${escapeHtml(currentPlayer().name)}</h2><p>抽取个人挑战、持续法则或个人权利。点击任意玩家卡可查看其失误和权利。</p><div class="chaos-context-actions">${hasRight(currentPlayer().id, 'cancel-rule') && activeRules.length ? '<button class="button secondary full" data-use-cancel>使用“废除法则”</button>' : ''}<button class="button primary full" data-draw>抽取混乱内容</button></div></div></section>`;
+      root.innerHTML = `${stageHeader(plugin.title, `个人挑战 ${challengeSeconds} 秒 · 失误上限 ${limit}`)}<section class="game-stage chaos-stage">${statusHtml()}${activeRulesHtml()}<div class="chaos-turn-card"><span class="eyebrow">轮到</span><h2>${escapeHtml(currentPlayer().name)}</h2><p>抽取个人挑战、持续法则或个人权利。权利仅有护盾、废除法则和转移挑战三种。</p><div class="chaos-context-actions">${hasRight(currentPlayer().id, 'cancel-rule') && activeRules.length ? '<button class="button secondary full" data-use-cancel>使用“废除法则”</button>' : ''}<button class="button primary full" data-draw>抽取混乱内容</button></div></div></section>`;
       bindCommon(renderTurn);
       root.querySelector('[data-draw]').onclick = drawContent;
       root.querySelector('[data-use-cancel]')?.addEventListener('click', () => useCancelRule(currentPlayer(), renderTurn));
@@ -216,7 +195,7 @@ const plugin = {
           return ctx.settings.level !== 'adult-plus' || allowedByAdultPlus(item, prefs);
         };
         const boundaryKey = ctx.settings.level === 'adult-plus' ? adultPlusFilterKey(prefs) : 'all';
-        currentItem = await drawGame(plugin.id, ctx.settings.level, predicate, `${boundaryKey}:v933:${challengeSeconds}`);
+        currentItem = await drawGame(plugin.id, ctx.settings.level, predicate, `${boundaryKey}:v934:${challengeSeconds}`);
         currentOverride = '';
         renderContent();
       } catch (error) {
@@ -381,14 +360,7 @@ const plugin = {
     const renderChallengeFailure = () => {
       clearCountdown();
       const player = challengePlayer || currentPlayer();
-      root.innerHTML = `${stageHeader(plugin.title, '挑战未完成')}<section class="game-stage centered chaos-mistake-stage"><span class="eyebrow">${escapeHtml(player.name)}</span><h2>即将增加 1 次失误</h2><p>可在记录前使用符合时机的个人权利。</p><div class="chaos-context-actions">${hasRight(player.id, 'retry') && !retryUsed ? '<button class="button secondary full" data-use-retry>使用“重试一次”</button>' : ''}<button class="button danger full" data-accept-mistake>接受本次失误</button></div></section>`;
-      bindExit(root, ctx);
-      root.querySelector('[data-use-retry]')?.addEventListener('click', () => {
-        consumeRight(player.id, 'retry');
-        retryUsed = true;
-        startChallenge(player);
-      });
-      root.querySelector('[data-accept-mistake]').onclick = () => resolveMistake(player, 'challenge', () => renderTurnResult(`${player.name} 挑战失败`));
+      resolveMistake(player, 'challenge', () => renderTurnResult(`${player.name} 挑战失败`));
     };
 
     const renderViolation = (ruleId, returnFn) => {
@@ -410,7 +382,6 @@ const plugin = {
 
     const resolveMistake = (player, source, onDone) => {
       const usable = [];
-      if (source === 'rule' && hasRight(player.id, 'rule-immunity')) usable.push(RIGHTS['rule-immunity']);
       if (hasRight(player.id, 'shield')) usable.push(RIGHTS.shield);
       if (!usable.length) {
         recordMistake(player, source, onDone);
@@ -447,11 +418,10 @@ const plugin = {
       const player = ctx.players.find(item => item.id === playerId);
       const list = ownedRights(playerId);
       const isCurrent = playerId === currentPlayer().id;
-      root.innerHTML = `${stageHeader(plugin.title, '个人状态')}<section class="game-stage chaos-right-panel"><span class="eyebrow">${escapeHtml(player.name)}</span><h2>失误 ${mistakes.get(playerId) || 0} / ${limit} · 权利 ${list.length} / ${RIGHT_LIMIT}</h2>${list.length ? `<div class="chaos-right-list">${list.map(right => `<article><strong>${escapeHtml(right.name)}</strong><dl><div><dt>使用时机</dt><dd>${escapeHtml(right.timing)}</dd></div><div><dt>使用结果</dt><dd>${escapeHtml(right.description)}</dd></div></dl>${isCurrent && phase === 'turn' && right.id === 'cancel-rule' && activeRules.length ? '<button class="button secondary full" data-panel-cancel>现在使用</button>' : ''}${isCurrent && phase === 'result' && right.id === 'choose-next' ? '<button class="button secondary full" data-panel-next>现在使用</button>' : ''}</article>`).join('')}</div>` : '<p>当前没有个人权利。抽到权利后会保存在这里，系统也会在可用时机主动提示。</p>'}<button class="button primary full" data-close-rights>返回游戏</button></section>`;
+      root.innerHTML = `${stageHeader(plugin.title, '个人状态')}<section class="game-stage chaos-right-panel"><span class="eyebrow">${escapeHtml(player.name)}</span><h2>失误 ${mistakes.get(playerId) || 0} / ${limit} · 权利 ${list.length} / ${RIGHT_LIMIT}</h2>${list.length ? `<div class="chaos-right-list">${list.map(right => `<article><strong>${escapeHtml(right.name)}</strong><dl><div><dt>使用时机</dt><dd>${escapeHtml(right.timing)}</dd></div><div><dt>使用结果</dt><dd>${escapeHtml(right.description)}</dd></div></dl>${isCurrent && phase === 'turn' && right.id === 'cancel-rule' && activeRules.length ? '<button class="button secondary full" data-panel-cancel>现在使用</button>' : ''}</article>`).join('')}</div>` : '<p>当前没有个人权利。抽到权利后会保存在这里，系统也会在可用时机主动提示。</p>'}<button class="button primary full" data-close-rights>返回游戏</button></section>`;
       bindExit(root, ctx);
       root.querySelector('[data-close-rights]').onclick = returnFn;
       root.querySelector('[data-panel-cancel]')?.addEventListener('click', () => useCancelRule(player, returnFn));
-      root.querySelector('[data-panel-next]')?.addEventListener('click', () => useChooseNext(player));
     };
 
     const useCancelRule = (player, returnFn) => {
@@ -473,33 +443,13 @@ const plugin = {
       });
     };
 
-    const useChooseNext = player => {
-      if (!hasRight(player.id, 'choose-next')) {
-        renderTurnResult('本回合已完成');
-        return;
-      }
-      const available = ctx.players.filter(item => item.id !== player.id);
-      root.innerHTML = `${stageHeader(plugin.title, '使用“指定下一位”')}<section class="game-stage chaos-select-stage"><span class="eyebrow">${escapeHtml(player.name)}</span><h2>谁成为下一位抽取者？</h2><div class="player-choice-grid">${available.map(item => `<button type="button" data-next-player="${item.id}">${escapeHtml(item.name)}</button>`).join('')}</div><button class="button ghost full" data-cancel-next>取消</button></section>`;
-      bindExit(root, ctx);
-      root.querySelector('[data-cancel-next]').onclick = () => renderTurnResult('本回合已完成');
-      root.querySelectorAll('[data-next-player]').forEach(button => {
-        button.onclick = () => {
-          forcedNextId = button.dataset.nextPlayer;
-          consumeRight(player.id, 'choose-next');
-          lastNotice = `${player.name} 指定了下一位玩家。`;
-          renderTurnResult('下一位玩家已指定');
-        };
-      });
-    };
-
     const renderTurnResult = message => {
       clearCountdown();
       phase = 'result';
       const player = currentPlayer();
-      root.innerHTML = `${stageHeader(plugin.title, '回合完成')}<section class="game-stage centered chaos-turn-result">${statusHtml()}<span class="eyebrow">本回合结果</span><h2>${escapeHtml(message)}</h2>${activeRulesHtml()}<div class="chaos-context-actions">${hasRight(player.id, 'cancel-rule') && activeRules.length ? '<button class="button secondary full" data-result-cancel>使用“废除法则”</button>' : ''}${hasRight(player.id, 'choose-next') ? '<button class="button secondary full" data-result-next>使用“指定下一位”</button>' : ''}<button class="button primary full" data-next-turn>进入下一回合</button></div></section>`;
+      root.innerHTML = `${stageHeader(plugin.title, '回合完成')}<section class="game-stage centered chaos-turn-result">${statusHtml()}<span class="eyebrow">本回合结果</span><h2>${escapeHtml(message)}</h2>${activeRulesHtml()}<div class="chaos-context-actions">${hasRight(player.id, 'cancel-rule') && activeRules.length ? '<button class="button secondary full" data-result-cancel>使用“废除法则”</button>' : ''}<button class="button primary full" data-next-turn>进入下一回合</button></div></section>`;
       bindCommon(() => renderTurnResult(message));
       root.querySelector('[data-result-cancel]')?.addEventListener('click', () => useCancelRule(player, () => renderTurnResult(message)));
-      root.querySelector('[data-result-next]')?.addEventListener('click', () => useChooseNext(player));
       root.querySelector('[data-next-turn]').onclick = advanceTurn;
     };
 
@@ -512,18 +462,11 @@ const plugin = {
         return { ...rule, remaining };
       }).filter(rule => rule.remaining > 0);
 
-      if (forcedNextId) {
-        const target = ctx.players.findIndex(player => player.id === forcedNextId);
-        if (target >= 0) currentIndex = target;
-        forcedNextId = null;
-      } else {
-        currentIndex = (currentIndex + 1) % ctx.players.length;
-      }
+      currentIndex = (currentIndex + 1) % ctx.players.length;
       turn += 1;
       currentItem = null;
       currentOverride = '';
       challengePlayer = null;
-      retryUsed = false;
       lastMistake = null;
       if (expired.length) lastNotice = `持续法则已到期：${expired.join('、')}`;
       renderTurn();
@@ -548,8 +491,6 @@ const plugin = {
       currentItem = null;
       currentOverride = '';
       challengePlayer = null;
-      retryUsed = false;
-      forcedNextId = null;
       loading = false;
       phase = 'turn';
       lastNotice = '';
