@@ -1,310 +1,37 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.3.1-2026.08",
+  "bankVersion": "v9.3.3-2026.08",
   "game": "chaos-rules",
   "level": "adult",
   "levelLabel": "成人",
   "type": "rule",
-  "count": 60,
+  "count": 180,
   "items": [
     {
-      "id": "cr-a-instant-01",
+      "id": "cr-a-challenge-001",
       "level": "adult",
-      "type": "instant",
-      "instruction": "说出一次冲动接吻经历",
+      "type": "challenge",
+      "instruction": "指向现场最会制造暧昧的人",
       "requirements": {},
       "tags": [
-        "instant"
+        "challenge",
+        "pointing"
       ],
       "supportedSeconds": [
-        10
-      ]
-    },
-    {
-      "id": "cr-a-instant-02",
-      "level": "adult",
-      "type": "instant",
-      "instruction": "承认一次深夜见面原因",
-      "requirements": {},
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
-        10
-      ]
-    },
-    {
-      "id": "cr-a-instant-03",
-      "level": "adult",
-      "type": "instant",
-      "instruction": "说出最意外的心动对象",
-      "requirements": {},
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
+        3,
         5,
         10
       ]
     },
     {
-      "id": "cr-a-instant-04",
+      "id": "cr-a-challenge-002",
       "level": "adult",
-      "type": "instant",
-      "instruction": "讲一次关系越界时刻",
-      "requirements": {},
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
-        10
-      ]
-    },
-    {
-      "id": "cr-a-instant-05",
-      "level": "adult",
-      "type": "instant",
-      "instruction": "承认一次酒后联系前任",
-      "requirements": {},
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
-        10
-      ]
-    },
-    {
-      "id": "cr-a-instant-06",
-      "level": "adult",
-      "type": "instant",
-      "instruction": "说出一次亲密关系后悔",
-      "requirements": {},
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
-        10
-      ]
-    },
-    {
-      "id": "cr-a-instant-07",
-      "level": "adult",
-      "type": "instant",
-      "instruction": "讲一次隐秘约会经历",
-      "requirements": {},
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
-        10
-      ]
-    },
-    {
-      "id": "cr-a-instant-08",
-      "level": "adult",
-      "type": "instant",
-      "instruction": "说出最大胆的约会决定",
-      "requirements": {},
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-a-instant-09",
-      "level": "adult",
-      "type": "instant",
-      "instruction": "承认一次同时暧昧经历",
-      "requirements": {},
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
-        10
-      ]
-    },
-    {
-      "id": "cr-a-instant-10",
-      "level": "adult",
-      "type": "instant",
-      "instruction": "讲一次被撞见的亲密时刻",
-      "requirements": {},
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
-        10
-      ]
-    },
-    {
-      "id": "cr-a-instant-11",
-      "level": "adult",
-      "type": "instant",
-      "instruction": "说出一次主动留宿经历",
-      "requirements": {},
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
-        10
-      ]
-    },
-    {
-      "id": "cr-a-instant-12",
-      "level": "adult",
-      "type": "instant",
-      "instruction": "承认一次关系状态隐瞒",
-      "requirements": {},
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
-        10
-      ]
-    },
-    {
-      "id": "cr-a-persistent-01",
-      "level": "adult",
-      "type": "persistent",
-      "instruction": "不能说接吻两个字",
-      "duration": 3,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-a-persistent-02",
-      "level": "adult",
-      "type": "persistent",
-      "instruction": "回答前先说成年人了",
-      "duration": 3,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-a-persistent-03",
-      "level": "adult",
-      "type": "persistent",
-      "instruction": "只能用约会语气说话",
-      "duration": 3,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-a-persistent-04",
-      "level": "adult",
-      "type": "persistent",
-      "instruction": "被点名时先说我不解释",
-      "duration": 3,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-a-persistent-05",
-      "level": "adult",
-      "type": "persistent",
-      "instruction": "不能提到任何前任名字",
-      "duration": 4,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-a-persistent-06",
-      "level": "adult",
-      "type": "persistent",
-      "instruction": "每句话都要带一个关系词",
-      "duration": 3,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-a-persistent-07",
-      "level": "adult",
-      "type": "persistent",
-      "instruction": "回答时必须看向提问者",
-      "duration": 3,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-a-persistent-08",
-      "level": "adult",
-      "type": "persistent",
-      "instruction": "不能用只是朋友回答",
-      "duration": 4,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-a-persistent-09",
-      "level": "adult",
-      "type": "persistent",
-      "instruction": "每次发言先说我坦白",
-      "duration": 3,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-a-persistent-10",
-      "level": "adult",
-      "type": "persistent",
-      "instruction": "不能回避亲密关系问题",
-      "duration": 3,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-a-persistent-11",
-      "level": "adult",
-      "type": "persistent",
-      "instruction": "只能称呼别人为约会对象",
-      "duration": 3,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-a-persistent-12",
-      "level": "adult",
-      "type": "persistent",
-      "instruction": "有人提到前任时必须举手",
-      "duration": 4,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-a-event-01",
-      "level": "adult",
-      "type": "event",
+      "type": "challenge",
       "instruction": "指向最可能酒后联系前任的人",
       "requirements": {},
       "tags": [
-        "event"
+        "challenge",
+        "pointing"
       ],
       "supportedSeconds": [
         3,
@@ -313,13 +40,14 @@
       ]
     },
     {
-      "id": "cr-a-event-02",
+      "id": "cr-a-challenge-003",
       "level": "adult",
-      "type": "event",
-      "instruction": "指向最会隐藏亲密关系的人",
+      "type": "challenge",
+      "instruction": "指向最容易嘴硬心软的人",
       "requirements": {},
       "tags": [
-        "event"
+        "challenge",
+        "pointing"
       ],
       "supportedSeconds": [
         3,
@@ -328,13 +56,606 @@
       ]
     },
     {
-      "id": "cr-a-event-03",
+      "id": "cr-a-challenge-004",
       "level": "adult",
-      "type": "event",
+      "type": "challenge",
+      "instruction": "指向最可能先主动表白的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-005",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最会隐藏心动的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-006",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最可能接受异地恋的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-007",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最容易在约会中迟到的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-008",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最会冷处理关系的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-009",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最可能复合的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-010",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最会经营长期关系的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-011",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最容易被浪漫打动的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-012",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最可能冲动约会的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-013",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最会察觉别人心动的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-014",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最可能为喜欢的人改计划的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-015",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最会把暧昧拖很久的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-016",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最可能主动结束关系的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-017",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最容易在关系里吃醋的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-018",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最可能先低头道歉的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-019",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最会记住纪念日的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-020",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "指向最可能把朋友变恋人的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-021",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：公开关系或低调相处",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-022",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：先心动还是先合适",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-023",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：主动追还是等对方",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-024",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：短暂心动或长期稳定",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-025",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：浪漫重要还是安全感重要",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-026",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：异地恋或高频见面",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-027",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：坦白吃醋或装作无所谓",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-028",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：先道歉或先讲道理",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-029",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：复合或彻底断联",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-030",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：一见钟情或日久生情",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-031",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：约会迟到或临时取消",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-032",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：公开朋友圈或保持私密",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-033",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：直接表白或继续试探",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-034",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：朋友介绍或线上认识",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-035",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：惊喜约会或提前计划",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-036",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：甜言蜜语或实际行动",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-037",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：共同旅行或共同生活",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-038",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：先聊未来或先看现在",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-039",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：主动报备或彼此自由",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-040",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "立刻选择：恋爱脑或绝对理性",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-041",
+      "level": "adult",
+      "type": "challenge",
       "instruction": "说出一个约会雷点",
       "requirements": {},
       "tags": [
-        "event"
+        "challenge",
+        "answer"
       ],
       "supportedSeconds": [
         5,
@@ -342,28 +663,14 @@
       ]
     },
     {
-      "id": "cr-a-event-04",
+      "id": "cr-a-challenge-042",
       "level": "adult",
-      "type": "event",
-      "instruction": "指向最容易冲动接吻的人",
+      "type": "challenge",
+      "instruction": "说出一个让你心动的细节",
       "requirements": {},
       "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        3,
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-a-event-05",
-      "level": "adult",
-      "type": "event",
-      "instruction": "说出一个亲密关系边界",
-      "requirements": {},
-      "tags": [
-        "event"
+        "challenge",
+        "answer"
       ],
       "supportedSeconds": [
         5,
@@ -371,71 +678,14 @@
       ]
     },
     {
-      "id": "cr-a-event-06",
+      "id": "cr-a-challenge-043",
       "level": "adult",
-      "type": "event",
-      "instruction": "说出一次复合的真实原因",
+      "type": "challenge",
+      "instruction": "说出一种不能接受的冷暴力表现",
       "requirements": {},
       "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        10
-      ]
-    },
-    {
-      "id": "cr-a-event-07",
-      "level": "adult",
-      "type": "event",
-      "instruction": "指向最会制造暧昧的人",
-      "requirements": {},
-      "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        3,
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-a-event-08",
-      "level": "adult",
-      "type": "event",
-      "instruction": "立刻选择：公开关系或地下关系",
-      "requirements": {},
-      "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        3,
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-a-event-09",
-      "level": "adult",
-      "type": "event",
-      "instruction": "指向最可能临时留宿的人",
-      "requirements": {},
-      "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        3,
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-a-event-10",
-      "level": "adult",
-      "type": "event",
-      "instruction": "说出一个曾经心动的地点",
-      "requirements": {},
-      "tags": [
-        "event"
+        "challenge",
+        "answer"
       ],
       "supportedSeconds": [
         5,
@@ -443,28 +693,14 @@
       ]
     },
     {
-      "id": "cr-a-event-11",
+      "id": "cr-a-challenge-044",
       "level": "adult",
-      "type": "event",
-      "instruction": "指向最会吃回头草的人",
+      "type": "challenge",
+      "instruction": "说出一种你会主动道歉的情况",
       "requirements": {},
       "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        3,
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-a-event-12",
-      "level": "adult",
-      "type": "event",
-      "instruction": "说出一个绝不接受的越界",
-      "requirements": {},
-      "tags": [
-        "event"
+        "challenge",
+        "answer"
       ],
       "supportedSeconds": [
         5,
@@ -472,267 +708,2018 @@
       ]
     },
     {
-      "id": "cr-a-privilege-01",
+      "id": "cr-a-challenge-045",
       "level": "adult",
-      "type": "privilege",
-      "instruction": "获得一次免失误护盾",
-      "effect": "shield",
+      "type": "challenge",
+      "instruction": "说出一个关系里必须明确的边界",
       "requirements": {},
       "tags": [
-        "privilege"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-privilege-02",
+      "id": "cr-a-challenge-046",
       "level": "adult",
-      "type": "privilege",
-      "instruction": "取消一条成人持续法则",
-      "effect": "cancel-rule",
+      "type": "challenge",
+      "instruction": "说出一个你最看重的伴侣特质",
       "requirements": {},
       "tags": [
-        "privilege"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-privilege-03",
+      "id": "cr-a-challenge-047",
       "level": "adult",
-      "type": "privilege",
-      "instruction": "指定下一位讲述者",
-      "effect": "choose-next",
+      "type": "challenge",
+      "instruction": "说出一种你无法接受的敷衍",
       "requirements": {},
       "tags": [
-        "privilege"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-privilege-04",
+      "id": "cr-a-challenge-048",
       "level": "adult",
-      "type": "privilege",
-      "instruction": "清除自己一次失误",
-      "effect": "clear-mistake",
+      "type": "challenge",
+      "instruction": "说出一个最容易吃醋的场景",
       "requirements": {},
       "tags": [
-        "privilege"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-privilege-05",
+      "id": "cr-a-challenge-049",
       "level": "adult",
-      "type": "privilege",
-      "instruction": "得到一次跳过成人问题的权利",
-      "effect": "shield",
+      "type": "challenge",
+      "instruction": "说出一种让你立刻下头的行为",
       "requirements": {},
       "tags": [
-        "privilege"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-privilege-06",
+      "id": "cr-a-challenge-050",
       "level": "adult",
-      "type": "privilege",
-      "instruction": "让一条亲密话题法则失效",
-      "effect": "cancel-rule",
+      "type": "challenge",
+      "instruction": "说出一个理想约会地点",
       "requirements": {},
       "tags": [
-        "privilege"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-privilege-07",
+      "id": "cr-a-challenge-051",
       "level": "adult",
-      "type": "privilege",
-      "instruction": "选择下一位接受挑战的人",
-      "effect": "choose-next",
+      "type": "challenge",
+      "instruction": "说出一种你能接受的异性朋友边界",
       "requirements": {},
       "tags": [
-        "privilege"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-privilege-08",
+      "id": "cr-a-challenge-052",
       "level": "adult",
-      "type": "privilege",
-      "instruction": "撤销一次关系话题失误",
-      "effect": "clear-mistake",
+      "type": "challenge",
+      "instruction": "说出一个你会主动结束暧昧的原因",
       "requirements": {},
       "tags": [
-        "privilege"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-privilege-09",
+      "id": "cr-a-challenge-053",
       "level": "adult",
-      "type": "privilege",
-      "instruction": "保留一次无条件拒绝权",
-      "effect": "shield",
+      "type": "challenge",
+      "instruction": "说出一种你最怕被误解的关系行为",
       "requirements": {},
       "tags": [
-        "privilege"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-privilege-10",
+      "id": "cr-a-challenge-054",
       "level": "adult",
-      "type": "privilege",
-      "instruction": "终止当前最直接的法则",
-      "effect": "cancel-rule",
+      "type": "challenge",
+      "instruction": "说出一个让关系升温的小动作",
       "requirements": {},
       "tags": [
-        "privilege"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-privilege-11",
+      "id": "cr-a-challenge-055",
       "level": "adult",
-      "type": "privilege",
-      "instruction": "把回合交给任意玩家",
-      "effect": "choose-next",
+      "type": "challenge",
+      "instruction": "说出一种你会认真考虑复合的条件",
       "requirements": {},
       "tags": [
-        "privilege"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-privilege-12",
+      "id": "cr-a-challenge-056",
       "level": "adult",
-      "type": "privilege",
-      "instruction": "减少自己一次失误",
-      "effect": "clear-mistake",
+      "type": "challenge",
+      "instruction": "说出一个你会为喜欢的人改变的习惯",
       "requirements": {},
       "tags": [
-        "privilege"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-direction-01",
+      "id": "cr-a-challenge-057",
       "level": "adult",
-      "type": "direction",
-      "instruction": "回合方向反转",
-      "effect": "reverse",
+      "type": "challenge",
+      "instruction": "说出一种你不会拿来开玩笑的关系话题",
       "requirements": {},
       "tags": [
-        "direction"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-direction-02",
+      "id": "cr-a-challenge-058",
       "level": "adult",
-      "type": "direction",
-      "instruction": "跳过下一位玩家",
-      "effect": "skip",
+      "type": "challenge",
+      "instruction": "说出一个你最不喜欢的聊天回复",
       "requirements": {},
       "tags": [
-        "direction"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-direction-03",
+      "id": "cr-a-challenge-059",
       "level": "adult",
-      "type": "direction",
-      "instruction": "当前玩家再抽一条",
-      "effect": "repeat",
+      "type": "challenge",
+      "instruction": "说出一种你认为有效的安全感表达",
       "requirements": {},
       "tags": [
-        "direction"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-direction-04",
+      "id": "cr-a-challenge-060",
       "level": "adult",
-      "type": "direction",
-      "instruction": "指定下一位玩家",
-      "effect": "choose-next",
+      "type": "challenge",
+      "instruction": "说出一个约会中最尴尬的瞬间",
       "requirements": {},
       "tags": [
-        "direction"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-direction-05",
+      "id": "cr-a-challenge-061",
       "level": "adult",
-      "type": "direction",
-      "instruction": "顺序改为逆向",
-      "effect": "reverse",
+      "type": "challenge",
+      "instruction": "说出一种你会主动确认关系的信号",
       "requirements": {},
       "tags": [
-        "direction"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-direction-06",
+      "id": "cr-a-challenge-062",
       "level": "adult",
-      "type": "direction",
-      "instruction": "下一位暂时跳过挑战",
-      "effect": "skip",
+      "type": "challenge",
+      "instruction": "说出一个你最想避免的关系误会",
       "requirements": {},
       "tags": [
-        "direction"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-direction-07",
+      "id": "cr-a-challenge-063",
       "level": "adult",
-      "type": "direction",
-      "instruction": "当前玩家连续进行",
-      "effect": "repeat",
+      "type": "challenge",
+      "instruction": "说出一种你会拒绝继续见面的理由",
       "requirements": {},
       "tags": [
-        "direction"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-direction-08",
+      "id": "cr-a-challenge-064",
       "level": "adult",
-      "type": "direction",
-      "instruction": "选择下一位接受成人话题",
-      "effect": "choose-next",
+      "type": "challenge",
+      "instruction": "说出一个让你觉得被重视的动作",
       "requirements": {},
       "tags": [
-        "direction"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-direction-09",
+      "id": "cr-a-challenge-065",
       "level": "adult",
-      "type": "direction",
-      "instruction": "所有回合立即掉头",
-      "effect": "reverse",
+      "type": "challenge",
+      "instruction": "说出一种你最难接受的失信",
       "requirements": {},
       "tags": [
-        "direction"
+        "challenge",
+        "answer"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-direction-10",
+      "id": "cr-a-challenge-066",
       "level": "adult",
-      "type": "direction",
-      "instruction": "跨过下一位继续",
-      "effect": "skip",
+      "type": "challenge",
+      "instruction": "用偶像剧语气向右边玩家借东西",
       "requirements": {},
       "tags": [
-        "direction"
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-direction-11",
+      "id": "cr-a-challenge-067",
       "level": "adult",
-      "type": "direction",
-      "instruction": "当前玩家保持控制权",
-      "effect": "repeat",
+      "type": "challenge",
+      "instruction": "用认真表白的语气夸左边玩家一句",
       "requirements": {},
       "tags": [
-        "direction"
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
       ]
     },
     {
-      "id": "cr-a-direction-12",
+      "id": "cr-a-challenge-068",
       "level": "adult",
-      "type": "direction",
-      "instruction": "把回合交给指定玩家",
-      "effect": "choose-next",
+      "type": "challenge",
+      "instruction": "模仿收到暧昧消息时的第一反应",
       "requirements": {},
       "tags": [
-        "direction"
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-069",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "演一句失败但真诚的搭讪",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-070",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用客服语气解释一次约会迟到",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-071",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用主持人口吻介绍理想型",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-072",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用广告语推销自己的恋爱优点",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-073",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "模仿朋友劝你别复合的样子",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-074",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "演一句想见面又装作随口问的话",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-075",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用三个词夸一位现场玩家",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-076",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "模仿一次明明吃醋却说没事",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-077",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "演一句体面结束暧昧的话",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-078",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用一句话发出明确但不过界的邀约",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-079",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "模仿约会结束后复盘的语气",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-080",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用新闻播报口吻宣布自己心动",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-081",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "演一句拒绝不合适关系的话",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-082",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用温柔语气提醒对方别迟到",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-083",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "模仿发现对方撤回消息后的反应",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-084",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用朋友语气劝别人别恋爱脑",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-085",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "演一句想复合但不敢直说的话",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-086",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次约会小尴尬",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-087",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次误判别人喜欢你",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-088",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次主动结束暧昧",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-089",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次为见人临时改计划",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-090",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次口是心非的时刻",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-091",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次最意外的心动",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-092",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次聊天突然冷掉",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-093",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次收到暧昧信号",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-094",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次约会计划翻车",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-095",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次被朋友劝退的关系",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-096",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次主动道歉的原因",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-097",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次关系边界被试探",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-098",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次错过表白时机",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-099",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次朋友变暧昧",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-100",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次暧昧变普通朋友",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-101",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次你主动确认关系",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-102",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次你拒绝复合",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-103",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次关系中最感动的细节",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-104",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次最难解释的误会",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-105",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次你后悔没说的话",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-106",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次约会中途想离开",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-107",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次被突然表白",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-108",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次你先低头的争执",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-109",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次关系中被尊重的时刻",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-challenge-110",
+      "level": "adult",
+      "type": "challenge",
+      "instruction": "用十秒讲一次你识破暧昧套路",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "story"
+      ],
+      "supportedSeconds": [
+        10
+      ]
+    },
+    {
+      "id": "cr-a-persistent-001",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能说“随便”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备说出“随便”",
+      "action": "改用其他明确说法",
+      "conflictGroup": "ban-随便",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-002",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能说“不知道”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备说出“不知道”",
+      "action": "改用其他明确说法",
+      "conflictGroup": "ban-不知道",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-003",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能说“都行”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备说出“都行”",
+      "action": "改用其他明确说法",
+      "conflictGroup": "ban-都行",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-004",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能说“无所谓”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备说出“无所谓”",
+      "action": "改用其他明确说法",
+      "conflictGroup": "ban-无所谓",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-005",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能说“但是”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备说出“但是”",
+      "action": "改用其他明确说法",
+      "conflictGroup": "ban-但是",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-006",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能说“其实”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备说出“其实”",
+      "action": "改用其他明确说法",
+      "conflictGroup": "ban-其实",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-007",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能说“真的”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备说出“真的”",
+      "action": "改用其他明确说法",
+      "conflictGroup": "ban-真的",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-008",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能说“可能”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备说出“可能”",
+      "action": "改用其他明确说法",
+      "conflictGroup": "ban-可能",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-009",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能说“应该”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备说出“应该”",
+      "action": "改用其他明确说法",
+      "conflictGroup": "ban-应该",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-010",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能说“看情况”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备说出“看情况”",
+      "action": "改用其他明确说法",
+      "conflictGroup": "ban-看情况",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-011",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能说“再说吧”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备说出“再说吧”",
+      "action": "改用其他明确说法",
+      "conflictGroup": "ban-再说吧",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-012",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能说“没事”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备说出“没事”",
+      "action": "改用其他明确说法",
+      "conflictGroup": "ban-没事",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-013",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被问到感情问题时先说“我认真回答”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "被问到感情问题",
+      "action": "先说“我认真回答”",
+      "conflictGroup": "speech-prefix",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-014",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "回答约会问题前先说“我选好了”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "被问到约会选择",
+      "action": "先说“我选好了”",
+      "conflictGroup": "speech-prefix",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-015",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被点名回答前先说“收到”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "被点名回答",
+      "action": "先说“收到”",
+      "conflictGroup": "speech-prefix",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-016",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "回答前先重复对方最后三个字",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备回答问题",
+      "action": "先重复提问最后三个字",
+      "conflictGroup": "speech-prefix",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-017",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被问到前任时先说“仅代表过去”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "被问到前任",
+      "action": "先说“仅代表过去”",
+      "conflictGroup": "speech-prefix",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-018",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被问到理想型时先说“标准如下”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "被问到理想型",
+      "action": "先说“标准如下”",
+      "conflictGroup": "speech-prefix",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-019",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被追问时先说“允许补充”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "同一问题被追问",
+      "action": "先说“允许补充”",
+      "conflictGroup": "speech-prefix",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-020",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "回答暧昧问题前先说“保持清醒”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "被问到暧昧话题",
+      "action": "先说“保持清醒”",
+      "conflictGroup": "speech-prefix",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-021",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被要求二选一时先说“我承担后果”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "被要求二选一",
+      "action": "先说“我承担后果”",
+      "conflictGroup": "speech-prefix",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-022",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "回答关系边界前先说“边界明确”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "被问到关系边界",
+      "action": "先说“边界明确”",
+      "conflictGroup": "speech-prefix",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-023",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人说“喜欢”时，所有人看向说话者",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“喜欢”",
+      "action": "所有人看向说话者",
+      "conflictGroup": "trigger-22",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-024",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人提到前任时，所有人敲一下桌面",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人提到前任",
+      "action": "所有人敲一下桌面",
+      "conflictGroup": "trigger-23",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-025",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人说“暧昧”时，右边玩家举手",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“暧昧”",
+      "action": "右边玩家举手",
+      "conflictGroup": "trigger-24",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-026",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人说“约会”时，左边玩家拍一下手",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“约会”",
+      "action": "左边玩家拍一下手",
+      "conflictGroup": "trigger-25",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-027",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人说“复合”时，所有人说“冷静”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“复合”",
+      "action": "所有人说“冷静”",
+      "conflictGroup": "trigger-26",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-028",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人说“心动”时，说话者指向一位玩家或说无人",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“心动”",
+      "action": "说话者指向一位玩家或明确说无人",
+      "conflictGroup": "trigger-27",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-029",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人说“安全感”时，下一位玩家点头两次",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“安全感”",
+      "action": "下一位玩家点头两次",
+      "conflictGroup": "trigger-28",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-030",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人说“吃醋”时，说话者必须举手",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“吃醋”",
+      "action": "说话者举手",
+      "conflictGroup": "trigger-29",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-031",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人说“分手”时，所有人保持安静两秒",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“分手”",
+      "action": "所有人安静两秒",
+      "conflictGroup": "trigger-30",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-032",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人说“主动”时，上一位玩家拍桌一次",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“主动”",
+      "action": "上一位玩家拍桌一次",
+      "conflictGroup": "trigger-31",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-033",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人完成挑战后，右边玩家必须鼓掌一次",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人完成个人挑战",
+      "action": "右边玩家鼓掌一次",
+      "conflictGroup": "trigger-32",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-034",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人挑战失败后，左边玩家必须说“记住了”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人个人挑战失败",
+      "action": "左边玩家说“记住了”",
+      "conflictGroup": "trigger-33",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-035",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人获得权利后，下一位玩家必须复述权利名称",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人获得个人权利",
+      "action": "下一位玩家复述权利名称",
+      "conflictGroup": "trigger-34",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-036",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人被记录失误时，所有人必须举起一根手指",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人增加失误",
+      "action": "所有人举起一根手指",
+      "conflictGroup": "trigger-35",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-037",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人直接拒答时，提问者必须换一个问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人明确拒答",
+      "action": "提问者更换问题",
+      "conflictGroup": "trigger-36",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-038",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人说“随缘”时，说话者必须给出一个具体选择",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“随缘”",
+      "action": "说话者补充一个具体选择",
+      "conflictGroup": "trigger-37",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-039",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，先夸上一位玩家一句",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "先夸上一位玩家一句",
+      "conflictGroup": "turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-040",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，说出当前法则数量",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "说出当前生效法则数量",
+      "conflictGroup": "turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-041",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，复述最新一条法则",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "复述最新生效法则",
+      "conflictGroup": "turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-042",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，和右边玩家击掌",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "与右边玩家击掌",
+      "conflictGroup": "turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-043",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，说一个约会雷点",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "说一个约会雷点",
+      "conflictGroup": "turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-044",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，说一个关系优点",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "说一个关系优点",
+      "conflictGroup": "turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-045",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，给自己取一个临时昵称",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "说出一个临时昵称",
+      "conflictGroup": "turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-046",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，指向最会守秘密的人",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "指向一位玩家",
+      "conflictGroup": "turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-047",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，用一句话评价现场气氛",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "评价现场气氛",
+      "conflictGroup": "turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-048",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，说出上轮谁最稳",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "说出一位玩家",
+      "conflictGroup": "turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-049",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，先拍桌面两次",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "拍桌面两次",
+      "conflictGroup": "turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-050",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，向任意玩家提出一个二选一",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "提出一个二选一问题",
+      "conflictGroup": "turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-051",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "回答问题不能只说“是”或“不是”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答任何问题",
+      "action": "至少补充一个理由",
+      "conflictGroup": "answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-052",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "回答关系问题必须给出明确选择",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系类问题",
+      "action": "给出明确选项，不用模糊答案",
+      "conflictGroup": "answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-053",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被问到原因时必须说出一个具体事件",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "被追问原因",
+      "action": "说出一个具体事件",
+      "conflictGroup": "answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-054",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被问到理想型时最多说三个条件",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答理想型问题",
+      "action": "最多给出三个条件",
+      "conflictGroup": "answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-055",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被问到前任时不能说真实姓名",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答前任相关问题",
+      "action": "使用代称",
+      "conflictGroup": "answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-056",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被要求评价玩家时先说一个优点",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "评价现场玩家",
+      "action": "先说一个优点",
+      "conflictGroup": "answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-057",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "回答二选一时不能选择“都要”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "进行二选一",
+      "action": "只能选择其中一个",
+      "conflictGroup": "answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-058",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被问到边界时必须说出可接受和不可接受各一项",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答边界问题",
+      "action": "分别给出一项",
+      "conflictGroup": "answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-059",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被问到约会时必须给出具体地点",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答约会场景",
+      "action": "说出一个具体地点",
+      "conflictGroup": "answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-060",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被问到聊天习惯时必须举一个例子",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答聊天习惯",
+      "action": "举出一个具体例子",
+      "conflictGroup": "answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-061",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能直呼其他玩家姓名，只能用昵称",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "称呼其他玩家",
+      "action": "使用昵称",
+      "conflictGroup": "address-form",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-062",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "只能称呼别人为“老师”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "称呼任何玩家",
+      "action": "使用“老师”",
+      "conflictGroup": "address-form",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-063",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被叫到名字后必须先回答“在”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人叫你的名字",
+      "action": "先回答“在”",
+      "conflictGroup": "address-form",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-064",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "向别人提问前必须先叫对方昵称",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备向玩家提问",
+      "action": "先叫对方昵称",
+      "conflictGroup": "address-form",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-065",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能连续两次向同一玩家提问",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备提问",
+      "action": "更换提问对象",
+      "conflictGroup": "address-form",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-066",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "夸奖别人时必须说出具体细节",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "夸奖现场玩家",
+      "action": "指出一个具体细节",
+      "conflictGroup": "address-form",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-067",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "拒绝问题时必须给出一个替代话题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备拒答",
+      "action": "给出替代话题",
+      "conflictGroup": "address-form",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-068",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能用“大家”代替具体玩家",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "提到现场成员",
+      "action": "说出具体玩家",
+      "conflictGroup": "address-form",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-069",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "提到某位玩家时必须看向对方",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "提到现场某位玩家",
+      "action": "看向对方",
+      "conflictGroup": "address-form",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-070",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被别人夸奖后必须说“我接受”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "收到夸奖",
+      "action": "说“我接受”",
+      "conflictGroup": "address-form",
+      "requirements": {},
+      "tags": [
+        "persistent"
       ]
     }
   ]

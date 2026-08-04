@@ -1,28 +1,741 @@
 {
   "schemaVersion": "1.0.0",
-  "bankVersion": "v9.3.1-2026.08",
+  "bankVersion": "v9.3.3-2026.08",
   "game": "chaos-rules",
   "level": "adult-plus",
   "levelLabel": "成人进阶",
   "type": "rule",
-  "count": 60,
+  "count": 240,
   "items": [
     {
-      "id": "cr-ap-instant-01",
+      "id": "cr-ap-challenge-001",
       "level": "adult-plus",
-      "type": "instant",
-      "instruction": "与自愿玩家牵手对视",
-      "requirements": {
-        "contact": true,
-        "contactLevel": 1,
-        "pairConsent": true
-      },
-      "consentRequired": true,
-      "alternatives": [
-        "隔空对视十秒"
-      ],
+      "type": "challenge",
+      "instruction": "指向现场最可能接受开放式沟通的人",
+      "requirements": {},
       "tags": [
-        "instant"
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-002",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最会隐藏真实欲望的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-003",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最可能先提出关系边界的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-004",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最能分清心动和冲动的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-005",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最可能主动推进关系的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-006",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最容易被眼神打动的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-007",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最能接受短期关系的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-008",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最看重身体吸引力的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-009",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最可能先提出亲密需求的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-010",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最会及时叫停不舒服互动的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-011",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最可能和朋友发展关系的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-012",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最能接受年龄差的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-013",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最可能接受异地亲密关系的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-014",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最重视隐私边界的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-015",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最可能主动谈论安全感的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-016",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最会区分暧昧和承诺的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-017",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最可能保持长期单身的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-018",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最能接受关系非传统安排的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-019",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最可能先提出见家长的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-020",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最会在关系中设规则的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-021",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最可能因亲密节奏不合而离开的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-022",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最可能主动确认排他关系的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-023",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最会表达不舒服的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-024",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最可能在第一次约会谈边界的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-025",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "指向最能接受伴侣保留独处空间的人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "pointing"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-026",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：激情优先或稳定优先",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-027",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：身体吸引或情绪价值",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-028",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：先确认边界或先顺其自然",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-029",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：主动表达欲望或等待暗示",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-030",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：朋友变恋人或陌生人开始",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-031",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：公开亲密关系或保持完全私密",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-032",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：高频陪伴或高质量独处",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-033",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：明确排他或保留观察期",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-034",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：先谈安全感或先谈未来",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-035",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：坦白过去或只谈现在",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-036",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：主动亲近或被动回应",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-037",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：同居前试住或直接决定",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-038",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：边界严格或弹性协商",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-039",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：关系定义重要或感受重要",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-040",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：短期强烈或长期温和",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-041",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：先见朋友或先见家人",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-042",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：冲突当场解决或冷静后谈",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-043",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：共享密码或各自隐私",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-044",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：每天联系或需要时联系",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-045",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "立刻选择：亲密节奏一致或价值观一致",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "choice"
+      ],
+      "supportedSeconds": [
+        3,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-046",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你最重视的亲密边界",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
       ],
       "supportedSeconds": [
         5,
@@ -30,21 +743,14 @@
       ]
     },
     {
-      "id": "cr-ap-instant-02",
+      "id": "cr-ap-challenge-047",
       "level": "adult-plus",
-      "type": "instant",
-      "instruction": "拥抱一位自愿玩家",
-      "requirements": {
-        "contact": true,
-        "contactLevel": 1,
-        "pairConsent": true
-      },
-      "consentRequired": true,
-      "alternatives": [
-        "认真夸奖对方一句"
-      ],
+      "type": "challenge",
+      "instruction": "说出一种你会立刻叫停的互动",
+      "requirements": {},
       "tags": [
-        "instant"
+        "challenge",
+        "boundary"
       ],
       "supportedSeconds": [
         5,
@@ -52,21 +758,14 @@
       ]
     },
     {
-      "id": "cr-ap-instant-03",
+      "id": "cr-ap-challenge-048",
       "level": "adult-plus",
-      "type": "instant",
-      "instruction": "与自愿玩家完成贴肩合照",
-      "requirements": {
-        "contact": true,
-        "contactLevel": 1,
-        "pairConsent": true
-      },
-      "consentRequired": true,
-      "alternatives": [
-        "保持一臂距离合照"
-      ],
+      "type": "challenge",
+      "instruction": "说出一个你能接受的关系试探",
+      "requirements": {},
       "tags": [
-        "instant"
+        "challenge",
+        "boundary"
       ],
       "supportedSeconds": [
         5,
@@ -74,765 +773,3343 @@
       ]
     },
     {
-      "id": "cr-ap-instant-04",
+      "id": "cr-ap-challenge-049",
       "level": "adult-plus",
-      "type": "instant",
-      "instruction": "亲吻自愿玩家的手背",
+      "type": "challenge",
+      "instruction": "说出一种你无法接受的暧昧方式",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-050",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你会主动确认同意的场景",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-051",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一种让你有安全感的身体距离",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-052",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你不会妥协的隐私边界",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-053",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一种你愿意主动表达的需求",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-054",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你需要提前沟通的亲密行为",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-055",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一种你认为越界的玩笑",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-056",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你能接受的非传统关系安排",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-057",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一种你会主动结束关系的信号",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-058",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你最怕被误读的亲密动作",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-059",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一种你可以接受的朋友边界",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-060",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你愿意慢慢尝试的互动",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-061",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一种你不会在酒后决定的事情",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-062",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你需要明确承诺的场景",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-063",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一种你认为必须双向确认的行为",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-064",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你最看重的亲密沟通方式",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-065",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一种你会因为节奏不合而拒绝的情况",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-066",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你愿意公开讨论的欲望边界",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-067",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一种你不会为了取悦别人而做的事",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-068",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你认为可以随时反悔的决定",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-069",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一种你最容易误判的暧昧信号",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-070",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你会主动提醒对方的界限",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-071",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一种你能接受的关系空窗期",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-072",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你认为需要保护的私人空间",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-073",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一种你会诚实说明的关系状态",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-074",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你会先问再做的互动",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-075",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一种你不会接受的情绪操控",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-076",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你最想被尊重的亲密偏好",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-077",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一种你会因为不舒服马上停止的动作",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-078",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你认为不能靠猜的关系问题",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-079",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一种你能接受但不会主动的关系选择",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-080",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "说出一个你会在开始前确认的安全问题",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "boundary"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-081",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "用直接但礼貌的方式提出一次邀约",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-082",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "演一句明确拒绝越界互动的话",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-083",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "用一句话确认对方是否愿意继续",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-084",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "模仿一次心动但保持克制的反应",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-085",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "演一句关系节奏太快时的提醒",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-086",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "用一句话说明自己的亲密边界",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-087",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "演一次想靠近但先询问同意",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-088",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "用成熟语气结束一段不合适的暧昧",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-089",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "模仿一次被突然表白后的冷静回应",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-090",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "用一句话提出需要独处空间",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-091",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "演一句拒绝酒后做重大决定的话",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-092",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "用一句话确认是否排他",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-093",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "模仿一次发现对方误会你暗示后的解释",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-094",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "演一句想进一步了解对方的邀请",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-095",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "用一句话表达吃醋但不指责",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-096",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "模仿一次亲密节奏不一致的沟通",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-097",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "演一句不同意但愿意继续谈的话",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-098",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "用一句话提醒对方可以随时停止",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-099",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "模仿一次主动承认自己心动",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-100",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "演一句不会让人有压力的表白",
+      "requirements": {},
+      "tags": [
+        "challenge",
+        "performance"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-101",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家对视五秒",
       "requirements": {
         "contact": true,
         "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为隔空对视并点头"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-102",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家击掌三次",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为同时拍一下桌面"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-103",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家并肩站立五秒",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为各自原地站立五秒"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-104",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家握手并互夸一句",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为隔空互夸一句"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-105",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家背靠背站五秒",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为背对背隔开一步站五秒"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-106",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家轻碰手背一次",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为同时举手示意"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-107",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家同步做三个动作",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为不接触地同步做三个动作"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-108",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家交换座位",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为口头指定彼此位置"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-109",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家手掌相对停三秒",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为隔空手掌相对三秒"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-110",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家并排合影姿势五秒",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为各自做合影姿势"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-111",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家轻搭肩膀两秒",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为隔空指向对方"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-112",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家挽手走两步",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为并肩走两步"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-113",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家拥抱两秒",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为做出拥抱手势"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-114",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家靠近到舒适距离三秒",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为各自说明舒适距离"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-115",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家牵手五秒",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为隔空同步握拳"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-116",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家额头靠近但不接触三秒",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为保持一步距离对视三秒"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-117",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家完成一次双人转身动作",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为各自原地转身"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-118",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家肩并肩对视三秒",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为保持距离对视三秒"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-119",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家交换一个真诚夸奖并握手",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为仅交换夸奖"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-120",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家用手势比一个共同图案",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为分别比出图案"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-121",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家共同摆一个电影海报姿势",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为分别摆姿势"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-122",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家轻碰指尖一次",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为隔空比出同一手势"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-123",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家相互整理一个不涉及身体的配饰",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为口头夸奖对方配饰"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-124",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家靠肩坐五秒",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为并排保持距离坐五秒"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-125",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家完成一次礼貌拥抱或替代手势",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "contact"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为互相点头致意"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-126",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "邀请一位自愿玩家完成轻触额头的亲密动作",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
         "kissing": true,
         "pairConsent": true
       },
-      "consentRequired": true,
-      "alternatives": [
-        "向对方行一个正式礼"
-      ],
       "tags": [
-        "instant"
+        "challenge",
+        "kissing"
       ],
       "supportedSeconds": [
         5,
         10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为对视五秒"
       ]
     },
     {
-      "id": "cr-ap-instant-05",
+      "id": "cr-ap-challenge-127",
       "level": "adult-plus",
-      "type": "instant",
-      "instruction": "与自愿玩家共舞",
+      "type": "challenge",
+      "instruction": "邀请一位自愿玩家完成脸颊轻吻",
       "requirements": {
         "contact": true,
         "contactLevel": 2,
-        "pairConsent": true
-      },
-      "consentRequired": true,
-      "alternatives": [
-        "各自原地跳舞十五秒"
-      ],
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
-        10
-      ]
-    },
-    {
-      "id": "cr-ap-instant-06",
-      "level": "adult-plus",
-      "type": "instant",
-      "instruction": "让自愿玩家靠肩",
-      "requirements": {
-        "contact": true,
-        "contactLevel": 2,
-        "pairConsent": true
-      },
-      "consentRequired": true,
-      "alternatives": [
-        "并肩坐十秒"
-      ],
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-ap-instant-07",
-      "level": "adult-plus",
-      "type": "instant",
-      "instruction": "与自愿玩家额头轻碰一下",
-      "requirements": {
-        "contact": true,
-        "contactLevel": 2,
-        "pairConsent": true
-      },
-      "consentRequired": true,
-      "alternatives": [
-        "隔空同步点头"
-      ],
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-ap-instant-08",
-      "level": "adult-plus",
-      "type": "instant",
-      "instruction": "亲吻自愿玩家的脸颊",
-      "requirements": {
-        "contact": true,
-        "contactLevel": 1,
         "kissing": true,
         "pairConsent": true
       },
-      "consentRequired": true,
-      "alternatives": [
-        "对对方说一句暧昧台词"
-      ],
       "tags": [
-        "instant"
+        "challenge",
+        "kissing"
       ],
       "supportedSeconds": [
         5,
         10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为隔空飞吻"
       ]
     },
     {
-      "id": "cr-ap-instant-09",
+      "id": "cr-ap-challenge-128",
       "level": "adult-plus",
-      "type": "instant",
-      "instruction": "喝一小口酒水并说真心话",
+      "type": "challenge",
+      "instruction": "邀请一位自愿玩家完成手背轻吻",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "kissing"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为轻碰拳"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-129",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "邀请一位自愿玩家完成额头轻吻",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "kissing"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为说一句真诚夸奖"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-130",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "邀请一位自愿玩家完成三秒亲吻",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "kissing"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为三秒对视"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-131",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "邀请一位自愿玩家选择脸颊吻或隔空飞吻",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "kissing"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为隔空飞吻"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-132",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "邀请一位自愿玩家完成一次电影式借位吻",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "kissing"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为共同摆电影海报姿势"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-133",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "邀请一位自愿玩家完成一次手指轻吻",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "kissing"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为轻碰指尖"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-134",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "邀请一位自愿玩家完成一次告别吻动作",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "kissing"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为挥手告别"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-135",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "邀请一位自愿玩家完成亲吻或明确选择替代动作",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 2,
+        "kissing": true,
+        "pairConsent": true
+      },
+      "tags": [
+        "challenge",
+        "kissing"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为互相说一句欣赏的话"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-136",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "用一小口饮品为今晚最大胆的人举杯",
       "requirements": {
         "alcohol": true
       },
-      "consentRequired": true,
-      "alternatives": [
-        "喝一口无酒精饮品并回答"
-      ],
       "tags": [
-        "instant"
+        "challenge",
+        "alcohol"
       ],
       "supportedSeconds": [
+        5,
         10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为用清水或空杯举杯"
       ]
     },
     {
-      "id": "cr-ap-instant-10",
+      "id": "cr-ap-challenge-137",
       "level": "adult-plus",
-      "type": "instant",
-      "instruction": "与自愿玩家交换一个成人秘密",
+      "type": "challenge",
+      "instruction": "与一位玩家碰杯并说一个关系原则",
       "requirements": {
-        "pairConsent": true
+        "alcohol": true
       },
-      "consentRequired": true,
-      "alternatives": [
-        "交换一个普通秘密"
-      ],
       "tags": [
-        "instant"
+        "challenge",
+        "alcohol"
       ],
       "supportedSeconds": [
+        5,
         10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为用空杯或手势代替"
       ]
     },
     {
-      "id": "cr-ap-instant-11",
+      "id": "cr-ap-challenge-138",
       "level": "adult-plus",
-      "type": "instant",
-      "instruction": "对自愿玩家说一句亲密耳语",
+      "type": "challenge",
+      "instruction": "选择喝一小口或说出一个亲密边界",
+      "requirements": {
+        "alcohol": true
+      },
+      "tags": [
+        "challenge",
+        "alcohol"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为直接说出亲密边界"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-139",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "为一次冲动决定喝一小口并说明原因",
+      "requirements": {
+        "alcohol": true
+      },
+      "tags": [
+        "challenge",
+        "alcohol"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为只说明原因"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-140",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与右边玩家碰杯并互问一个关系问题",
+      "requirements": {
+        "alcohol": true
+      },
+      "tags": [
+        "challenge",
+        "alcohol"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为用手势碰杯"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-141",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "选择喝一小口或承认一次心动误判",
+      "requirements": {
+        "alcohol": true
+      },
+      "tags": [
+        "challenge",
+        "alcohol"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为承认一次心动误判"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-142",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "为最会守边界的玩家举杯",
+      "requirements": {
+        "alcohol": true
+      },
+      "tags": [
+        "challenge",
+        "alcohol"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为用清水或空杯举杯"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-143",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "喝一小口并说出一个不会酒后决定的事情",
+      "requirements": {
+        "alcohol": true
+      },
+      "tags": [
+        "challenge",
+        "alcohol"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为只说出该事情"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-144",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "与一位自愿玩家碰杯后各说一个约会雷点",
+      "requirements": {
+        "alcohol": true
+      },
+      "tags": [
+        "challenge",
+        "alcohol"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为用手势碰杯"
+      ]
+    },
+    {
+      "id": "cr-ap-challenge-145",
+      "level": "adult-plus",
+      "type": "challenge",
+      "instruction": "选择喝一小口或完成一次十秒真诚回答",
+      "requirements": {
+        "alcohol": true
+      },
+      "tags": [
+        "challenge",
+        "alcohol"
+      ],
+      "supportedSeconds": [
+        5,
+        10
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为完成十秒真诚回答"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-001",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用“随便”回避关系问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系或亲密问题",
+      "action": "换成一个明确答案或明确拒答",
+      "conflictGroup": "ap-ban-随便",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-002",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用“都可以”回避关系问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系或亲密问题",
+      "action": "换成一个明确答案或明确拒答",
+      "conflictGroup": "ap-ban-都可以",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-003",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用“你猜”回避关系问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系或亲密问题",
+      "action": "换成一个明确答案或明确拒答",
+      "conflictGroup": "ap-ban-你猜",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-004",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用“秘密”回避关系问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系或亲密问题",
+      "action": "换成一个明确答案或明确拒答",
+      "conflictGroup": "ap-ban-秘密",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-005",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用“不方便说”回避关系问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系或亲密问题",
+      "action": "换成一个明确答案或明确拒答",
+      "conflictGroup": "ap-ban-不方便说",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-006",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用“看感觉”回避关系问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系或亲密问题",
+      "action": "换成一个明确答案或明确拒答",
+      "conflictGroup": "ap-ban-看感觉",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-007",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用“无所谓”回避关系问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系或亲密问题",
+      "action": "换成一个明确答案或明确拒答",
+      "conflictGroup": "ap-ban-无所谓",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-008",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用“以后再说”回避关系问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系或亲密问题",
+      "action": "换成一个明确答案或明确拒答",
+      "conflictGroup": "ap-ban-以后再说",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-009",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用“顺其自然”回避关系问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系或亲密问题",
+      "action": "换成一个明确答案或明确拒答",
+      "conflictGroup": "ap-ban-顺其自然",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-010",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用“不知道”回避关系问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系或亲密问题",
+      "action": "换成一个明确答案或明确拒答",
+      "conflictGroup": "ap-ban-不知道",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-011",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用“没想过”回避关系问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系或亲密问题",
+      "action": "换成一个明确答案或明确拒答",
+      "conflictGroup": "ap-ban-没想过",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-012",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用“应该吧”回避关系问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系或亲密问题",
+      "action": "换成一个明确答案或明确拒答",
+      "conflictGroup": "ap-ban-应该吧",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-013",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用“差不多”回避关系问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系或亲密问题",
+      "action": "换成一个明确答案或明确拒答",
+      "conflictGroup": "ap-ban-差不多",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-014",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用“还好”回避关系问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系或亲密问题",
+      "action": "换成一个明确答案或明确拒答",
+      "conflictGroup": "ap-ban-还好",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-015",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用“都一样”回避关系问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系或亲密问题",
+      "action": "换成一个明确答案或明确拒答",
+      "conflictGroup": "ap-ban-都一样",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-016",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“边界”时，所有人举起一根手指",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“边界”",
+      "action": "所有人举起一根手指",
+      "conflictGroup": "ap-trigger-1",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-017",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“欲望”时，说话者补充一个可接受范围",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“欲望”",
+      "action": "说话者补充一个可接受范围",
+      "conflictGroup": "ap-trigger-2",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-018",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“亲密”时，右边玩家说“先确认同意”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“亲密”",
+      "action": "右边玩家说“先确认同意”",
+      "conflictGroup": "ap-trigger-3",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-019",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“开放”时，左边玩家提出一个边界问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“开放”",
+      "action": "左边玩家提出一个边界问题",
+      "conflictGroup": "ap-trigger-4",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-020",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“安全感”时，下一位玩家说出一个具体做法",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“安全感”",
+      "action": "下一位玩家说出一个具体做法",
+      "conflictGroup": "ap-trigger-5",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-021",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“排他”时，所有人点头或摇头表态",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“排他”",
+      "action": "所有人点头或摇头表态",
+      "conflictGroup": "ap-trigger-6",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-022",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“试探”时，说话者必须说明是否接受",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“试探”",
+      "action": "说话者说明是否接受",
+      "conflictGroup": "ap-trigger-7",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-023",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“节奏”时，上一位玩家说“可以慢一点”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“节奏”",
+      "action": "上一位玩家说“可以慢一点”",
+      "conflictGroup": "ap-trigger-8",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-024",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“隐私”时，所有人把手放在胸前一秒",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“隐私”",
+      "action": "所有人把手放在胸前一秒",
+      "conflictGroup": "ap-trigger-9",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-025",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“同意”时，说话者必须补充“可以反悔”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“同意”",
+      "action": "说话者补充“可以反悔”",
+      "conflictGroup": "ap-trigger-10",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-026",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人提到酒后决定时，所有人说“清醒再确认”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人提到酒后决定",
+      "action": "所有人说“清醒再确认”",
+      "conflictGroup": "ap-trigger-11",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-027",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人完成亲密类挑战后，下一位玩家评价是否尊重边界",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人完成亲密类挑战",
+      "action": "下一位玩家评价边界是否清楚",
+      "conflictGroup": "ap-trigger-12",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-028",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人拒绝互动后，所有人不能追问原因",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人明确拒绝互动",
+      "action": "所有人停止追问",
+      "conflictGroup": "ap-trigger-13",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-029",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人选择替代动作后，右边玩家必须说“替代有效”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人使用替代动作",
+      "action": "右边玩家说“替代有效”",
+      "conflictGroup": "ap-trigger-14",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-030",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人提到前任亲密经历时，提问者必须换成边界问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人提到前任亲密经历",
+      "action": "提问者改问边界",
+      "conflictGroup": "ap-trigger-15",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-031",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“可以”时，被涉及玩家要重新确认一次",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“可以”且涉及另一位玩家",
+      "action": "被涉及玩家再次确认",
+      "conflictGroup": "ap-trigger-16",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-032",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“第一次”时，左边玩家举手",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“第一次”",
+      "action": "左边玩家举手",
+      "conflictGroup": "ap-trigger-17",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-033",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“冲动”时，说话者必须说一个冷静方案",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“冲动”",
+      "action": "说话者补充一个冷静方案",
+      "conflictGroup": "ap-trigger-18",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-034",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“后悔”时，下一位玩家说“可以停止”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“后悔”",
+      "action": "下一位玩家说“可以停止”",
+      "conflictGroup": "ap-trigger-19",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-035",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“关系定义”时，所有人看向说话者两秒",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说出“关系定义”",
+      "action": "所有人看向说话者两秒",
+      "conflictGroup": "ap-trigger-20",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-036",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，说出一个亲密边界",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "说出一个亲密边界",
+      "conflictGroup": "ap-turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-037",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，说出一个可随时反悔的决定",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "说出一个可反悔的决定",
+      "conflictGroup": "ap-turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-038",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，向任意玩家问一个边界二选一",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "提出一个边界二选一",
+      "conflictGroup": "ap-turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-039",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，说明今天最不想被问的话题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "说明一个不想讨论的话题",
+      "conflictGroup": "ap-turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-040",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，复述最新一条持续法则",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "复述最新法则",
+      "conflictGroup": "ap-turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-041",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，说出当前权利最多的玩家",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "说出一位玩家",
+      "conflictGroup": "ap-turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-042",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，说一句明确拒绝的话",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "说一句明确拒绝",
+      "conflictGroup": "ap-turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-043",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，说一句确认同意的话",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "说一句确认同意",
+      "conflictGroup": "ap-turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-044",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，指向最尊重边界的人",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "指向一位玩家",
+      "conflictGroup": "ap-turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-045",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，说一个不会酒后决定的事情",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "说出一个事情",
+      "conflictGroup": "ap-turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-046",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，说一个理想亲密节奏",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "说出一个节奏",
+      "conflictGroup": "ap-turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-047",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，选择公开关系或保持私密",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "做出明确选择",
+      "conflictGroup": "ap-turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-048",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，向上一位玩家提一个可拒答的问题",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "提出一个可拒答问题",
+      "conflictGroup": "ap-turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-049",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，说一个你会先问再做的互动",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "说出一个互动",
+      "conflictGroup": "ap-turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-050",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你抽取前，说一个你最重视的安全原则",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "说出一个安全原则",
+      "conflictGroup": "ap-turn-opening",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-051",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "回答亲密问题不能只说“可以”或“不可以”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答亲密问题",
+      "action": "补充一个条件或边界",
+      "conflictGroup": "ap-answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-052",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被问到欲望时必须先说明可接受范围",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答欲望相关问题",
+      "action": "先说可接受范围",
+      "conflictGroup": "ap-answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-053",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被问到身体吸引时不能评价具体身体部位",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答身体吸引问题",
+      "action": "改说整体感觉或气质",
+      "conflictGroup": "ap-answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-054",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被问到关系安排时必须说出一个底线",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系安排问题",
+      "action": "说出一个底线",
+      "conflictGroup": "ap-answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-055",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被问到过去经历时可以拒答，但必须明确说拒答",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答过去经历问题",
+      "action": "明确回答或明确拒答",
+      "conflictGroup": "ap-answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-056",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被问到同意时必须说明是否可以随时停止",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答同意相关问题",
+      "action": "说明可以随时停止",
+      "conflictGroup": "ap-answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-057",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被问到亲密节奏时必须给出快慢选择",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答亲密节奏问题",
+      "action": "明确选择快或慢",
+      "conflictGroup": "ap-answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-058",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被问到开放关系时必须说出一个前提",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答开放关系问题",
+      "action": "说出一个前提",
+      "conflictGroup": "ap-answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-059",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被问到隐私时必须说出一项不能共享的内容",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答隐私问题",
+      "action": "说出一项不能共享内容",
+      "conflictGroup": "ap-answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-060",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被问到排他关系时必须给出明确态度",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答排他关系问题",
+      "action": "给出明确态度",
+      "conflictGroup": "ap-answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-061",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被问到酒后互动时必须先说是否清醒",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答酒后互动问题",
+      "action": "先说明清醒状态",
+      "conflictGroup": "ap-answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-062",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被问到朋友变恋人时必须说一个风险",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答朋友变恋人问题",
+      "action": "说出一个风险",
+      "conflictGroup": "ap-answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-063",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被问到同居时必须说一个必要条件",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答同居问题",
+      "action": "说出一个必要条件",
+      "conflictGroup": "ap-answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-064",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被问到亲吻边界时必须给出可接受或拒绝",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答亲吻边界问题",
+      "action": "明确可接受或拒绝",
+      "conflictGroup": "ap-answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-065",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被问到关系结束时必须说一个体面做法",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答关系结束问题",
+      "action": "说出一个体面做法",
+      "conflictGroup": "ap-answer-format",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-066",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用性别称呼代替玩家姓名",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "称呼现场玩家",
+      "action": "使用姓名或昵称",
+      "conflictGroup": "ap-social-boundary",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-067",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "向玩家提出亲密问题前必须先说“可以拒答”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备提出亲密问题",
+      "action": "先说“可以拒答”",
+      "conflictGroup": "ap-social-boundary",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-068",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "评价玩家吸引力时必须先征得对方同意",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备评价玩家吸引力",
+      "action": "先询问是否愿意",
+      "conflictGroup": "ap-social-boundary",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-069",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能替其他玩家判断他是否同意",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "讨论他人同意状态",
+      "action": "让本人明确表达",
+      "conflictGroup": "ap-social-boundary",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-070",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说不舒服后，不能要求解释原因",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人表达不舒服",
+      "action": "停止追问",
+      "conflictGroup": "ap-social-boundary",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-071",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被别人拒绝后必须回答“收到”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的提议被拒绝",
+      "action": "回答“收到”",
+      "conflictGroup": "ap-social-boundary",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-072",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "邀请玩家互动时必须提供一个替代动作",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备邀请互动",
+      "action": "同时给出替代动作",
+      "conflictGroup": "ap-social-boundary",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-073",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能用起哄代替当事人确认",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "现场出现起哄",
+      "action": "由当事人明确确认",
+      "conflictGroup": "ap-social-boundary",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-074",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "提到某位玩家的边界时必须看向本人确认",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "讨论某位玩家边界",
+      "action": "看向本人确认",
+      "conflictGroup": "ap-social-boundary",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-075",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "不能公开推测其他玩家的私密经历",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "准备推测他人私密经历",
+      "action": "改问本人愿意公开的内容",
+      "conflictGroup": "ap-social-boundary",
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-076",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你时，与一位自愿玩家击掌后再抽取",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "与自愿玩家击掌",
+      "conflictGroup": "ap-contact-1",
       "requirements": {
         "contact": true,
         "contactLevel": 1,
         "pairConsent": true
       },
+      "tags": [
+        "persistent"
+      ],
       "consentRequired": true,
       "alternatives": [
-        "保持距离轻声说一句夸奖"
-      ],
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
-        5,
-        10
+        "改为双方各自举手确认"
       ]
     },
     {
-      "id": "cr-ap-instant-12",
+      "id": "cr-ap-persistent-077",
       "level": "adult-plus",
-      "type": "instant",
-      "instruction": "与自愿玩家完成亲密对视",
+      "type": "persistent",
+      "instruction": "被点名回答时，可与提问者轻碰拳后回答",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "被点名回答",
+      "action": "与自愿提问者轻碰拳或使用替代动作",
+      "conflictGroup": "ap-contact-2",
       "requirements": {
+        "contact": true,
+        "contactLevel": 1,
         "pairConsent": true
       },
+      "tags": [
+        "persistent"
+      ],
       "consentRequired": true,
       "alternatives": [
-        "与全场任意一人普通对视十秒"
-      ],
-      "tags": [
-        "instant"
-      ],
-      "supportedSeconds": [
-        5,
-        10
+        "改为双方各自举手确认"
       ]
     },
     {
-      "id": "cr-ap-persistent-01",
+      "id": "cr-ap-persistent-078",
       "level": "adult-plus",
       "type": "persistent",
-      "instruction": "每次发言先征得提问者同意",
-      "duration": 3,
+      "instruction": "完成挑战后，与一位自愿玩家手掌相对一秒",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "完成个人挑战",
+      "action": "与自愿玩家手掌相对一秒",
+      "conflictGroup": "ap-contact-3",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "persistent"
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为双方各自举手确认"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-079",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "获得权利后，与右边自愿玩家击掌一次",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "获得个人权利",
+      "action": "与右边自愿玩家击掌",
+      "conflictGroup": "ap-contact-4",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "persistent"
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为双方各自举手确认"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-080",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被记录失误前，可与一位自愿玩家握手确认",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "即将记录失误",
+      "action": "与自愿玩家握手",
+      "conflictGroup": "ap-contact-5",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "persistent"
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为双方各自举手确认"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-081",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "轮到你时，与左边自愿玩家同步举手",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "自己的回合开始",
+      "action": "与左边自愿玩家同步举手",
+      "conflictGroup": "ap-contact-6",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "persistent"
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为双方各自举手确认"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-082",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "回答边界问题前，与一位自愿玩家隔空碰拳",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "回答边界问题",
+      "action": "与自愿玩家隔空碰拳",
+      "conflictGroup": "ap-contact-7",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "persistent"
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为双方各自举手确认"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-083",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人使用替代动作时，右边自愿玩家轻拍桌面回应",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人使用替代动作",
+      "action": "右边玩家轻拍桌面",
+      "conflictGroup": "ap-contact-8",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "persistent"
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为双方各自举手确认"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-084",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "完成亲密类挑战后，与自愿搭档击掌结束",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "完成亲密类挑战",
+      "action": "与自愿搭档击掌",
+      "conflictGroup": "ap-contact-9",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "persistent"
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为双方各自举手确认"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-085",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "被问到同意时，与涉及玩家保持舒适距离对视一秒",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "被问到同意且涉及另一位玩家",
+      "action": "在舒适距离对视一秒",
+      "conflictGroup": "ap-contact-10",
+      "requirements": {
+        "contact": true,
+        "contactLevel": 1,
+        "pairConsent": true
+      },
+      "tags": [
+        "persistent"
+      ],
+      "consentRequired": true,
+      "alternatives": [
+        "改为双方各自举手确认"
+      ]
+    },
+    {
+      "id": "cr-ap-persistent-086",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人举杯时必须同时说出一个清醒边界",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人举杯",
+      "action": "说出一个清醒边界",
+      "conflictGroup": "ap-alcohol-1",
+      "requirements": {
+        "alcohol": true
+      },
+      "tags": [
+        "persistent"
+      ],
+      "alternatives": [
+        "使用清水、空杯或口头回答代替"
+      ],
+      "consentRequired": true
+    },
+    {
+      "id": "cr-ap-persistent-087",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人选择饮酒替代项时不能被继续劝酒",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人选择不饮酒替代",
+      "action": "停止劝酒",
+      "conflictGroup": "ap-alcohol-2",
+      "requirements": {
+        "alcohol": true
+      },
+      "tags": [
+        "persistent"
+      ],
+      "alternatives": [
+        "使用清水、空杯或口头回答代替"
+      ],
+      "consentRequired": true
+    },
+    {
+      "id": "cr-ap-persistent-088",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "提到酒后亲密时必须补充“清醒后再确认”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人提到酒后亲密",
+      "action": "补充“清醒后再确认”",
+      "conflictGroup": "ap-alcohol-3",
+      "requirements": {
+        "alcohol": true
+      },
+      "tags": [
+        "persistent"
+      ],
+      "alternatives": [
+        "使用清水、空杯或口头回答代替"
+      ],
+      "consentRequired": true
+    },
+    {
+      "id": "cr-ap-persistent-089",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "用饮品完成挑战时必须允许无酒精替代",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "挑战涉及饮品",
+      "action": "提供无酒精替代",
+      "conflictGroup": "ap-alcohol-4",
+      "requirements": {
+        "alcohol": true
+      },
+      "tags": [
+        "persistent"
+      ],
+      "alternatives": [
+        "使用清水、空杯或口头回答代替"
+      ],
+      "consentRequired": true
+    },
+    {
+      "id": "cr-ap-persistent-090",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人说“喝一点没事”时，右边玩家回答“可以拒绝”",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人说“喝一点没事”",
+      "action": "右边玩家说“可以拒绝”",
+      "conflictGroup": "ap-alcohol-5",
+      "requirements": {
+        "alcohol": true
+      },
+      "tags": [
+        "persistent"
+      ],
+      "alternatives": [
+        "使用清水、空杯或口头回答代替"
+      ],
+      "consentRequired": true
+    },
+    {
+      "id": "cr-ap-persistent-091",
+      "level": "adult-plus",
+      "type": "persistent",
+      "instruction": "有人明确说停时，所有人立即停止当前互动",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人明确说“停”",
+      "action": "所有人立即停止",
+      "conflictGroup": "ap-group-1",
       "requirements": {},
       "tags": [
         "persistent"
       ]
     },
     {
-      "id": "cr-ap-persistent-02",
+      "id": "cr-ap-persistent-092",
       "level": "adult-plus",
       "type": "persistent",
-      "instruction": "不能使用不敢两个字",
-      "duration": 3,
+      "instruction": "有人选择跳过时，所有人不得追问",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人选择跳过",
+      "action": "所有人停止追问",
+      "conflictGroup": "ap-group-2",
       "requirements": {},
       "tags": [
         "persistent"
       ]
     },
     {
-      "id": "cr-ap-persistent-03",
+      "id": "cr-ap-persistent-093",
       "level": "adult-plus",
       "type": "persistent",
-      "instruction": "被点名时先说我自愿回答",
-      "duration": 3,
+      "instruction": "有人提出边界后，下一位玩家必须复述该边界",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人提出边界",
+      "action": "下一位玩家复述边界",
+      "conflictGroup": "ap-group-3",
       "requirements": {},
       "tags": [
         "persistent"
       ]
     },
     {
-      "id": "cr-ap-persistent-04",
+      "id": "cr-ap-persistent-094",
       "level": "adult-plus",
       "type": "persistent",
-      "instruction": "任何接触前必须先口头确认",
-      "duration": 4,
+      "instruction": "有人主动确认同意时，涉及玩家必须分别回答",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人发起同意确认",
+      "action": "每位涉及玩家分别回答",
+      "conflictGroup": "ap-group-4",
       "requirements": {},
       "tags": [
         "persistent"
       ]
     },
     {
-      "id": "cr-ap-persistent-05",
+      "id": "cr-ap-persistent-095",
       "level": "adult-plus",
       "type": "persistent",
-      "instruction": "只能称呼别人为心动嘉宾",
-      "duration": 3,
+      "instruction": "有人使用个人权利时，所有人说出该权利名称",
+      "duration": 5,
+      "scope": "all",
+      "trigger": "有人使用个人权利",
+      "action": "所有人复述权利名称",
+      "conflictGroup": "ap-group-5",
       "requirements": {},
       "tags": [
         "persistent"
-      ]
-    },
-    {
-      "id": "cr-ap-persistent-06",
-      "level": "adult-plus",
-      "type": "persistent",
-      "instruction": "回答成人问题不能用不知道",
-      "duration": 3,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-ap-persistent-07",
-      "level": "adult-plus",
-      "type": "persistent",
-      "instruction": "每句话结尾加一句可以拒绝",
-      "duration": 3,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-ap-persistent-08",
-      "level": "adult-plus",
-      "type": "persistent",
-      "instruction": "有人说暧昧时必须举手",
-      "duration": 4,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-ap-persistent-09",
-      "level": "adult-plus",
-      "type": "persistent",
-      "instruction": "每次发言先确认是否继续",
-      "duration": 3,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-ap-persistent-10",
-      "level": "adult-plus",
-      "type": "persistent",
-      "instruction": "不能用喝多了作为理由",
-      "duration": 4,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-ap-persistent-11",
-      "level": "adult-plus",
-      "type": "persistent",
-      "instruction": "回答时必须明确是或否",
-      "duration": 3,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-ap-persistent-12",
-      "level": "adult-plus",
-      "type": "persistent",
-      "instruction": "任何双人任务都先询问同意",
-      "duration": 4,
-      "requirements": {},
-      "tags": [
-        "persistent"
-      ]
-    },
-    {
-      "id": "cr-ap-event-01",
-      "level": "adult-plus",
-      "type": "event",
-      "instruction": "指向最会主动亲吻的人",
-      "requirements": {},
-      "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        3,
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-ap-event-02",
-      "level": "adult-plus",
-      "type": "event",
-      "instruction": "立刻选择：拥抱或牵手",
-      "requirements": {},
-      "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        3,
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-ap-event-03",
-      "level": "adult-plus",
-      "type": "event",
-      "instruction": "说出一个亲密边界",
-      "requirements": {},
-      "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-ap-event-04",
-      "level": "adult-plus",
-      "type": "event",
-      "instruction": "指向最会制造亲密气氛的人",
-      "requirements": {},
-      "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        3,
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-ap-event-05",
-      "level": "adult-plus",
-      "type": "event",
-      "instruction": "说出一件必须先确认的亲密行为",
-      "requirements": {},
-      "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-ap-event-06",
-      "level": "adult-plus",
-      "type": "event",
-      "instruction": "承认一次酒后冲动决定",
-      "requirements": {},
-      "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        10
-      ]
-    },
-    {
-      "id": "cr-ap-event-07",
-      "level": "adult-plus",
-      "type": "event",
-      "instruction": "指向最可能秘密约会的人",
-      "requirements": {},
-      "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        3,
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-ap-event-08",
-      "level": "adult-plus",
-      "type": "event",
-      "instruction": "立刻选择：亲吻或拥抱",
-      "requirements": {},
-      "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        3,
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-ap-event-09",
-      "level": "adult-plus",
-      "type": "event",
-      "instruction": "指向最会明确拒绝不适任务的人",
-      "requirements": {},
-      "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        3,
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-ap-event-10",
-      "level": "adult-plus",
-      "type": "event",
-      "instruction": "说出一个成人关系底线",
-      "requirements": {},
-      "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-ap-event-11",
-      "level": "adult-plus",
-      "type": "event",
-      "instruction": "说出一个安全词",
-      "requirements": {},
-      "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        3,
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-ap-event-12",
-      "level": "adult-plus",
-      "type": "event",
-      "instruction": "指向最会保持边界的人",
-      "requirements": {},
-      "tags": [
-        "event"
-      ],
-      "supportedSeconds": [
-        3,
-        5,
-        10
-      ]
-    },
-    {
-      "id": "cr-ap-privilege-01",
-      "level": "adult-plus",
-      "type": "privilege",
-      "instruction": "获得一次无条件拒绝护盾",
-      "effect": "shield",
-      "requirements": {},
-      "tags": [
-        "privilege"
-      ]
-    },
-    {
-      "id": "cr-ap-privilege-02",
-      "level": "adult-plus",
-      "type": "privilege",
-      "instruction": "取消一条亲密持续法则",
-      "effect": "cancel-rule",
-      "requirements": {},
-      "tags": [
-        "privilege"
-      ]
-    },
-    {
-      "id": "cr-ap-privilege-03",
-      "level": "adult-plus",
-      "type": "privilege",
-      "instruction": "获得一次指定自愿参与者的权利",
-      "effect": "choose-next",
-      "requirements": {},
-      "tags": [
-        "privilege"
-      ]
-    },
-    {
-      "id": "cr-ap-privilege-04",
-      "level": "adult-plus",
-      "type": "privilege",
-      "instruction": "清除自己一次失误",
-      "effect": "clear-mistake",
-      "requirements": {},
-      "tags": [
-        "privilege"
-      ]
-    },
-    {
-      "id": "cr-ap-privilege-05",
-      "level": "adult-plus",
-      "type": "privilege",
-      "instruction": "得到一次成人任务豁免",
-      "effect": "shield",
-      "requirements": {},
-      "tags": [
-        "privilege"
-      ]
-    },
-    {
-      "id": "cr-ap-privilege-06",
-      "level": "adult-plus",
-      "type": "privilege",
-      "instruction": "让一条接触法则提前结束",
-      "effect": "cancel-rule",
-      "requirements": {},
-      "tags": [
-        "privilege"
-      ]
-    },
-    {
-      "id": "cr-ap-privilege-07",
-      "level": "adult-plus",
-      "type": "privilege",
-      "instruction": "选择下一位接受挑战的人",
-      "effect": "choose-next",
-      "requirements": {},
-      "tags": [
-        "privilege"
-      ]
-    },
-    {
-      "id": "cr-ap-privilege-08",
-      "level": "adult-plus",
-      "type": "privilege",
-      "instruction": "撤销一次成人话题失误",
-      "effect": "clear-mistake",
-      "requirements": {},
-      "tags": [
-        "privilege"
-      ]
-    },
-    {
-      "id": "cr-ap-privilege-09",
-      "level": "adult-plus",
-      "type": "privilege",
-      "instruction": "保留一次替代任务权",
-      "effect": "shield",
-      "requirements": {},
-      "tags": [
-        "privilege"
-      ]
-    },
-    {
-      "id": "cr-ap-privilege-10",
-      "level": "adult-plus",
-      "type": "privilege",
-      "instruction": "终止一条需要接触的法则",
-      "effect": "cancel-rule",
-      "requirements": {},
-      "tags": [
-        "privilege"
-      ]
-    },
-    {
-      "id": "cr-ap-privilege-11",
-      "level": "adult-plus",
-      "type": "privilege",
-      "instruction": "把回合交给任意玩家",
-      "effect": "choose-next",
-      "requirements": {},
-      "tags": [
-        "privilege"
-      ]
-    },
-    {
-      "id": "cr-ap-privilege-12",
-      "level": "adult-plus",
-      "type": "privilege",
-      "instruction": "减少一次失误记录",
-      "effect": "clear-mistake",
-      "requirements": {},
-      "tags": [
-        "privilege"
-      ]
-    },
-    {
-      "id": "cr-ap-direction-01",
-      "level": "adult-plus",
-      "type": "direction",
-      "instruction": "回合方向反转",
-      "effect": "reverse",
-      "requirements": {},
-      "tags": [
-        "direction"
-      ]
-    },
-    {
-      "id": "cr-ap-direction-02",
-      "level": "adult-plus",
-      "type": "direction",
-      "instruction": "跳过下一位玩家",
-      "effect": "skip",
-      "requirements": {},
-      "tags": [
-        "direction"
-      ]
-    },
-    {
-      "id": "cr-ap-direction-03",
-      "level": "adult-plus",
-      "type": "direction",
-      "instruction": "当前玩家再抽一条",
-      "effect": "repeat",
-      "requirements": {},
-      "tags": [
-        "direction"
-      ]
-    },
-    {
-      "id": "cr-ap-direction-04",
-      "level": "adult-plus",
-      "type": "direction",
-      "instruction": "指定下一位玩家",
-      "effect": "choose-next",
-      "requirements": {},
-      "tags": [
-        "direction"
-      ]
-    },
-    {
-      "id": "cr-ap-direction-05",
-      "level": "adult-plus",
-      "type": "direction",
-      "instruction": "所有回合改为逆向",
-      "effect": "reverse",
-      "requirements": {},
-      "tags": [
-        "direction"
-      ]
-    },
-    {
-      "id": "cr-ap-direction-06",
-      "level": "adult-plus",
-      "type": "direction",
-      "instruction": "下一位跳过成人挑战",
-      "effect": "skip",
-      "requirements": {},
-      "tags": [
-        "direction"
-      ]
-    },
-    {
-      "id": "cr-ap-direction-07",
-      "level": "adult-plus",
-      "type": "direction",
-      "instruction": "当前玩家继续一回合",
-      "effect": "repeat",
-      "requirements": {},
-      "tags": [
-        "direction"
-      ]
-    },
-    {
-      "id": "cr-ap-direction-08",
-      "level": "adult-plus",
-      "type": "direction",
-      "instruction": "选择下一位自愿参与者",
-      "effect": "choose-next",
-      "requirements": {},
-      "tags": [
-        "direction"
-      ]
-    },
-    {
-      "id": "cr-ap-direction-09",
-      "level": "adult-plus",
-      "type": "direction",
-      "instruction": "顺序立即掉头",
-      "effect": "reverse",
-      "requirements": {},
-      "tags": [
-        "direction"
-      ]
-    },
-    {
-      "id": "cr-ap-direction-10",
-      "level": "adult-plus",
-      "type": "direction",
-      "instruction": "跨过下一位继续",
-      "effect": "skip",
-      "requirements": {},
-      "tags": [
-        "direction"
-      ]
-    },
-    {
-      "id": "cr-ap-direction-11",
-      "level": "adult-plus",
-      "type": "direction",
-      "instruction": "当前玩家保持回合",
-      "effect": "repeat",
-      "requirements": {},
-      "tags": [
-        "direction"
-      ]
-    },
-    {
-      "id": "cr-ap-direction-12",
-      "level": "adult-plus",
-      "type": "direction",
-      "instruction": "把回合交给指定玩家",
-      "effect": "choose-next",
-      "requirements": {},
-      "tags": [
-        "direction"
       ]
     }
   ]

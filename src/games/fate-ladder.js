@@ -7,7 +7,7 @@ const BASE_WIDTH = 600;
 const MIN_BLOCK_WIDTH = 42;
 const MIN_OVERLAP_RATIO = 0.12;
 const PERFECT_RATIO = 0.028;
-const MAX_VISIBLE_BLOCKS = 11;
+const MAX_VISIBLE_BLOCKS = 9;
 const BLOCK_STEP = 25;
 const BASE_BOTTOM = 22;
 const DROP_DISTANCE = 72;
@@ -53,7 +53,7 @@ const plugin = {
     let turnIndex = 0;
     let tower = [];
     let moving = null;
-    let phase = 'ready';
+    let phase = 'intro';
     let frameId = 0;
     let lastFrame = 0;
     let roundToken = 0;
@@ -76,8 +76,8 @@ const plugin = {
       turnIndex = 0;
       tower = [{ left: (WORLD_WIDTH - BASE_WIDTH) / 2, width: BASE_WIDTH, playerId: null, base: true, perfect: true }];
       moving = null;
-      phase = 'ready';
-      renderReady();
+      phase = 'intro';
+      renderIntro();
     };
 
     const visibleTower = () => {
@@ -102,25 +102,42 @@ const plugin = {
       </div>`;
     };
 
-    const renderReady = (message = '') => {
-      phase = 'ready';
-      moving = null;
-      const player = currentPlayer();
-      root.innerHTML = `${stageHeader(plugin.title, `当前塔高 ${height()} 层`)}
-        <section class="private-stage stack-pass-stage">
+    const applyCamera = ({ includeMoving = false } = {}) => {
+      requestAnimationFrame(() => {
+        const arena = root.querySelector('.stack-arena');
+        const world = root.querySelector('[data-stack-world]');
+        if (!arena || !world) return;
+        const visibleCount = Math.min(tower.length, MAX_VISIBLE_BLOCKS);
+        const rawHeight = BASE_BOTTOM + visibleCount * BLOCK_STEP + (includeMoving ? DROP_DISTANCE + 28 : 30);
+        const available = Math.max(220, arena.clientHeight - 30);
+        let scale = Math.min(1, available / rawHeight);
+        if (height() > 5) {
+          scale = Math.min(scale, 1 - Math.min(0.28, (height() - 5) * 0.025));
+        }
+        scale = Math.max(0.68, scale);
+        const shift = height() > 5 ? Math.min(18, (height() - 5) * 1.5) : 0;
+        world.style.setProperty('--camera-scale', scale.toFixed(3));
+        world.style.setProperty('--camera-shift', `${shift}px`);
+      });
+    };
+
+    const renderIntro = () => {
+      const first = currentPlayer();
+      root.innerHTML = `${stageHeader(plugin.title, '本局只需开始一次')}
+        <section class="private-stage stack-intro-stage">
           <span class="stack-pass-icon" aria-hidden="true">▰</span>
-          <span class="eyebrow">请把手机交给</span>
-          <h2>${escapeHtml(player.name)}</h2>
-          <p>${message || '方块左右移动时点击屏幕。落在塔顶上就成功；没有接住，你立即失败。'}</p>
+          <span class="eyebrow">第一位玩家</span>
+          <h2>${escapeHtml(first.name)}</h2>
+          <p>方块开始移动后，点击屏幕让它落下。成功后会自动切换到下一位，不需要逐回合确认。</p>
           <div class="stack-mini-rule"><span>塔顶亮边区域就是安全区</span><span>塔越高，移动越快、区域越窄</span></div>
-          <button class="button primary full" data-ready>准备好了</button>
+          <button class="button primary full" data-start-game>开始叠塔</button>
         </section>`;
       bindExit(root, ctx);
-      root.querySelector('[data-ready]').onclick = beginTurn;
+      root.querySelector('[data-start-game]').onclick = beginTurn;
     };
 
     const beginTurn = async () => {
-      if (phase !== 'ready') return;
+      if (!['intro', 'result', 'paused'].includes(phase)) return;
       const token = roundToken;
       const top = topBlock();
       const factor = shrinkFor(height());
@@ -135,7 +152,7 @@ const plugin = {
       };
       phase = 'arming';
       renderPlay(true);
-      await wait(520);
+      await wait(420);
       if (token !== roundToken || phase !== 'arming') return;
       phase = 'moving';
       const state = root.querySelector('[data-stack-state]');
@@ -156,8 +173,8 @@ const plugin = {
             <div><span>难度</span><strong>${difficultyLabel(height())}</strong></div>
           </div>
           <div class="stack-instruction">
-            <strong data-stack-state>${arming ? '准备开始移动…' : '方块正在移动，点击屏幕放下'}</strong>
-            <span>方块必须有足够部分落在塔顶上；没接住就失败。</span>
+            <strong data-stack-state>${arming ? `轮到 ${escapeHtml(player.name)}，方块即将移动` : '方块正在移动，点击屏幕放下'}</strong>
+            <span>镜头会自动跟随塔顶；只需判断移动方块是否对准下方亮边区域。</span>
           </div>
           <div class="stack-arena" data-drop-area role="button" tabindex="0" aria-label="点击放下方块">
             ${towerMarkup({ includeMoving: true })}
@@ -166,6 +183,7 @@ const plugin = {
           <button class="button primary full stack-drop-button" data-drop ${arming ? 'disabled' : ''}>点击放下</button>
         </section>`;
       bindExit(root, ctx);
+      applyCamera({ includeMoving: true });
       const drop = () => dropBlock();
       root.querySelector('[data-drop-area]').onclick = drop;
       root.querySelector('[data-drop-area]').onkeydown = event => {
@@ -220,7 +238,7 @@ const plugin = {
         try {
           await node.animate(
             [{ transform: 'translateY(0)' }, { transform: `translateY(${DROP_DISTANCE}px)` }],
-            { duration: reduced ? 80 : 280, easing: 'cubic-bezier(.2,.75,.25,1)', fill: 'forwards' }
+            { duration: reduced ? 80 : 260, easing: 'cubic-bezier(.2,.75,.25,1)', fill: 'forwards' }
           ).finished;
         } catch {}
       }
@@ -248,21 +266,25 @@ const plugin = {
     const renderSuccess = async perfect => {
       phase = 'result';
       const token = roundToken;
+      const finisher = currentPlayer();
+      const nextIndex = (turnIndex + 1) % order.length;
+      const nextPlayer = order[nextIndex];
       root.innerHTML = `${stageHeader(plugin.title, `塔高 ${height()} 层`)}
         <section class="game-stage stack-stage stack-success-stage">
           <div class="stack-result-banner ${perfect ? 'perfect' : ''}">
             <span>${perfect ? '完美叠放' : '放置成功'}</span>
-            <strong>${escapeHtml(currentPlayer().name)} 接住了第 ${height()} 层</strong>
-            <small>${perfect ? '本次没有因偏移继续缩小' : '安全区已按重叠部分缩小'}</small>
+            <strong>${escapeHtml(finisher.name)} 接住了第 ${height()} 层</strong>
+            <small>下一位：${escapeHtml(nextPlayer.name)} · 即将自动开始</small>
           </div>
           <div class="stack-arena static">${towerMarkup()}</div>
-          <p>即将交给下一位玩家…</p>
+          <div class="stack-next-player"><span>请把手机交给</span><strong>${escapeHtml(nextPlayer.name)}</strong></div>
         </section>`;
       bindExit(root, ctx);
-      await wait(perfect ? 980 : 760);
+      applyCamera();
+      await wait(perfect ? 820 : 680);
       if (token !== roundToken || phase !== 'result') return;
-      turnIndex = (turnIndex + 1) % order.length;
-      renderReady();
+      turnIndex = nextIndex;
+      beginTurn();
     };
 
     const renderCollapse = async () => {
@@ -273,6 +295,7 @@ const plugin = {
         <div class="stack-arena static failed">${towerMarkup({ includeMoving: true, failed: true })}</div>
       </section>`;
       bindExit(root, ctx);
+      applyCamera({ includeMoving: true });
       const blocks = [...root.querySelectorAll('.stack-block.settled')];
       const missed = root.querySelector('[data-moving]');
       const reduced = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
@@ -315,15 +338,27 @@ const plugin = {
       root.querySelector('[data-restart]').onclick = reset;
     };
 
+    const renderResume = () => {
+      phase = 'paused';
+      root.innerHTML = `${stageHeader(plugin.title, `当前塔高 ${height()} 层`)}
+        <section class="private-stage stack-intro-stage">
+          <span class="stack-pass-icon" aria-hidden="true">▰</span>
+          <span class="eyebrow">游戏已暂停</span>
+          <h2>${escapeHtml(currentPlayer().name)}</h2>
+          <p>页面刚刚离开前台，本次没有判定失败。点击后重新开始当前玩家的移动方块。</p>
+          <button class="button primary full" data-resume>继续本回合</button>
+        </section>`;
+      bindExit(root, ctx);
+      root.querySelector('[data-resume]').onclick = beginTurn;
+    };
+
     const visibilityGuard = () => {
       if (document.hidden && (phase === 'moving' || phase === 'arming')) {
         cancelMotion();
         phase = 'paused';
         return;
       }
-      if (!document.hidden && phase === 'paused') {
-        renderReady('游戏离开过前台，本次没有判定失败。请重新准备后继续。');
-      }
+      if (!document.hidden && phase === 'paused') renderResume();
     };
 
     document.addEventListener('visibilitychange', visibilityGuard);

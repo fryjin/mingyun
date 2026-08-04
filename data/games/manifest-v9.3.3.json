@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.3.3-2026.08",
+  "generatedAt": "2026-08-04",
+  "description": "V9.3.3 仅重写并扩充混乱法则成人与成人进阶两档；轻松、标准、大胆保持不变。",
+  "totals": {
+    "updatedFiles": 2,
+    "updatedItems": 420,
+    "adult": 180,
+    "adult-plus": 240
+  },
+  "files": [
+    {
+      "file": "data/games/chaos-rules-adult.json",
+      "game": "chaos-rules",
+      "level": "adult",
+      "count": 180,
+      "sha256": "460b0d6c463e4997001e3a09382d79f735b8ba15c36d9ced0e47e14f5b528b66",
+      "bytes": 62835,
+      "challengeCount": 110,
+      "persistentCount": 70
+    },
+    {
+      "file": "data/games/chaos-rules-adult-plus.json",
+      "game": "chaos-rules",
+      "level": "adult-plus",
+      "count": 240,
+      "sha256": "cc7eb1ef0e9393039aa4c25ca9f704b2167236fec4a0735d111c7c9d2c06ea9e",
+      "bytes": 99177,
+      "challengeCount": 145,
+      "persistentCount": 95
+    }
+  ]
+}
