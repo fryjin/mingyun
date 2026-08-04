@@ -1,8 +1,12 @@
 import './would-rather.js';
 import './king.js';
+import './chaos-rules.js';
+import './two-truths-one-lie.js';
+import './fate-ladder.js';
 import './dice.js';
 import './wheel.js';
 import './undercover.js';
 import './most-likely.js';
+import './i-did-it.js';
 import './five-second.js';
 import './hot-potato.js';

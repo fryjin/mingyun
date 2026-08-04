@@ -1,0 +1,647 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.3.0-2026.08",
+  "game": "chaos-rules",
+  "level": "bold",
+  "levelLabel": "大胆",
+  "type": "rule",
+  "count": 60,
+  "items": [
+    {
+      "id": "cr-b-instant-01",
+      "level": "bold",
+      "type": "instant",
+      "instruction": "说出最近一次吃醋原因",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-b-instant-02",
+      "level": "bold",
+      "type": "instant",
+      "instruction": "承认一个暧昧小心思",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-b-instant-03",
+      "level": "bold",
+      "type": "instant",
+      "instruction": "读出最近搜索记录主题",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-b-instant-04",
+      "level": "bold",
+      "type": "instant",
+      "instruction": "说出曾经心动的类型",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-b-instant-05",
+      "level": "bold",
+      "type": "instant",
+      "instruction": "讲一次最尴尬的约会",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-b-instant-06",
+      "level": "bold",
+      "type": "instant",
+      "instruction": "指出最想交换生活的人",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-b-instant-07",
+      "level": "bold",
+      "type": "instant",
+      "instruction": "说出一次故意已读不回",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-b-instant-08",
+      "level": "bold",
+      "type": "instant",
+      "instruction": "承认一次感情里的嘴硬",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-b-instant-09",
+      "level": "bold",
+      "type": "instant",
+      "instruction": "模仿自己收到表白的反应",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-b-instant-10",
+      "level": "bold",
+      "type": "instant",
+      "instruction": "说出最想撤回的一句话",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-b-instant-11",
+      "level": "bold",
+      "type": "instant",
+      "instruction": "选一人互相夸到词穷",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-b-instant-12",
+      "level": "bold",
+      "type": "instant",
+      "instruction": "讲一次聚会后的后悔",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-b-persistent-01",
+      "level": "bold",
+      "type": "persistent",
+      "instruction": "不能说喜欢和讨厌",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-b-persistent-02",
+      "level": "bold",
+      "type": "persistent",
+      "instruction": "每次回答先看向一位玩家",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-b-persistent-03",
+      "level": "bold",
+      "type": "persistent",
+      "instruction": "被点名时必须说我心虚",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-b-persistent-04",
+      "level": "bold",
+      "type": "persistent",
+      "instruction": "只能用暧昧语气回答",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-b-persistent-05",
+      "level": "bold",
+      "type": "persistent",
+      "instruction": "不能提到前任两个字",
+      "duration": 4,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-b-persistent-06",
+      "level": "bold",
+      "type": "persistent",
+      "instruction": "每句话结尾都要说真的",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-b-persistent-07",
+      "level": "bold",
+      "type": "persistent",
+      "instruction": "有人看你时必须眨眼",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-b-persistent-08",
+      "level": "bold",
+      "type": "persistent",
+      "instruction": "不能回避任何直接提问",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-b-persistent-09",
+      "level": "bold",
+      "type": "persistent",
+      "instruction": "发言前先说我承认",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-b-persistent-10",
+      "level": "bold",
+      "type": "persistent",
+      "instruction": "只能称呼别人为亲爱的",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-b-persistent-11",
+      "level": "bold",
+      "type": "persistent",
+      "instruction": "回答时必须选择一个人看着",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-b-persistent-12",
+      "level": "bold",
+      "type": "persistent",
+      "instruction": "不能使用随便和都行",
+      "duration": 4,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-b-global-01",
+      "level": "bold",
+      "type": "global",
+      "instruction": "同时指向最会暗恋的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-b-global-02",
+      "level": "bold",
+      "type": "global",
+      "instruction": "同时指向最可能吃回头草的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-b-global-03",
+      "level": "bold",
+      "type": "global",
+      "instruction": "最后说出前任优点的人记失误",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-b-global-04",
+      "level": "bold",
+      "type": "global",
+      "instruction": "同时指向最会欲擒故纵的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-b-global-05",
+      "level": "bold",
+      "type": "global",
+      "instruction": "三秒内说出理想型关键词",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-b-global-06",
+      "level": "bold",
+      "type": "global",
+      "instruction": "最后承认吃过醋的人记失误",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-b-global-07",
+      "level": "bold",
+      "type": "global",
+      "instruction": "同时指向最容易心软的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-b-global-08",
+      "level": "bold",
+      "type": "global",
+      "instruction": "每人说一个约会雷点",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-b-global-09",
+      "level": "bold",
+      "type": "global",
+      "instruction": "最后说出暧昧对象特征的人记失误",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-b-global-10",
+      "level": "bold",
+      "type": "global",
+      "instruction": "同时指向最会隐藏心动的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-b-global-11",
+      "level": "bold",
+      "type": "global",
+      "instruction": "三秒内选择主动或被动",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-b-global-12",
+      "level": "bold",
+      "type": "global",
+      "instruction": "同时指向最可能复合的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-b-privilege-01",
+      "level": "bold",
+      "type": "privilege",
+      "instruction": "获得一次免失误护盾",
+      "effect": "shield",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-b-privilege-02",
+      "level": "bold",
+      "type": "privilege",
+      "instruction": "取消一条让你尴尬的法则",
+      "effect": "cancel-rule",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-b-privilege-03",
+      "level": "bold",
+      "type": "privilege",
+      "instruction": "指定下一位回答的人",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-b-privilege-04",
+      "level": "bold",
+      "type": "privilege",
+      "instruction": "清除自己一次失误",
+      "effect": "clear-mistake",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-b-privilege-05",
+      "level": "bold",
+      "type": "privilege",
+      "instruction": "得到一次拒答保护",
+      "effect": "shield",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-b-privilege-06",
+      "level": "bold",
+      "type": "privilege",
+      "instruction": "让一条大胆法则失效",
+      "effect": "cancel-rule",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-b-privilege-07",
+      "level": "bold",
+      "type": "privilege",
+      "instruction": "把下一回合交给任意玩家",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-b-privilege-08",
+      "level": "bold",
+      "type": "privilege",
+      "instruction": "撤销自己最近一次失误",
+      "effect": "clear-mistake",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-b-privilege-09",
+      "level": "bold",
+      "type": "privilege",
+      "instruction": "保留一次无条件豁免",
+      "effect": "shield",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-b-privilege-10",
+      "level": "bold",
+      "type": "privilege",
+      "instruction": "终止一条持续法则",
+      "effect": "cancel-rule",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-b-privilege-11",
+      "level": "bold",
+      "type": "privilege",
+      "instruction": "指定谁继续接受挑战",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-b-privilege-12",
+      "level": "bold",
+      "type": "privilege",
+      "instruction": "减少一次失误记录",
+      "effect": "clear-mistake",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-b-direction-01",
+      "level": "bold",
+      "type": "direction",
+      "instruction": "回合方向反转",
+      "effect": "reverse",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-b-direction-02",
+      "level": "bold",
+      "type": "direction",
+      "instruction": "跳过下一位玩家",
+      "effect": "skip",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-b-direction-03",
+      "level": "bold",
+      "type": "direction",
+      "instruction": "当前玩家再抽一条",
+      "effect": "repeat",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-b-direction-04",
+      "level": "bold",
+      "type": "direction",
+      "instruction": "指定下一位玩家",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-b-direction-05",
+      "level": "bold",
+      "type": "direction",
+      "instruction": "所有人改为逆向进行",
+      "effect": "reverse",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-b-direction-06",
+      "level": "bold",
+      "type": "direction",
+      "instruction": "下一位免去本回合",
+      "effect": "skip",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-b-direction-07",
+      "level": "bold",
+      "type": "direction",
+      "instruction": "当前玩家继续掌控回合",
+      "effect": "repeat",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-b-direction-08",
+      "level": "bold",
+      "type": "direction",
+      "instruction": "把回合交给最想提问的人",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-b-direction-09",
+      "level": "bold",
+      "type": "direction",
+      "instruction": "顺序立刻掉头",
+      "effect": "reverse",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-b-direction-10",
+      "level": "bold",
+      "type": "direction",
+      "instruction": "跨过下一位继续",
+      "effect": "skip",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-b-direction-11",
+      "level": "bold",
+      "type": "direction",
+      "instruction": "当前玩家连续行动",
+      "effect": "repeat",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-b-direction-12",
+      "level": "bold",
+      "type": "direction",
+      "instruction": "选择任意玩家接棒",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    }
+  ]
+}

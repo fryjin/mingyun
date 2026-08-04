@@ -1,0 +1,1011 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.3.0-2026.08",
+  "game": "i-did-it",
+  "level": "standard",
+  "levelLabel": "标准",
+  "type": "experience",
+  "count": 100,
+  "items": [
+    {
+      "id": "idi-s-001",
+      "level": "standard",
+      "text": "把吐槽截图发给本人",
+      "rarity": "uncommon",
+      "tags": [
+        "社交事故"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-002",
+      "level": "standard",
+      "text": "把私聊发进工作群",
+      "rarity": "uncommon",
+      "tags": [
+        "社交事故"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-003",
+      "level": "standard",
+      "text": "把语音误发给陌生人",
+      "rarity": "uncommon",
+      "tags": [
+        "社交事故"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-004",
+      "level": "standard",
+      "text": "把表白消息发错对象",
+      "rarity": "uncommon",
+      "tags": [
+        "社交事故"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-005",
+      "level": "standard",
+      "text": "把未修图照片发进大群",
+      "rarity": "uncommon",
+      "tags": [
+        "社交事故"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-006",
+      "level": "standard",
+      "text": "撤回过已经被全群看到的消息",
+      "rarity": "uncommon",
+      "tags": [
+        "聊天"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-007",
+      "level": "standard",
+      "text": "撤回过发给前任的长文",
+      "rarity": "uncommon",
+      "tags": [
+        "聊天"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-008",
+      "level": "standard",
+      "text": "撤回过凌晨冲动发出的表白",
+      "rarity": "uncommon",
+      "tags": [
+        "聊天"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-009",
+      "level": "standard",
+      "text": "撤回过对老板的吐槽",
+      "rarity": "uncommon",
+      "tags": [
+        "聊天"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-010",
+      "level": "standard",
+      "text": "撤回过发错对象的暧昧话",
+      "rarity": "uncommon",
+      "tags": [
+        "聊天"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-011",
+      "level": "standard",
+      "text": "被当成过活动工作人员",
+      "rarity": "uncommon",
+      "tags": [
+        "身份"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-012",
+      "level": "standard",
+      "text": "被当成过店里的负责人",
+      "rarity": "uncommon",
+      "tags": [
+        "身份"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-013",
+      "level": "standard",
+      "text": "被当成过别人的相亲对象",
+      "rarity": "uncommon",
+      "tags": [
+        "身份"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-014",
+      "level": "standard",
+      "text": "被当成过陌生人的旧同学",
+      "rarity": "uncommon",
+      "tags": [
+        "身份"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-015",
+      "level": "standard",
+      "text": "被当成过网红本人",
+      "rarity": "uncommon",
+      "tags": [
+        "身份"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-016",
+      "level": "standard",
+      "text": "在公开场合叫错过重要人物名字",
+      "rarity": "uncommon",
+      "tags": [
+        "尴尬"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-017",
+      "level": "standard",
+      "text": "在公开场合摔倒后装没事",
+      "rarity": "uncommon",
+      "tags": [
+        "尴尬"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-018",
+      "level": "standard",
+      "text": "在公开场合认错人并聊了很久",
+      "rarity": "uncommon",
+      "tags": [
+        "尴尬"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-019",
+      "level": "standard",
+      "text": "在公开场合说错话让全场安静",
+      "rarity": "uncommon",
+      "tags": [
+        "尴尬"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-020",
+      "level": "standard",
+      "text": "在公开场合被麦克风收进私聊",
+      "rarity": "uncommon",
+      "tags": [
+        "尴尬"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-021",
+      "level": "standard",
+      "text": "偷偷混进过不属于自己的课堂",
+      "rarity": "uncommon",
+      "tags": [
+        "规则"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-022",
+      "level": "standard",
+      "text": "偷偷混进过其他公司的年会",
+      "rarity": "uncommon",
+      "tags": [
+        "规则"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-023",
+      "level": "standard",
+      "text": "偷偷混进过需要邀请的活动",
+      "rarity": "uncommon",
+      "tags": [
+        "规则"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-024",
+      "level": "standard",
+      "text": "偷偷混进过朋友学校的宿舍",
+      "rarity": "uncommon",
+      "tags": [
+        "规则"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-025",
+      "level": "standard",
+      "text": "偷偷混进过错误的婚礼会场",
+      "rarity": "uncommon",
+      "tags": [
+        "规则"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-026",
+      "level": "standard",
+      "text": "用小号关注过熟人",
+      "rarity": "uncommon",
+      "tags": [
+        "网络"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-027",
+      "level": "standard",
+      "text": "用小号评论过自己的内容",
+      "rarity": "uncommon",
+      "tags": [
+        "网络"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-028",
+      "level": "standard",
+      "text": "用小号测试过熟人反应",
+      "rarity": "uncommon",
+      "tags": [
+        "网络"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-029",
+      "level": "standard",
+      "text": "用小号看过前任动态",
+      "rarity": "uncommon",
+      "tags": [
+        "网络"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-030",
+      "level": "standard",
+      "text": "用小号加入过陌生群聊",
+      "rarity": "uncommon",
+      "tags": [
+        "网络"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-031",
+      "level": "standard",
+      "text": "临时顶替过缺席的主持人",
+      "rarity": "uncommon",
+      "tags": [
+        "临场"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-032",
+      "level": "standard",
+      "text": "临时顶替过朋友的相亲对象",
+      "rarity": "uncommon",
+      "tags": [
+        "临场"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-033",
+      "level": "standard",
+      "text": "临时顶替过比赛队友",
+      "rarity": "uncommon",
+      "tags": [
+        "临场"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-034",
+      "level": "standard",
+      "text": "临时顶替过活动表演者",
+      "rarity": "uncommon",
+      "tags": [
+        "临场"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-035",
+      "level": "standard",
+      "text": "临时顶替过陌生人的翻译",
+      "rarity": "uncommon",
+      "tags": [
+        "临场"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-036",
+      "level": "standard",
+      "text": "为了脱身装过不会说话",
+      "rarity": "uncommon",
+      "tags": [
+        "谎言"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-037",
+      "level": "standard",
+      "text": "为了脱身假装接到电话",
+      "rarity": "uncommon",
+      "tags": [
+        "谎言"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-038",
+      "level": "standard",
+      "text": "为了脱身假装认错人",
+      "rarity": "uncommon",
+      "tags": [
+        "谎言"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-039",
+      "level": "standard",
+      "text": "为了脱身编过紧急理由",
+      "rarity": "uncommon",
+      "tags": [
+        "谎言"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-040",
+      "level": "standard",
+      "text": "为了脱身让朋友打来救场电话",
+      "rarity": "uncommon",
+      "tags": [
+        "谎言"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-041",
+      "level": "standard",
+      "text": "在重要场合睡着过",
+      "rarity": "uncommon",
+      "tags": [
+        "工作学习"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-042",
+      "level": "standard",
+      "text": "在重要场合忘带过关键材料",
+      "rarity": "uncommon",
+      "tags": [
+        "工作学习"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-043",
+      "level": "standard",
+      "text": "在重要场合念错过自己的名字",
+      "rarity": "uncommon",
+      "tags": [
+        "工作学习"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-044",
+      "level": "standard",
+      "text": "在重要场合迟到超过一小时",
+      "rarity": "uncommon",
+      "tags": [
+        "工作学习"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-045",
+      "level": "standard",
+      "text": "在重要场合穿错过规定服装",
+      "rarity": "uncommon",
+      "tags": [
+        "工作学习"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-046",
+      "level": "standard",
+      "text": "隐瞒过自己已经辞职",
+      "rarity": "rare",
+      "tags": [
+        "秘密"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-047",
+      "level": "standard",
+      "text": "隐瞒过真实旅行目的",
+      "rarity": "rare",
+      "tags": [
+        "秘密"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-048",
+      "level": "standard",
+      "text": "隐瞒过和某人的见面",
+      "rarity": "rare",
+      "tags": [
+        "秘密"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-049",
+      "level": "standard",
+      "text": "隐瞒过一项意外收入",
+      "rarity": "rare",
+      "tags": [
+        "秘密"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-050",
+      "level": "standard",
+      "text": "隐瞒过一段重要经历",
+      "rarity": "rare",
+      "tags": [
+        "秘密"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-051",
+      "level": "standard",
+      "text": "顺势承认过别人认错的身份",
+      "rarity": "rare",
+      "tags": [
+        "误会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-052",
+      "level": "standard",
+      "text": "顺势承认过并不属于自己的功劳",
+      "rarity": "rare",
+      "tags": [
+        "误会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-053",
+      "level": "standard",
+      "text": "顺势承认过完全没听懂的专业内容",
+      "rarity": "rare",
+      "tags": [
+        "误会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-054",
+      "level": "standard",
+      "text": "顺势承认过别人以为的关系",
+      "rarity": "rare",
+      "tags": [
+        "误会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-055",
+      "level": "standard",
+      "text": "顺势承认过自己没参加过的活动",
+      "rarity": "rare",
+      "tags": [
+        "误会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-056",
+      "level": "standard",
+      "text": "和网友第一次见面就旅行",
+      "rarity": "rare",
+      "tags": [
+        "社交"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-057",
+      "level": "standard",
+      "text": "和网友见面当天住同一屋檐",
+      "rarity": "rare",
+      "tags": [
+        "社交"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-058",
+      "level": "standard",
+      "text": "和网友一起参加陌生活动",
+      "rarity": "rare",
+      "tags": [
+        "社交"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-059",
+      "level": "standard",
+      "text": "和网友交换过真实秘密",
+      "rarity": "rare",
+      "tags": [
+        "社交"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-060",
+      "level": "standard",
+      "text": "和网友临时合伙做事",
+      "rarity": "rare",
+      "tags": [
+        "社交"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-061",
+      "level": "standard",
+      "text": "在外地错过过末班车",
+      "rarity": "rare",
+      "tags": [
+        "旅行事故"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-062",
+      "level": "standard",
+      "text": "在外地住进过错误酒店",
+      "rarity": "rare",
+      "tags": [
+        "旅行事故"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-063",
+      "level": "standard",
+      "text": "在外地拿错过别人行李",
+      "rarity": "rare",
+      "tags": [
+        "旅行事故"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-064",
+      "level": "standard",
+      "text": "在外地坐反方向两个小时",
+      "rarity": "rare",
+      "tags": [
+        "旅行事故"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-065",
+      "level": "standard",
+      "text": "在外地丢过全部证件",
+      "rarity": "rare",
+      "tags": [
+        "旅行事故"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-066",
+      "level": "standard",
+      "text": "被陌生人托付过宠物",
+      "rarity": "rare",
+      "tags": [
+        "奇怪经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-067",
+      "level": "standard",
+      "text": "被陌生人请去评理",
+      "rarity": "rare",
+      "tags": [
+        "奇怪经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-068",
+      "level": "standard",
+      "text": "被陌生人拉去当伴郎伴娘",
+      "rarity": "rare",
+      "tags": [
+        "奇怪经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-069",
+      "level": "standard",
+      "text": "被陌生人邀请一起搬家",
+      "rarity": "rare",
+      "tags": [
+        "奇怪经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-070",
+      "level": "standard",
+      "text": "被陌生人认作失散亲友",
+      "rarity": "rare",
+      "tags": [
+        "奇怪经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-071",
+      "level": "standard",
+      "text": "临时辞掉过一份工作",
+      "rarity": "rare",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-072",
+      "level": "standard",
+      "text": "临时删光过社交账号",
+      "rarity": "rare",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-073",
+      "level": "standard",
+      "text": "临时买票离开当前城市",
+      "rarity": "rare",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-074",
+      "level": "standard",
+      "text": "临时取消过重要约会",
+      "rarity": "rare",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-075",
+      "level": "standard",
+      "text": "临时报名过完全陌生的课程",
+      "rarity": "rare",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-076",
+      "level": "standard",
+      "text": "出现在过新闻画面里",
+      "rarity": "rare",
+      "tags": [
+        "公开记录"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-077",
+      "level": "standard",
+      "text": "出现在过陌生人的短视频里",
+      "rarity": "rare",
+      "tags": [
+        "公开记录"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-078",
+      "level": "standard",
+      "text": "出现在过活动官方海报上",
+      "rarity": "rare",
+      "tags": [
+        "公开记录"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-079",
+      "level": "standard",
+      "text": "出现在过路人的直播间里",
+      "rarity": "rare",
+      "tags": [
+        "公开记录"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-080",
+      "level": "standard",
+      "text": "出现在过公开通报名单里",
+      "rarity": "rare",
+      "tags": [
+        "公开记录"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-081",
+      "level": "standard",
+      "text": "和不熟的人聊过通宵",
+      "rarity": "rare",
+      "tags": [
+        "关系"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-082",
+      "level": "standard",
+      "text": "和不熟的人交换过私密秘密",
+      "rarity": "rare",
+      "tags": [
+        "关系"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-083",
+      "level": "standard",
+      "text": "和不熟的人一起解决过危机",
+      "rarity": "rare",
+      "tags": [
+        "关系"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-084",
+      "level": "standard",
+      "text": "和不熟的人临时共住一晚",
+      "rarity": "rare",
+      "tags": [
+        "关系"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-085",
+      "level": "standard",
+      "text": "和不熟的人合伙完成过任务",
+      "rarity": "rare",
+      "tags": [
+        "关系"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-086",
+      "level": "standard",
+      "text": "为陌生人先垫过大额费用",
+      "rarity": "very-rare",
+      "tags": [
+        "钱财"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-087",
+      "level": "standard",
+      "text": "为陌生人保管过贵重物品",
+      "rarity": "very-rare",
+      "tags": [
+        "钱财"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-088",
+      "level": "standard",
+      "text": "为陌生人担保过一件事",
+      "rarity": "very-rare",
+      "tags": [
+        "钱财"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-089",
+      "level": "standard",
+      "text": "为陌生人退回过遗失现金",
+      "rarity": "very-rare",
+      "tags": [
+        "钱财"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-090",
+      "level": "standard",
+      "text": "为陌生人追回过被骗的钱",
+      "rarity": "very-rare",
+      "tags": [
+        "钱财"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-091",
+      "level": "standard",
+      "text": "误把搭讪当成问路",
+      "rarity": "very-rare",
+      "tags": [
+        "社交判断"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-092",
+      "level": "standard",
+      "text": "误把表白当成玩笑",
+      "rarity": "very-rare",
+      "tags": [
+        "社交判断"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-093",
+      "level": "standard",
+      "text": "误把玩笑当成正式通知",
+      "rarity": "very-rare",
+      "tags": [
+        "社交判断"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-094",
+      "level": "standard",
+      "text": "误把陌生人当成老朋友",
+      "rarity": "very-rare",
+      "tags": [
+        "社交判断"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-095",
+      "level": "standard",
+      "text": "误把客户当成同事",
+      "rarity": "very-rare",
+      "tags": [
+        "社交判断"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-096",
+      "level": "standard",
+      "text": "家人不知道我会一种冷门技能",
+      "rarity": "very-rare",
+      "tags": [
+        "生活反差"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-097",
+      "level": "standard",
+      "text": "家人不知道我去过一个危险地方",
+      "rarity": "very-rare",
+      "tags": [
+        "生活反差"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-098",
+      "level": "standard",
+      "text": "家人不知道我做过一份特殊兼职",
+      "rarity": "very-rare",
+      "tags": [
+        "生活反差"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-099",
+      "level": "standard",
+      "text": "家人不知道我参加过秘密活动",
+      "rarity": "very-rare",
+      "tags": [
+        "生活反差"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-s-100",
+      "level": "standard",
+      "text": "家人不知道我认识过知名人士",
+      "rarity": "very-rare",
+      "tags": [
+        "生活反差"
+      ],
+      "requirements": {}
+    }
+  ]
+}

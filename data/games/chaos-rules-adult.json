@@ -1,0 +1,647 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.3.0-2026.08",
+  "game": "chaos-rules",
+  "level": "adult",
+  "levelLabel": "成人",
+  "type": "rule",
+  "count": 60,
+  "items": [
+    {
+      "id": "cr-a-instant-01",
+      "level": "adult",
+      "type": "instant",
+      "instruction": "说出一次冲动接吻经历",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-a-instant-02",
+      "level": "adult",
+      "type": "instant",
+      "instruction": "承认一次深夜见面原因",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-a-instant-03",
+      "level": "adult",
+      "type": "instant",
+      "instruction": "说出最意外的心动对象",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-a-instant-04",
+      "level": "adult",
+      "type": "instant",
+      "instruction": "讲一次关系越界时刻",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-a-instant-05",
+      "level": "adult",
+      "type": "instant",
+      "instruction": "承认一次酒后联系前任",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-a-instant-06",
+      "level": "adult",
+      "type": "instant",
+      "instruction": "说出一次亲密关系后悔",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-a-instant-07",
+      "level": "adult",
+      "type": "instant",
+      "instruction": "讲一次隐秘约会经历",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-a-instant-08",
+      "level": "adult",
+      "type": "instant",
+      "instruction": "说出最大胆的约会决定",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-a-instant-09",
+      "level": "adult",
+      "type": "instant",
+      "instruction": "承认一次同时暧昧经历",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-a-instant-10",
+      "level": "adult",
+      "type": "instant",
+      "instruction": "讲一次被撞见的亲密时刻",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-a-instant-11",
+      "level": "adult",
+      "type": "instant",
+      "instruction": "说出一次主动留宿经历",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-a-instant-12",
+      "level": "adult",
+      "type": "instant",
+      "instruction": "承认一次关系状态隐瞒",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-01",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能说接吻两个字",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-02",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "回答前先说成年人了",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-03",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "只能用约会语气说话",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-04",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "被点名时先说我不解释",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-05",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能提到任何前任名字",
+      "duration": 4,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-06",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "每句话都要带一个关系词",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-07",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "回答时必须看向提问者",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-08",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能用只是朋友回答",
+      "duration": 4,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-09",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "每次发言先说我坦白",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-10",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "不能回避亲密关系问题",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-11",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "只能称呼别人为约会对象",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-persistent-12",
+      "level": "adult",
+      "type": "persistent",
+      "instruction": "有人提到前任时必须举手",
+      "duration": 4,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-a-global-01",
+      "level": "adult",
+      "type": "global",
+      "instruction": "同时指向最可能酒后联系前任的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-a-global-02",
+      "level": "adult",
+      "type": "global",
+      "instruction": "同时指向最会隐藏亲密关系的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-a-global-03",
+      "level": "adult",
+      "type": "global",
+      "instruction": "最后说出约会雷点的人记失误",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-a-global-04",
+      "level": "adult",
+      "type": "global",
+      "instruction": "同时指向最容易冲动接吻的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-a-global-05",
+      "level": "adult",
+      "type": "global",
+      "instruction": "每人说一个成人关系边界",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-a-global-06",
+      "level": "adult",
+      "type": "global",
+      "instruction": "最后承认复合过的人记失误",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-a-global-07",
+      "level": "adult",
+      "type": "global",
+      "instruction": "同时指向最会制造暧昧的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-a-global-08",
+      "level": "adult",
+      "type": "global",
+      "instruction": "三秒内选择公开或地下",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-a-global-09",
+      "level": "adult",
+      "type": "global",
+      "instruction": "同时指向最可能临时留宿的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-a-global-10",
+      "level": "adult",
+      "type": "global",
+      "instruction": "最后说出一次心动地点的人记失误",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-a-global-11",
+      "level": "adult",
+      "type": "global",
+      "instruction": "同时指向最会吃回头草的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-a-global-12",
+      "level": "adult",
+      "type": "global",
+      "instruction": "每人说一个绝不接受的越界",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-a-privilege-01",
+      "level": "adult",
+      "type": "privilege",
+      "instruction": "获得一次免失误护盾",
+      "effect": "shield",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-a-privilege-02",
+      "level": "adult",
+      "type": "privilege",
+      "instruction": "取消一条成人持续法则",
+      "effect": "cancel-rule",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-a-privilege-03",
+      "level": "adult",
+      "type": "privilege",
+      "instruction": "指定下一位讲述者",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-a-privilege-04",
+      "level": "adult",
+      "type": "privilege",
+      "instruction": "清除自己一次失误",
+      "effect": "clear-mistake",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-a-privilege-05",
+      "level": "adult",
+      "type": "privilege",
+      "instruction": "得到一次跳过成人问题的权利",
+      "effect": "shield",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-a-privilege-06",
+      "level": "adult",
+      "type": "privilege",
+      "instruction": "让一条亲密话题法则失效",
+      "effect": "cancel-rule",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-a-privilege-07",
+      "level": "adult",
+      "type": "privilege",
+      "instruction": "选择下一位接受挑战的人",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-a-privilege-08",
+      "level": "adult",
+      "type": "privilege",
+      "instruction": "撤销一次关系话题失误",
+      "effect": "clear-mistake",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-a-privilege-09",
+      "level": "adult",
+      "type": "privilege",
+      "instruction": "保留一次无条件拒绝权",
+      "effect": "shield",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-a-privilege-10",
+      "level": "adult",
+      "type": "privilege",
+      "instruction": "终止当前最直接的法则",
+      "effect": "cancel-rule",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-a-privilege-11",
+      "level": "adult",
+      "type": "privilege",
+      "instruction": "把回合交给任意玩家",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-a-privilege-12",
+      "level": "adult",
+      "type": "privilege",
+      "instruction": "减少自己一次失误",
+      "effect": "clear-mistake",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-a-direction-01",
+      "level": "adult",
+      "type": "direction",
+      "instruction": "回合方向反转",
+      "effect": "reverse",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-a-direction-02",
+      "level": "adult",
+      "type": "direction",
+      "instruction": "跳过下一位玩家",
+      "effect": "skip",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-a-direction-03",
+      "level": "adult",
+      "type": "direction",
+      "instruction": "当前玩家再抽一条",
+      "effect": "repeat",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-a-direction-04",
+      "level": "adult",
+      "type": "direction",
+      "instruction": "指定下一位玩家",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-a-direction-05",
+      "level": "adult",
+      "type": "direction",
+      "instruction": "顺序改为逆向",
+      "effect": "reverse",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-a-direction-06",
+      "level": "adult",
+      "type": "direction",
+      "instruction": "下一位暂时跳过挑战",
+      "effect": "skip",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-a-direction-07",
+      "level": "adult",
+      "type": "direction",
+      "instruction": "当前玩家连续进行",
+      "effect": "repeat",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-a-direction-08",
+      "level": "adult",
+      "type": "direction",
+      "instruction": "选择下一位接受成人话题",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-a-direction-09",
+      "level": "adult",
+      "type": "direction",
+      "instruction": "所有回合立即掉头",
+      "effect": "reverse",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-a-direction-10",
+      "level": "adult",
+      "type": "direction",
+      "instruction": "跨过下一位继续",
+      "effect": "skip",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-a-direction-11",
+      "level": "adult",
+      "type": "direction",
+      "instruction": "当前玩家保持控制权",
+      "effect": "repeat",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-a-direction-12",
+      "level": "adult",
+      "type": "direction",
+      "instruction": "把回合交给指定玩家",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    }
+  ]
+}

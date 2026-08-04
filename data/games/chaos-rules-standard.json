@@ -1,0 +1,647 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.3.0-2026.08",
+  "game": "chaos-rules",
+  "level": "standard",
+  "levelLabel": "标准",
+  "type": "rule",
+  "count": 60,
+  "items": [
+    {
+      "id": "cr-s-instant-01",
+      "level": "standard",
+      "type": "instant",
+      "instruction": "用方言完成下一段发言",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-s-instant-02",
+      "level": "standard",
+      "type": "instant",
+      "instruction": "讲一件真实小糗事",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-s-instant-03",
+      "level": "standard",
+      "type": "instant",
+      "instruction": "模仿右边玩家说话",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-s-instant-04",
+      "level": "standard",
+      "type": "instant",
+      "instruction": "让全场给你取新昵称",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-s-instant-05",
+      "level": "standard",
+      "type": "instant",
+      "instruction": "用最近三个表情编故事",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-s-instant-06",
+      "level": "standard",
+      "type": "instant",
+      "instruction": "用客服语气道歉一次",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-s-instant-07",
+      "level": "standard",
+      "type": "instant",
+      "instruction": "展示最夸张的自拍表情",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-s-instant-08",
+      "level": "standard",
+      "type": "instant",
+      "instruction": "说出一项奇怪技能",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-s-instant-09",
+      "level": "standard",
+      "type": "instant",
+      "instruction": "模仿自己迟到时的解释",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-s-instant-10",
+      "level": "standard",
+      "type": "instant",
+      "instruction": "用偶像剧语气借东西",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-s-instant-11",
+      "level": "standard",
+      "type": "instant",
+      "instruction": "一分钟内夸三位玩家",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-s-instant-12",
+      "level": "standard",
+      "type": "instant",
+      "instruction": "说出最近一次撤回消息原因",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-s-persistent-01",
+      "level": "standard",
+      "type": "persistent",
+      "instruction": "不能使用任何语气词",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-s-persistent-02",
+      "level": "standard",
+      "type": "persistent",
+      "instruction": "回答问题只能用反问句",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-s-persistent-03",
+      "level": "standard",
+      "type": "persistent",
+      "instruction": "被提问时先重复问题",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-s-persistent-04",
+      "level": "standard",
+      "type": "persistent",
+      "instruction": "不能说玩家两个字",
+      "duration": 4,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-s-persistent-05",
+      "level": "standard",
+      "type": "persistent",
+      "instruction": "每次发言必须带一个数字",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-s-persistent-06",
+      "level": "standard",
+      "type": "persistent",
+      "instruction": "只能称呼别人为老师",
+      "duration": 4,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-s-persistent-07",
+      "level": "standard",
+      "type": "persistent",
+      "instruction": "说话时必须保持微笑",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-s-persistent-08",
+      "level": "standard",
+      "type": "persistent",
+      "instruction": "回答前先深呼吸一次",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-s-persistent-09",
+      "level": "standard",
+      "type": "persistent",
+      "instruction": "不能说自己的名字",
+      "duration": 4,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-s-persistent-10",
+      "level": "standard",
+      "type": "persistent",
+      "instruction": "每句话不能超过八个字",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-s-persistent-11",
+      "level": "standard",
+      "type": "persistent",
+      "instruction": "有人笑时你必须举手",
+      "duration": 4,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-s-persistent-12",
+      "level": "standard",
+      "type": "persistent",
+      "instruction": "轮到你时先夸上一位",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-s-global-01",
+      "level": "standard",
+      "type": "global",
+      "instruction": "同时指向最可能迟到的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-s-global-02",
+      "level": "standard",
+      "type": "global",
+      "instruction": "同时指向最会保守秘密的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-s-global-03",
+      "level": "standard",
+      "type": "global",
+      "instruction": "最后说出城市名的人记失误",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-s-global-04",
+      "level": "standard",
+      "type": "global",
+      "instruction": "三秒内说出不同颜色",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-s-global-05",
+      "level": "standard",
+      "type": "global",
+      "instruction": "最后摆出剪刀手的人记失误",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-s-global-06",
+      "level": "standard",
+      "type": "global",
+      "instruction": "同时指向最会装镇定的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-s-global-07",
+      "level": "standard",
+      "type": "global",
+      "instruction": "每人说一个不重复的水果",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-s-global-08",
+      "level": "standard",
+      "type": "global",
+      "instruction": "最后找到蓝色物品的人记失误",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-s-global-09",
+      "level": "standard",
+      "type": "global",
+      "instruction": "同时模仿同一种动物",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-s-global-10",
+      "level": "standard",
+      "type": "global",
+      "instruction": "最后说出电影名的人记失误",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-s-global-11",
+      "level": "standard",
+      "type": "global",
+      "instruction": "同时指向最可能迷路的人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-s-global-12",
+      "level": "standard",
+      "type": "global",
+      "instruction": "三秒内做出不同表情",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-s-privilege-01",
+      "level": "standard",
+      "type": "privilege",
+      "instruction": "获得一次免失误护盾",
+      "effect": "shield",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-s-privilege-02",
+      "level": "standard",
+      "type": "privilege",
+      "instruction": "立即取消任意持续法则",
+      "effect": "cancel-rule",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-s-privilege-03",
+      "level": "standard",
+      "type": "privilege",
+      "instruction": "获得一次指定接棒人的权利",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-s-privilege-04",
+      "level": "standard",
+      "type": "privilege",
+      "instruction": "清除自己一次失误",
+      "effect": "clear-mistake",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-s-privilege-05",
+      "level": "standard",
+      "type": "privilege",
+      "instruction": "得到一次规则豁免",
+      "effect": "shield",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-s-privilege-06",
+      "level": "standard",
+      "type": "privilege",
+      "instruction": "让一条持续法则提前结束",
+      "effect": "cancel-rule",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-s-privilege-07",
+      "level": "standard",
+      "type": "privilege",
+      "instruction": "决定下一个回合归属",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-s-privilege-08",
+      "level": "standard",
+      "type": "privilege",
+      "instruction": "撤销自己最近一次失误",
+      "effect": "clear-mistake",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-s-privilege-09",
+      "level": "standard",
+      "type": "privilege",
+      "instruction": "保存一次保护机会",
+      "effect": "shield",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-s-privilege-10",
+      "level": "standard",
+      "type": "privilege",
+      "instruction": "废除最麻烦的一条法则",
+      "effect": "cancel-rule",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-s-privilege-11",
+      "level": "standard",
+      "type": "privilege",
+      "instruction": "把回合交给任意玩家",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-s-privilege-12",
+      "level": "standard",
+      "type": "privilege",
+      "instruction": "减少当前失误计数一次",
+      "effect": "clear-mistake",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-s-direction-01",
+      "level": "standard",
+      "type": "direction",
+      "instruction": "回合方向反转",
+      "effect": "reverse",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-s-direction-02",
+      "level": "standard",
+      "type": "direction",
+      "instruction": "跳过下一位玩家",
+      "effect": "skip",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-s-direction-03",
+      "level": "standard",
+      "type": "direction",
+      "instruction": "当前玩家连续两回合",
+      "effect": "repeat",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-s-direction-04",
+      "level": "standard",
+      "type": "direction",
+      "instruction": "指定下一位玩家",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-s-direction-05",
+      "level": "standard",
+      "type": "direction",
+      "instruction": "所有回合改为逆向",
+      "effect": "reverse",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-s-direction-06",
+      "level": "standard",
+      "type": "direction",
+      "instruction": "下一位暂时失去回合",
+      "effect": "skip",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-s-direction-07",
+      "level": "standard",
+      "type": "direction",
+      "instruction": "本回合完成后再抽一次",
+      "effect": "repeat",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-s-direction-08",
+      "level": "standard",
+      "type": "direction",
+      "instruction": "任意选择接棒玩家",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-s-direction-09",
+      "level": "standard",
+      "type": "direction",
+      "instruction": "顺序立即掉头",
+      "effect": "reverse",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-s-direction-10",
+      "level": "standard",
+      "type": "direction",
+      "instruction": "跨过一位继续进行",
+      "effect": "skip",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-s-direction-11",
+      "level": "standard",
+      "type": "direction",
+      "instruction": "当前玩家保持回合",
+      "effect": "repeat",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-s-direction-12",
+      "level": "standard",
+      "type": "direction",
+      "instruction": "把顺序跳转到指定玩家",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    }
+  ]
+}

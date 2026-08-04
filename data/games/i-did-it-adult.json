@@ -1,0 +1,1011 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.3.0-2026.08",
+  "game": "i-did-it",
+  "level": "adult",
+  "levelLabel": "成人",
+  "type": "experience",
+  "count": 100,
+  "items": [
+    {
+      "id": "idi-a-001",
+      "level": "adult",
+      "text": "第一次见面就接吻过",
+      "rarity": "uncommon",
+      "tags": [
+        "亲密经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-002",
+      "level": "adult",
+      "text": "第一次见面就单独过夜",
+      "rarity": "uncommon",
+      "tags": [
+        "亲密经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-003",
+      "level": "adult",
+      "text": "第一次见面就住进同一房间",
+      "rarity": "uncommon",
+      "tags": [
+        "亲密经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-004",
+      "level": "adult",
+      "text": "第一次见面就发生亲密接触",
+      "rarity": "uncommon",
+      "tags": [
+        "亲密经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-005",
+      "level": "adult",
+      "text": "第一次见面就约了下一次见面",
+      "rarity": "uncommon",
+      "tags": [
+        "亲密经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-006",
+      "level": "adult",
+      "text": "和前任复合超过一次",
+      "rarity": "uncommon",
+      "tags": [
+        "前任"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-007",
+      "level": "adult",
+      "text": "和前任分手后仍亲密过",
+      "rarity": "uncommon",
+      "tags": [
+        "前任"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-008",
+      "level": "adult",
+      "text": "和前任旅行过",
+      "rarity": "uncommon",
+      "tags": [
+        "前任"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-009",
+      "level": "adult",
+      "text": "和前任保持秘密联系",
+      "rarity": "uncommon",
+      "tags": [
+        "前任"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-010",
+      "level": "adult",
+      "text": "和前任在新关系里见过面",
+      "rarity": "uncommon",
+      "tags": [
+        "前任"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-011",
+      "level": "adult",
+      "text": "和原本只想做朋友的人接吻过",
+      "rarity": "uncommon",
+      "tags": [
+        "关系"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-012",
+      "level": "adult",
+      "text": "和原本只想做朋友的人发展成恋人",
+      "rarity": "uncommon",
+      "tags": [
+        "关系"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-013",
+      "level": "adult",
+      "text": "和原本只想做朋友的人发生亲密关系",
+      "rarity": "uncommon",
+      "tags": [
+        "关系"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-014",
+      "level": "adult",
+      "text": "和原本只想做朋友的人长期暧昧",
+      "rarity": "uncommon",
+      "tags": [
+        "关系"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-015",
+      "level": "adult",
+      "text": "和原本只想做朋友的人一起过夜",
+      "rarity": "uncommon",
+      "tags": [
+        "关系"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-016",
+      "level": "adult",
+      "text": "在公共场合接吻过",
+      "rarity": "uncommon",
+      "tags": [
+        "公共场合"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-017",
+      "level": "adult",
+      "text": "在公共场合留下过吻痕",
+      "rarity": "uncommon",
+      "tags": [
+        "公共场合"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-018",
+      "level": "adult",
+      "text": "在公共场合有过亲密举动",
+      "rarity": "uncommon",
+      "tags": [
+        "公共场合"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-019",
+      "level": "adult",
+      "text": "在公共场合被人撞见亲密时刻",
+      "rarity": "uncommon",
+      "tags": [
+        "公共场合"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-020",
+      "level": "adult",
+      "text": "在公共场合差点被熟人发现",
+      "rarity": "uncommon",
+      "tags": [
+        "公共场合"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-021",
+      "level": "adult",
+      "text": "聚会结束后和刚认识的人离开",
+      "rarity": "uncommon",
+      "tags": [
+        "聚会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-022",
+      "level": "adult",
+      "text": "聚会结束后和朋友单独过夜",
+      "rarity": "uncommon",
+      "tags": [
+        "聚会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-023",
+      "level": "adult",
+      "text": "聚会结束后亲过意外的人",
+      "rarity": "uncommon",
+      "tags": [
+        "聚会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-024",
+      "level": "adult",
+      "text": "聚会结束后和前任重新联系",
+      "rarity": "uncommon",
+      "tags": [
+        "聚会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-025",
+      "level": "adult",
+      "text": "聚会结束后去了不熟的人家",
+      "rarity": "uncommon",
+      "tags": [
+        "聚会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-026",
+      "level": "adult",
+      "text": "同一天里约过两个人",
+      "rarity": "uncommon",
+      "tags": [
+        "约会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-027",
+      "level": "adult",
+      "text": "同一天里收到两次告白",
+      "rarity": "uncommon",
+      "tags": [
+        "约会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-028",
+      "level": "adult",
+      "text": "同一天里见过前任和新人",
+      "rarity": "uncommon",
+      "tags": [
+        "约会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-029",
+      "level": "adult",
+      "text": "同一天里和两个人保持暧昧",
+      "rarity": "uncommon",
+      "tags": [
+        "约会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-030",
+      "level": "adult",
+      "text": "同一天里取消一场去另一场",
+      "rarity": "uncommon",
+      "tags": [
+        "约会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-031",
+      "level": "adult",
+      "text": "把亲密聊天给朋友看过",
+      "rarity": "uncommon",
+      "tags": [
+        "亲密聊天"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-032",
+      "level": "adult",
+      "text": "把亲密聊天误发给别人",
+      "rarity": "uncommon",
+      "tags": [
+        "亲密聊天"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-033",
+      "level": "adult",
+      "text": "把亲密聊天保存超过一年",
+      "rarity": "uncommon",
+      "tags": [
+        "亲密聊天"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-034",
+      "level": "adult",
+      "text": "把亲密聊天拿来试探对方",
+      "rarity": "uncommon",
+      "tags": [
+        "亲密聊天"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-035",
+      "level": "adult",
+      "text": "把亲密聊天在争吵时翻出来",
+      "rarity": "uncommon",
+      "tags": [
+        "亲密聊天"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-036",
+      "level": "adult",
+      "text": "对朋友的对象心动过",
+      "rarity": "uncommon",
+      "tags": [
+        "心动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-037",
+      "level": "adult",
+      "text": "对朋友的对象单独联系过",
+      "rarity": "uncommon",
+      "tags": [
+        "心动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-038",
+      "level": "adult",
+      "text": "对朋友的对象隐瞒过好感",
+      "rarity": "uncommon",
+      "tags": [
+        "心动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-039",
+      "level": "adult",
+      "text": "对朋友的对象做过越界试探",
+      "rarity": "uncommon",
+      "tags": [
+        "心动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-040",
+      "level": "adult",
+      "text": "对朋友的对象被对方试探过",
+      "rarity": "uncommon",
+      "tags": [
+        "心动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-041",
+      "level": "adult",
+      "text": "和恋爱不久的人一起旅行过",
+      "rarity": "uncommon",
+      "tags": [
+        "旅行"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-042",
+      "level": "adult",
+      "text": "和恋爱不久的人同住超过一周",
+      "rarity": "uncommon",
+      "tags": [
+        "旅行"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-043",
+      "level": "adult",
+      "text": "和恋爱不久的人见过双方家人",
+      "rarity": "uncommon",
+      "tags": [
+        "旅行"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-044",
+      "level": "adult",
+      "text": "和恋爱不久的人临时跨城见面",
+      "rarity": "uncommon",
+      "tags": [
+        "旅行"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-045",
+      "level": "adult",
+      "text": "和恋爱不久的人在外地吵到分手",
+      "rarity": "uncommon",
+      "tags": [
+        "旅行"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-046",
+      "level": "adult",
+      "text": "暧昧期间同时见过别人",
+      "rarity": "rare",
+      "tags": [
+        "暧昧"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-047",
+      "level": "adult",
+      "text": "暧昧期间故意消失过几天",
+      "rarity": "rare",
+      "tags": [
+        "暧昧"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-048",
+      "level": "adult",
+      "text": "暧昧期间和前任保持联系",
+      "rarity": "rare",
+      "tags": [
+        "暧昧"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-049",
+      "level": "adult",
+      "text": "暧昧期间说过并不真实的话",
+      "rarity": "rare",
+      "tags": [
+        "暧昧"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-050",
+      "level": "adult",
+      "text": "暧昧期间让朋友代替回复",
+      "rarity": "rare",
+      "tags": [
+        "暧昧"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-051",
+      "level": "adult",
+      "text": "深夜临时去见过喜欢的人",
+      "rarity": "rare",
+      "tags": [
+        "夜晚"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-052",
+      "level": "adult",
+      "text": "深夜临时留宿过别人家",
+      "rarity": "rare",
+      "tags": [
+        "夜晚"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-053",
+      "level": "adult",
+      "text": "深夜临时接过前任电话",
+      "rarity": "rare",
+      "tags": [
+        "夜晚"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-054",
+      "level": "adult",
+      "text": "深夜临时和陌生人散步到天亮",
+      "rarity": "rare",
+      "tags": [
+        "夜晚"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-055",
+      "level": "adult",
+      "text": "深夜临时坐车跨城见人",
+      "rarity": "rare",
+      "tags": [
+        "夜晚"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-056",
+      "level": "adult",
+      "text": "在关系未结束时对别人心动",
+      "rarity": "rare",
+      "tags": [
+        "关系边界"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-057",
+      "level": "adult",
+      "text": "在关系未结束时和别人接吻",
+      "rarity": "rare",
+      "tags": [
+        "关系边界"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-058",
+      "level": "adult",
+      "text": "在关系未结束时开始新的暧昧",
+      "rarity": "rare",
+      "tags": [
+        "关系边界"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-059",
+      "level": "adult",
+      "text": "在关系未结束时隐瞒过重要见面",
+      "rarity": "rare",
+      "tags": [
+        "关系边界"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-060",
+      "level": "adult",
+      "text": "在关系未结束时讨论过下一段关系",
+      "rarity": "rare",
+      "tags": [
+        "关系边界"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-061",
+      "level": "adult",
+      "text": "因为一次亲密互动和前任复合",
+      "rarity": "rare",
+      "tags": [
+        "复合"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-062",
+      "level": "adult",
+      "text": "因为一次亲密互动改变过关系决定",
+      "rarity": "rare",
+      "tags": [
+        "复合"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-063",
+      "level": "adult",
+      "text": "因为一次亲密互动原谅过严重争吵",
+      "rarity": "rare",
+      "tags": [
+        "复合"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-064",
+      "level": "adult",
+      "text": "因为一次亲密互动重新联系旧情人",
+      "rarity": "rare",
+      "tags": [
+        "复合"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-065",
+      "level": "adult",
+      "text": "因为一次亲密互动结束过另一段暧昧",
+      "rarity": "rare",
+      "tags": [
+        "复合"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-066",
+      "level": "adult",
+      "text": "和在场某人接吻过",
+      "rarity": "rare",
+      "tags": [
+        "秘密"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-067",
+      "level": "adult",
+      "text": "和在场某人单独过夜过",
+      "rarity": "rare",
+      "tags": [
+        "秘密"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-068",
+      "level": "adult",
+      "text": "和在场某人有过暧昧阶段",
+      "rarity": "rare",
+      "tags": [
+        "秘密"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-069",
+      "level": "adult",
+      "text": "和在场某人互相看过私密聊天",
+      "rarity": "rare",
+      "tags": [
+        "秘密"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-070",
+      "level": "adult",
+      "text": "和在场某人有过没公开的关系",
+      "rarity": "rare",
+      "tags": [
+        "秘密"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-071",
+      "level": "adult",
+      "text": "冲动之下亲过不该亲的人",
+      "rarity": "rare",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-072",
+      "level": "adult",
+      "text": "冲动之下答应过同居",
+      "rarity": "rare",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-073",
+      "level": "adult",
+      "text": "冲动之下公开过关系",
+      "rarity": "rare",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-074",
+      "level": "adult",
+      "text": "冲动之下联系过多年没见的人",
+      "rarity": "rare",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-075",
+      "level": "adult",
+      "text": "冲动之下去了陌生人的住处",
+      "rarity": "rare",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-076",
+      "level": "adult",
+      "text": "在约会软件上遇到过熟人",
+      "rarity": "rare",
+      "tags": [
+        "约会软件"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-077",
+      "level": "adult",
+      "text": "在约会软件上匹配过前任",
+      "rarity": "rare",
+      "tags": [
+        "约会软件"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-078",
+      "level": "adult",
+      "text": "在约会软件上用过假资料",
+      "rarity": "rare",
+      "tags": [
+        "约会软件"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-079",
+      "level": "adult",
+      "text": "在约会软件上当天见面过",
+      "rarity": "rare",
+      "tags": [
+        "约会软件"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-080",
+      "level": "adult",
+      "text": "在约会软件上被朋友认出过",
+      "rarity": "rare",
+      "tags": [
+        "约会软件"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-081",
+      "level": "adult",
+      "text": "隐瞒过自己的关系状态",
+      "rarity": "rare",
+      "tags": [
+        "身份"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-082",
+      "level": "adult",
+      "text": "隐瞒过自己的真实年龄",
+      "rarity": "rare",
+      "tags": [
+        "身份"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-083",
+      "level": "adult",
+      "text": "隐瞒过自己的约会目的",
+      "rarity": "rare",
+      "tags": [
+        "身份"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-084",
+      "level": "adult",
+      "text": "隐瞒过自己的前任联系",
+      "rarity": "rare",
+      "tags": [
+        "身份"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-085",
+      "level": "adult",
+      "text": "隐瞒过自己的同时暧昧对象",
+      "rarity": "rare",
+      "tags": [
+        "身份"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-086",
+      "level": "adult",
+      "text": "和看起来最不可能的人接吻过",
+      "rarity": "very-rare",
+      "tags": [
+        "亲密反差"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-087",
+      "level": "adult",
+      "text": "和看起来最不可能的人暧昧过",
+      "rarity": "very-rare",
+      "tags": [
+        "亲密反差"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-088",
+      "level": "adult",
+      "text": "和看起来最不可能的人单独旅行过",
+      "rarity": "very-rare",
+      "tags": [
+        "亲密反差"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-089",
+      "level": "adult",
+      "text": "和看起来最不可能的人互相表白过",
+      "rarity": "very-rare",
+      "tags": [
+        "亲密反差"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-090",
+      "level": "adult",
+      "text": "和看起来最不可能的人在一起过",
+      "rarity": "very-rare",
+      "tags": [
+        "亲密反差"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-091",
+      "level": "adult",
+      "text": "酒后联系过前任",
+      "rarity": "very-rare",
+      "tags": [
+        "酒后经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-092",
+      "level": "adult",
+      "text": "酒后亲错过人",
+      "rarity": "very-rare",
+      "tags": [
+        "酒后经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-093",
+      "level": "adult",
+      "text": "酒后公开过秘密",
+      "rarity": "very-rare",
+      "tags": [
+        "酒后经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-094",
+      "level": "adult",
+      "text": "酒后答应过一段关系",
+      "rarity": "very-rare",
+      "tags": [
+        "酒后经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-095",
+      "level": "adult",
+      "text": "酒后和陌生人离开过",
+      "rarity": "very-rare",
+      "tags": [
+        "酒后经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-096",
+      "level": "adult",
+      "text": "为了某个人结束过另一段关系",
+      "rarity": "very-rare",
+      "tags": [
+        "关系选择"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-097",
+      "level": "adult",
+      "text": "为了某个人搬去过另一座城",
+      "rarity": "very-rare",
+      "tags": [
+        "关系选择"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-098",
+      "level": "adult",
+      "text": "为了某个人取消过婚恋计划",
+      "rarity": "very-rare",
+      "tags": [
+        "关系选择"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-099",
+      "level": "adult",
+      "text": "为了某个人和朋友闹翻过",
+      "rarity": "very-rare",
+      "tags": [
+        "关系选择"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-a-100",
+      "level": "adult",
+      "text": "为了某个人重新定义过边界",
+      "rarity": "very-rare",
+      "tags": [
+        "关系选择"
+      ],
+      "requirements": {}
+    }
+  ]
+}

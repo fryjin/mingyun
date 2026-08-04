@@ -1,0 +1,1011 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.3.0-2026.08",
+  "game": "i-did-it",
+  "level": "light",
+  "levelLabel": "轻松",
+  "type": "experience",
+  "count": 100,
+  "items": [
+    {
+      "id": "idi-l-001",
+      "level": "light",
+      "text": "临时独自去了陌生城市",
+      "rarity": "uncommon",
+      "tags": [
+        "旅行"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-002",
+      "level": "light",
+      "text": "临时独自去了海边小镇",
+      "rarity": "uncommon",
+      "tags": [
+        "旅行"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-003",
+      "level": "light",
+      "text": "临时独自去了邻省看展",
+      "rarity": "uncommon",
+      "tags": [
+        "旅行"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-004",
+      "level": "light",
+      "text": "临时独自去了深夜车站",
+      "rarity": "uncommon",
+      "tags": [
+        "旅行"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-005",
+      "level": "light",
+      "text": "临时独自去了山顶看日出",
+      "rarity": "uncommon",
+      "tags": [
+        "旅行"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-006",
+      "level": "light",
+      "text": "参加过陌生人的婚礼",
+      "rarity": "uncommon",
+      "tags": [
+        "活动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-007",
+      "level": "light",
+      "text": "参加过电视节目录制",
+      "rarity": "uncommon",
+      "tags": [
+        "活动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-008",
+      "level": "light",
+      "text": "参加过街头即兴演出",
+      "rarity": "uncommon",
+      "tags": [
+        "活动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-009",
+      "level": "light",
+      "text": "参加过临时报名的比赛",
+      "rarity": "uncommon",
+      "tags": [
+        "活动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-010",
+      "level": "light",
+      "text": "参加过完全不熟的饭局",
+      "rarity": "uncommon",
+      "tags": [
+        "活动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-011",
+      "level": "light",
+      "text": "被路人认错身份",
+      "rarity": "uncommon",
+      "tags": [
+        "偶遇"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-012",
+      "level": "light",
+      "text": "被陌生人请过客",
+      "rarity": "uncommon",
+      "tags": [
+        "偶遇"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-013",
+      "level": "light",
+      "text": "被店员免过单",
+      "rarity": "uncommon",
+      "tags": [
+        "偶遇"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-014",
+      "level": "light",
+      "text": "被小朋友主动牵手",
+      "rarity": "uncommon",
+      "tags": [
+        "偶遇"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-015",
+      "level": "light",
+      "text": "被动物一路跟随",
+      "rarity": "uncommon",
+      "tags": [
+        "偶遇"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-016",
+      "level": "light",
+      "text": "在公共场合被点名上台",
+      "rarity": "uncommon",
+      "tags": [
+        "公共场合"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-017",
+      "level": "light",
+      "text": "在公共场合临时当过主持",
+      "rarity": "uncommon",
+      "tags": [
+        "公共场合"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-018",
+      "level": "light",
+      "text": "在公共场合唱过完整一首歌",
+      "rarity": "uncommon",
+      "tags": [
+        "公共场合"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-019",
+      "level": "light",
+      "text": "在公共场合替陌生人解过围",
+      "rarity": "uncommon",
+      "tags": [
+        "公共场合"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-020",
+      "level": "light",
+      "text": "在公共场合被全场鼓掌过",
+      "rarity": "uncommon",
+      "tags": [
+        "公共场合"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-021",
+      "level": "light",
+      "text": "收到过陌生人的手写信",
+      "rarity": "uncommon",
+      "tags": [
+        "礼物"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-022",
+      "level": "light",
+      "text": "收到过没有署名的礼物",
+      "rarity": "uncommon",
+      "tags": [
+        "礼物"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-023",
+      "level": "light",
+      "text": "收到过路人送的花",
+      "rarity": "uncommon",
+      "tags": [
+        "礼物"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-024",
+      "level": "light",
+      "text": "收到过网友寄来的特产",
+      "rarity": "uncommon",
+      "tags": [
+        "礼物"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-025",
+      "level": "light",
+      "text": "收到过店家额外送的整单",
+      "rarity": "uncommon",
+      "tags": [
+        "礼物"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-026",
+      "level": "light",
+      "text": "为了看日出通宵赶路",
+      "rarity": "uncommon",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-027",
+      "level": "light",
+      "text": "为了看日出临时改签",
+      "rarity": "uncommon",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-028",
+      "level": "light",
+      "text": "为了看日出睡过车站",
+      "rarity": "uncommon",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-029",
+      "level": "light",
+      "text": "为了看日出独自出发",
+      "rarity": "uncommon",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-030",
+      "level": "light",
+      "text": "为了看日出取消原计划",
+      "rarity": "uncommon",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-031",
+      "level": "light",
+      "text": "自学会过简单魔术",
+      "rarity": "uncommon",
+      "tags": [
+        "技能"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-032",
+      "level": "light",
+      "text": "自学会过一种冷门乐器",
+      "rarity": "uncommon",
+      "tags": [
+        "技能"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-033",
+      "level": "light",
+      "text": "自学会过手语日常用语",
+      "rarity": "uncommon",
+      "tags": [
+        "技能"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-034",
+      "level": "light",
+      "text": "自学会过修理小家电",
+      "rarity": "uncommon",
+      "tags": [
+        "技能"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-035",
+      "level": "light",
+      "text": "自学会过辨认星座",
+      "rarity": "uncommon",
+      "tags": [
+        "技能"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-036",
+      "level": "light",
+      "text": "误入过别人公司的团建",
+      "rarity": "uncommon",
+      "tags": [
+        "误入"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-037",
+      "level": "light",
+      "text": "误入过陌生班级的课堂",
+      "rarity": "uncommon",
+      "tags": [
+        "误入"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-038",
+      "level": "light",
+      "text": "误入过不认识人的聚会",
+      "rarity": "uncommon",
+      "tags": [
+        "误入"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-039",
+      "level": "light",
+      "text": "误入过只对会员开放的活动",
+      "rarity": "uncommon",
+      "tags": [
+        "误入"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-040",
+      "level": "light",
+      "text": "误入过完全陌生的拍摄现场",
+      "rarity": "uncommon",
+      "tags": [
+        "误入"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-041",
+      "level": "light",
+      "text": "被邀请去过后台休息区",
+      "rarity": "uncommon",
+      "tags": [
+        "邀请"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-042",
+      "level": "light",
+      "text": "被邀请去过陌生人的家宴",
+      "rarity": "uncommon",
+      "tags": [
+        "邀请"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-043",
+      "level": "light",
+      "text": "被邀请去过婚礼主桌",
+      "rarity": "uncommon",
+      "tags": [
+        "邀请"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-044",
+      "level": "light",
+      "text": "被邀请去过舞台侧幕",
+      "rarity": "uncommon",
+      "tags": [
+        "邀请"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-045",
+      "level": "light",
+      "text": "被邀请去过封闭试映会",
+      "rarity": "uncommon",
+      "tags": [
+        "邀请"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-046",
+      "level": "light",
+      "text": "旅行中睡过机场",
+      "rarity": "rare",
+      "tags": [
+        "旅行"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-047",
+      "level": "light",
+      "text": "旅行中搭过陌生人的顺风车",
+      "rarity": "rare",
+      "tags": [
+        "旅行"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-048",
+      "level": "light",
+      "text": "旅行中临时改过目的地",
+      "rarity": "rare",
+      "tags": [
+        "旅行"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-049",
+      "level": "light",
+      "text": "旅行中和路人结伴一天",
+      "rarity": "rare",
+      "tags": [
+        "旅行"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-050",
+      "level": "light",
+      "text": "旅行中错过最后一班车",
+      "rarity": "rare",
+      "tags": [
+        "旅行"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-051",
+      "level": "light",
+      "text": "公开分享过自己的失败经历",
+      "rarity": "rare",
+      "tags": [
+        "公开表达"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-052",
+      "level": "light",
+      "text": "公开分享过原创作品",
+      "rarity": "rare",
+      "tags": [
+        "公开表达"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-053",
+      "level": "light",
+      "text": "公开分享过一段即兴演讲",
+      "rarity": "rare",
+      "tags": [
+        "公开表达"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-054",
+      "level": "light",
+      "text": "公开分享过童年糗事",
+      "rarity": "rare",
+      "tags": [
+        "公开表达"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-055",
+      "level": "light",
+      "text": "公开分享过完全没准备的观点",
+      "rarity": "rare",
+      "tags": [
+        "公开表达"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-056",
+      "level": "light",
+      "text": "连续坚持过一个月早起",
+      "rarity": "rare",
+      "tags": [
+        "坚持"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-057",
+      "level": "light",
+      "text": "连续坚持过一百天打卡",
+      "rarity": "rare",
+      "tags": [
+        "坚持"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-058",
+      "level": "light",
+      "text": "连续坚持过七天不点外卖",
+      "rarity": "rare",
+      "tags": [
+        "坚持"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-059",
+      "level": "light",
+      "text": "连续坚持过三十天不买新东西",
+      "rarity": "rare",
+      "tags": [
+        "坚持"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-060",
+      "level": "light",
+      "text": "连续坚持过一个月写日记",
+      "rarity": "rare",
+      "tags": [
+        "坚持"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-061",
+      "level": "light",
+      "text": "用过翻盖手机一整年",
+      "rarity": "rare",
+      "tags": [
+        "生活方式"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-062",
+      "level": "light",
+      "text": "用过纸质地图找路",
+      "rarity": "rare",
+      "tags": [
+        "生活方式"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-063",
+      "level": "light",
+      "text": "用过老式胶片相机",
+      "rarity": "rare",
+      "tags": [
+        "生活方式"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-064",
+      "level": "light",
+      "text": "用过现金生活一整周",
+      "rarity": "rare",
+      "tags": [
+        "生活方式"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-065",
+      "level": "light",
+      "text": "用过功能机当主力机",
+      "rarity": "rare",
+      "tags": [
+        "生活方式"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-066",
+      "level": "light",
+      "text": "给陌生人垫过车费",
+      "rarity": "rare",
+      "tags": [
+        "善意"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-067",
+      "level": "light",
+      "text": "给陌生人保管过行李",
+      "rarity": "rare",
+      "tags": [
+        "善意"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-068",
+      "level": "light",
+      "text": "给陌生人送过生日祝福",
+      "rarity": "rare",
+      "tags": [
+        "善意"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-069",
+      "level": "light",
+      "text": "给陌生人写过鼓励纸条",
+      "rarity": "rare",
+      "tags": [
+        "善意"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-070",
+      "level": "light",
+      "text": "给陌生人当过临时向导",
+      "rarity": "rare",
+      "tags": [
+        "善意"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-071",
+      "level": "light",
+      "text": "与陌生人共进过晚餐",
+      "rarity": "rare",
+      "tags": [
+        "偶遇"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-072",
+      "level": "light",
+      "text": "与外国游客聊到深夜",
+      "rarity": "rare",
+      "tags": [
+        "偶遇"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-073",
+      "level": "light",
+      "text": "与路人交换过书",
+      "rarity": "rare",
+      "tags": [
+        "偶遇"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-074",
+      "level": "light",
+      "text": "与网友线下见过面",
+      "rarity": "rare",
+      "tags": [
+        "偶遇"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-075",
+      "level": "light",
+      "text": "与陌生人一起看过日出",
+      "rarity": "rare",
+      "tags": [
+        "偶遇"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-076",
+      "level": "light",
+      "text": "亲手做过整套服装",
+      "rarity": "rare",
+      "tags": [
+        "手作"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-077",
+      "level": "light",
+      "text": "亲手做过一件家具",
+      "rarity": "rare",
+      "tags": [
+        "手作"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-078",
+      "level": "light",
+      "text": "亲手做过一本手工书",
+      "rarity": "rare",
+      "tags": [
+        "手作"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-079",
+      "level": "light",
+      "text": "亲手做过完整生日蛋糕",
+      "rarity": "rare",
+      "tags": [
+        "手作"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-080",
+      "level": "light",
+      "text": "亲手做过可以使用的乐器",
+      "rarity": "rare",
+      "tags": [
+        "手作"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-081",
+      "level": "light",
+      "text": "现场见证过求婚成功",
+      "rarity": "rare",
+      "tags": [
+        "现场"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-082",
+      "level": "light",
+      "text": "现场见证过街头救援",
+      "rarity": "rare",
+      "tags": [
+        "现场"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-083",
+      "level": "light",
+      "text": "现场见证过临时停电演出",
+      "rarity": "rare",
+      "tags": [
+        "现场"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-084",
+      "level": "light",
+      "text": "现场见证过大型活动取消",
+      "rarity": "rare",
+      "tags": [
+        "现场"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-085",
+      "level": "light",
+      "text": "现场见证过陌生人重逢",
+      "rarity": "rare",
+      "tags": [
+        "现场"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-086",
+      "level": "light",
+      "text": "从迷路中找到隐藏景点",
+      "rarity": "very-rare",
+      "tags": [
+        "经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-087",
+      "level": "light",
+      "text": "从停运中找到替代路线",
+      "rarity": "very-rare",
+      "tags": [
+        "经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-088",
+      "level": "light",
+      "text": "从陌生城市独自返程",
+      "rarity": "very-rare",
+      "tags": [
+        "经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-089",
+      "level": "light",
+      "text": "从错误车次中临时改道",
+      "rarity": "very-rare",
+      "tags": [
+        "经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-090",
+      "level": "light",
+      "text": "从暴雨中走回住处",
+      "rarity": "very-rare",
+      "tags": [
+        "经历"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-091",
+      "level": "light",
+      "text": "一个人看过通宵电影",
+      "rarity": "very-rare",
+      "tags": [
+        "独处"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-092",
+      "level": "light",
+      "text": "一个人吃过正式晚餐",
+      "rarity": "very-rare",
+      "tags": [
+        "独处"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-093",
+      "level": "light",
+      "text": "一个人去过游乐园",
+      "rarity": "very-rare",
+      "tags": [
+        "独处"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-094",
+      "level": "light",
+      "text": "一个人参加过展览开幕",
+      "rarity": "very-rare",
+      "tags": [
+        "独处"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-095",
+      "level": "light",
+      "text": "一个人跨过年",
+      "rarity": "very-rare",
+      "tags": [
+        "独处"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-096",
+      "level": "light",
+      "text": "因为意外多住了一座城市",
+      "rarity": "very-rare",
+      "tags": [
+        "意外"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-097",
+      "level": "light",
+      "text": "因为意外认识了多年好友",
+      "rarity": "very-rare",
+      "tags": [
+        "意外"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-098",
+      "level": "light",
+      "text": "因为意外错过原定旅行",
+      "rarity": "very-rare",
+      "tags": [
+        "意外"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-099",
+      "level": "light",
+      "text": "因为意外获得一次免费体验",
+      "rarity": "very-rare",
+      "tags": [
+        "意外"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-l-100",
+      "level": "light",
+      "text": "因为意外上过当地新闻",
+      "rarity": "very-rare",
+      "tags": [
+        "意外"
+      ],
+      "requirements": {}
+    }
+  ]
+}

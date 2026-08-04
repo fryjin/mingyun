@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.3.0-2026.08",
+  "generatedAt": "2026-08-04",
+  "description": "V9.3.0 新增游戏专属题库清单：我居然做过500条，混乱法则300条。",
+  "totals": {
+    "all": 800,
+    "i-did-it": 500,
+    "chaos-rules": 300
+  },
+  "files": [
+    {
+      "file": "data/games/chaos-rules-adult-plus.json",
+      "game": "chaos-rules",
+      "level": "adult-plus",
+      "count": 60,
+      "sha256": "aab8479761fd0dda50988f29c26c3e1c8aa010a690493171bce20420c66ec56c",
+      "bytes": 16906
+    },
+    {
+      "file": "data/games/chaos-rules-adult.json",
+      "game": "chaos-rules",
+      "level": "adult",
+      "count": 60,
+      "sha256": "d1a901a85d70ee46745074c11160a432b5ba0bbab1ba615ef43a4fc9e1d9fb39",
+      "bytes": 14302
+    },
+    {
+      "file": "data/games/chaos-rules-bold.json",
+      "game": "chaos-rules",
+      "level": "bold",
+      "count": 60,
+      "sha256": "307d987cbb1b3f1ab5d62e330a5c02b5cce5e746352cce402bbd86bdcb3c970c",
+      "bytes": 14163
+    },
+    {
+      "file": "data/games/chaos-rules-light.json",
+      "game": "chaos-rules",
+      "level": "light",
+      "count": 60,
+      "sha256": "f26eba93c82d70c43e7826f91bc6a5dc722a9ff8212779d44e2b193511d3e088",
+      "bytes": 14056
+    },
+    {
+      "file": "data/games/chaos-rules-standard.json",
+      "game": "chaos-rules",
+      "level": "standard",
+      "count": 60,
+      "sha256": "6f1a2ddc4459fb9f0a4bd0a745c6b39490aaa39e86dd35275778d7fcfd548bd9",
+      "bytes": 14377
+    },
+    {
+      "file": "data/games/i-did-it-adult-plus.json",
+      "game": "i-did-it",
+      "level": "adult-plus",
+      "count": 100,
+      "sha256": "078ec6223f62d1dbd6ba727754215548efe7603355a4f16508f873e385e051be",
+      "bytes": 22165
+    },
+    {
+      "file": "data/games/i-did-it-adult.json",
+      "game": "i-did-it",
+      "level": "adult",
+      "count": 100,
+      "sha256": "4ecf6092aead4a76bd9eb059f050cc78234b2c4e3006a2d9129c9ceacce8e7ee",
+      "bytes": 21233
+    },
+    {
+      "file": "data/games/i-did-it-bold.json",
+      "game": "i-did-it",
+      "level": "bold",
+      "count": 100,
+      "sha256": "e6202508f519b23e5db7c47048d497426913fd28647c17e274a5392d6a986c20",
+      "bytes": 20874
+    },
+    {
+      "file": "data/games/i-did-it-light.json",
+      "game": "i-did-it",
+      "level": "light",
+      "count": 100,
+      "sha256": "11daabad25129f9ee39f3f31cc1e8e673f6dc6a7fd15c148bb85363edca254f4",
+      "bytes": 20522
+    },
+    {
+      "file": "data/games/i-did-it-standard.json",
+      "game": "i-did-it",
+      "level": "standard",
+      "count": 100,
+      "sha256": "77f35a0221d2052f10df8d0904a584a24e2dd79d429cf6eb9c1bfec199b45493",
+      "bytes": 21272
+    }
+  ]
+}

@@ -53,7 +53,11 @@ export function icon(name) {
     crown:'<svg viewBox="0 0 24 24"><path d="m3 7 4 4 5-7 5 7 4-4-2 12H5z"/></svg>',
     users:'<svg viewBox="0 0 24 24"><circle cx="9" cy="7" r="4"/><path d="M2 21v-2a4 4 0 0 1 4-4h6a4 4 0 0 1 4 4v2m2-10a3 3 0 0 1 0 6"/></svg>',
     pause:'<svg viewBox="0 0 24 24"><path d="M8 5v14m8-14v14"/></svg>',
-    play:'<svg viewBox="0 0 24 24"><path d="m8 5 11 7-11 7z"/></svg>'
+    play:'<svg viewBox="0 0 24 24"><path d="m8 5 11 7-11 7z"/></svg>',
+    did:'<svg viewBox="0 0 24 24"><path d="M7 12V7a2 2 0 0 1 4 0v4-6a2 2 0 0 1 4 0v6-4a2 2 0 0 1 4 0v7c0 4-3 7-7 7h-1c-3 0-5-1-7-4l-2-3a2 2 0 0 1 3-2l2 2"/><path d="m18 2 .5 1.5L20 4l-1.5.5L18 6l-.5-1.5L16 4l1.5-.5z"/></svg>',
+    stories:'<svg viewBox="0 0 24 24"><path d="M4 5h12a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H9l-5 4V7a2 2 0 0 1 2-2z"/><path d="M8 9h6M8 12h4M18 8h1a2 2 0 0 1 2 2v8l-3-2"/></svg>',
+    chaos:'<svg viewBox="0 0 24 24"><path d="M4 7h4c5 0 3 10 8 10h4"/><path d="m17 14 3 3-3 3M4 17h4c5 0 3-10 8-10h4"/><path d="m17 4 3 3-3 3"/></svg>',
+    ladder:'<svg viewBox="0 0 24 24"><path d="M7 21V3M17 21V3M7 7h10M7 12h10M7 17h10"/><path d="m12 3 2-2 2 2"/></svg>'
   };
   return icons[name] || icons.dice;
 }

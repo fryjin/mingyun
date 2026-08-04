@@ -1,0 +1,1011 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.3.0-2026.08",
+  "game": "i-did-it",
+  "level": "bold",
+  "levelLabel": "大胆",
+  "type": "experience",
+  "count": 100,
+  "items": [
+    {
+      "id": "idi-b-001",
+      "level": "bold",
+      "text": "同时和两个人保持暧昧",
+      "rarity": "uncommon",
+      "tags": [
+        "暧昧"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-002",
+      "level": "bold",
+      "text": "同时和朋友喜欢的人聊天",
+      "rarity": "uncommon",
+      "tags": [
+        "暧昧"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-003",
+      "level": "bold",
+      "text": "同时和前任和新人联系",
+      "rarity": "uncommon",
+      "tags": [
+        "暧昧"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-004",
+      "level": "bold",
+      "text": "同时和同一圈两个人约会",
+      "rarity": "uncommon",
+      "tags": [
+        "暧昧"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-005",
+      "level": "bold",
+      "text": "同时和网友和现实朋友心动",
+      "rarity": "uncommon",
+      "tags": [
+        "暧昧"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-006",
+      "level": "bold",
+      "text": "和朋友喜欢过同一个人",
+      "rarity": "uncommon",
+      "tags": [
+        "关系"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-007",
+      "level": "bold",
+      "text": "和朋友喜欢过彼此的前任",
+      "rarity": "uncommon",
+      "tags": [
+        "关系"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-008",
+      "level": "bold",
+      "text": "和朋友喜欢过同一位同事",
+      "rarity": "uncommon",
+      "tags": [
+        "关系"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-009",
+      "level": "bold",
+      "text": "和朋友喜欢过同一个网友",
+      "rarity": "uncommon",
+      "tags": [
+        "关系"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-010",
+      "level": "bold",
+      "text": "和朋友喜欢过同一个聚会对象",
+      "rarity": "uncommon",
+      "tags": [
+        "关系"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-011",
+      "level": "bold",
+      "text": "为了让某人吃醋故意发过合照",
+      "rarity": "uncommon",
+      "tags": [
+        "吃醋"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-012",
+      "level": "bold",
+      "text": "为了让某人吃醋假装有新对象",
+      "rarity": "uncommon",
+      "tags": [
+        "吃醋"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-013",
+      "level": "bold",
+      "text": "为了让某人吃醋和别人表现亲密",
+      "rarity": "uncommon",
+      "tags": [
+        "吃醋"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-014",
+      "level": "bold",
+      "text": "为了让某人吃醋很久不回消息",
+      "rarity": "uncommon",
+      "tags": [
+        "吃醋"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-015",
+      "level": "bold",
+      "text": "为了让某人吃醋提起过追求者",
+      "rarity": "uncommon",
+      "tags": [
+        "吃醋"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-016",
+      "level": "bold",
+      "text": "对朋友隐瞒过正在恋爱",
+      "rarity": "uncommon",
+      "tags": [
+        "隐瞒"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-017",
+      "level": "bold",
+      "text": "对朋友隐瞒过已经分手",
+      "rarity": "uncommon",
+      "tags": [
+        "隐瞒"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-018",
+      "level": "bold",
+      "text": "对朋友隐瞒过和前任见面",
+      "rarity": "uncommon",
+      "tags": [
+        "隐瞒"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-019",
+      "level": "bold",
+      "text": "对朋友隐瞒过喜欢在场某人",
+      "rarity": "uncommon",
+      "tags": [
+        "隐瞒"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-020",
+      "level": "bold",
+      "text": "对朋友隐瞒过一段暧昧关系",
+      "rarity": "uncommon",
+      "tags": [
+        "隐瞒"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-021",
+      "level": "bold",
+      "text": "偷偷查看过前任新对象主页",
+      "rarity": "uncommon",
+      "tags": [
+        "前任"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-022",
+      "level": "bold",
+      "text": "偷偷查看过前任最近动态",
+      "rarity": "uncommon",
+      "tags": [
+        "前任"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-023",
+      "level": "bold",
+      "text": "偷偷查看过前任朋友的评论",
+      "rarity": "uncommon",
+      "tags": [
+        "前任"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-024",
+      "level": "bold",
+      "text": "偷偷查看过前任约会地点",
+      "rarity": "uncommon",
+      "tags": [
+        "前任"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-025",
+      "level": "bold",
+      "text": "偷偷查看过前任旧聊天记录",
+      "rarity": "uncommon",
+      "tags": [
+        "前任"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-026",
+      "level": "bold",
+      "text": "在告白后假装只是玩笑",
+      "rarity": "uncommon",
+      "tags": [
+        "告白"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-027",
+      "level": "bold",
+      "text": "在告白后立刻后悔撤回",
+      "rarity": "uncommon",
+      "tags": [
+        "告白"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-028",
+      "level": "bold",
+      "text": "在告白后和对方失联",
+      "rarity": "uncommon",
+      "tags": [
+        "告白"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-029",
+      "level": "bold",
+      "text": "在告白后继续装作朋友",
+      "rarity": "uncommon",
+      "tags": [
+        "告白"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-030",
+      "level": "bold",
+      "text": "在告白后同时收到另一人告白",
+      "rarity": "uncommon",
+      "tags": [
+        "告白"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-031",
+      "level": "bold",
+      "text": "为了见某人临时飞去另一座城",
+      "rarity": "uncommon",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-032",
+      "level": "bold",
+      "text": "为了见某人撒过很大的谎",
+      "rarity": "uncommon",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-033",
+      "level": "bold",
+      "text": "为了见某人取消过重要安排",
+      "rarity": "uncommon",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-034",
+      "level": "bold",
+      "text": "为了见某人通宵等过消息",
+      "rarity": "uncommon",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-035",
+      "level": "bold",
+      "text": "为了见某人冒雨等过很久",
+      "rarity": "uncommon",
+      "tags": [
+        "冲动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-036",
+      "level": "bold",
+      "text": "和朋友的前任单独吃过饭",
+      "rarity": "uncommon",
+      "tags": [
+        "边界"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-037",
+      "level": "bold",
+      "text": "和朋友的前任保持过秘密联系",
+      "rarity": "uncommon",
+      "tags": [
+        "边界"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-038",
+      "level": "bold",
+      "text": "和朋友的前任暧昧过",
+      "rarity": "uncommon",
+      "tags": [
+        "边界"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-039",
+      "level": "bold",
+      "text": "和朋友的前任一起旅行过",
+      "rarity": "uncommon",
+      "tags": [
+        "边界"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-040",
+      "level": "bold",
+      "text": "和朋友的前任互相试探过",
+      "rarity": "uncommon",
+      "tags": [
+        "边界"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-041",
+      "level": "bold",
+      "text": "在聚会上亲过不熟的人",
+      "rarity": "uncommon",
+      "tags": [
+        "聚会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-042",
+      "level": "bold",
+      "text": "在聚会上假装醉酒试探别人",
+      "rarity": "uncommon",
+      "tags": [
+        "聚会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-043",
+      "level": "bold",
+      "text": "在聚会上和刚认识的人离开",
+      "rarity": "uncommon",
+      "tags": [
+        "聚会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-044",
+      "level": "bold",
+      "text": "在聚会上对在场的人心动",
+      "rarity": "uncommon",
+      "tags": [
+        "聚会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-045",
+      "level": "bold",
+      "text": "在聚会上说过醒来后后悔的话",
+      "rarity": "uncommon",
+      "tags": [
+        "聚会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-046",
+      "level": "bold",
+      "text": "把暧昧聊天截图给朋友看",
+      "rarity": "rare",
+      "tags": [
+        "聊天"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-047",
+      "level": "bold",
+      "text": "把暧昧聊天误发给当事人",
+      "rarity": "rare",
+      "tags": [
+        "聊天"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-048",
+      "level": "bold",
+      "text": "把暧昧聊天保留超过一年",
+      "rarity": "rare",
+      "tags": [
+        "聊天"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-049",
+      "level": "bold",
+      "text": "把暧昧聊天同时发给两个人",
+      "rarity": "rare",
+      "tags": [
+        "聊天"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-050",
+      "level": "bold",
+      "text": "把暧昧聊天拿来试探别人",
+      "rarity": "rare",
+      "tags": [
+        "聊天"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-051",
+      "level": "bold",
+      "text": "约会时叫错过对方名字",
+      "rarity": "rare",
+      "tags": [
+        "约会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-052",
+      "level": "bold",
+      "text": "约会时碰见过前任",
+      "rarity": "rare",
+      "tags": [
+        "约会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-053",
+      "level": "bold",
+      "text": "约会时临时换过对象",
+      "rarity": "rare",
+      "tags": [
+        "约会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-054",
+      "level": "bold",
+      "text": "约会时让朋友远程救场",
+      "rarity": "rare",
+      "tags": [
+        "约会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-055",
+      "level": "bold",
+      "text": "约会时假装过突然有事",
+      "rarity": "rare",
+      "tags": [
+        "约会"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-056",
+      "level": "bold",
+      "text": "在两个人之间犹豫超过一个月",
+      "rarity": "rare",
+      "tags": [
+        "选择"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-057",
+      "level": "bold",
+      "text": "在两个人之间给过相似承诺",
+      "rarity": "rare",
+      "tags": [
+        "选择"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-058",
+      "level": "bold",
+      "text": "在两个人之间同时保持联系",
+      "rarity": "rare",
+      "tags": [
+        "选择"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-059",
+      "level": "bold",
+      "text": "在两个人之间让朋友帮忙比较",
+      "rarity": "rare",
+      "tags": [
+        "选择"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-060",
+      "level": "bold",
+      "text": "在两个人之间故意不做决定",
+      "rarity": "rare",
+      "tags": [
+        "选择"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-061",
+      "level": "bold",
+      "text": "和在场某人有过共同秘密",
+      "rarity": "rare",
+      "tags": [
+        "秘密"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-062",
+      "level": "bold",
+      "text": "和在场某人单独见面没说过",
+      "rarity": "rare",
+      "tags": [
+        "秘密"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-063",
+      "level": "bold",
+      "text": "和在场某人互相掩护过谎言",
+      "rarity": "rare",
+      "tags": [
+        "秘密"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-064",
+      "level": "bold",
+      "text": "和在场某人曾经互相心动",
+      "rarity": "rare",
+      "tags": [
+        "秘密"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-065",
+      "level": "bold",
+      "text": "和在场某人有过只有彼此知道的约定",
+      "rarity": "rare",
+      "tags": [
+        "秘密"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-066",
+      "level": "bold",
+      "text": "用小号试探过喜欢的人",
+      "rarity": "rare",
+      "tags": [
+        "试探"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-067",
+      "level": "bold",
+      "text": "用小号试探过前任",
+      "rarity": "rare",
+      "tags": [
+        "试探"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-068",
+      "level": "bold",
+      "text": "用小号试探过暧昧对象",
+      "rarity": "rare",
+      "tags": [
+        "试探"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-069",
+      "level": "bold",
+      "text": "用小号试探过朋友的对象",
+      "rarity": "rare",
+      "tags": [
+        "试探"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-070",
+      "level": "bold",
+      "text": "用小号试探过在场某人",
+      "rarity": "rare",
+      "tags": [
+        "试探"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-071",
+      "level": "bold",
+      "text": "为感情撒过地点谎言",
+      "rarity": "rare",
+      "tags": [
+        "谎言"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-072",
+      "level": "bold",
+      "text": "为感情撒过关系谎言",
+      "rarity": "rare",
+      "tags": [
+        "谎言"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-073",
+      "level": "bold",
+      "text": "为感情撒过时间谎言",
+      "rarity": "rare",
+      "tags": [
+        "谎言"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-074",
+      "level": "bold",
+      "text": "为感情撒过单身谎言",
+      "rarity": "rare",
+      "tags": [
+        "谎言"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-075",
+      "level": "bold",
+      "text": "为感情撒过已经放下的谎言",
+      "rarity": "rare",
+      "tags": [
+        "谎言"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-076",
+      "level": "bold",
+      "text": "分手后当天又复合",
+      "rarity": "rare",
+      "tags": [
+        "分手"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-077",
+      "level": "bold",
+      "text": "分手后仍保持每日联系",
+      "rarity": "rare",
+      "tags": [
+        "分手"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-078",
+      "level": "bold",
+      "text": "分手后假装过得很好",
+      "rarity": "rare",
+      "tags": [
+        "分手"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-079",
+      "level": "bold",
+      "text": "分手后删掉又加回对方",
+      "rarity": "rare",
+      "tags": [
+        "分手"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-080",
+      "level": "bold",
+      "text": "分手后和对方朋友约会",
+      "rarity": "rare",
+      "tags": [
+        "分手"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-081",
+      "level": "bold",
+      "text": "对不该心动的人认真心动过",
+      "rarity": "rare",
+      "tags": [
+        "心动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-082",
+      "level": "bold",
+      "text": "对不该心动的人主动靠近过",
+      "rarity": "rare",
+      "tags": [
+        "心动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-083",
+      "level": "bold",
+      "text": "对不该心动的人长期保持联系",
+      "rarity": "rare",
+      "tags": [
+        "心动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-084",
+      "level": "bold",
+      "text": "对不该心动的人隐瞒过感受",
+      "rarity": "rare",
+      "tags": [
+        "心动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-085",
+      "level": "bold",
+      "text": "对不该心动的人制造过单独相处",
+      "rarity": "rare",
+      "tags": [
+        "心动"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-086",
+      "level": "bold",
+      "text": "和认识不到一天的人跨城旅行",
+      "rarity": "very-rare",
+      "tags": [
+        "冒险"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-087",
+      "level": "bold",
+      "text": "和认识不到一天的人参加陌生聚会",
+      "rarity": "very-rare",
+      "tags": [
+        "冒险"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-088",
+      "level": "bold",
+      "text": "和认识不到一天的人住过同一屋檐",
+      "rarity": "very-rare",
+      "tags": [
+        "冒险"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-089",
+      "level": "bold",
+      "text": "和认识不到一天的人交换过重要秘密",
+      "rarity": "very-rare",
+      "tags": [
+        "冒险"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-090",
+      "level": "bold",
+      "text": "和认识不到一天的人做过重大决定",
+      "rarity": "very-rare",
+      "tags": [
+        "冒险"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-091",
+      "level": "bold",
+      "text": "在朋友圈暗示过某段关系",
+      "rarity": "very-rare",
+      "tags": [
+        "公开"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-092",
+      "level": "bold",
+      "text": "在朋友圈故意发给某人看",
+      "rarity": "very-rare",
+      "tags": [
+        "公开"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-093",
+      "level": "bold",
+      "text": "在朋友圈删除过仅一人可见内容",
+      "rarity": "very-rare",
+      "tags": [
+        "公开"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-094",
+      "level": "bold",
+      "text": "在朋友圈官宣后很快删除",
+      "rarity": "very-rare",
+      "tags": [
+        "公开"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-095",
+      "level": "bold",
+      "text": "在朋友圈用歌词回应感情",
+      "rarity": "very-rare",
+      "tags": [
+        "公开"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-096",
+      "level": "bold",
+      "text": "嘴上说不在意却反复查看消息",
+      "rarity": "very-rare",
+      "tags": [
+        "反差"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-097",
+      "level": "bold",
+      "text": "嘴上说不在意却问遍共同朋友",
+      "rarity": "very-rare",
+      "tags": [
+        "反差"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-098",
+      "level": "bold",
+      "text": "嘴上说不在意却保存全部照片",
+      "rarity": "very-rare",
+      "tags": [
+        "反差"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-099",
+      "level": "bold",
+      "text": "嘴上说不在意却记住所有细节",
+      "rarity": "very-rare",
+      "tags": [
+        "反差"
+      ],
+      "requirements": {}
+    },
+    {
+      "id": "idi-b-100",
+      "level": "bold",
+      "text": "嘴上说不在意却故意绕路偶遇",
+      "rarity": "very-rare",
+      "tags": [
+        "反差"
+      ],
+      "requirements": {}
+    }
+  ]
+}

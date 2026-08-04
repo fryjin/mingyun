@@ -1,0 +1,647 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankVersion": "v9.3.0-2026.08",
+  "game": "chaos-rules",
+  "level": "light",
+  "levelLabel": "轻松",
+  "type": "rule",
+  "count": 60,
+  "items": [
+    {
+      "id": "cr-l-instant-01",
+      "level": "light",
+      "type": "instant",
+      "instruction": "模仿一种动物十秒",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-l-instant-02",
+      "level": "light",
+      "type": "instant",
+      "instruction": "用播音腔介绍自己",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-l-instant-03",
+      "level": "light",
+      "type": "instant",
+      "instruction": "无音乐跳舞十五秒",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-l-instant-04",
+      "level": "light",
+      "type": "instant",
+      "instruction": "用三个词形容今天",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-l-instant-05",
+      "level": "light",
+      "type": "instant",
+      "instruction": "讲一个冷笑话",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-l-instant-06",
+      "level": "light",
+      "type": "instant",
+      "instruction": "原地走一段模特步",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-l-instant-07",
+      "level": "light",
+      "type": "instant",
+      "instruction": "模仿一个常见表情包",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-l-instant-08",
+      "level": "light",
+      "type": "instant",
+      "instruction": "唱一句大家熟悉的歌",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-l-instant-09",
+      "level": "light",
+      "type": "instant",
+      "instruction": "用反派语气说早上好",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-l-instant-10",
+      "level": "light",
+      "type": "instant",
+      "instruction": "表演一次夸张胜利",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-l-instant-11",
+      "level": "light",
+      "type": "instant",
+      "instruction": "闭眼画一个圆",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-l-instant-12",
+      "level": "light",
+      "type": "instant",
+      "instruction": "用手势演出一种职业",
+      "requirements": {},
+      "tags": [
+        "instant"
+      ]
+    },
+    {
+      "id": "cr-l-persistent-01",
+      "level": "light",
+      "type": "persistent",
+      "instruction": "回答前先说让我想想",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-l-persistent-02",
+      "level": "light",
+      "type": "persistent",
+      "instruction": "接下来不能说我",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-l-persistent-03",
+      "level": "light",
+      "type": "persistent",
+      "instruction": "每次发言先敲桌面",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-l-persistent-04",
+      "level": "light",
+      "type": "persistent",
+      "instruction": "只能用第三人称称呼自己",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-l-persistent-05",
+      "level": "light",
+      "type": "persistent",
+      "instruction": "不得叫任何人的真名",
+      "duration": 4,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-l-persistent-06",
+      "level": "light",
+      "type": "persistent",
+      "instruction": "回答时必须先点头",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-l-persistent-07",
+      "level": "light",
+      "type": "persistent",
+      "instruction": "每句话结尾加一个吧",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-l-persistent-08",
+      "level": "light",
+      "type": "persistent",
+      "instruction": "不能说好和不好",
+      "duration": 4,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-l-persistent-09",
+      "level": "light",
+      "type": "persistent",
+      "instruction": "被叫名字时先举手",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-l-persistent-10",
+      "level": "light",
+      "type": "persistent",
+      "instruction": "发言前先比一个手势",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-l-persistent-11",
+      "level": "light",
+      "type": "persistent",
+      "instruction": "只能用完整句回答",
+      "duration": 4,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-l-persistent-12",
+      "level": "light",
+      "type": "persistent",
+      "instruction": "每次笑都要拍一下手",
+      "duration": 3,
+      "requirements": {},
+      "tags": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "cr-l-global-01",
+      "level": "light",
+      "type": "global",
+      "instruction": "最后举手的人记失误",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-l-global-02",
+      "level": "light",
+      "type": "global",
+      "instruction": "三秒内一起指向门口",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-l-global-03",
+      "level": "light",
+      "type": "global",
+      "instruction": "最后摸到桌面的人记失误",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-l-global-04",
+      "level": "light",
+      "type": "global",
+      "instruction": "所有人同时做胜利动作",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-l-global-05",
+      "level": "light",
+      "type": "global",
+      "instruction": "三秒内一起站直",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-l-global-06",
+      "level": "light",
+      "type": "global",
+      "instruction": "最后闭眼的人记失误",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-l-global-07",
+      "level": "light",
+      "type": "global",
+      "instruction": "所有人同时说一个水果",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-l-global-08",
+      "level": "light",
+      "type": "global",
+      "instruction": "最后伸出左手的人记失误",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-l-global-09",
+      "level": "light",
+      "type": "global",
+      "instruction": "全员一起模仿猫叫",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-l-global-10",
+      "level": "light",
+      "type": "global",
+      "instruction": "三秒内一起看向主持人",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-l-global-11",
+      "level": "light",
+      "type": "global",
+      "instruction": "最后双手合十的人记失误",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-l-global-12",
+      "level": "light",
+      "type": "global",
+      "instruction": "所有人同时说自己的名字",
+      "requirements": {},
+      "tags": [
+        "global"
+      ]
+    },
+    {
+      "id": "cr-l-privilege-01",
+      "level": "light",
+      "type": "privilege",
+      "instruction": "获得一次免失误护盾",
+      "effect": "shield",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-l-privilege-02",
+      "level": "light",
+      "type": "privilege",
+      "instruction": "取消最早的一条持续法则",
+      "effect": "cancel-rule",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-l-privilege-03",
+      "level": "light",
+      "type": "privilege",
+      "instruction": "获得一次点名接棒权",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-l-privilege-04",
+      "level": "light",
+      "type": "privilege",
+      "instruction": "清除自己一次失误",
+      "effect": "clear-mistake",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-l-privilege-05",
+      "level": "light",
+      "type": "privilege",
+      "instruction": "获得一次命运护盾",
+      "effect": "shield",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-l-privilege-06",
+      "level": "light",
+      "type": "privilege",
+      "instruction": "终止一条正在生效的法则",
+      "effect": "cancel-rule",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-l-privilege-07",
+      "level": "light",
+      "type": "privilege",
+      "instruction": "决定下一位由谁开始",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-l-privilege-08",
+      "level": "light",
+      "type": "privilege",
+      "instruction": "减少自己一次失误",
+      "effect": "clear-mistake",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-l-privilege-09",
+      "level": "light",
+      "type": "privilege",
+      "instruction": "保留一次免罚机会",
+      "effect": "shield",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-l-privilege-10",
+      "level": "light",
+      "type": "privilege",
+      "instruction": "废除一条持续法则",
+      "effect": "cancel-rule",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-l-privilege-11",
+      "level": "light",
+      "type": "privilege",
+      "instruction": "跳转到指定玩家",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-l-privilege-12",
+      "level": "light",
+      "type": "privilege",
+      "instruction": "恢复一次失误额度",
+      "effect": "clear-mistake",
+      "requirements": {},
+      "tags": [
+        "privilege"
+      ]
+    },
+    {
+      "id": "cr-l-direction-01",
+      "level": "light",
+      "type": "direction",
+      "instruction": "方向立即反转",
+      "effect": "reverse",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-l-direction-02",
+      "level": "light",
+      "type": "direction",
+      "instruction": "跳过下一位玩家",
+      "effect": "skip",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-l-direction-03",
+      "level": "light",
+      "type": "direction",
+      "instruction": "当前玩家再进行一回合",
+      "effect": "repeat",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-l-direction-04",
+      "level": "light",
+      "type": "direction",
+      "instruction": "指定下一位玩家",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-l-direction-05",
+      "level": "light",
+      "type": "direction",
+      "instruction": "改为逆向进行",
+      "effect": "reverse",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-l-direction-06",
+      "level": "light",
+      "type": "direction",
+      "instruction": "下一位玩家本轮被跳过",
+      "effect": "skip",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-l-direction-07",
+      "level": "light",
+      "type": "direction",
+      "instruction": "本回合结束后原地再抽一次",
+      "effect": "repeat",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-l-direction-08",
+      "level": "light",
+      "type": "direction",
+      "instruction": "选择任意玩家接棒",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-l-direction-09",
+      "level": "light",
+      "type": "direction",
+      "instruction": "全场方向调转",
+      "effect": "reverse",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-l-direction-10",
+      "level": "light",
+      "type": "direction",
+      "instruction": "跨过下一位进入后续玩家",
+      "effect": "skip",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-l-direction-11",
+      "level": "light",
+      "type": "direction",
+      "instruction": "当前玩家连续行动",
+      "effect": "repeat",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "cr-l-direction-12",
+      "level": "light",
+      "type": "direction",
+      "instruction": "把回合交给指定玩家",
+      "effect": "choose-next",
+      "requirements": {},
+      "tags": [
+        "direction"
+      ]
+    }
+  ]
+}
