@@ -2,126 +2,340 @@ import { registerGame } from './registry.js';
 import { escapeHtml, shuffle, tone, vibrate, wait } from '../core/utils.js';
 import { bindExit, stageHeader } from './shared.js';
 
-const LEVELS={
-  1:{doors:4,safe:3},
-  2:{doors:5,safe:3},
-  3:{doors:4,safe:2},
-  4:{doors:5,safe:2},
-  5:{doors:4,safe:1}
-};
-const RUNES=['✦','◇','☾','✧','◈'];
+const WORLD_WIDTH = 1000;
+const BASE_WIDTH = 600;
+const MIN_BLOCK_WIDTH = 42;
+const MIN_OVERLAP_RATIO = 0.12;
+const PERFECT_RATIO = 0.028;
+const MAX_VISIBLE_BLOCKS = 11;
+const BLOCK_STEP = 25;
+const BASE_BOTTOM = 22;
+const DROP_DISTANCE = 72;
 
-const plugin={
-  id:'fate-ladder',title:'命运阶梯',sortOrder:2.3,icon:'ladder',color:'#8c7db2',minPlayers:2,maxPlayers:12,supportsAdult:true,
-  estimatedTime:'5–12 分钟',shortDescription:'继续攀登或及时收手，坠落则成绩归零。',
-  description:'每位玩家依次挑战五层命运阶梯。通过一层后可继续攀登或锁定成绩；任意层坠落，本次成绩归零。',
-  phoneMode:'玩家依次挑战',resultMode:'最低成绩玩家受罚',defaultSettings:{level:'standard'},
-  renderSetup(){return '<div class="info-strip"><strong>纯命运挑战</strong><span>下方尺度仅用于最终惩罚</span></div>'},
-  mount(root,ctx){
-    let playerIndex=0;
-    let currentLevel=1;
-    let currentScore=0;
-    let scores=new Map();
-    let doors=[];
-    let suddenCandidates=[];
-    let suddenIndex=0;
-    let suddenFailed=[];
-    let suddenRound=0;
-    let suddenMode=false;
+function speedFor(height) {
+  return Math.min(650, 270 + height * 26);
+}
 
-    const currentPlayer=()=>suddenMode?suddenCandidates[suddenIndex]:ctx.players[playerIndex];
+function shrinkFor(height) {
+  if (height < 4) return 1;
+  if (height < 8) return 0.98;
+  if (height < 12) return 0.97;
+  return 0.96;
+}
 
-    const reset=()=>{
-      playerIndex=0;currentLevel=1;currentScore=0;scores=new Map(ctx.players.map(player=>[player.id,0]));suddenCandidates=[];suddenIndex=0;suddenFailed=[];suddenRound=0;suddenMode=false;renderPlayerStart();
+function difficultyLabel(height) {
+  if (height < 3) return '熟悉节奏';
+  if (height < 6) return '速度提升';
+  if (height < 10) return '安全区缩小';
+  return '高塔危险区';
+}
+
+const plugin = {
+  id: 'fate-ladder',
+  title: '命运叠塔',
+  sortOrder: 2.3,
+  icon: 'ladder',
+  color: '#8c7db2',
+  minPlayers: 2,
+  maxPlayers: 12,
+  supportsAdult: true,
+  estimatedTime: '2–8 分钟',
+  shortDescription: '轮流点击放下方块，谁让塔倒谁遭殃。',
+  description: '玩家依次放置左右移动的方块。点击屏幕后，方块落在塔顶安全区内即为成功，并成为下一层；没有接住则叠塔失败，当前玩家接受惩罚。塔越高，安全区越小，方块移动越快。',
+  phoneMode: '玩家依次点击放置',
+  resultMode: '让塔倒塌的玩家受罚',
+  defaultSettings: { level: 'standard' },
+  renderSetup() {
+    return '<div class="info-strip"><strong>反应叠塔</strong><span>下方尺度只用于失败后的惩罚</span></div>';
+  },
+  mount(root, ctx) {
+    let order = [];
+    let turnIndex = 0;
+    let tower = [];
+    let moving = null;
+    let phase = 'ready';
+    let frameId = 0;
+    let lastFrame = 0;
+    let roundToken = 0;
+
+    const currentPlayer = () => order[turnIndex % order.length];
+    const height = () => Math.max(0, tower.length - 1);
+    const topBlock = () => tower[tower.length - 1];
+    const pct = value => `${(value / WORLD_WIDTH) * 100}%`;
+
+    const cancelMotion = () => {
+      if (frameId) cancelAnimationFrame(frameId);
+      frameId = 0;
+      lastFrame = 0;
     };
 
-    const ladderHtml=(activeLevel=currentLevel)=>`<div class="ladder-track">${[5,4,3,2,1].map(level=>`<div class="ladder-step ${level<activeLevel?'passed':level===activeLevel?'active':''}"><span>${level}</span><i></i><b>${level===5?'命运核心':`第 ${level} 层`}</b></div>`).join('')}</div>`;
-
-    const scoreStrip=()=>`<div class="ladder-score-strip">${ctx.players.map(player=>`<span><b>${escapeHtml(player.name)}</b><i>${scores.get(player.id)||0}</i></span>`).join('')}</div>`;
-
-    const renderPlayerStart=()=>{
-      const player=currentPlayer();
-      root.innerHTML=`${stageHeader(plugin.title,`第 ${playerIndex+1} / ${ctx.players.length} 位挑战者`)}<section class="game-stage ladder-stage"><div class="ladder-player-head"><span class="eyebrow">当前挑战者</span><h2>${escapeHtml(player.name)}</h2><p>通过后可以继续攀登，也可以锁定当前成绩。</p></div>${ladderHtml(1)}${scoreStrip()}<button class="button primary full" data-start-climb>开始攀登</button></section>`;
-      bindExit(root,ctx);root.querySelector('[data-start-climb]').onclick=()=>{currentLevel=1;currentScore=0;prepareLevel()};
+    const reset = () => {
+      cancelMotion();
+      roundToken += 1;
+      order = shuffle(ctx.players);
+      turnIndex = 0;
+      tower = [{ left: (WORLD_WIDTH - BASE_WIDTH) / 2, width: BASE_WIDTH, playerId: null, base: true, perfect: true }];
+      moving = null;
+      phase = 'ready';
+      renderReady();
     };
 
-    const prepareLevel=()=>{
-      const config=LEVELS[currentLevel];
-      doors=shuffle([...Array(config.safe).fill(true),...Array(config.doors-config.safe).fill(false)]);
-      renderLevel();
+    const visibleTower = () => {
+      const blocks = tower.slice(-MAX_VISIBLE_BLOCKS);
+      return {
+        blocks,
+        hidden: Math.max(0, tower.length - blocks.length)
+      };
     };
 
-    const renderLevel=()=>{
-      const config=LEVELS[currentLevel];
-      root.innerHTML=`${stageHeader(plugin.title,`${escapeHtml(currentPlayer().name)} · 第 ${currentLevel} 层`)}<section class="game-stage ladder-stage"><div class="ladder-player-head"><span class="eyebrow">选择一个命运符号</span><h2>第 ${currentLevel} 层</h2><p>${config.safe} 个安全符号，${config.doors-config.safe} 个坠落符号。所有符号外观完全相同。</p></div>${ladderHtml(currentLevel)}<div class="ladder-runes count-${doors.length}">${doors.map((_,index)=>`<button type="button" data-door="${index}" aria-label="命运符号 ${index+1}"><span>${RUNES[currentLevel%RUNES.length]}</span></button>`).join('')}</div><div class="ladder-current-score">当前可锁定 <strong>${currentScore}</strong> 分</div></section>`;
-      bindExit(root,ctx);root.querySelectorAll('[data-door]').forEach(button=>button.onclick=()=>selectDoor(Number(button.dataset.door)));
+    const towerMarkup = ({ includeMoving = false, failed = false } = {}) => {
+      const { blocks, hidden } = visibleTower();
+      const targetBottom = BASE_BOTTOM + blocks.length * BLOCK_STEP;
+      return `<div class="stack-world ${failed ? 'failed' : ''}" data-stack-world>
+        ${hidden ? `<div class="stack-depth">下方还有 ${hidden} 层</div>` : ''}
+        ${blocks.map((block, index) => {
+          const absoluteIndex = hidden + index;
+          const isTop = absoluteIndex === tower.length - 1;
+          return `<div class="stack-block settled ${block.base ? 'base' : ''} ${isTop ? 'top' : ''} ${block.perfect ? 'perfect' : ''}" style="--left:${pct(block.left)};--width:${pct(block.width)};--bottom:${BASE_BOTTOM + index * BLOCK_STEP}px" aria-hidden="true"><i></i></div>`;
+        }).join('')}
+        ${includeMoving && moving ? `<div class="stack-block moving" data-moving style="--left:${pct(moving.left)};--width:${pct(moving.width)};--bottom:${targetBottom + DROP_DISTANCE}px" aria-hidden="true"><i></i></div>` : ''}
+      </div>`;
     };
 
-    const selectDoor=async index=>{
-      const safe=doors[index];
-      root.querySelectorAll('[data-door]').forEach((button,buttonIndex)=>{button.disabled=true;if(buttonIndex===index)button.classList.add(safe?'safe':'fall')});
-      tone(safe ? 520 : 150, safe ? .09 : .18, ctx.global.sound, safe ? .04 : .055);vibrate(safe?[22,30,22]:[70,40,90],ctx.global.haptics);
-      await wait(safe?520:760);
-      safe?renderSuccess():renderFall();
+    const renderReady = (message = '') => {
+      phase = 'ready';
+      moving = null;
+      const player = currentPlayer();
+      root.innerHTML = `${stageHeader(plugin.title, `当前塔高 ${height()} 层`)}
+        <section class="private-stage stack-pass-stage">
+          <span class="stack-pass-icon" aria-hidden="true">▰</span>
+          <span class="eyebrow">请把手机交给</span>
+          <h2>${escapeHtml(player.name)}</h2>
+          <p>${message || '方块左右移动时点击屏幕。落在塔顶上就成功；没有接住，你立即失败。'}</p>
+          <div class="stack-mini-rule"><span>塔顶亮边区域就是安全区</span><span>塔越高，移动越快、区域越窄</span></div>
+          <button class="button primary full" data-ready>准备好了</button>
+        </section>`;
+      bindExit(root, ctx);
+      root.querySelector('[data-ready]').onclick = beginTurn;
     };
 
-    const renderSuccess=()=>{
-      currentScore=currentLevel;
-      if(currentLevel===5){
-        root.innerHTML=`${stageHeader(plugin.title,'成功登顶')}<section class="game-stage centered ladder-outcome success"><div class="ladder-core">✦</div><span class="eyebrow">命运核心点亮</span><h2>${escapeHtml(currentPlayer().name)} 获得 5 分</h2><button class="button primary full" data-finish-player>锁定登顶成绩</button></section>`;
-        bindExit(root,ctx);root.querySelector('[data-finish-player]').onclick=()=>finishCurrent(5);return;
+    const beginTurn = async () => {
+      if (phase !== 'ready') return;
+      const token = roundToken;
+      const top = topBlock();
+      const factor = shrinkFor(height());
+      const width = Math.min(top.width, Math.max(MIN_BLOCK_WIDTH, top.width * factor));
+      const direction = (height() + turnIndex) % 2 === 0 ? 1 : -1;
+      moving = {
+        left: direction === 1 ? 0 : WORLD_WIDTH - width,
+        width,
+        direction,
+        speed: speedFor(height()),
+        locked: false
+      };
+      phase = 'arming';
+      renderPlay(true);
+      await wait(520);
+      if (token !== roundToken || phase !== 'arming') return;
+      phase = 'moving';
+      const state = root.querySelector('[data-stack-state]');
+      if (state) state.textContent = '方块正在移动，点击屏幕放下';
+      const dropButton = root.querySelector('[data-drop]');
+      if (dropButton) dropButton.disabled = false;
+      frameId = requestAnimationFrame(stepMotion);
+    };
+
+    const renderPlay = arming => {
+      const player = currentPlayer();
+      const nextLayer = height() + 1;
+      root.innerHTML = `${stageHeader(plugin.title, `${escapeHtml(player.name)} · 第 ${nextLayer} 层`)}
+        <section class="game-stage stack-stage">
+          <div class="stack-hud">
+            <div><span>当前玩家</span><strong>${escapeHtml(player.name)}</strong></div>
+            <div><span>当前塔高</span><strong>${height()} 层</strong></div>
+            <div><span>难度</span><strong>${difficultyLabel(height())}</strong></div>
+          </div>
+          <div class="stack-instruction">
+            <strong data-stack-state>${arming ? '准备开始移动…' : '方块正在移动，点击屏幕放下'}</strong>
+            <span>方块必须有足够部分落在塔顶上；没接住就失败。</span>
+          </div>
+          <div class="stack-arena" data-drop-area role="button" tabindex="0" aria-label="点击放下方块">
+            ${towerMarkup({ includeMoving: true })}
+            <div class="stack-arena-label">点击任意位置放下</div>
+          </div>
+          <button class="button primary full stack-drop-button" data-drop ${arming ? 'disabled' : ''}>点击放下</button>
+        </section>`;
+      bindExit(root, ctx);
+      const drop = () => dropBlock();
+      root.querySelector('[data-drop-area]').onclick = drop;
+      root.querySelector('[data-drop-area]').onkeydown = event => {
+        if (event.key === 'Enter' || event.key === ' ') {
+          event.preventDefault();
+          drop();
+        }
+      };
+      root.querySelector('[data-drop]').onclick = drop;
+    };
+
+    const stepMotion = time => {
+      if (phase !== 'moving' || !moving) return;
+      if (!lastFrame) lastFrame = time;
+      const delta = Math.min(34, time - lastFrame);
+      lastFrame = time;
+      moving.left += moving.direction * moving.speed * (delta / 1000);
+      const maxLeft = WORLD_WIDTH - moving.width;
+      if (moving.left <= 0) {
+        moving.left = 0;
+        moving.direction = 1;
+      } else if (moving.left >= maxLeft) {
+        moving.left = maxLeft;
+        moving.direction = -1;
       }
-      root.innerHTML=`${stageHeader(plugin.title,`通过第 ${currentLevel} 层`)}<section class="game-stage ladder-outcome success"><div class="ladder-success-mark">↑</div><span class="eyebrow">阶梯已点亮</span><h2>当前成绩 ${currentScore} 分</h2>${ladderHtml(currentLevel+1)}<div class="dual-actions"><button class="button secondary full" data-lock>收手并锁定</button><button class="button primary full" data-continue>继续攀登</button></div></section>`;
-      bindExit(root,ctx);root.querySelector('[data-lock]').onclick=()=>finishCurrent(currentScore);root.querySelector('[data-continue]').onclick=()=>{currentLevel++;prepareLevel()};
+      const node = root.querySelector('[data-moving]');
+      if (node) node.style.setProperty('--left', pct(moving.left));
+      frameId = requestAnimationFrame(stepMotion);
     };
 
-    const renderFall=()=>{
-      root.innerHTML=`${stageHeader(plugin.title,`第 ${currentLevel} 层坠落`)}<section class="game-stage centered ladder-outcome fall"><div class="ladder-fall-mark">◆</div><span class="eyebrow">命运熄灭</span><h2>${escapeHtml(currentPlayer().name)} 本次 0 分</h2><p>此前通过的层级不会保留。</p><button class="button primary full" data-finish-player>结束本次挑战</button></section>`;
-      bindExit(root,ctx);root.querySelector('[data-finish-player]').onclick=()=>finishCurrent(0);
+    const dropBlock = async () => {
+      if (phase !== 'moving' || !moving || moving.locked) return;
+      moving.locked = true;
+      phase = 'dropping';
+      cancelMotion();
+      root.querySelector('[data-drop]')?.setAttribute('disabled', '');
+
+      const top = topBlock();
+      const movingRight = moving.left + moving.width;
+      const topRight = top.left + top.width;
+      const overlapLeft = Math.max(moving.left, top.left);
+      const overlapRight = Math.min(movingRight, topRight);
+      const overlap = Math.max(0, overlapRight - overlapLeft);
+      const minimum = Math.max(24, moving.width * MIN_OVERLAP_RATIO);
+      const centerGap = Math.abs((moving.left + moving.width / 2) - (top.left + top.width / 2));
+      const perfect = overlap >= minimum && centerGap <= Math.max(7, top.width * PERFECT_RATIO);
+      const success = overlap >= minimum;
+      const node = root.querySelector('[data-moving]');
+
+      if (node) {
+        const reduced = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
+        try {
+          await node.animate(
+            [{ transform: 'translateY(0)' }, { transform: `translateY(${DROP_DISTANCE}px)` }],
+            { duration: reduced ? 80 : 280, easing: 'cubic-bezier(.2,.75,.25,1)', fill: 'forwards' }
+          ).finished;
+        } catch {}
+      }
+
+      if (success) {
+        const nextWidth = perfect ? moving.width : overlap;
+        const nextLeft = perfect ? top.left + (top.width - moving.width) / 2 : overlapLeft;
+        tower.push({
+          left: nextLeft,
+          width: nextWidth,
+          playerId: currentPlayer().id,
+          base: false,
+          perfect
+        });
+        tone(perfect ? 620 : 510, perfect ? 0.11 : 0.08, ctx.global.sound, perfect ? 0.045 : 0.035);
+        vibrate(perfect ? [18, 25, 34] : [20, 24, 20], ctx.global.haptics);
+        renderSuccess(perfect);
+      } else {
+        tone(145, 0.2, ctx.global.sound, 0.06);
+        vibrate([80, 40, 110], ctx.global.haptics);
+        renderCollapse();
+      }
     };
 
-    const finishCurrent=score=>{
-      scores.set(currentPlayer().id,score);playerIndex++;
-      if(playerIndex>=ctx.players.length)settleScores();else{currentLevel=1;currentScore=0;renderPlayerStart()}
+    const renderSuccess = async perfect => {
+      phase = 'result';
+      const token = roundToken;
+      root.innerHTML = `${stageHeader(plugin.title, `塔高 ${height()} 层`)}
+        <section class="game-stage stack-stage stack-success-stage">
+          <div class="stack-result-banner ${perfect ? 'perfect' : ''}">
+            <span>${perfect ? '完美叠放' : '放置成功'}</span>
+            <strong>${escapeHtml(currentPlayer().name)} 接住了第 ${height()} 层</strong>
+            <small>${perfect ? '本次没有因偏移继续缩小' : '安全区已按重叠部分缩小'}</small>
+          </div>
+          <div class="stack-arena static">${towerMarkup()}</div>
+          <p>即将交给下一位玩家…</p>
+        </section>`;
+      bindExit(root, ctx);
+      await wait(perfect ? 980 : 760);
+      if (token !== roundToken || phase !== 'result') return;
+      turnIndex = (turnIndex + 1) % order.length;
+      renderReady();
     };
 
-    const settleScores=()=>{
-      const minimum=Math.min(...ctx.players.map(player=>scores.get(player.id)||0));
-      const tied=ctx.players.filter(player=>(scores.get(player.id)||0)===minimum);
-      if(tied.length===1){renderFinal(tied[0],false);return}
-      suddenMode=true;suddenCandidates=tied;suddenIndex=0;suddenFailed=[];suddenRound=1;renderSuddenStart();
+    const renderCollapse = async () => {
+      phase = 'failed';
+      const loser = currentPlayer();
+      root.innerHTML = `${stageHeader(plugin.title, '叠塔失败')}<section class="game-stage stack-stage stack-collapse-stage">
+        <div class="stack-result-banner failed"><span>没有接住</span><strong>${escapeHtml(loser.name)} 让塔倒了</strong><small>本局塔高 ${height()} 层</small></div>
+        <div class="stack-arena static failed">${towerMarkup({ includeMoving: true, failed: true })}</div>
+      </section>`;
+      bindExit(root, ctx);
+      const blocks = [...root.querySelectorAll('.stack-block.settled')];
+      const missed = root.querySelector('[data-moving]');
+      const reduced = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
+      if (!reduced) {
+        missed?.animate(
+          [
+            { transform: `translateY(${DROP_DISTANCE}px) rotate(0deg)`, opacity: 1 },
+            { transform: `translateY(290px) rotate(${moving?.direction === 1 ? 22 : -22}deg)`, opacity: 0 }
+          ],
+          { duration: 720, easing: 'cubic-bezier(.35,.05,.55,1)', fill: 'forwards' }
+        );
+        blocks.forEach((block, index) => {
+          block.animate(
+            [
+              { transform: 'translate(0,0) rotate(0)', opacity: 1 },
+              { transform: `translate(${(index % 2 ? 1 : -1) * (12 + index * 3)}px,${18 + index * 5}px) rotate(${(index % 2 ? 1 : -1) * (4 + index * 1.7)}deg)`, opacity: index < 2 ? 0.75 : 0.35 }
+            ],
+            { duration: 620 + index * 28, delay: index * 18, easing: 'cubic-bezier(.35,.05,.55,1)', fill: 'forwards' }
+          );
+        });
+      }
+      await wait(reduced ? 180 : 900);
+      renderFinal(loser);
     };
 
-    const renderSuddenStart=()=>{
-      const player=currentPlayer();
-      root.innerHTML=`${stageHeader(plugin.title,`突然死亡 · 第 ${suddenRound} 轮`)}<section class="game-stage centered ladder-sudden"><span class="eyebrow">最低分并列</span><h2>${escapeHtml(player.name)} 挑战第 1 层</h2><p>本轮只有第一层。失败者继续留在最低分候选中。</p><button class="button primary full" data-sudden-start>开始选择</button></section>`;
-      bindExit(root,ctx);root.querySelector('[data-sudden-start]').onclick=prepareSuddenLevel;
+    const renderFinal = loser => {
+      phase = 'final';
+      root.innerHTML = `${stageHeader(plugin.title, '本局结束')}
+        <section class="game-stage centered stack-final">
+          <div class="stack-fall-mark" aria-hidden="true">▰</div>
+          <span class="eyebrow">叠塔失败</span>
+          <h2>${escapeHtml(loser.name)} 遭殃</h2>
+          <p>${escapeHtml(loser.name)} 没有接住第 ${height() + 1} 层方块。本局最终叠到 ${height()} 层。</p>
+          <div class="stack-final-order"><strong>本局挑战顺序</strong><div>${order.map(player => `<span class="${player.id === loser.id ? 'loser' : ''}">${escapeHtml(player.name)}</span>`).join('')}</div></div>
+          <button class="button primary full" data-punish>抽取惩罚</button>
+          <button class="button secondary full" data-restart>再来一局</button>
+        </section>`;
+      bindExit(root, ctx);
+      root.querySelector('[data-punish]').onclick = () => ctx.punishment([loser], { onDone: reset });
+      root.querySelector('[data-restart]').onclick = reset;
     };
 
-    const prepareSuddenLevel=()=>{
-      doors=shuffle([true,true,true,false]);
-      root.innerHTML=`${stageHeader(plugin.title,`突然死亡 · ${suddenIndex+1} / ${suddenCandidates.length}`)}<section class="game-stage centered ladder-sudden"><span class="eyebrow">${escapeHtml(currentPlayer().name)}</span><h2>选择一个命运符号</h2><div class="ladder-runes sudden count-${doors.length}">${doors.map((_,index)=>`<button type="button" data-sudden-door="${index}"><span>✦</span></button>`).join('')}</div></section>`;
-      bindExit(root,ctx);root.querySelectorAll('[data-sudden-door]').forEach(button=>button.onclick=()=>resolveSudden(Number(button.dataset.suddenDoor)));
+    const visibilityGuard = () => {
+      if (document.hidden && (phase === 'moving' || phase === 'arming')) {
+        cancelMotion();
+        phase = 'paused';
+        return;
+      }
+      if (!document.hidden && phase === 'paused') {
+        renderReady('游戏离开过前台，本次没有判定失败。请重新准备后继续。');
+      }
     };
 
-    const resolveSudden=async index=>{
-      const safe=doors[index];root.querySelectorAll('[data-sudden-door]').forEach((button,buttonIndex)=>{button.disabled=true;if(buttonIndex===index)button.classList.add(safe?'safe':'fall')});
-      tone(safe ? 500 : 145, safe ? .08 : .16, ctx.global.sound, .04);vibrate(safe?[20,25,20]:[70,35,80],ctx.global.haptics);
-      if(!safe)suddenFailed.push(currentPlayer());
-      await wait(560);suddenIndex++;
-      if(suddenIndex<suddenCandidates.length){renderSuddenStart();return}
-      if(suddenFailed.length===1){renderFinal(suddenFailed[0],true);return}
-      suddenCandidates=suddenFailed.length?suddenFailed:[...suddenCandidates];suddenFailed=[];suddenIndex=0;suddenRound++;renderSuddenStart();
-    };
-
-    const renderFinal=(loser,sudden)=>{
-      const ordered=[...ctx.players].sort((a,b)=>(scores.get(b.id)||0)-(scores.get(a.id)||0));
-      root.innerHTML=`${stageHeader(plugin.title,'最终成绩')}<section class="game-stage centered ladder-final"><span class="eyebrow">最低成绩</span><h2>${escapeHtml(loser.name)} 遭殃</h2>${sudden?'<p>最低分并列后，通过突然死亡产生唯一受罚者。</p>':''}<div class="ladder-final-scores">${ordered.map(player=>`<div class="${player.id===loser.id?'loser':''}"><span>${escapeHtml(player.name)}</span><strong>${scores.get(player.id)||0} 分</strong></div>`).join('')}</div><button class="button primary full" data-punish>抽取惩罚</button><button class="button secondary full" data-restart>再来一局</button></section>`;
-      bindExit(root,ctx);root.querySelector('[data-punish]').onclick=()=>ctx.punishment([loser],{onDone:reset});root.querySelector('[data-restart]').onclick=reset;
-    };
+    document.addEventListener('visibilitychange', visibilityGuard);
+    ctx.onCleanup(() => {
+      cancelMotion();
+      roundToken += 1;
+      document.removeEventListener('visibilitychange', visibilityGuard);
+    });
 
     reset();
   }
 };
+
 registerGame(plugin);
 export default plugin;
