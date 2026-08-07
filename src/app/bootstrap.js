@@ -3,8 +3,8 @@ import { Application } from './application.js';
 import { registerAppServiceWorker } from './service-worker.js';
 import { warmMotionEngine } from '../motion/index.js';
 
-const VERSION = '10.1.0';
-const BUILD = 'v10.1.0-simple-games';
+const VERSION = '10.2.0';
+const BUILD = 'v10.2.0-medium-games';
 
 async function resetOldBuildCaches() {
   try {
