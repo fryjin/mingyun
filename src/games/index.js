@@ -2,7 +2,7 @@ import '../games-v10/would-rather/index.js';
 import '../games-v10/king/index.js';
 import '../games-v10/chaos-rules/index.js';
 import '../games-v10/two-truths-one-lie/index.js';
-import './fate-ladder.js';
+import '../games-v10/fate-ladder/index.js';
 import '../games-v10/dice/index.js';
 import '../games-v10/wheel/index.js';
 import '../games-v10/undercover/index.js';

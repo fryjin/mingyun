@@ -1,11 +1,11 @@
-const VERSION='party-game-v10.3.0-stateful-games';
+const VERSION='party-game-v10.4.0-fate-stack';
 const SHELL=[
   './','./index.html','./manifest.webmanifest','./styles/app.css','./styles/games.css','./styles/adult-plus.css','./styles/ui-refresh.css','./styles/midnight-game-hall.css?v=9.2.3','./styles/fate-wheel-v9.2.4.css?v=9.2.4','./styles/game-expansion-v9.3.css?v=9.3.1','./styles/fate-stack-v9.3.6.css?v=9.3.6','./styles/game-rules-v9.3.3.css?v=9.3.3',
   './src/app/bootstrap.js','./src/app/application.js','./src/app/service-worker.js',
-  './src/engine/game-runtime.js','./src/engine/lifecycle.js','./src/engine/plugin.js','./src/engine/punishment-service.js','./src/engine/random.js','./src/engine/timer.js','./src/engine/turn-manager.js','./src/engine/visibility.js','./src/engine/state-machine.js',
-  './src/data-engine/content-repository.js','./src/data-engine/question-engine.js','./src/components/game-ui.js','./src/motion/index.js',
+  './src/engine/game-runtime.js','./src/engine/lifecycle.js','./src/engine/plugin.js','./src/engine/punishment-service.js','./src/engine/random.js','./src/engine/timer.js','./src/engine/turn-manager.js','./src/engine/visibility.js','./src/engine/state-machine.js','./src/engine/frame-loop.js',
+  './src/data-engine/content-repository.js','./src/data-engine/question-engine.js','./src/components/game-ui.js','./src/motion/index.js','./src/motion/animation-registry.js',
   './src/core/utils.js','./src/core/store.js','./src/core/motion.js','./src/modules/overlay.js','./src/modules/lobby.js','./src/modules/players.js','./src/modules/game-sheet.js','./src/modules/settings.js','./src/modules/questions.js',
-  './src/games/registry.js','./src/games/index.js','./src/games/shared.js','./src/games/fate-ladder.js',
+  './src/games/registry.js','./src/games/index.js','./src/games/shared.js',
   './src/games-v10/dice/index.js','./src/games-v10/dice/view.js','./src/games-v10/most-likely/index.js','./src/games-v10/most-likely/view.js',
   './src/games-v10/wheel/index.js','./src/games-v10/wheel/view.js','./src/games-v10/would-rather/index.js','./src/games-v10/would-rather/view.js','./src/games-v10/five-second/index.js','./src/games-v10/five-second/view.js',
   './src/games-v10/king/index.js','./src/games-v10/king/rules.js','./src/games-v10/king/view.js',
@@ -14,6 +14,7 @@ const SHELL=[
   './src/games-v10/two-truths-one-lie/index.js','./src/games-v10/two-truths-one-lie/rules.js','./src/games-v10/two-truths-one-lie/view.js',
   './src/games-v10/undercover/index.js','./src/games-v10/undercover/rules.js','./src/games-v10/undercover/view.js',
   './src/games-v10/chaos-rules/index.js','./src/games-v10/chaos-rules/rules.js','./src/games-v10/chaos-rules/session.js','./src/games-v10/chaos-rules/view.js',
+  './src/games-v10/fate-ladder/index.js','./src/games-v10/fate-ladder/physics.js','./src/games-v10/fate-ladder/session.js','./src/games-v10/fate-ladder/view.js','./src/games-v10/fate-ladder/camera.js',
   './icons/icon-192.png','./icons/icon-512.png','./assets/midnight/brand-crest.svg','./assets/midnight/divider.svg','./assets/midnight/corner-flourish.svg','./assets/midnight/stage-arch.svg','./assets/midnight/starfield.svg'
 ];
 self.addEventListener('install',event=>event.waitUntil((async()=>{const cache=await caches.open(VERSION);await cache.addAll(SHELL);await self.skipWaiting()})()));

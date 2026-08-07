@@ -2,52 +2,77 @@
 
 ## 目标
 
-V10 将项目从“多个独立小游戏模块”升级为“可渐进迁移的派对游戏引擎”。当前版本采用兼容式双轨架构：V9 插件继续运行，新插件使用 V10 合约和基础服务。
+V10 将项目从“多个独立小游戏模块”升级为“派对游戏引擎”。V10.4 完成后，所有 12 个运行中的游戏均使用 V10 合约，Legacy 文件只保留作为回滚参考。
 
 ## 分层
 
 ```text
 src/app            应用启动、路由协调、PWA 更新
-src/engine         游戏运行时、生命周期、状态机、回合、计时、随机、惩罚、页面可见性
+src/engine         游戏运行时、生命周期、状态机、回合、计时、帧循环、随机、惩罚、页面可见性
 src/data-engine    题库与通用 JSON 内容访问
 src/components     游戏共用 UI 模板
-src/motion         动画统一入口
-src/games-v10      V10 游戏插件
-src/games          V9 游戏与兼容注册中心
+src/motion         动画统一入口与 Web Animations 生命周期托管
+src/games-v10      全部运行中的 V10 游戏插件
+src/games          注册中心与 Legacy 回滚文件
 ```
 
 ## 插件合约
 
-V10 插件通过 `createGamePlugin()` 创建，`contractVersion` 为 2。注册中心继续支持原有 `registerGame(plugin)`，同时记录插件来源和合约版本。
+所有运行中的游戏通过 `createGamePlugin()` 创建，`contractVersion` 为 2。`src/games/index.js` 已不再导入任何 Legacy 游戏实现。
 
-## 生命周期与状态
+## 生命周期与重型交互
 
-`GameRuntime` 保证同一时间只挂载一个游戏，并统一销毁游戏上下文。`LifecycleScope` 负责事件、计时器和动画清理，`bindPageVisibility()` 处理页面切后台与恢复。
+`GameRuntime` 保证同一时间只挂载一个游戏，`LifecycleScope` 统一清理事件和异步资源。
 
-V10.3 新增 `StateMachine`。多阶段游戏可以明确声明允许的阶段切换，阻止私密输入、投票、揭晓、结算之间发生非法跳转。状态机只负责阶段约束，业务数据继续放在各游戏自己的规则或 Session 层中。
+V10.4 新增：
+
+- `FrameLoop`：生命周期托管的 `requestAnimationFrame` 循环，提供 delta 限幅与统一停止。
+- `AnimationRegistry`：集中跟踪 Web Animations，游戏退出时自动取消仍在运行的动画。
+
+命运叠塔使用：
+
+```text
+index.js      编排、输入、声音、震动、惩罚
+physics.js    固定尺寸方块、最低重叠、累积重心、危险状态
+session.js    玩家顺序、塔数据、移动块和状态机
+view.js       HTML 与塔 DOM
+camera.js     动态镜头缩放与位移
+```
+
+物理模型仍然是确定性的 1D 静态重心模型，不引入刚体物理库。
 
 ## 数据兼容
 
-`QuestionEngine` 继续适配现有题库 JSON。成人边界筛选与游戏业务筛选采用组合逻辑。V10.3 新增 `poolKeySuffix`，允许同一游戏按玩法参数维护独立防重复抽取池，例如混乱法则的 3 / 5 / 10 秒挑战内容。
+`QuestionEngine` 继续适配现有题库 JSON。成人边界筛选、游戏业务筛选及 `poolKeySuffix` 机制保持不变。
 
 ## 已迁移游戏
 
-- 命运骰局
-- 谁最可能
-- 命运转盘
 - 二选一
-- 五秒挑战
 - 国王游戏
+- 混乱法则
+- 两个真相一个谎言
+- 命运叠塔
+- 命运骰局
+- 命运转盘
+- 谁是卧底
+- 谁最可能
 - 我居然做过
+- 五秒挑战
 - 炸弹传递
-- 两个真相一个谎言：状态机、随机讲述顺序、私密信息保护、统一惩罚。
-- 谁是卧底：状态机、角色分配、回合、统一计时、秘密看词与投票保护。
-- 混乱法则：ChaosSession、统一随机/题库/计时/惩罚、权利和持续法则状态收口。
 
 ## Legacy 状态
 
-V10.3 完成后，运行入口中仅 `命运叠塔` 仍使用 V9 兼容插件。旧插件文件暂时继续保留在仓库中作为回滚基线，但已经迁移的游戏不再从入口或 Service Worker 预缓存加载。
+V10.4 后，运行入口中的 Legacy 游戏数量为 0。
 
-## 构建与部署
+旧 `src/games/*.js` 游戏文件暂时不删除，用于最后一轮稳定验证和紧急回滚。静态样式 `styles/fate-stack-v9.3.6.css` 继续作为已经验证过的命运叠塔视觉资产使用，本轮不进行视觉改版或样式重命名。
 
-项目仍支持原生 ES Module 静态部署。Vite 配置继续保留，待 V10.5 架构收口时统一完成生产构建和持续集成切换。
+## 下一阶段
+
+V10.5 架构收口：
+
+- 删除稳定迁移游戏的 Legacy 文件
+- 收敛 `src/games/shared.js`
+- 清理无引用的旧资源
+- 完成 Vite 生产构建
+- 补齐 CI / GitHub Pages 正式部署链路
+- 统一版本化静态资源命名

@@ -3,8 +3,8 @@ import { Application } from './application.js';
 import { registerAppServiceWorker } from './service-worker.js';
 import { warmMotionEngine } from '../motion/index.js';
 
-const VERSION = '10.3.0';
-const BUILD = 'v10.3.0-stateful-games';
+const VERSION = '10.4.0';
+const BUILD = 'v10.4.0-fate-stack';
 
 async function resetOldBuildCaches() {
   try {
