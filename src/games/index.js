@@ -1,12 +1,12 @@
-import './would-rather.js';
+import '../games-v10/would-rather/index.js';
 import './king.js';
 import './chaos-rules.js';
 import './two-truths-one-lie.js';
 import './fate-ladder.js';
 import '../games-v10/dice/index.js';
-import './wheel.js';
+import '../games-v10/wheel/index.js';
 import './undercover.js';
 import '../games-v10/most-likely/index.js';
 import './i-did-it.js';
-import './five-second.js';
+import '../games-v10/five-second/index.js';
 import './hot-potato.js';
