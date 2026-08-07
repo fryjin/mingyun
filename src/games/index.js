@@ -1,11 +1,11 @@
 import '../games-v10/would-rather/index.js';
 import '../games-v10/king/index.js';
-import './chaos-rules.js';
-import './two-truths-one-lie.js';
+import '../games-v10/chaos-rules/index.js';
+import '../games-v10/two-truths-one-lie/index.js';
 import './fate-ladder.js';
 import '../games-v10/dice/index.js';
 import '../games-v10/wheel/index.js';
-import './undercover.js';
+import '../games-v10/undercover/index.js';
 import '../games-v10/most-likely/index.js';
 import '../games-v10/i-did-it/index.js';
 import '../games-v10/five-second/index.js';

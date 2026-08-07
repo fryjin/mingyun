@@ -6,21 +6,24 @@ export function createEligibilityPredicate(level = 'standard', preferences = {},
   return item => boundary(item) && predicate(item);
 }
 
+export function poolKeyFor(level, preferences, suffix = '') {
+  const base = level === 'adult-plus' ? adultPlusFilterKey(preferences) : 'all';
+  return suffix ? `${base}:${suffix}` : base;
+}
+
 export class QuestionEngine {
-  async drawGame({ gameId, settings, predicate }) {
+  async drawGame({ gameId, settings, predicate, poolKeySuffix = '' }) {
     const level = settings?.level || 'standard';
     const preferences = settings?.adultPlus || {};
     const filter = createEligibilityPredicate(level, preferences, predicate);
-    const key = level === 'adult-plus' ? adultPlusFilterKey(preferences) : 'all';
-    return drawGame(gameId, level, filter, key);
+    return drawGame(gameId, level, filter, poolKeyFor(level, preferences, poolKeySuffix));
   }
 
-  async drawShared({ type, settings, predicate }) {
+  async drawShared({ type, settings, predicate, poolKeySuffix = '' }) {
     const level = settings?.level || 'standard';
     const preferences = settings?.adultPlus || {};
     const filter = createEligibilityPredicate(level, preferences, predicate);
-    const key = level === 'adult-plus' ? adultPlusFilterKey(preferences) : 'all';
-    return drawShared(level, type, filter, key);
+    return drawShared(level, type, filter, poolKeyFor(level, preferences, poolKeySuffix));
   }
 }
 

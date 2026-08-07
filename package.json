@@ -1,6 +1,6 @@
 {
   "name": "mingyun-party-game",
-  "version": "10.2.0",
+  "version": "10.3.0",
   "private": true,
   "type": "module",
   "description": "今晚谁遭殃：离线优先的单手机多人派对游戏引擎",
