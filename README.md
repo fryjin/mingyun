@@ -1,31 +1,23 @@
-# V9.2.3 设计系统收敛补丁
+# Mingyun V10.5 Architecture Closeout Patch
 
-本补丁建立在 **V9.2.2 Logic Lock** 上，只重构 Midnight Game Hall 的视觉层。
+Base: `8a802fd2181630d9191a536e6f7cda23ba20d29f` (V10.4.0)  
+Target: `V10.5.0`
 
-## 目标
+## Contents
 
-- 保留 Midnight Game Hall 的品牌识别，但减少模板化、AI 感装饰。
-- 统一品牌色、按钮色、功能色和游戏辅助色。
-- 大厅展示完整品牌；玩家页和游戏页使用紧凑顶部栏。
-- 减少英文眉题、重复框线、星点、弧线、角饰和大面积光晕。
-- 保留不同玩法的必要差异，但不让八个游戏重新变成八套独立 UI。
+- `apply-v10.5.mjs` — applies rename/delete/overlay operations.
+- `OPERATIONS.json` — machine-readable structural changes and V10.4 blob references.
+- `overlay/` — files to add or replace in the repository.
+- `V10.5-AUDIT.md` — scope, verification and deployment notes.
+- `PACKAGE-SHA256SUMS.txt` — package file checksums.
 
-## 本包不会修改
+## Apply
 
-- 游戏插件
-- 游戏规则与流程
-- 投票与结算
-- 玩家数据逻辑
-- 成人进阶逻辑
-- 题库和题库加载器
-- 惩罚逻辑
-
-## 包含文件
-
-```text
-index.html
-sw.js
-styles/midnight-game-hall.css
+```bash
+node apply-v10.5.mjs /path/to/mingyun
+cd /path/to/mingyun
+npm install
+npm run verify
 ```
 
-其余文件均为说明、校验和报告文件。
+Do not copy only `overlay/`; V10.5 requires the rename/delete operations as part of the architecture closeout.

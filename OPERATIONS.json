@@ -1,0 +1,114 @@
+{
+  "repository": "fryjin/mingyun",
+  "baseCommit": "8a802fd2181630d9191a536e6f7cda23ba20d29f",
+  "baseVersion": "10.4.0",
+  "targetVersion": "10.5.0",
+  "renames": [
+    {
+      "from": "styles/fate-wheel-v9.2.4.css",
+      "to": "styles/fate-wheel.css",
+      "blob": "a8ae72a48134c9e18c843933faf3fc5a8aeedfbf"
+    },
+    {
+      "from": "styles/fate-stack-v9.3.6.css",
+      "to": "styles/fate-stack.css",
+      "blob": "c826882aa2c71dedeab0d3678771adf5c4733108"
+    },
+    {
+      "from": "styles/game-expansion-v9.3.css",
+      "to": "styles/game-expansion.css",
+      "blob": "190a91db8f5f2488b440bbde02dbc878658c57cf"
+    },
+    {
+      "from": "styles/game-rules-v9.3.3.css",
+      "to": "styles/game-rules.css",
+      "blob": "b6d47b0fdacaae5c8ad2e81e977ea6f72abdc6f8"
+    }
+  ],
+  "deletes": [
+    {
+      "path": "src/games/chaos-rules.js",
+      "blob": "1fa300f8e4acf8e4d70193f9da9170084a3f7e8a"
+    },
+    {
+      "path": "src/games/dice.js",
+      "blob": "01d10e307cd84eac94fa83218f8c517094b401e5"
+    },
+    {
+      "path": "src/games/fate-ladder.js",
+      "blob": "c536daf8b7f3f59d255b824d031184b24678e935"
+    },
+    {
+      "path": "src/games/five-second.js",
+      "blob": "6757ae23287cbde94f49134fde47467269a49384"
+    },
+    {
+      "path": "src/games/hot-potato.js",
+      "blob": "d69e0f054f51b744690e62458da0945a0c02998e"
+    },
+    {
+      "path": "src/games/i-did-it.js",
+      "blob": "18b5c5e13d2ea87211cf6253594f32e4c6f31623"
+    },
+    {
+      "path": "src/games/king.js",
+      "blob": "1ac6cef8f3cde781c63dbf7f06a8f21ab5d71b63"
+    },
+    {
+      "path": "src/games/most-likely.js",
+      "blob": "bba04e7eebc2544a0a97e712f8d08e7fe1004d9e"
+    },
+    {
+      "path": "src/games/two-truths-one-lie.js",
+      "blob": "713aab33e2539bfa58058f9e6b08842d68943ec1"
+    },
+    {
+      "path": "src/games/undercover.js",
+      "blob": "b6f8f3d0c5fe307d94c53a64f29735c0bd51b818"
+    },
+    {
+      "path": "src/games/wheel.js",
+      "blob": "cd3ec200303b41e0725c8e667d673b1365d20bc9"
+    },
+    {
+      "path": "src/games/would-rather.js",
+      "blob": "559fe22a0718f55538600ac2de1a8a0cb1aa8789"
+    },
+    {
+      "path": "src/games/shared.js",
+      "blob": "aa89da50cad3292ff45d0deeb8b9a57f7745ae69"
+    },
+    {
+      "path": "app.js",
+      "blob": "d498f08fcab010eb834fd204f65fa44e02fe0bd7"
+    },
+    {
+      "path": "app.css",
+      "blob": "24b6104ae27c4181df9f7914124c1f7afb205d5f"
+    },
+    {
+      "path": "manifest.json",
+      "blob": "5a40e2ef7a9f21cc3e1470c09bf5337660a5689b"
+    },
+    {
+      "path": "styles/fate-stack-v9.3.2.css",
+      "blob": "72378b0be82068da66971e5aedf2e38e4d0ea686"
+    },
+    {
+      "path": "styles/fate-stack-v9.3.3.css",
+      "blob": "41040f3e13df237c928ba5ea1a052c0266c07c2a"
+    },
+    {
+      "path": "styles/fate-stack-v9.3.5.css",
+      "blob": "e0f860ffee34185ffa948b2a8d5a339f65da2e51"
+    },
+    {
+      "path": "src/main.js",
+      "blob": "4da877711e4f456a30016e16640cfffee5d9a56b"
+    },
+    {
+      "path": "src/modules/games.js",
+      "blob": "51f5330ea7d399a79a56a3aad166bda689ed041f"
+    }
+  ]
+}
