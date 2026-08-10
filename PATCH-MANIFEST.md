@@ -1,46 +1,35 @@
-# V9.4 谁是卧底补丁清单
+# V10.5 架构收口补丁清单
 
-## 迁移目标
+## 基线
 
-在已部署的 V9.3 基础上正式接入“谁是卧底”，使游戏大厅中的 8 种玩法全部可运行。
+- Repository: `fryjin/mingyun`
+- Base: `8a802fd2181630d9191a536e6f7cda23ba20d29f` (V10.4)
+- Target: V10.5.0 architecture closeout
 
-## 覆盖文件
+## 修改 / 新增
 
-```text
-index.html
-README.md
-GAME-CONTENT-SCHEMA.md
-sw.js
-src/modules/games.js
-styles/games.css
-data/games/manifest.json
-```
+补丁包 `overlay/` 包含所有需要覆盖或新增的文本文件，包括版本标识、Registry、Vite、Service Worker、架构校验、CI/Pages workflow 和最终文档。
 
-## 新增文件
+## 重命名
 
 ```text
-src/games/undercover.js
-data/games/undercover/light.json
-data/games/undercover/standard.json
-data/games/undercover/hard.json
+styles/fate-wheel-v9.2.4.css -> styles/fate-wheel.css
+styles/fate-stack-v9.3.6.css -> styles/fate-stack.css
+styles/game-expansion-v9.3.css -> styles/game-expansion.css
+styles/game-rules-v9.3.3.css -> styles/game-rules.css
 ```
 
-## 新增能力
+仅更名，不改 CSS 内容。
 
-- 完整的秘密看词与手机交接流程。
-- 1–3 位隐藏阵营，按玩家人数自动限额。
-- 可选空白牌。
-- 轻松、标准、烧脑三档词库。
-- 随机发言顺序。
-- 逐人秘密投票，禁止自投。
-- 平票加赛与再次平票随机决胜。
-- 淘汰身份揭晓与自动胜负判断。
-- 最后一位隐藏玩家猜词翻盘。
-- 后台切换自动隐藏词语和投票页面。
-- 240 组专用词库。
+## 删除
 
-## 版本变化
+- `src/games/` 下 12 个 Legacy 游戏实现
+- `src/games/shared.js`（活动上下文已迁入 `src/app/game-context.js`）
+- `src/main.js` 与 `src/modules/games.js`
+- 根目录 `app.js`、`app.css`、`manifest.json`
+- `styles/fate-stack-v9.3.2.css`
+- `styles/fate-stack-v9.3.3.css`
+- `styles/fate-stack-v9.3.5.css`
+- 四个已重命名的旧 CSS 路径
 
-- 可玩模式：7 → 8。
-- `data/games/` 专用内容：408 → 648。
-- Service Worker：`mingyun-v9.4-*`。
+完整机器可读操作见补丁包 `OPERATIONS.json`。

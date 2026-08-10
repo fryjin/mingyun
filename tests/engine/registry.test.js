@@ -1,8 +1,9 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { GameRegistry } from '../../src/games/registry.js';
+import { createGamePlugin } from '../../src/engine/plugin.js';
 
-const plugin = id => ({
+const plugin = id => createGamePlugin({
   id,
   title: id,
   shortDescription: 'short',
@@ -12,13 +13,26 @@ const plugin = id => ({
   mount() {}
 });
 
-test('registry keeps compatibility and metadata', () => {
+test('registry accepts only V10 contract plugins', () => {
   const registry = new GameRegistry();
-  registry.register(plugin('legacy'));
-  registry.register({ ...plugin('modern'), contractVersion: 2 }, { source: 'v10' });
-  assert.equal(registry.get('legacy').contractVersion, 1);
-  assert.equal(registry.get('modern').contractVersion, 2);
-  assert.equal(registry.records().find(entry => entry.plugin.id === 'modern').source, 'v10');
+  registry.register(plugin('modern'));
+  const record = registry.records()[0];
+  assert.equal(record.source, 'v10');
+  assert.equal(record.contractVersion, 2);
+});
+
+test('registry rejects legacy contract plugins and sources', () => {
+  const registry = new GameRegistry();
+  assert.throws(() => registry.register({
+    id: 'legacy',
+    title: 'legacy',
+    shortDescription: 'short',
+    description: 'description',
+    minPlayers: 2,
+    maxPlayers: 4,
+    mount() {}
+  }), /V10 游戏插件合约/);
+  assert.throws(() => registry.register(plugin('wrong-source'), { source: 'legacy' }), /停止 Legacy/);
 });
 
 test('registry rejects duplicate ids', () => {

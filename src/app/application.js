@@ -1,5 +1,5 @@
 import { activePlayers, getState, setRoute, subscribe } from '../core/store.js';
-import { createGameContext } from '../games/shared.js';
+import { createGameContext } from './game-context.js';
 import { getGame } from '../games/registry.js';
 import { renderLobby } from '../modules/lobby.js';
 import { renderPlayers } from '../modules/players.js';

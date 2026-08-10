@@ -1,27 +1,14 @@
-# 今晚谁遭殃 V9.1.2.1
+# V10.5 PATCH NOTES
 
-## 命运转盘微调
+V10.5 是 V10 架构迁移的收口版本，不新增玩法。
 
-转盘中心采用方案 A：纯金属圆形轴帽。
+关键变化：
 
-### 修改前
+- 运行时 Legacy = 0，仓库运行层 Legacy = 0。
+- Registry contract v1 兼容入口关闭。
+- 稳定 CSS 名称替代 V9 版本号文件名。
+- 正式构建切换为 Vite `dist/`。
+- CI 和 GitHub Pages 发布链路落地。
+- 新增 `check:architecture`，防止旧文件、旧样式、Legacy 注册方式回流。
 
-```html
-<div class="casino-spindle"><span>命</span></div>
-```
-
-### 修改后
-
-```html
-<div class="casino-spindle" aria-hidden="true"></div>
-```
-
-现有 `.casino-spindle` 样式已经包含金属渐变、高光、外圈、阴影和中心轴，因此不新增图片素材，也不修改 `styles/games.css`。
-
-## 兼容性
-
-- 基于 V9.1.2 制作。
-- 不改变本地存储数据。
-- 不改变 8 种玩法注册信息。
-- 不改变 3500 道共享题库与 2500 条／组专用内容。
-- 不改变命运转盘的结果概率和运动参数。
+若 V10.5 出现工程级问题，整体回滚 V10.4，不单独恢复 Legacy 游戏。

@@ -6,48 +6,30 @@
 - V10.1 简单游戏：已完成
 - V10.2 中等复杂度：已完成
 - V10.3 状态复杂型：已完成
-- V10.4 重型交互：已完成
-- 12 / 12 游戏均已使用 V10 插件合约
+- V10.4 命运叠塔重型交互：已完成
+- V10.5 架构收口：已完成
 
-## V10.4 命运叠塔
+## V10.5 收口内容
 
-迁移内容：
+1. 删除 12 个 `src/games/*.js` Legacy 游戏实现。
+2. 将仍在使用的 `createGameContext` / 惩罚桥接迁入 `src/app/game-context.js`，再删除 `src/games/shared.js`。
+3. Registry 停止接受 contract v1 / legacy source。
+4. 删除旧入口 `src/main.js`、旧模块注册器 `src/modules/games.js`、根目录 `app.js` / `app.css` 与重复 `manifest.json`。
+5. 活跃游戏样式改为稳定文件名：`fate-wheel.css`、`fate-stack.css`、`game-expansion.css`、`game-rules.css`。
+6. 删除已被替代的命运叠塔 V9.3.2 / V9.3.3 / V9.3.5 样式。
+7. 统一应用版本、Build、静态 SW 与 Vite SW 到 10.5.0。
+8. 增加 V10.5 架构校验，阻止 Legacy 回流。
+9. 建立 CI 与 GitHub Pages `dist/` 部署工作流。
+10. 更新项目 README、CHANGELOG、部署说明、补丁清单与回滚策略。
 
-- Legacy `src/games/fate-ladder.js` 停止进入运行入口
-- 新增 `games-v10/fate-ladder`
-- 重心算法拆入 `physics.js`
-- 游戏数据和阶段拆入 `session.js`
-- 页面模板拆入 `view.js`
-- 高塔镜头拆入 `camera.js`
-- RAF 循环接入 `FrameLoop`
-- Web Animations 接入 `AnimationRegistry`
-- 页面切后台继续使用统一 `bindPageVisibility`
-- 失败惩罚继续使用统一 `PunishmentService`
+## 不修改
 
-保持不变：
+- 12 个游戏的用户可见玩法规则
+- 题库内容和成人边界
+- 玩家设置字段
+- 命运叠塔 V10.4 物理参数、重心算法、镜头和反馈
+- 已稳定的视觉布局与交互层级
 
-- 普通方块宽度 500 / 1000
-- 基座宽度 640 / 1000
-- 普通方块视觉高度 34px
-- 层间距离 38px
-- 最低重叠 20%
-- 完美阈值 3%
-- 速度 320 / 360 / 415 / 470
-- 安全边距 4% / 5% / 6%
-- 最大逐块显示 8 层
-- 最低镜头缩放 68%
-- 没有接住 / 塔倒了两类失败
-- 完美叠放 / 放置成功 / 危险平衡三类成功反馈
-- 失败玩家抽取惩罚
+## 后续版本
 
-## V10.5 架构收口
-
-下一阶段不再迁移游戏，而是清理双轨架构：
-
-1. 删除已稳定验证的 Legacy 游戏实现。
-2. 清理旧入口、无引用工具和无引用缓存资源。
-3. 评估并移除 `src/games/shared.js`。
-4. 统一命名仍带 V9 版本号的静态样式。
-5. 运行完整 Vite 生产构建。
-6. 建立正式 CI 和 GitHub Pages 构建部署。
-7. 输出最终架构基线和回滚策略。
+V10 系列架构迁移到此结束。后续功能版本应直接在 V10 contract v2 和 Vite/CI 基线上迭代，不再恢复双轨架构。

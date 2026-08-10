@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import { cp, mkdir } from 'node:fs/promises';
 import { resolve } from 'node:path';
 
-const APP_VERSION = '10.0.0';
+const APP_VERSION = '10.5.0';
 const STATIC_ENTRIES = ['assets', 'data', 'icons', 'manifest.webmanifest'];
 
 function copyRuntimeAssets() {
@@ -43,8 +43,8 @@ const SHELL=${JSON.stringify(shell)};
 self.addEventListener('install',event=>event.waitUntil((async()=>{const cache=await caches.open(VERSION);await cache.addAll(SHELL);await self.skipWaiting()})()));
 self.addEventListener('activate',event=>event.waitUntil((async()=>{const keys=await caches.keys();await Promise.all(keys.filter(key=>key.startsWith('party-game-')&&key!==VERSION).map(key=>caches.delete(key)));await self.registration.navigationPreload?.enable();await self.clients.claim()})()));
 self.addEventListener('message',event=>{if(event.data?.type==='SKIP_WAITING')self.skipWaiting()});
-async function networkFirst(request,fallback){const cache=await caches.open(VERSION);try{const response=await fetch(request,{cache:'no-store'});if(response.ok)await cache.put(request,response.clone());return response}catch{return(await cache.match(request))||(fallback?await cache.match(fallback):null)||Response.error()}}
-self.addEventListener('fetch',event=>{const request=event.request;if(request.method!=='GET')return;const url=new URL(request.url);if(url.origin!==location.origin)return;if(request.mode==='navigate'){event.respondWith(networkFirst(request,'./index.html'));return}if(url.pathname.includes('/data/')){event.respondWith(caches.match(request).then(cached=>cached||fetch(request).then(response=>{if(response.ok)caches.open(VERSION).then(cache=>cache.put(request,response.clone()));return response})));return}if(url.pathname.includes('/assets/')){event.respondWith(caches.match(request).then(cached=>cached||fetch(request).then(response=>{if(response.ok)caches.open(VERSION).then(cache=>cache.put(request,response.clone()));return response})));return}event.respondWith(networkFirst(request))});
+async function networkFirst(request,fallback){const cache=await caches.open(VERSION);try{const response=await fetch(request,{cache:'no-store'});if(response.ok)await cache.put(request,response.clone());return response}catch{return(await cache.match(request,{ignoreSearch:true}))||(fallback?await cache.match(fallback,{ignoreSearch:true}):null)||Response.error()}}
+self.addEventListener('fetch',event=>{const request=event.request;if(request.method!=='GET')return;const url=new URL(request.url);if(url.origin!==location.origin)return;if(request.mode==='navigate'){event.respondWith(networkFirst(request,'./index.html'));return}if(url.pathname.includes('/data/')){event.respondWith(caches.match(request).then(cached=>cached||fetch(request).then(response=>{if(response.ok)caches.open(VERSION).then(cache=>cache.put(request,response.clone()));return response})));return}if(url.pathname.includes('/assets/')||url.pathname.includes('/icons/')){event.respondWith(caches.match(request).then(cached=>cached||fetch(request).then(response=>{if(response.ok)caches.open(VERSION).then(cache=>cache.put(request,response.clone()));return response})));return}event.respondWith(networkFirst(request))});
 `;
       this.emitFile({ type: 'asset', fileName: 'sw.js', source });
     }
